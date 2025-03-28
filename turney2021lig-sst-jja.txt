@@ -1,0 +1,209 @@
+# Global Ocean Last Interglacial Sea Surface Temperature Reconstructions
+#----------------------------------------------------------------------- 
+#                World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------------------------- 
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. 
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. 
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/26851 
+#       Description: NOAA Landing Page
+# Online_Resource: https://www1.ncdc.noaa.gov/pub/data/paleo/reconstructions/turney2021/turney2021lig-sst-jja.txt
+#       Description: NOAA location of the template
+#
+# Original_Source_URL:  
+#       Description:
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Climate Reconstructions
+#
+# Dataset DOI: 
+#
+# Parameter_Keywords: sea surface temperature
+#--------------------
+# Contribution_Date
+#	Date: 2019-07-03
+#--------------------
+# File_Last_Modified_Date
+#	Date: 2020-10-27 
+#--------------------
+# Title
+# 	Study_Name: Global Ocean Last Interglacial Sea Surface Temperature Reconstructions
+#--------------------
+# Investigators
+#	Investigators: Turney, C.S.M; Jones, R.T.; McKay, N.P.; van Sebille, E.; Thomas, Z.A.; Hillenbrand, C.-D.; Fogwill, C.J.
+#--------------------
+# Description_Notes_and_Keywords
+#	Description: Compilation of published sea surface temperature reconstructions for the Last Interglacial 
+#	interval (LIG; ~129,000-116,000 years before present). 
+#	Version: 14 October 2020 (replaces 11 December 2019 and 3 July 2019 versions)
+#	Reconstructions of Last Interglacial annual (189 sites), December-January-February (DJF; 99 sites), 
+#	and June-July-August (JJA; 92 sites) SST's, plus maximum annual SST estimates during the early LIG 
+#	(129-124 ka; 189 sites), and comparison of annual SST estimates for the early LIG (129-124 ka)  
+#	with late Marine Isotope Stage 6 (140-135 kyr) (54 sites). 
+#	For the DJF estimates, we have assumed a thermal equator of 5 degrees North, 
+#	where sites above this latitude 'Summer' = JJA, and 'Winter' = DJF
+#	Sites south of this line have 'Summer' (warmer temps) = DJF and 'Winter' (cooler temps) = JJA
+# 
+#	Notes: ***Drift correction has not been applied to the two coral sites  
+#	***Drift correction could not be applied to four sites in a land box when located using OFES.
+#
+# 						
+# Sheet 1. Early and average LIG annual sea surface temperatures (global and latitudinal averages) and thermal expansion contribution to Global Mean Sea Level 						
+# 						
+# Early max annual SSTs, C 	Global Average SST	Tropics (-23.5 to 23.5)	North of 45N	South of 45S	North of 50N	South of 50S
+# Uncorrected	0.9	0.1	3.2	1.5	3.8	3.7
+# 30-day drift	0.9	0.1	2.8	2.1	3.2	3.7
+# Uncertainty (1sd)	0.1	0.2	0.4	0.3	0.4	1.1
+# 						
+# Annual SSTs, C 	Global Average SST	Tropics (-23.5 to 23.5)	North of 45N	South of 45S	North of 50N	South of 50S
+# Uncorrected	0.2	-0.3	2.0	0.2	2.8	2.7
+# 30-day drift	0.2	-0.3	1.5	0.8	2.3	2.7
+# Uncertainty (1sd)	0.1	0.2	0.4	0.3	0.4	1.1
+# 						
+# Ocean thermal expansion, m	Max annual SST, early LIG	Mean annual SST				
+# Uncorrected	0.36	0.05				
+# 30-day drift	0.39	0.08				
+# Uncertainty (1sd)	0.10	0.10				
+# 
+#--------------------
+# Publication 
+#	Authors: Chris S.M. Turney, Richard T. Jones, Nicholas P. McKay, Erik van Sebille, Zoë A. Thomas, Claus-Dieter Hillenbrand, Christopher J. Fogwill
+#	Published_Date_or_Year: 2021 in press     
+#	Published_Title: A global mean sea-surface temperature dataset for the Last Interglacial (129-116 kyr) and contribution of thermal expansion to sea-level change
+#	Journal_Name: Earth System Science Data 
+#	Volume: 
+#	Edition: 
+#	Issue: 
+#	Pages:
+#	Report_Number: 
+#	DOI: 
+#	Online_Resource: 
+#	Full_Citation: 
+#	Abstract: A valuable analogue for assessing Earth's sensitivity to warming is the Last Interglacial (LIG; 129-116 kyr), when global temperatures (0-+2 C) and mean sea level (+6-11 m) were higher than today. The direct contribution of warmer conditions to global sea level (thermosteric) are uncertain. We report here a global network of LIG sea surface temperatures (SST) obtained from various published temperature proxies (e.g. faunal/floral assemblages, Mg/Ca ratios of calcareous plankton, alkenone UK'37). Each reconstruction is averaged across the LIG (anomalies relative to 1981-2010), corrected for ocean drift and with varying seasonality (189 annual, 99 December-February, and 92 June-August records). We summarise the current limitations of SST reconstructions for the LIG and the spatial temperature features of a naturally warmer world. Because of local d18O seawater changes, uncertainty in the age models of marine cores, and differences in sampling resolution and/or sedimentation rates, the reconstructions are restricted to mean conditions. To avoid bias towards individual LIG SSTs based on only a single (and potentially erroneous) measurement or a single interpolated data point, here we average across the entire LIG. To investigate the sensitivity of the reconstruction to high temperatures, we also report maximum values during the first 5 ka of the LIG (129-124 kyr). The global dataset provides a remarkably coherent pattern of higher SST increases at polar latitudes than in the tropics, with comparable estimates between different SST proxies. We report mean global annual SST anomalies of 0.2 ± 0.1 C and a maximum of 0.9 ± 0.2 C respectively. Using the reconstructed SSTs suggests a mean thermosteric sea level rise of 0.01 ± 0.1 m and a maximum of 0.13 ± 0.1 m respectively. The data provide an important natural baseline for a warmer world, constraining the contributions of Greenland and Antarctic ice sheets to global sea level during a geographically widespread expression of high sea level, and can be used to test the next inter-comparison of models for projecting future climate change.
+#------------------
+# Funding_Agency 
+#	Funding_Agency_Name: 
+#	Grant: 
+#------------------
+# Site_Information 
+#	Site_Name: Global Ocean 
+#	Location: Global
+#	Country:  
+#	Northernmost_Latitude: 90
+# 	Southernmost_Latitude: -80
+# 	Easternmost_Longitude: 180
+# 	Westernmost_Longitude: -180
+# 	Elevation:  0 m
+#------------------
+# Data_Collection   
+#	Collection_Name: Turney2021LIGSST
+#	Earliest_Year: 129000
+#	Most_Recent_Year: 116000
+#	Time_Unit: Cal. Year BP
+#	Core_Length: 
+#	Notes: 
+#------------------
+# Chronology_Information
+#	Chronology: 
+# 	
+#----------------	
+Site Name/Core	Latitude (decimal)	Longitude  (decimal)	Method of temperature estimate	LIG JJA temp estimate	±1 sd	Number of datapoints contributing to SST estimate	30 days mean temp along trajectory minus mean temp at site	SST 1981-2010 JJA ('Modern')	JJA LIG - modern (no drift) 	±1 sd	JJA LIG - modern - 30-day drift	±1 sd	References
+V18-68	-54.55	-77.85	Radiolaria   Assemblage  (Transfer Function)	6.5	1.1	3	0.3	6.4	0.11	1.10	-0.20	1.10	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+E49-17 /ELT49.017-PC	-48.28	-90.25	 Planktonic Foraminifera Assemblage  (Modern Analogue Technique)	7.0	1.5	4	-0.5	7.7	-0.72	1.50	-0.27	1.50	Howard, W. R. & Prell, W. L. Late Quaternary CaCO3 production and preservation in the Southern Ocean: Implications for oceanic and atmospheric carbon cycling. Paleoceanography 9, 453-482 (1994); Howard, W. R. & Prell, W. L. Late Quaternary surface circulation of the southern Indian Ocean and its relationship to orbital variations. Paleoceanography 7, 79-117 (1992).
+PS1754-1	-46.77	7.61	 Planktonic Foraminifera Assemblage  (Modern Analogue Technique)	3.2	1.2	4	-1.3	5.8	-2.63	1.20	-1.37	1.20	Niebler, H. S. Reconstruction of paleo-environmental parameters using stable isotopes and faunal assemblages of planktonic foraminifera in the South Atlantic Ocean. Ber. Polarforschung 167, 1-198 (1995)
+E49-18	-46.05	-90.17	 Planktonic Foraminifera Assemblage  (Transfer Function)	8.3	1.1	4	-0.6	9.2	-0.89	1.10	-0.25	1.10	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+E45-29	-44.88	-106.52	 Planktonic Foraminifera Assemblage  (Modern Analogue Technique)	7.4	1.6	3	-0.7	9.7	-2.28	1.60	-1.57	1.60	Howard, W. R. & Prell, W. L. Late Quaternary CaCO3 production and preservation in the Southern Ocean: Implications for oceanic and atmospheric carbon cycling. Paleoceanography 9, 453-482 (1994); Howard, W. R. & Prell, W. L. Late Quaternary surface circulation of the southern Indian Ocean and its relationship to orbital variations. Paleoceanography 7, 79-117 (1992).
+RC11-120	-43.87	80.45	 Planktonic Foraminifera Assemblage  (Transfer Function)	8.2	1.5	4	-1.3	10.7	-2.47	1.50	-1.15	1.50	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+MD73-025	-43.82	50.32	Radiolaria   Assemblage  (Transfer Function)	4.7	1.1	13	-1.9	7.6	-2.93	1.10	-1.02	1.10	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V22-108	-43.18	-3.25	Radiolaria   Assemblage  (Transfer Function)	8.8	1.1	10	-0.9	8.9	-0.10	1.10	0.81	1.10	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC8-39	-42.88	42.35	 Planktonic Foraminifera Assemblage  (Transfer Function)	8.5	1.3	16	-0.3	10.0	-1.55	1.30	-1.27	1.30	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+PS2076-1/3	-41.15	13.47	 Planktonic Foraminifera Assemblage  (Modern Analogue Technique)	13.5	1.0	3	-0.3	12.5	0.97	1.00	1.26	1.00	Niebler, H. S. Reconstruction of paleo-environmental parameters using stable isotopes and faunal assemblages of planktonic foraminifera in the South Atlantic Ocean. Ber. Polarforschung 167, 1-198 (1995)
+RC15-61	-40.62	-77.20	Radiolaria   Assemblage  (Transfer Function)	4.8	2.4	3	-0.3	12.1	-7.28	2.40	-6.97	2.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC12-294	-37.27	-10.10	 Planktonic Foraminifera Assemblage  (Transfer Function)	13.9	2.0	17	-0.8	13.8	0.10	2.00	0.89	2.00	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC11-86	-35.78	18.45	 Planktonic Foraminifera Assemblage  (Transfer Function)	15.0	1.4	9	0.6	16.8	-1.79	1.40	-2.34	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+GeoB 1312	-32.00	-30.00	 Planktonic Foraminifera Assemblage  (Modern Analogue Technique)	18.1	0.5	11	-0.4	18.6	-0.55	0.50	-0.16	0.50	Hale, W. & Pflaumann, U. in Use of Proxies in Paleoceanography 69-90, Springer (1999)
+GeoB 1309 	-32.00	-29.00	 Planktonic Foraminifera Assemblage  (Modern Analogue Technique)	17.7	0.1	6	-0.3	18.6	-0.90	0.10	-0.61	0.10	Hale, W. & Pflaumann, U. in Use of Proxies in Paleoceanography 69-90, Springer (1999)
+RC17-69	-31.50	32.60	 Planktonic Foraminifera Assemblage  (Transfer Function)	20.9	1.3	6	0.3	21.4	-0.50	1.30	-0.83	1.30	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+MD96-2085	-29.70	12.93	 Planktonic Foraminifera Assemblage  (Transfer Function)	16.3	1.0	9	-0.6	17.2	-0.88	1.00	-0.32	1.00	Chen, M.-T. et al. Late Quaternary sea-surface temperature variations in the southeast Atlantic: a planktic foraminifer faunal record of the past 600 000 yr (IMAGES II MD962085). Marine Geology 180, 163-181 (2002)
+RC13-229	-25.50	11.30	 Planktonic Foraminifera Assemblage  (Transfer Function)	15.8	1.4	9	-0.2	17.4	-1.56	1.40	-1.37	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC13-228	-22.33	11.20	Radiolaria   Assemblage  (Transfer Function)	18.9	2.0	12	-0.3	17.1	1.76	2.00	2.05	2.00	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+GL-77	-21.21	-40.05	Planktonic Foraminifera Assemblage (Artificial Neural Network)	24.5	1.0	8	-1.1	23.6	0.87	1.00	1.94	1.00	Petro, S. M., Pivel, M. A. G. & Coimbra, J. C. Paleoceanographic changes through the last 130 ka in the western South Atlantic based on planktonic foraminfera. Revista Brasileira de Paleontologia 19, 3-14 (2016).
+V28-345	-17.67	117.95	 Planktonic Foraminifera Assemblage  (Transfer Function)	25.6	1.3	11	0.1	26.0	-0.39	1.30	-0.53	1.30	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V19-53	-17.02	-113.52	 Planktonic Foraminifera Assemblage  (Transfer Function)	27.2	3.0	3	-0.1	24.2	2.99	3.00	3.07	3.00	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+Y71-6-12	-16.45	-77.57	Radiolaria   Assemblage  (Transfer Function)	17.9	1.5	12	0.4	18.2	-0.30	1.50	-0.72	1.50	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC17-98	-13.22	65.62	 Planktonic Foraminifera Assemblage  (Transfer Function)	25.3	1.3	6	0.3	25.6	-0.26	1.30	-0.56	1.30	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V22-174	-10.07	-12.82	 Planktonic Foraminifera Assemblage  (Transfer Function)	23.7	1.3	15	0.2	24.9	-1.18	1.30	-1.41	1.30	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V22-38	-9.55	-34.25	 Planktonic Foraminifera Assemblage  (Transfer Function)	24.9	2.0	12	-0.4	26.7	-1.83	2.00	-1.44	2.00	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC11-230	-8.80	-110.80	Radiolaria   Assemblage  (Transfer Function)	26.1	2.4	6	-0.6	25.5	0.63	2.40	1.19	2.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+GeoB 2204	-8.53	-34.02	 Planktonic Foraminifera Assemblage  (Modern Analogue Technique)	25.6	0.7	6	-0.9	26.9	-1.29	0.70	-0.37	0.70	Hale, W. & Pflaumann, U. in Use of Proxies in Paleoceanography 69-90, Springer (1999)
+RC24-16	-5.04	-10.19	 Planktonic Foraminifera Assemblage  (Transfer Function)	23.6	1.3	6	-0.8	25.2	-1.60	1.25	-0.76	1.25	McIntyre, A., Ruddiman, W. F., Karlin, K. & Mix, A. C. Surface water response of the equatorial Atlantic Ocean to orbital forcing. Paleoceanography 4, 19-55 (1989); Imbrie, J., McIntyre, A. & Mix, A. in Climate and Geosciences, 121-164 (Springer, 1989)
+V19-29	-3.57	-83.93	Radiolaria   Assemblage  (Transfer Function)	20.0	1.6	12	1.4	21.2	-1.20	1.60	-2.59	1.60	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V25-56	-3.55	-35.23	 Planktonic Foraminifera Assemblage  (Revised Analog Method)	26.1	1.5	10	-0.9	27.3	-1.15	1.50	-0.25	1.50	Waelbroeck, C., Labeyrie, L., Duplessy, J. C., Guiot, J., Labracherie, M., Leclaire, H., & Duprat, J. Improving past sea surface temperature estimates based on planktonic fossil faunas. Paleoceanography and Paleoclimatology, 13(3), 272-283 (1998)
+RC13-205	-2.28	5.18	 Planktonic Foraminifera Assemblage  (Transfer Function)	23.2	1.5	5	2.2	23.7	-0.58	1.50	-2.76	1.50	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V22-182	-0.55	-17.27	Coccolithophore Assemblage  (Transfer Function)	23.9	2.0	6	2.4	24.8	-0.93	2.00	-3.31	2.00	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+A180-73	0.00	-0.38	 Planktonic Foraminifera Assemblage  (Transfer Function)	25.0	1.0	3	3.3	25.6	-0.56	1.00	-3.84	1.00	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V30-40	0.22	-23.07	 Planktonic Foraminifera Assemblage  (Transfer Function)	21.6	1.5	15	1.5	26.1	-4.54	1.50	-6.07	1.50	McIntyre, A., Ruddiman, W. F., Karlin, K. & Mix, A. C. Surface water response of the equatorial Atlantic Ocean to orbital forcing. Paleoceanography 4, 19-55 (1989); Imbrie, J., McIntyre, A. & Mix, A. in Climate and Geosciences, 121-164 (Springer, 1989)
+RC10-65	0.68	-108.62	Radiolaria   Assemblage  (Transfer Function)	23.6	1.8	6	3.2	24.1	-0.53	1.80	-3.71	1.80	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V28-238	1.02	160.48	 Planktonic Foraminifera Assemblage  (Transfer Function)	27.1	2.5	18	-0.3	29.4	-2.32	2.50	-2.06	2.50	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V25-59	1.22	-33.29	 Planktonic Foraminifera Assemblage  (Revised Analog Method)	23.6	0.8	42	-0.4	27.5	-3.86	0.80	-3.50	0.80	Waelbroeck, C., Labeyrie, L., Duplessy, J. C., Guiot, J., Labracherie, M., Leclaire, H., & Duprat, J. Improving past sea surface temperature estimates based on planktonic fossil faunas. Paleoceanography and Paleoclimatology, 13(3), 272-283 (1998)
+RC11-210	1.82	-140.05	Radiolaria   Assemblage  (Transfer Function)	24.6	1.8	7	0.5	26.7	-2.13	1.80	-2.60	1.80	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+GeoB 1523-1	3.83	-41.62	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	25.6	1.0	22	-1.2	28.0	-2.39	1.00	-1.17	1.00	Wolff, T., Grieger, B., Hale, W., Dürkoop, A., Mulitza, S., Pätzold, J., & Wefer, G. On the reconstruction of paleosalinities. In Use of Proxies in Paleoceanography (pp. 207-228). Springer, Berlin, Heidelberg (1999)
+V29-29	5.12	77.58	 Planktonic Foraminifera Assemblage  (Transfer Function)	27.1	1.1	4	-0.9	28.4	-1.31	1.10	-0.40	1.10	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC12-339	9.13	90.03	 Planktonic Foraminifera Assemblage  (Transfer Function)	26.7	1.1	10	-0.6	28.7	-2.04	1.10	-1.40	1.10	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V28-127	11.65	-80.13	 Planktonic Foraminifera Assemblage  (Transfer Function)	28.3	1.4	10	-1.0	28.5	-0.23	1.40	0.72	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+MD97-2142	12.69	119.47	 Planktonic Foraminifera Assemblage  (Transfer Function)	29.0	1.4	6	-2.4	29.4	-0.34	1.40	2.06	1.40	Chen, M.-T. et al. 500 000-Year records of carbonate, organic carbon, and foraminiferal sea-surface temperature from the southeastern South China Sea (near Palawan Island). Palaeogeography, Palaeoclimatology, Palaeoecology 197, 113-131 (2003).
+V22-196	13.83	-18.97	 Planktonic Foraminifera Assemblage  (Transfer Function)	27.4	1.4	6	1.0	27.3	0.14	1.40	-0.87	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+GIK17954-2	14.80	111.53	 Planktonic Foraminifera Assemblage  (Transfer Function)	29.2	1.5	4	0.2	29.2	0.04	1.50	-0.15	1.50	Wang, L. et al. East Asian monsoon climate during the Late Pleistocene: highresolution sediment records from the South China Sea. Marine Geology 156, 245-284 (1999).
+V34-88	16.52	59.53	 Planktonic Foraminifera Assemblage  (Transfer Function)	25.9	1.3	12	-0.6	26.1	-0.23	1.30	0.33	1.30	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V12-122	17.00	-74.40	 Planktonic Foraminifera Assemblage  (Transfer Function)	26.8	1.7	7	-1.1	28.5	-1.73	1.70	-0.62	1.70	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+M35027-1	17.65	-67.17	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	25.8	1.0	20	-0.9	28.5	-2.71	1.00	-1.80	1.00	Hüls, M. & Zahn, R. Millennial-scale sea surface temperature variability in the western tropical North Atlantic from planktonic foraminiferal census counts. Paleoceanography 15, 659-678 (2000)
+V30-49	18.43	-21.08	 Planktonic Foraminifera Assemblage  (Transfer Function)	24.5	1.5	15	-0.5	24.0	0.48	1.50	0.93	1.50	McIntyre, A., Ruddiman, W. F., Karlin, K. & Mix, A. C. Surface water response of the equatorial Atlantic Ocean to orbital forcing. Paleoceanography 4, 19-55 (1989); Imbrie, J., McIntyre, A. & Mix, A. in Climate and Geosciences, 121-164 (Springer, 1989)
+TR126-23	20.48	-95.62	 Planktonic Foraminifera Assemblage  (Transfer Function)	28.5	0.9	6	-0.5	28.9	-0.40	0.90	0.14	0.90	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+ODP 658	20.75	-18.58	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	20.8	1.5	14	0.3	22.8	-2.05	1.50	-2.33	1.50	Eglinton, G. et al. Molecular record of secular sea surface temperature changes on 100-year timescales for glacial terminations I, II and IV. Nature 356, 423-426 (1992)
+TR126-29	21.33	-93.95	 Planktonic Foraminifera Assemblage  (Transfer Function)	28.1	0.9	10	-0.6	28.9	-0.81	0.90	-0.24	0.90	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+M12392-1	25.17	-16.85	 Planktonic Foraminifera Assemblage  (Transfer Function)	21.1	1.1	3	-0.5	22.0	-0.95	1.10	-0.50	1.10	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V25-21	26.40	-45.45	 Planktonic Foraminifera Assemblage  (Transfer Function)	26.2	1.5	5	-0.2	26.4	-0.18	1.50	0.01	1.50	Imbrie, J., McIntyre, A. & Mix, A. in Climate and Geosciences, 121-164 (Springer, 1989)
+GIK15637	27.01	-18.99	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	23.0	1.5	13	-0.3	22.9	0.15	1.50	0.45	1.50	Kiefer, T. Produktivität und Temperaturen im subtropischen Nordatlantik: zyklische und abrupte Veränderungen im späten Quartär PhD thesis, Christian-Albrechts-Universität (1998)
+V28-304	28.53	134.13	Radiolaria   Assemblage  (Transfer Function)	27.2	0.9	4	0.7	27.5	-0.27	0.90	-1.00	0.90	Heusser, L. & Morley, J. Monsoon fluctuation over the past 350 kyr: High-resolution evidence from northeast Asia/northwest Pacific climate proxies (marine pollen and radiolarians). Quaternary Science Reviews 16, 565-581 (1997)
+JPC37	31.68	-75.42	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	26.4	2.0	25	0.7	27.7	-1.35	2.00	-2.06	2.00	Cortijo, E. et al. Changes in meridional temperature and salinity gradients in the North Atlantic Ocean (30°-72°N) during the last interglacial period. Paleoceanography 14, 23-33 (1999)
+RC8-145	33.58	-62.38	 Planktonic Foraminifera Assemblage  (Transfer Function)	24.5	1.4	9	1.2	25.9	-1.37	1.40	-2.60	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V32-126	35.32	177.92	 Planktonic Foraminifera Assemblage  (Transfer Function)	26.6	1.5	5	0.6	22.1	4.53	1.50	3.92	1.50	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+ODP 976	36.21	-4.31	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	23.8	1.5	3	-0.8	21.5	2.34	1.50	3.12	1.50	González-Donoso, J. M., Serrano, F. & Linares, D. Sea surface temperature during the Quaternary at ODP Sites 976 and 975 (western Mediterranean). Palaeogeography, Palaeoclimatology, Palaeoecology 162, 17-44 (2000).
+V32-128	36.46	177.16	 Planktonic Foraminifera Assemblage  (Transfer Function)	25.9	1.5	6	0.8	21.2	4.67	1.50	3.86	1.50	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+RC14-99	36.97	147.93	Radiolaria   Assemblage  (Transfer Function)	26.5	0.9	6	1.9	23.5	3.02	0.90	1.15	0.90	Heusser, L. & Morley, J. Monsoon fluctuation over the past 350 kyr: High-resolution evidence from northeast Asia/northwest Pacific climate proxies (marine pollen and radiolarians). Quaternary Science Reviews 16, 565-581 (1997)
+V21-146	37.68	163.03	Radiolaria   Assemblage  (Transfer Function)	23.9	1.8	3	1.5	20.5	3.43	1.80	1.95	1.80	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+ODP 975 	38.52	4.52	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	23.5	1.2	19	-0.6	24.2	-0.64	1.20	-0.07	1.20	Kandiano, E., Bauch, H. A., and Fahl, K.: Last interglacial surface water structure in the western Mediterranean (Balearic) Sea: Climatic variability and link between low and high latitudes. Global and Planetary Change, 123, 67-76 (2014).
+RC14-105	39.68	157.55	Radiolaria   Assemblage  (Transfer Function)	22.2	0.9	3	2.0	18.5	3.74	0.90	1.78	0.90	Heusser, L. & Morley, J. Monsoon fluctuation over the past 350 kyr: High-resolution evidence from northeast Asia/northwest Pacific climate proxies (marine pollen and radiolarians). Quaternary Science Reviews 16, 565-581 (1997)
+SU90-03	40.50	-32.05	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	20.6	1.3	35	0.3	21.5	-0.88	1.25	-1.16	1.25	Cortijo, E. et al. Changes in meridional temperature and salinity gradients in the North Atlantic Ocean (30°-72°N) during the last interglacial period. Paleoceanography 14, 23-33 (1999).
+V30-97	41.00	-32.93	 Planktonic Foraminifera Assemblage  (Transfer Function)	20.8	1.4	10	-0.1	21.5	-0.68	1.40	-0.57	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+CH69-09	41.75	-47.35	 Planktonic Foraminifera Assemblage  (Revised Analog Method)	18.1	1.9	23	0.6	20.5	-2.45	1.90	-3.09	1.90	Waelbroeck, C., Labeyrie, L., Duplessy, J. C., Guiot, J., Labracherie, M., Leclaire, H., & Duprat, J. Improving past sea surface temperature estimates based on planktonic fossil faunas. Paleoceanography and Paleoclimatology, 13(3), 272-283 (1998)
+D117	42.10	-52.75	 Planktonic Foraminifera Assemblage  (Transfer Function)	21.0	1.4	3	0.5	18.9	2.14	1.40	1.63	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+Y72-11-1	43.25	-126.38	Radiolaria   Assemblage  (Transfer Function)	17.6	1.8	7	-0.3	15.4	2.17	1.80	2.47	1.80	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V29-179	44.00	-24.53	 Planktonic Foraminifera Assemblage  (Transfer Function)	21.1	1.4	8	0.3	19.1	2.04	1.40	1.73	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V20-120	47.40	167.75	Radiolaria   Assemblage  (Transfer Function)	13.5	0.9	3	-0.1	9.0	4.45	0.90	4.59	0.90	Heusser, L. & Morley, J. Monsoon fluctuation over the past 350 kyr: High-resolution evidence from northeast Asia/northwest Pacific climate proxies (marine pollen and radiolarians). Quaternary Science Reviews 16, 565-581 (1997)
+K708-001	50.00	-23.73	 Planktonic Foraminifera Assemblage  (Transfer Function)	18.2	1.4	9	0.8	15.7	2.53	1.40	1.75	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984); McIntyre, A., Ruddiman, W. F., Karlin, K. & Mix, A. C. Surface water response of the equatorial Atlantic Ocean to orbital forcing. Paleoceanography 4, 19-55 (1989); Imbrie, J., McIntyre, A. & Mix, A. in Climate and Geosciences, 121-164 (Springer, 1989)
+V23-82	52.58	-21.93	 Planktonic Foraminifera Assemblage  (Transfer Function)	14.7	1.7	16	0.8	14.2	0.46	1.70	-0.31	1.70	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+NEAP18K	52.77	-30.35	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	14.2	1.3	23	0.5	12.6	1.56	1.25	1.10	1.25	Cortijo, E. et al. Changes in meridional temperature and salinity gradients in the North Atlantic Ocean (30°-72°N) during the last interglacial period. Paleoceanography 14, 23-33 (1999).
+V27-116	52.83	-30.33	 Planktonic Foraminifera Assemblage  (Transfer Function)	14.8	1.5	7	0.5	12.6	2.16	1.50	1.64	1.50	McIntyre, A., Ruddiman, W. F., Karlin, K. & Mix, A. C. Surface water response of the equatorial Atlantic Ocean to orbital forcing. Paleoceanography 4, 19-55 (1989); Imbrie, J., McIntyre, A. & Mix, A. in Climate and Geosciences, 121-164 (Springer, 1989)
+M23414	53.54	-20.29	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	14.5	1.5	12	0.7	14.0	0.57	1.50	-0.13	1.50	Bashirova, L. D., Kandiano, E. S., Sivkov, V. V. & Bauch, H. A. Migrations of the North Atlantic Polar front during the last 300 ka: Evidence from planktic foraminiferal data. Oceanology 54, 798-807 (2014)
+K708-7	53.93	-24.08	 Planktonic Foraminifera Assemblage  (Transfer Function)	16.7	1.5	7	1.0	13.3	3.41	1.50	2.42	1.50	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984); McIntyre, A., Ruddiman, W. F., Karlin, K. & Mix, A. C. Surface water response of the equatorial Atlantic Ocean to orbital forcing. Paleoceanography 4, 19-55 (1989); Imbrie, J., McIntyre, A. & Mix, A. in Climate and Geosciences, 121-164 (Springer, 1989)
+V27-20	54.00	-46.20	 Planktonic Foraminifera Assemblage  (Transfer Function)	11.2	1.4	6	-0.2	9.5	1.70	1.40	1.87	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+NA87-25	55.18	-14.73	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	14.8	1.3	19	0.4	13.6	1.20	1.25	0.78	1.25	Cortijo, E. et al. Changes in meridional temperature and salinity gradients in the North Atlantic Ocean (30°-72°N) during the last interglacial period. Paleoceanography 14, 23-33 (1999).
+MD03-2664	57.44	-48.61	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	9.3	0.8	23	0.7	7.1	2.19	0.80	1.54	0.80	Irvali, N. et al. Evidence for regional cooling, frontal advances, and East Greenland Ice Sheet changes during the demise of the last interglacial. Quaternary Science Reviews 150, 184-199 (2016)
+ODP Site 980	55.48	-14.70	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	15.0	2.0	42	0.4	13.6	1.40	2.00	0.99	2.00	Oppo, D. W., McManus, J. F. & Cullen, J. L. Evolution and demise of the Last Interglacial warmth in the subpolar North Atlantic. Quaternary Science Reviews 25, 3268-3277 (2006)
+P-013 	58.93	-48.36	Dinoflagellate Cyst Assemblage (Transfer Function)	13.8	1.2	41	0.7	6.4	7.41	1.20	6.70	1.20	Hillaire-Marcel, C., de Vernal, A., Bilodeau, G. & Weaver, A. J. Absence of deep-water formation in the Labrador Sea during the last interglacial period. Nature 410, 1073-1077 (2001)
+AMK-4438	59.53	-17.93	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	10.8	2.2	5	0.9	12.0	-1.23	2.20	-2.12	2.20	Bashirova, L. D., Kandiano, E. S., Sivkov, V. V. & Bauch, H. A. Migrations of the North Atlantic Polar front during the last 300 ka: Evidence from planktic foraminiferal data. Oceanology 54, 798-807 (2014)
+AMK-4442	59.53	-21.85	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	14.7	1.3	8	0.9	11.7	3.02	1.28	2.12	1.28	Lukashina, N. P. & Bashirova, L. D. Deep water masses in the Iceland Basin during the Last Interglacial (MIS 5e): Evidence from benthic foraminiferal data. Oceanologia 57, 212-221 (2015)
+EW9302-JPC8	61.00	-25.00	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	13.6	1.5	27	0.6	10.7	2.88	1.50	2.30	1.50	Cortijo, E. et al. Changes in meridional temperature and salinity gradients in the North Atlantic Ocean (30°-72°N) during the last interglacial period. Paleoceanography 14, 23-33 (1999)
+V28-14	64.78	-29.57	 Planktonic Foraminifera Assemblage  (Transfer Function)	12.6	1.4	4	0.7	8.3	4.24	1.40	3.50	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V27-86	66.60	1.12	 Planktonic Foraminifera Assemblage  (Transfer Function)	10.5	1.4	3	0.7	10.2	0.27	1.40	-0.40	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+M23323	67.77	5.92	 Planktonic Foraminifera Assemblage  (Transfer Function)	8.8	0.8	46	0.6	10.3	-1.46	0.80	-2.03	0.80	Bauch, H. A. et al. Climatic bisection of the last interglacial warm period in the Polar North Atlantic. Quaternary Science Reviews 30, 1813-1818 (2011)
+V28-56	68.03	-6.12	 Planktonic Foraminifera Assemblage  (Transfer Function)	6.7	1.4	12	0.5	6.9	-0.24	1.40	-0.70	1.40	CLIMAP. The Last Interglacial ocean. Quaternary Research 21, 123-224 (1984)
+V27-60	72.18	8.58	 Planktonic Foraminifera Assemblage (Modern Analogue Technique)	4.6	1.5	6	0.6	7.6	-2.99	1.50	-3.62	1.50	Vogelsang, E., Sarnthein, M., Pflaumann, U., 2001. d18O stratigraphy, chronology, and sea surface temperatures of Atlantic sediment records (GLAMAP-2000 Kiel), Universität Kiel, Kiel, Germany 13, p. 244
