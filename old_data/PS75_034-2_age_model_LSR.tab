@@ -1,0 +1,31 @@
+/* DATA DESCRIPTION:
+Citation:	Ho, Sze Ling; Mollenhauer, Gesine; Lamy, Frank; Martínez‐García, Alfredo; Mohtadi, Mahyar; Gersonde, Rainer; Hebbeln, Dierk; Nunez-Ricardo, Samuel; Rosell-Melé, Antoni; Tiedemann, Ralf (2012): Depth-age pointers and linear sedimentation rates of sediment core PS75/034-2 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.792636, 
+	In supplement to: Ho, SL et al. (2012): Sea surface temperature variability in the Pacific sector of the Southern Ocean over the past 700 kyr. Paleoceanography, 27, PA4202, https://doi.org/10.1029/2012PA002317
+Project(s):	Paleoenvironmental Reconstructions from Marine Sediments @ AWI (AWI_Paleo) (URI: https://www.awi.de/en/science/geosciences/marine-geology.html)
+Coverage:	LATITUDE: -54.368670 * LONGITUDE: -80.090000
+	DATE/TIME START: 2009-11-29T20:23:00 * DATE/TIME END: 2009-11-29T20:23:00
+	MINIMUM DEPTH, sediment/rock: 0.11 m * MAXIMUM DEPTH, sediment/rock: 17.86 m
+Event(s):	PS75/034-2 * LATITUDE: -54.368670 * LONGITUDE: -80.090000 * DATE/TIME: 2009-11-29T20:23:00 * ELEVATION: -4436.0 m * Recovery: 18.08 m * LOCATION: South Pacific Ocean * CAMPAIGN: ANT-XXVI/2 (PS75 BIPOMAC) (URI: https://doi.org/10.2312/BzPM_0632_2011) * BASIS: Polarstern (URI: https://doi.org/10.17815/jlsrf-3-163) * METHOD/DEVICE: Piston corer (BGR type) (KL) * COMMENT: TC 0.92m, liner imploded (10-15m), D1-D3 (16-18) ca. 2 cm compaction due to water release
+Parameter(s):	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE
+	Age model [ka] (Age model) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html)
+	Sedimentation rate [cm/ka] (SR) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html) * METHOD/DEVICE: Calculated
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	32 data points
+*/
+Depth sed [m]	Age model [ka]	SR [cm/ka]
+0.11	8.04	3.516
+0.43	17.16	2.453
+1.65	67.07	1.395
+2.24	109.52	2.771
+2.94	134.86	3.545
+5.09	195.42	2.234
+5.71	223.24	2.581
+6.50	253.54	1.783
+6.94	278.73	3.339
+8.86	336.03	2.477
+11.14	428.30	3.639
+12.84	475.07	2.321
+14.15	531.15	3.055
+15.10	562.20	2.052
+16.44	627.51	2.406
+17.86	686.49	2.406

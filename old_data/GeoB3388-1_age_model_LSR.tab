@@ -1,0 +1,28 @@
+/* DATA DESCRIPTION:
+Citation:	Ho, Sze Ling; Mollenhauer, Gesine; Lamy, Frank; Martínez‐García, Alfredo; Mohtadi, Mahyar; Gersonde, Rainer; Hebbeln, Dierk; Nunez-Ricardo, Samuel; Rosell-Melé, Antoni; Tiedemann, Ralf (2012): Depth-age pointers and linear sedimentation rates of sediment core GeoB3388-1 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.792635, 
+	In supplement to: Ho, SL et al. (2012): Sea surface temperature variability in the Pacific sector of the Southern Ocean over the past 700 kyr. Paleoceanography, 27, PA4202, https://doi.org/10.1029/2012PA002317
+Project(s):	Paleoenvironmental Reconstructions from Marine Sediments @ AWI (AWI_Paleo) (URI: https://www.awi.de/en/science/geosciences/marine-geology.html)
+Coverage:	LATITUDE: -25.220000 * LONGITUDE: -75.525000
+	DATE/TIME START: 1995-06-12T00:00:00 * DATE/TIME END: 1995-06-12T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.03 m * MAXIMUM DEPTH, sediment/rock: 5.16 m
+Event(s):	GeoB3388-1 * LATITUDE: -25.220000 * LONGITUDE: -75.525000 * DATE/TIME: 1995-06-12T00:00:00 * ELEVATION: -3558.0 m * Recovery: 7.1 m * LOCATION: Iquique-Ridge * CAMPAIGN: SO102/2 (CHIPAL) (URI: urn:nbn:de:gbv:46-ep000102011) * BASIS: Sonne (URI: https://en.wikipedia.org/wiki/RV_Sonne) * METHOD/DEVICE: Gravity corer (Kiel type) (SL)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE
+	Age model [ka] (Age model) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html)
+	Sedimentation rate [cm/ka] (SR) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html) * METHOD/DEVICE: Calculated
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	26 data points
+*/
+Depth sed [m]	Age model [ka]	SR [cm/ka]
+0.03	9.75	2.245
+0.23	18.70	0.347
+0.38	61.43	0.490
+0.72	131.45	0.700
+1.14	190.93	0.590
+1.45	244.00	0.419
+1.60	280.18	0.733
+2.03	338.12	0.547
+2.49	422.23	0.881
+3.74	563.67	0.622
+4.10	622.08	0.716
+4.51	679.23	0.587
+5.16	789.94	0.563

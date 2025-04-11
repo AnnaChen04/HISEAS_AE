@@ -1,0 +1,109 @@
+/* DATA DESCRIPTION:
+Citation:	Ho, Sze Ling; Mollenhauer, Gesine; Lamy, Frank; Martínez‐García, Alfredo; Mohtadi, Mahyar; Gersonde, Rainer; Hebbeln, Dierk; Nunez-Ricardo, Samuel; Rosell-Melé, Antoni; Tiedemann, Ralf (2012): Alkenone indices, sea surface temperature estimates of sediment core GeoB3388-1 [dataset]. PANGAEA, https://doi.org/10.1594/PANGAEA.792637, 
+	In supplement to: Ho, SL et al. (2012): Sea surface temperature variability in the Pacific sector of the Southern Ocean over the past 700 kyr. Paleoceanography, 27, PA4202, https://doi.org/10.1029/2012PA002317
+Project(s):	Paleoenvironmental Reconstructions from Marine Sediments @ AWI (AWI_Paleo) (URI: https://www.awi.de/en/science/geosciences/marine-geology.html)
+Coverage:	LATITUDE: -25.220000 * LONGITUDE: -75.525000
+	DATE/TIME START: 1995-06-12T00:00:00 * DATE/TIME END: 1995-06-12T00:00:00
+	MINIMUM DEPTH, sediment/rock: 0.03 m * MAXIMUM DEPTH, sediment/rock: 4.63 m
+Event(s):	GeoB3388-1 * LATITUDE: -25.220000 * LONGITUDE: -75.525000 * DATE/TIME: 1995-06-12T00:00:00 * ELEVATION: -3558.0 m * Recovery: 7.1 m * LOCATION: Iquique-Ridge * CAMPAIGN: SO102/2 (CHIPAL) (URI: urn:nbn:de:gbv:46-ep000102011) * BASIS: Sonne (URI: https://en.wikipedia.org/wiki/RV_Sonne) * METHOD/DEVICE: Gravity corer (Kiel type) (SL)
+Parameter(s):	DEPTH, sediment/rock [m] (Depth sed) * GEOCODE
+	AGE [ka BP] (Age) * GEOCODE
+	Alkenone, unsaturation index UK37 (UK37) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html) * METHOD/DEVICE: Gas chromatography
+	Alkenone, unsaturation index UK'37 (UK'37) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html) * METHOD/DEVICE: Gas chromatography
+	Sea surface temperature, annual mean [°C] (SST (1-12)) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html) * METHOD/DEVICE: Calculated from UK37 (Prahl et al., 1988) (URI: https://doi.org/10.1016/0016-7037(88)90132-9)
+	Sea surface temperature, annual mean [°C] (SST (1-12)) * PI: Ho, Sze Ling (https://orcid.org/0000-0002-4898-9036, slingho@ntu.edu.tw, https://www.awi.de/en/about-us/organisation/staff/single-view/sze-ling-ho.html) * METHOD/DEVICE: Calculated from UK'37 (Prahl et al., 1988) (URI: https://doi.org/10.1016/0016-7037(88)90132-9)
+License:	Creative Commons Attribution 3.0 Unported (CC-BY-3.0) (URI: https://creativecommons.org/licenses/by/3.0/)
+Size:	364 data points
+*/
+Depth sed [m]	Age [ka BP]	UK37 (Gas chromatography)	UK'37 (Gas chromatography)	SST (1-12) [°C] (Calculated from UK37 (Prahl e...)	SST (1-12) [°C] (Calculated from UK'37 (Prahl ...)
+0.03	9.710	0.625	0.625	18.24	17.25
+0.08	11.930	0.655	0.655	18.99	18.13
+0.13	14.160	0.732	0.732	20.89	20.37
+0.23	18.620	0.669	0.669	19.31	18.52
+0.28	32.590	0.614	0.614	17.95	16.91
+0.33	47.010	0.716	0.716	20.50	19.91
+0.38	61.430	0.727	0.727	20.77	20.22
+0.43	71.640	0.726	0.726	20.74	20.19
+0.48	81.850	0.696	0.696	19.99	19.32
+0.53	92.060	0.761	0.761	21.61	21.22
+0.58	102.270	0.752	0.752	21.41	20.98
+0.63	112.480	0.753	0.753	21.42	21.00
+0.68	122.690	0.744	0.744	21.20	20.73
+0.78	139.600	0.673	0.673	19.42	18.64
+0.83	146.740	0.683	0.683	19.67	18.93
+0.88	153.880	0.639	0.639	18.58	17.66
+0.93	161.020	0.699	0.699	20.08	19.42
+0.98	168.150	0.643	0.643	18.68	17.77
+1.03	175.290	0.653	0.653	18.93	18.06
+1.08	182.430	0.626	0.626	18.26	17.28
+1.13	189.570	0.723	0.723	20.68	20.13
+1.18	197.790	0.709	0.709	20.32	19.70
+1.23	206.270	0.757	0.757	21.53	21.12
+1.28	214.740	0.728	0.728	20.81	20.28
+1.33	223.220	0.720	0.720	20.60	20.03
+1.38	231.700	0.667	0.667	19.27	18.46
+1.43	240.170	0.647	0.647	18.77	17.88
+1.48	250.540	0.667	0.667	19.27	18.47
+1.53	262.470	0.613	0.613	17.92	16.87
+1.58	274.400	0.643	0.643	18.67	17.76
+1.63	283.700	0.651	0.651	18.89	18.01
+1.68	290.520	0.680	0.680	19.60	18.86
+1.73	297.340	0.669	0.669	19.32	18.53
+1.78	304.150	0.617	0.617	18.02	17.00
+1.83	310.970	0.678	0.678	19.54	18.79
+1.88	317.790	0.704	0.704	20.20	19.56
+1.93	324.610	0.709	0.709	20.32	19.70
+1.98	331.430	0.722	0.722	20.64	20.07
+2.03	338.290	0.644	0.644	18.69	17.78
+2.08	347.430	0.650	0.650	18.86	17.98
+2.13	356.560	0.596	0.596	17.49	16.38
+2.18	365.690	0.618	0.618	18.05	17.02
+2.23	374.830	0.660	0.660	19.09	18.25
+2.28	383.960	0.725	0.725	20.71	20.16
+2.33	393.100	0.681	0.681	19.62	18.88
+2.38	402.230	0.663	0.663	19.18	18.36
+2.43	411.370	0.737	0.737	21.02	20.53
+2.48	420.500	0.712	0.712	20.40	19.79
+2.53	426.830	0.661	0.661	19.13	18.30
+2.58	432.500	0.579	0.579	17.08	15.89
+2.63	438.170	0.537	0.537	16.03	14.65
+2.68	443.850	0.575	0.575	16.98	15.76
+2.73	449.520	0.587	0.587	17.29	16.13
+2.78	455.190	0.603	0.603	17.68	16.59
+2.83	460.870	0.599	0.599	17.58	16.48
+2.88	466.540	0.611	0.611	17.87	16.82
+2.93	472.210	0.616	0.616	18.01	16.98
+2.98	477.890	0.641	0.641	18.63	17.72
+3.03	483.560	0.660	0.660	19.10	18.27
+3.08	489.230	0.671	0.671	19.38	18.59
+3.13	494.900	0.689	0.689	19.82	19.11
+3.18	500.580	0.651	0.651	18.87	18.00
+3.23	506.250	0.688	0.688	19.81	19.10
+3.28	511.920	0.688	0.688	19.79	19.07
+3.33	517.600	0.687	0.687	19.78	19.06
+3.38	523.270	0.673	0.673	19.42	18.64
+3.43	528.940	0.672	0.672	19.39	18.60
+3.48	534.610	0.656	0.656	19.01	18.16
+3.53	540.290	0.648	0.648	18.80	17.91
+3.58	545.960	0.620	0.620	18.10	17.08
+3.63	551.630	0.622	0.622	18.16	17.16
+3.68	557.310	0.648	0.648	18.81	17.92
+3.73	562.980	0.673	0.673	19.42	18.64
+3.78	570.730	0.719	0.719	20.58	20.00
+3.83	578.770	0.697	0.697	20.02	19.34
+3.88	586.810	0.709	0.709	20.34	19.72
+3.93	594.850	0.718	0.718	20.54	19.96
+3.98	602.890	0.702	0.702	20.14	19.49
+4.03	610.930	0.718	0.718	20.54	19.96
+4.08	618.970	0.676	0.676	19.51	18.74
+4.13	626.360	0.626	0.626	18.25	17.26
+4.18	633.340	0.604	0.604	17.71	16.63
+4.23	640.320	0.643	0.643	18.69	17.78
+4.28	647.300	0.624	0.624	18.21	17.22
+4.33	654.280	0.656	0.656	19.00	18.14
+4.38	661.260	0.552	0.552	16.39	15.08
+4.43	668.240	0.645	0.645	18.74	17.84
+4.48	675.220	0.656	0.656	18.99	18.13
+4.53	682.850	0.670	0.670	19.35	18.56
+4.58	691.360	0.724	0.724	20.70	20.15
+4.63	699.880	0.702	0.702	20.15	19.50
