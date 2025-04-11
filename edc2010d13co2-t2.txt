@@ -1,0 +1,272 @@
+EPICA Dome C Ice Core Termination II d13CO2 Data 
+----------------------------------------------------------------------- 
+               World Data Center for Paleoclimatology, Boulder 
+                                  and 
+                     NOAA Paleoclimatology Program 
+----------------------------------------------------------------------- 
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!! 
+
+
+NAME OF DATA SET: EPICA Dome C Ice Core Termination II d13CO2 Data 
+LAST UPDATE: 7/2010 (Original receipt by WDC Paleo) 
+
+CONTRIBUTORS: Lourantou, A., J. Chappellaz, J.-M. Barnola, 
+V. Masson-Delmotte, and D. Raynaud. 
+
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2010-060 
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Lourantou, A., et al. 2010. 
+EPICA Dome C Ice Core Termination II d13CO2 Data. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2010-060. 
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. 
+
+
+ORIGINAL REFERENCE: 
+Lourantou, A., J. Chappellaz, J.-M. Barnola, V. Masson-Delmotte, 
+and D. Raynaud. 2010. 
+Changes in atmospheric CO2 and its carbon isotopic ratio during 
+the penultimate deglaciation. 
+Quaternary Science Reviews, Vol. 29, Issues 17-18, August 2010, 
+pp. 1983-1992.  doi:10.1016/j.quascirev.2010.05.002
+
+ABSTRACT: 
+The largest natural increases in atmospheric CO2 concentration 
+as recorded in ice cores occur when the Earth climate abruptly 
+shifts from a glacial to an interglacial state. Open questions 
+remain regarding the processes at play, the sequences of events 
+and their similarities along different glacial-interglacial
+transitions. Here we provide new combined data of atmospheric 
+CO2 and its carbon isotopic ratio (d13CO2) for the penultimate 
+glacial-interglacial transition (Termination II) from the 
+Antarctic EPICA Dome C ice core. Together with the strongest 
+Antarctic warming, this transition bears the largest CO2 increase 
+(104 ppmv) of the last nine Terminations, ending with an overshoot 
+of 21 ppmv occurring within ~300 y and leading to higher levels 
+than those of the late pre-industrial Holocene. The full CO2 rise 
+is accompanied by an overall decrease of the d13CO2 minimum values, 
+on which three positive excursions are superimposed. Peak-to-peak 
+d13CO2 changes in our record can reach ~1 per mil. The ice core
+atmospheric d13CO2 appears more depleted by ~0.2 per mil during 
+Termination II compared to Termination I, paralleling a similar 
+carbon isotopic depletion recorded in marine data. During both 
+terminations, most of CO2 and d13CO2 variations are attributed 
+to southern ocean stratification breakdown and decreased 
+efficiency of the biological pump. Compared to Termination I, 
+Termination II ice core data point to different timings 
+of decrease in iron supply and sea-ice extent, suggesting 
+that they could account for distinct patterns of the carbon cycle.
+
+
+ADDITIONAL REFERENCES: 
+Lourantou, A., J.V. Lavric, P. Köhler, J.-M. Barnola, 
+D. Paillard, E. Michel, D. Raynaud, and J. Chappellaz. 2010. 
+Constraint of the CO2 rise by new atmospheric carbon isotopic 
+measurements during the last deglaciation. 
+Global Biogeochem. Cycles, 24, GB2015.  doi:10.1029/2009GB003545 
+
+
+
+GEOGRAPHIC REGION: Antarctica
+PERIOD OF RECORD: 152-125 KYrBP 
+
+
+FUNDING SOURCES: 
+European Project for Ice Coring in Antarctica (EPICA) is funded by 
+the European Commission and national contributions from Belgium, 
+Denmark, France, Germany, Italy, the Netherlands, Norway, Sweden, 
+Switzerland and the United Kingdom. The main logistic support was 
+provided by IPEV and PNRA (at Dome C). AL was funded by the 
+European Research Training and Mobility Network GREENCYCLES. 
+Additional funding support was provided by the QUEST-INSU 
+project DESIRE, the FP6 STREP EPICA-MIS, and the French ANR PICC 
+(ANR-05-BLAN-0312-01). This work was also supported by funding 
+to the Past4Future project from the European Commission's 
+7th Framework Programme, grant number 243908, and is Past4Future 
+contribution number 3. Long-term support for the mass spectrometry 
+work at LGGEwas provided by the Fondation de France and the Balzan 
+Price of C. Lorius.
+
+
+
+DESCRIPTION: 
+Record of CO2 and d13CO2 across Termination II from the European 
+Project for Ice Coring in Antarctica (EPICA) Dome C (EDC) ice core, 
+and comparison with previously published Vostok ice core CO2 data.  
+
+The experimental procedure of extraction of CO2 and its stable 
+isotopes, as well as the synchronization of EDC age scale to GICC05, 
+are described in the methods section of Lourantou et al. 2010. 
+An even more detailed description can be found in Lourantou, 2009 
+(PhD thesis, can be found online at: 
+http://tel.archives-ouvertes.fr/tel-00370658/fr/) 
+
+Termination II is the penultimate glacial–interglacial transition 
+~125,000 Yr BP.  
+
+EPICA Dome C ice core: 75°06'S, 123°21'E, 3233m above sea level  
+
+
+
+
+DATA: 
+1. Lourantou et al. 2010 EPICA Dome C Termination 2 CO2 & d13CO2 Data
+
+Column A: Depth (m) of EDC
+Column B: Gas age (EDC3_gas_a), according to 4th scenario of Loulergue et al., 2007 for the EDC core, in yr BP (BP=1950 AD)
+Column C: Mean CO2 data (ppmv) for every analyzed sample
+Column D: Mean CO2 data (ppmv) corrected for gravitational fractionation (Etheridge et al., 1996)
+Column E: 1 sigma uncertainties for atmospheric CO2 reconstructions
+Column F: Mean delta13CO2 data (permil) for every single analyzed sample
+Column G: Mean delta13CO2 data (permil) corrected for gravitational fractionation (Dreyfus et al., 2010)
+Column H: 1 sigma uncertainties for atmospheric delta13CO2 reconstructions
+
+Depth(m) EDC3gasage       CO2    CO2corr.    1sigma     d13CO2   d13CO2corr.  1sigma 
+1669.25   125222.7     279.88     277.64       0.12     -6.072     -6.597      0.156
+1674.75   125633.4     277.80     275.61       0.83     -6.340     -6.857      0.146
+1674.75   125633.4     280.71     278.50       2.25     -6.081     -6.598      0.162
+1677.50   125858.8     273.79     271.68       1.26     -6.112     -6.621      0.040
+1680.25   126058.2     274.79     272.59       1.19     -6.473     -7.000      0.200
+1685.75   126484.0     275.60     273.47       2.37     -6.492     -6.999      0.060
+1691.25   126855.6     269.36     267.19       2.59     -6.141     -6.671      0.105
+1696.75   127225.2     273.77     271.56       1.23     -6.177     -6.707      0.042
+1702.25   127594.6     277.07     274.81       1.55     -6.059     -6.596      0.070
+1705.00   127772.5     279.58     277.27       3.61     -6.236     -6.780      0.144
+1707.75   127933.7     289.93     287.48       5.72     -6.983     -7.538      0.235
+1713.25   128268.0     292.72     290.23                -6.843     -7.401
+1718.75   128584.6     292.93     290.49       1.43     -6.695     -7.243      0.090
+1724.25   128919.7     271.66     269.37       1.34     -6.318     -6.873      0.037
+1729.75   129272.9     267.01     264.77       3.28     -6.051     -6.602      0.092
+1732.50   129446.0     264.22     262.02       1.70     -6.480     -7.028      0.042
+1735.25   129627.5     265.64     263.41       1.02     -6.177     -6.729      0.062
+1740.75   130008.3     263.88     261.69       3.30     -6.663     -7.210      0.025
+1744.05   130236.1     258.26     256.15       1.83     -6.651     -7.188      0.062
+1749.55   130678.0     252.61     250.59       2.83     -6.436     -6.961      0.098
+1755.05   131153.0     245.09     243.17       1.63     -6.263     -6.777      0.075
+1760.00   131621.2     239.74     237.90       1.63     -6.462     -6.966      0.162
+1766.05   132267.3     233.04     231.29       0.21     -6.429     -6.923      0.141
+1771.55   132953.9     226.88     225.26       1.07     -6.651     -7.123      0.093
+1773.75   133238.4     223.11     221.53       1.46     -6.631     -7.097      0.099
+1779.25   133980.6     211.96     210.48       2.41     -6.489     -6.947      0.126
+1784.75   134804.6     207.07     205.67       0.77     -6.160     -6.606      0.077
+1787.50   135294.9     205.61     204.27       1.82     -6.220     -6.647      0.022
+1790.25   135791.4     200.93     199.63       2.36
+1790.25   135791.4     200.33     199.03       0.83     -6.500     -6.925      0.060
+1795.75   136802.5     194.70     193.45       1.14     -6.477     -6.898      0.097
+1801.25   137817.3     198.05     196.78       1.99     -6.387     -6.809      0.183
+1806.75   138872.2     192.28     191.09       2.09     -6.330     -6.740      0.112
+1812.25   139966.3     187.57     186.38       1.66     -6.326     -6.741      0.127
+1815.00   140513.8     185.26     184.07       4.12     -6.323     -6.746      0.137
+1821.05   141740.2     194.34     193.07       1.83     -6.349     -6.777      0.068
+1867.25   150635.7     201.94     200.60       1.08     -6.678     -7.112      0.158
+1870.00   151179.2     204.31     202.96       2.17     -6.765     -7.199      0.063
+1872.75   151703.4     198.47     197.17       1.38     -6.450     -6.880      0.086
+
+
+
+
+2. Comparison with previous Vostok data  (fig S1 from supplementary material)
+Columns A-C: Barnola et al., 1987; Petit et al., 1999; Pépin et al., 2001;
+columns D-F: Fischer et al., 1999)
+
+Column A: Vostok depth (m)
+Column B: Gas age synchronised to EDC3_gas_a (4th scenario of Loulergue et al., 2007) in y BP (BP being 1950 AD)
+Column C: Atm CO2 data (ppmv)
+Column D: Vostok depth (m)
+Column E: Gas age synchronised to EDC3_gas_a (4th scenario of Loulergue et al., 2007) in y BP (BP being 1950 AD)
+Column F: Atm CO2 data, with 1 sigma of 4.0 ppmv
+
+Depth     EDC3_gas_age     CO2     Depth ave   interpl.age    CO2ave
+1804          125081      279.7     1810.827     125482.1      286.1
+1807          125262        273     1827.032     126424.8      269.6
+1810          125434      277.1     1837.027     126931.1      265.3
+1825.7        126347      273.7     1841.084     127109.3      272.7
+1830          126598      267.1     1843.122       127201      269.4
+1836          126886      262.5      1846.03       127333      293.4
+1841.6        127132      262.6      1849.05       127470      281.1
+1852.4        127622      275.3      1852.06     127606.6      278.3
+1859          127907      275.6     1854.015     127691.7        266
+1869.3        128344        274     1858.025     127864.9      290.1
+1870          128372      287.1      1862.04       128036      286.9
+1875.9        128609      286.8     1864.024     128120.2      271.2
+1882.5        128866      282.6     1868.037     128290.4      280.2
+1890          129146      264.1     1871.115     128416.8      272.4
+1895          129340      263.4     1873.015     128493.1      291.7
+1902          129652      257.9     1875.416     128589.6      270.4
+1903.5        129736        259     1879.037     128731.2      266.7
+1930          131329        245      1881.04     128809.2      263.7
+1932          131455      240.4     1885.015     128959.9      269.4
+1936          131728      228.9     1889.015     129109.2      273.3
+1947          132492      223.5     1891.041     129186.4      273.9
+1954.5        133069      223.9     1895.143     129346.4      262.1
+1955          133105      220.3      1897.03     129430.5      257.2
+1960          133427      210.6     1900.327     129577.4      243.7
+1969.8        134123      208.9      1903.02     129709.1      255.6
+1972          134287      203.7      1905.03       129828      248.5
+1980.2        134960      204.5     1909.025     130068.1      263.9
+1982          135114      200.4     1912.027     130248.6      257.7
+1983          135207        198      1914.26     130382.8      253.8
+1987.4        135603        198      1918.02     130608.9      249.5
+1990.6        135883      201.7      1921.35       130809      246.6
+1992          136011      200.7     1924.116     130975.3      255.8
+1994.6        136251      202.4      1927.02     131149.9      230.8
+1998          136567      195.8      1930.03     131330.9      213.9
+1999          136655      201.1      1933.02     131524.6      258.8
+2005.8        137293      194.3     1936.794     131783.1      242.3
+2009.5        137633      193.4     1939.122     131944.8      240.8
+2013          137982      194.2     1942.015     132145.8      233.1
+2015          138185      190.2      1945.08     132358.6      245.6
+2025.7        139275      192.3     1949.185     132660.1      225.7
+2029          139617      196.5     1954.164     133043.1      222.5
+2041          140899      195.6     1958.121       133306      213.7
+2041.5        140960      196.4     1958.475     133328.8      204.6
+2050.3        142058      190.4     1961.015     133499.1      207.5
+2077.5        145363      196.9     1964.364     133736.9      209.4
+2107.05       148831        203     1967.115     133932.3      205.7
+2116          149803      191.9     1970.497       134175      195.7
+2117          149921      188.9     1972.315     134312.8      194.1
+2131.1        151423      200.6      1975.02     134534.9      189.7
+                                     1978.02     134781.1      183.7
+                                    1982.662     135175.6      198.8
+                                     1984.02     135298.8      211.4
+                                     1987.29     135593.1      208.5
+                                    1990.369     135862.8      203.3
+                                    1993.137       136116        200
+                                    1996.309     136409.8      197.8
+                                     1999.19     136672.8      216.2
+                                     2018.04     138494.7      205.3
+                                     2038.02     140580.6      198.6
+                                    2058.015     142995.4      176.4
+                                    2074.015     144939.5      194.1
+                                    2094.027     147302.6      194.5
+                                    2104.027     148476.2      194.9
+                                    2113.027     149480.1      205.3
+
+
+
+
+
+3. Comparison with previous Dome Fuji data (Kawamura et al., 2007)
+
+Column A: Dome F depth (m)
+Column B: Gas age as found in Kawamura paper
+Column C: atm CO2 data
+
+Depth       GasAge     CO2dry
+1709.78     125183      282.4
+1719.73     126020      278.6
+1724.74     126424      279.9
+1739.75     127638      277.7
+1747.63     128283      277.2
+1794.76     131748      263.8
+1802.17     132215      259.5
+1819.77     133550      237.1
+1824.74     133997      230.6
+1829.74     134518      221.5
+1837.13     135298      210.9
+1874.75     141583      195.8
+1909.73     148411      207.2
+1919.74     150741      204.8
+1929.61     153001      195.4
+
