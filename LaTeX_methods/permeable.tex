@@ -1,0 +1,107 @@
+\usepackage{setspace}
+\usepackage[left=3cm,right=6cm,top=2cm,bottom=3cm]{geometry}
+\onehalfspacing
+
+%===================================basic_math_packages======================================%
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+%Theorem environments
+\newtheorem{definition}{Definition}[section]
+\newtheorem{lemma}{Lemma}[section]
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{ex}{Example}[section]
+\newtheorem{persp}{Perspective}[section]
+\newtheorem{tip}{Tip}[section]
+%===================================margin_notes======================================%
+\usepackage{ragged2e} %for \justifying
+\usepackage{marginnote}
+\renewcommand*{\raggedleftmarginnote}{}
+\renewcommand*{\marginfont}{\scriptsize\color{gray}\sffamily\justifying}
+
+%===================================drawing_tikz======================================%
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, positioning, shapes, fit, calc,matrix}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+
+%===================================algorithm boxes and algorthimicx======================================%
+\usepackage[most]{tcolorbox} %most for a more advanced functionalities like enhanced and breakable
+\usepackage{algorithmicx}
+\usepackage{algpseudocode}
+
+
+%defining tcolorbox algobox
+\newtcolorbox{algobox}[2][]{%
+  enhanced,
+  breakable,
+  colback=white,
+  colframe=black,
+  fonttitle=\bfseries,
+  title={Algorithm: #2},
+  sharp corners,
+  width=0.85\textwidth,  % Adjust width here
+  boxrule=0.8pt,
+  #1
+}
+
+\usepackage{xcolor}
+\definecolor{darkpuple}{HTML}{6a537d}
+\definecolor{lightpuple}{HTML}{d6ccdb}
+\definecolor{rose}{HTML}{c4959b}
+\definecolor{beige}{HTML}{d9cece}
+\tcbset{
+    ex/.style= {enhanced,
+        colback=lightpuple,
+        leftrule=3mm,
+        rightrule=0pt,
+        toprule=0pt,
+        bottomrule=0pt,
+        sharp corners,
+        boxrule=0pt,
+        width=\linewidth,
+        underlay={
+            \path[fill=darkpuple]
+            ([xshift=0pt,yshift=1.1mm]frame.north west) --
+            ([xshift=37mm,yshift=1.1mm]frame.north west) --
+            ([xshift=36mm,yshift=-1mm]frame.north west) --
+            ([xshift=0pt,yshift=-1mm]frame.north west) -- cycle;
+        }
+    },
+    thm/.style= {enhanced,
+        colback=beige,
+        leftrule=3mm,
+        rightrule=0pt,
+        toprule=0pt,
+        bottomrule=0pt,
+        sharp corners,
+        boxrule=0pt,
+        width=\linewidth,
+        underlay={
+            \path[fill=rose]
+            ([xshift=0pt,yshift=1.1mm]frame.north west) --
+            ([xshift=37mm,yshift=1.1mm]frame.north west) --
+            ([xshift=36mm,yshift=-1mm]frame.north west) --
+            ([xshift=0pt,yshift=-1mm]frame.north west) -- cycle;
+        }
+    }
+}
+
+
+%===================================fancy header======================================%
+\usepackage{fancyhdr}
+\usepackage{titling} %for author
+\author{Haoyu Tang}
+\fancypagestyle{plain}{%  the preset of fancyhdr 
+    \fancyhf{} % clear all header and footer fields
+    \renewcommand{\headwidth}{15.3cm}
+    \fancyhead[R]{\theauthor}
+    \fancyhead[L]{Mathematithod}
+}
+%=====================================================
+\usepackage{xcolor}
+\definecolor{colbackblue}{RGB}{212,215,250}
+
+\usepackage{float}
+\usepackage{wrapfig}

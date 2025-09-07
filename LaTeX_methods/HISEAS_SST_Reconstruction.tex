@@ -1,0 +1,442 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{xcolor} % Change text colors package
+\graphicspath{{images/}} % Configuring the graphicx package
+
+\usepackage{chemfig} % Common chem package/library
+\usepackage{amsmath} % Common math equations package
+\usepackage{amssymb} % Common math symbols package
+\usepackage{amsthm} % Common math proof package
+\usepackage{relsize} % Change text size
+\usepackage{soul} % Underline function will break at the end of a line
+\usepackage[skip=10pt plus1pt, indent=30pt]{parskip} % Load the parskip package with skip and indent options
+\usepackage{indentfirst}
+
+\title{HISEAS SST Reconstruction - RSOI Method}
+\author{Anna Chen}
+\date{Last Updated on September 4, 2025}
+
+\begin{document}
+
+\maketitle
+
+The \textbf{HISEAS} Project is an international paleo-climate research collaboration that aims to answer: “How much and why did Ice Sheets melt during the Last Interglacial?” My role in this project, thus far, has been focusing on quantitatively understanding the spatial and temporal patterns of Sea-Surface Temperature (SST) during the Last Interglacial (LIG, 129-116 Kya). This is done by reconstructing full-field SST maps across 130-115 Kya using the  SST dataset complied by Hoffman et al. (2017) \cite{Hoffman2017}.
+
+\section{Data Preparation}
+
+This is a simplified run-down of preparing data matrices for the Reduced Space Optimal Interpolation (RSOI) method, which will later be used to reconstruct Sea Surface Temperature (SST) for the Last Interglacial (LIG). This is based on Prof. Alexey Kaplan's email on June 6, 2025 and later updated after our June 18 Meeting. Two referred papers from Alexey are included in the References section.
+
+\subsection{Construct Modern SST Data Matrix \textbf{X}}
+
+We use the \ul{Hadley Centre Sea Ice and Sea Surface Temperature dataset (HadISST)} 1º-by-1º dataset \cite{HadISST} to construct a modern SST data matrix:
+$$\textbf{X} \in \mathbb{R}^{N \times T},$$
+where $N$ is the flattened full-field coordinate grids ($N = 180 \times 360 = 64800$) and $T$ is Age in years from 1870 to 2020 ($T=151$). Each entry in \textbf{X} represents the SST of a given year in a given coordinate location.
+
+Note HadISST is a monthly gridded dataset. To account for a full ENSO cycle in each annual average, rather than averaging for the January-to-December calendar year, we would like to average from April of that given year to the next March. For example, the “1870” time-step actually would mean the average of 12 months from April 1870 to March 1871. Months with NaN values are ignored when averaging.
+
+We also need to remove rows with NaN data (e.g. land grids), but do not reset index. Later, after we have fully reconstructed the paleo SST field, $\mathcal{T}$, the reconstructed column vector $\mathcal{T}_t$ of time-step $t$ should be indexed according to the indexes of the modern data matrix \textbf{X}. We then fill in the missing rows with NaN. Therefore, when mapping, rows with NaN in the modern data matrix will also be marked as NaN in the reconstructed paleo SST data matrix.
+
+For the purpose of constraining Summer SST signals in the paleo dataset, which we will get to in Section 1.3, we should repeat this data matrix construction process for only the month of \ul{August}, containing HadISST modern data of only August of the given time-step, also for a total of $T=151$ time-steps. Remove rows with NaN data, similarly. Then, subtract each entry in the August-only matrix by each entry in the full modern data matrix \textbf{X} to compute an August-anomaly matrix. Call this anomaly matrix \textbf{A}. Last, compute the row-wise mean of \textbf{A} to calculate, on average between 1870 and 2020, how much warmer or colder is the August SST compared to the annual SST at each location:
+$$\overline{\textbf{A}} = \frac{\textbf{A} \times \mathlarger{\mathbf{1}}_{T}}{T}$$
+We will use the column vector $\overline{\textbf{A}}$ in Section 1.3.
+
+\subsection{Empirical Orthogonal Function (EOF) analysis on modern data matrix \textbf{X}}
+
+We should now centralize $\textbf{X}$ over time, not space. This means we subtract each entry in $\textbf{X}$ with the row-wise mean. Let $\mathlarger{\mathbf{1}}_{T}$ be a T-dimensional column vector. Then:
+$$\overline{\textbf{x}} = \frac{\textbf{X} \times \mathlarger{\mathbf{1}}_{T}}{T}$$
+and the centralized modern data matrix:
+$$\textbf{X}_{\text{Centralized}} = \textbf{X} - \overline{\textbf{x}} \times {\mathlarger{\mathbf{1}}_{T}}^\intercal$$
+
+For all discussions below, we assume that we are working with the centralized data matrix, $\textbf{X}_{\text{Centralized}}$, whenever we refer to \textbf{X}. In Python, we can override \textbf{X} using $\textbf{X}_{\text{Centralized}}$ and rename it as \textbf{X}.
+
+The (unbiased) covariance matrix of the centralized data matrix is therefore:
+$$\textbf{C} = \frac{1}{T-1} \textbf{X} \textbf{X}^\intercal$$
+
+Conduct Singular Value Decomposition (SVD) on the centralized data matrix:
+$$\textbf{X} = \textbf{E} \Sigma \textbf{V}^\intercal$$
+
+As described in Prof. Kaplan's email, the columns of \textbf{E} are non-dimensional spatial patterns, called \textit{EOFs}. The columns of \textbf{V} (rows of $\textbf{V}^\intercal$) are non-dimensional temporal patterns, called \textit{amplitudes}. The Principal Components (PCs) are the rows of $\Sigma \textbf{V}^\intercal$, or equivalently, the columns of $\textbf{V}\Sigma$. PCs are dimensional.
+
+The centralized data matrix is recovered as:
+\begin{align*}
+    \textbf{X} &= \textbf{E} \Sigma \textbf{V}^\intercal \\
+    &= \textbf{E}{(\underbrace{\textbf{V}\Sigma}_{\text{PCs}})}^\intercal
+\end{align*}
+
+Because EOF analysis decomposes the spatial covariance of the modern climate field into a set of orthogonal vectors and their corresponding variances, we may also represent the spatial covariance matrix as:
+$$\textbf{C} = \textbf{E} \Lambda \textbf{E}^\intercal$$
+where $\Lambda$ represents the diagonal matrix of eigenvalues of \textbf{C}:
+$$\Lambda = \frac{1}{T-1}\Sigma^2$$
+
+We can perform a rank-20 approximation ($r=20$), so we are left with \textbf{E} having 20 columns and $\textbf{V}^\intercal$ having 20 rows. After rank reduction, the covariance matrix can be re-written using rank-reduced components as:
+$$\textbf{C} \approx \underset{N \times r}{\textbf{E}} \underset{r \times r}{\Lambda} \underset{r \times N}{\textbf{E}^\intercal}$$
+We may plot the first 5, out of the total 20 columns of \textbf{E} and rows of $\textbf{V}^\intercal$, to better visualize the temporal and spatial patterns during 1870-2020.
+
+
+\subsection{Area-Weighing for HadISST EOF}
+\color{purple} [From July 7's meeting with Alexey.] \color{black}
+
+Recall that we have previously used Singular Value Decomposition (SVD) to decompose the centralized data matrix \textbf{X} as:
+\begin{align*}
+    \textbf{X} &= \textbf{E} \Sigma \textbf{V}^\intercal \\
+    &= \textbf{E}{(\underbrace{\textbf{V}\Sigma}_{\text{PCs}})}^\intercal
+\end{align*}
+where the columns of the orthogonal matrix \textbf{E} form an orthonormal basis of $\mathbb{R}$:
+$$\textbf{E}^\intercal \textbf{E} = \textbf{I}$$
+and \textbf{I} represents an identity matrix.
+
+It is, however, biased to assume that the columns of \textbf{E} (representing spatial patterns) should be orthonormal, because each spatial pattern are not weighed by the area of each grid they express.
+For example, a spatial pattern that describes polar regions would wrongly overemphasize the high-latitude patterns, because high-latitude grids have much smaller surface area than low-latitude grids.
+
+Hence, we need to create a weight that weighs each entry of each column of \textbf{E} depending on the latitude of the grid, which is a cosine function.
+We may create an area-weighing factor like such: 
+$$w_i = \frac{\cos\varphi_i}{\sum_{j=1}^{N} \cos\varphi_j}, \qquad i=1,\dots,N$$
+where $\varphi$ refers to the latitude of the given SST grid.
+
+Then, let us define the weight matrix as 
+$$\textbf{W} = \text{diag}(w_i)$$
+where $\textbf{W} \in \mathbb{R}^{N \times N}$.
+
+Then, instead of having \textbf{E} as an orthogonal matrix, we should apply the weight as such:
+$$\textbf{E}^\intercal \textbf{W} \textbf{E} = \textbf{I}$$
+such that the area-weighed spatial pattern, $\textbf{E}'$, is orthogonal:
+$$\textbf{E}' = \textbf{W}^{\frac{1}{2}} \textbf{E}$$
+$$(\textbf{E}')^\intercal \textbf{E}' = \textbf{I}$$
+Remember we still need to normalize $\textbf{E}'$ to make sure its columns are orthonormal, not merely orthogonal.
+
+Now, recall from above that we have defined Principal Components (PCs) as $\textbf{V}\Sigma$.
+We need to replace the area-biased $\textbf{E}$ with the area-weighted $\textbf{E}'$ into the previous SVD results.
+Also, we need to weight each SST value in \textbf{X} by the same weight, \textbf{W}, so we replace \textbf{X} with \textbf{WX}.
+Hence, we may deduce the following:
+\begin{align*}
+    \textbf{E} \Sigma \textbf{V}^\intercal &= \textbf{WX} \\
+    \textbf{E} (\text{PC})^\intercal &= \textbf{WX} \\
+    (\text{PC})^\intercal &= \textbf{E}^\intercal \textbf{WX} \\
+    (\text{PC})^\intercal &= (\textbf{E}^\intercal \textbf{W}^{\frac{1}{2}}) (\textbf{W}^{\frac{1}{2}} \textbf{X}) \\
+    (\text{PC})^\intercal &= (\textbf{E}')^\intercal \underbrace{(\textbf{W}^{\frac{1}{2}} \textbf{X})}_{\textbf{X}'}
+\end{align*}
+then we've similarly defined $\textbf{X}'$ as $(\textbf{W}^{\frac{1}{2}} \textbf{X})$.
+
+From this point onwards, we should remember to replace all \textbf{E} and \textbf{X} as their area-weighted counterparts, \textbf{E}' and \textbf{X}', respectively.
+Note that the notation below is written after this chunk is written, so all steps below still uses \textbf{E} and \textbf{X}.
+But note that we should override these area-biased variables using the area-weighted variables.
+
+When we finally finish with the full-field SST reconstruction, we need to recover the physical temperature by reverting the results back using the weight.
+This will be explained in the final step.
+
+
+\subsection{Construct Paleo SST Data $\textbf{y}_t$}
+
+\subsubsection{Loading the Paleo SST Spreadsheet}
+
+The LIG SST dataset provided by Hoffman et al. (2017) \cite{Hoffman2017}, in an Excel spreadsheet format, was complied using various paleo-proxies: Foraminifera, Coccolithophores, UK37, Mg/Ca, Diatoms, and Radiolaria. The dataset includes n=104 pieces of SST data over 130-115 Kya (time-step = 0.1 Kya).
+Each sheet represents the time-series of SST data of the given location and proxy type.
+\begin{itemize}
+    \item The first row is the header row.
+    \begin{itemize}
+        \item Python command: skiprows=1, header=None
+    \end{itemize}
+    \item The sheet name is the core's \textit{ID}.
+    \item Column B (cell B2) is \textit{longitude}.
+    \item Column C (cell C2) is \textit{latitude}.
+    \item Column R (cells R2 through R152) is \textit{age}, or time-step, from 115.0 to 130.0 Kya. This is identical throughout all sheets.
+    \item Column T (cells T2 through T152) is the paleo \textit{SST} time-series of the given location.
+    \item Column U (cells U2 through U152) contains the "SST + 2 standard deviation ($\delta$)" data
+    \item Column S, likewise, contains "SST - 2$\delta$".
+\end{itemize}
+The $(lon,lat)$ coordinates are exact to the hundredth place. We need to round them to the nearest 1ºx1º grid.
+We may use the following function:
+\texttt{lon\_round = (np.floor(Original\_longitude) + 0.5)}. 
+Latitude likewise (\texttt{lat\_round}).
+Then, we can build a 3-column dataframe with 104 cores' ID, rounded longitude, and rounded latitude data. Call this \texttt{df\_coords}.
+
+\subsubsection{Optimal Estimation for Multi-proxy Cores}
+\color{purple} [From July 7's meeting with Alexey.] \color{black}
+
+% Previous method: dropping low-resolution or high-uncertainty cores:
+% Below is the list of 0-based indexes for replicated cores that should be dropped:
+% $$[1, 5, 17, 21, 39, 64, 73, 57, 71, 76, 79, 80, 82, 84, 85, 88, 90, 91, 95, 97, 99, 102]$$
+% Overall, after removing the lower resolution and/or higher uncertainty cores, \ul{82 of the total 104} cores remain.
+
+Note that some sheets' SST data are generalized based on the same core, but using different proxy types, resulting in "Multi-proxy cores".
+Some other cores are so close to each other that they are within the same 1ºx1º grid.
+Then, the estimated paleo SST will not match across the different proxy types, or multiple cores will be attributed to the same location.
+To resolve this conflict, rather than only using one core's SST and discarding the remaining core's data like we've done in the past, we use a technique called \textbf{Optimal Estimation}.
+
+Say we use column U minus column T and divide that by 2 to derive 1$\delta$ for any given location and given time-step.
+% Then, we can build a column vector $\textbf{\delta}_t$ to represent the standard deviation of the paleo SST data at time $t$, where each $i$-th entry is the standard deviation of the $i$-th entry in $$\textbf{y}_t$$:
+% $$\textbf{\delta}_t \in \mathcal{R}^{n_t}$$
+
+Let a random variable $\mathcal{Y}_t$ represent the paleo SST value $Y_i$ and the standard deviation $\delta_i$ for each $i$-th proxy of a given location and a given time $t$. 
+$i$ should be no larger than 3 for each random variable, because there are no more than 3 overlapping cores for any given location. 
+From here, we may calculate a weight (note that this weight shall not be confused with the area-weighing weight $w_i$ from Step 1.3):
+$$\mathcal{W}_i = \frac{\frac{1}{\delta_i^2}}{\sum \frac{1} {\delta_i^2}}$$
+so that the optimally estimated SST of that location at the given time is:
+$$\hat{\mathcal{Y}}_t = \sum \mathcal{W}_i Y_i$$
+In total, there are 104 cores but only 82 unique coordinate pairs.
+
+% Note that we are directly dealing with the temperature data from the Last Interglacial. We are \textit{not} using proxy data like $d^{18}O$. Rather, Hoffman et al. (2017) has already done the transfer function for us to convert the proxy data at each time step into SST data. Hence, we can build a paleo SST data matrix \textbf{Y} just like the modern SST data matrix \textbf{X}:
+
+We repeat this method for each location and each time-step to build a paleo SST data column vector $\textbf{y}_t$ for each time-step $t$:
+$$\textbf{y}_t \in \mathbb{R}^{n_t},$$
+where $n_t$ is the number of paleo-proxy data pieces contain valid values at time $t$. At most, there are 82 of these locations at any given $t$, so $n_t \leq 82$. 
+$t$ is Age in Kya (thousand of years before present) from 115.0 to 130.0 ($t=151$).
+
+Realize that, at some time-steps, not all 82 paleo-proxies contain valid SST values.
+After checking all sheets through Python, we find that, out of the 82 paleo-proxy sites we are using to construct the paleo SST data matrix, 2 of them do not contain the full 151 time-steps. Namely:
+    \begin{itemize}
+        \item Sheet-name \textbf{V28-238} at \{lon, lat\} = \{160.48, 1.02\} has 89 valid time-steps, starting 121.2 and ending 130.0 Kya. 
+        % The 0-based index position of this core is 46.
+        \item Sheet-name \textbf{RC11-86\_Foram} at \{lon, lat\} = \{18.45, -35.78\} has 150 valid time-steps, only missing the 115.0 Kya time-step. 
+        % Its index is 96.
+    \end{itemize}
+Therefore, the number of available paleo-proxies $n_t$ at different time-steps $t \in \{115.0, 115.1, \dots 130.0\}$ can be represented as:
+$$n_t = \begin{cases}
+    80 \quad: \quad t = 115.0 \\
+    81 \quad : \quad 115.1 \leq t \leq 121.1 \\
+    82 \quad : \quad t \geq 121.2
+    \end{cases}$$
+
+% When reading the Excel file using Python, the paleo SST data matrix \textbf{Y} should indeed contain NaN values. It's when we do our later calculations at each time-step $t$ that we shall use different values of $n_t$ so that all matrices like $\mathcal{H}, \textbf{H}_t, \textbf{p}_t, \textbf{y}_t, \textbf{R}, \text{ and } \mathcal{T}_t$ (we will get to them below) \textit{do not} contain NaN values and have different dimensions depending on which time-step the calculation is performed at.
+
+% Because $n_t$ varies based on the given $t$, it is more reasonable for us to think of paleo data in terms of one column vector for each time-step. We may use $\textbf{y}_t$ to represent the paleo SST data at time $t$:
+% $$\textbf{Y} = \begin{bmatrix}
+    % \textbf{y}_1 & \textbf{y}_2 & \cdots & \textbf{y}_T
+% \end{bmatrix} \quad \quad \textbf{y}_t \in \mathbb{R}^{n_t}$$
+
+% I feel like this is wrong because X should contain 180*360 rows whereas Y only contains 82 rows max:
+% We should assign indexes to the rows of \textbf{Y} in a way that allows any row $i$ in \textbf{Y} and \textbf{X} to be describing the same location.
+
+\subsubsection{Correcting Summer Signal Biases}
+An issue with Hoffman et al.'s dataset is that some paleo-proxies are inferred to display \textit{summer} (August) signals, whereas most others are inferred to show \textit{annual} signals. The methodology of Hoffman et al. to calculate annual signals was simply to average the Summer (August) and Winter (February) SST estimates. This is perhaps less ideal than what we'd expect. However, to work with the discrepancies in signal seasonality, we need to do the following:
+\begin{enumerate}
+    \item Identify, from Table S1 in Hoffman et al.'s supplements, the IDs of summer signal proxies.
+        \begin{itemize}
+            \item Sheet names of the summer signal cores: ["M23323-1\_UK37", "EW9302-JPC8", "ODP 980", "NA87-25", "NEAP18k", "MD04-2845", "SU92-03", "CH69-K09", "MD95-2040\_Foram", "SU90-03",  "MD95-2036", "KNR140-37JPC", "ODP 1089\_Radiolaria", "MD94-101", "PS2489-2", "MD84-527", "MD94-102", "MD88-770\_Diatom", "MD02-2488"]
+        \end{itemize}
+
+    \item Identify the corresponding coordinate locations (\texttt{lon\_round} and \texttt{lat\_round}) of these IDs.
+    \item Identify the rows in each $\textbf{y}_t$ and $\textbf{X}$ in which such ID corresponds to.
+    \item Realize that \textbf{X} and the August anomaly column vector $\overline{\textbf{A}}$ have the same number of rows. Hence, for all rows in $\overline{\textbf{A}}$ that are \textit{not} summer-signal rows in \textbf{X} found in the previous step, change the value of the row's entry to $0$.
+    \item For each row in $\textbf{y}_t$ that correspond to each row in $\overline{\textbf{A}}$, subtract the entry in $\textbf{y}_t$ by the entry in $\overline{\textbf{A}}$, and repeat for each time-step $t$. This means we are subtracting the August anomaly from each location that describes a summer proxy signal, manipulating the corresponding row show a paleo SST value closer to an annual signal.
+\end{enumerate}
+
+We build a matrix \textbf{H} as a submatrix of the $N \times N$ identity matrix only containing rows corresponding to the $n_t$ locations where paleo SST data is available for that given time-step:
+$$\textbf{H}_t \in \mathbb{R}^{n_t \times N}$$
+where $N$ refers to the full-field modern data matrix's number of rows, i.e. $180 \times 360$ minus the number of NaN rows. Because $n_t$ is dependent on $t$, $\textbf{H}_t$ is also dependent on $t$. We can use this $\textbf{H}_t$ to select $n_t$ paleo-proxy rows of a full-field SST matrix.
+
+After correcting rows previously displaying summer signals in $\textbf{y}_t$, we can centralize the corrected $\textbf{y}_t$, like we've done for \textbf{X},  using the row-wise mean of the modern data matrix: $\overline{\textbf{x}}$. 
+% Because each time-step contains a different number of valid paleo SSTs, it is clearer to centralize the paleo SST data matrix by each time-step using the column vector $\textbf{y}_t$. This allows us to obtain a centralized paleo SST data matrix $\textbf{Y}_{\text{Centralized}}$ with each column as $\textbf{y}_{\text{Centralized, }t}$:
+$$\textbf{y}_{\text{Centralized, }t} = \textbf{y}_t - \textbf{H}_t \overline{\textbf{x}}$$
+Like how we've overrode \textbf{X} with $\textbf{X}_{\text{Centralized}}$, we would also override each column vector $\textbf{y}_t$ with $\textbf{y}_{\text{Centralized, }t}$ and still refer to the centralized column vector as $\textbf{y}_t$ for simplification.
+
+\subsection{EOF Comparison for 82 Locations}
+\color{purple} [From July 7's meeting with Alexey.] \color{black}
+
+For the 82 proxy locations where both HadISST and Hoffman et al. (2017)'s datasets are available, we want to do EOF for both sets of data. Then, we can compare if the PCs and EOFs of the modern versus the paleo sets are similar.
+
+One apparent issue is that HadISST is on annual scale whereas Hoffman et al. (2017)'s is on centurial scale. For example, the 2nd modern EOF represents ENSO, which we can expect to be much less significant in the paleo EOF.
+
+Then, we can smooth HadISST to represent averaged SST on 3, 5, or even 10 years and explore how the similarity to paleo EOF changes.
+
+\section{Reduced Space Optimal Interpolation (RSOI)}
+
+\begin{enumerate}
+    \item Let us define that, at each time $t$:
+    $$\underset{n_t \times r}{\mathcal{H}_t} = \underset{n_t \times N}{\mathbf{H}_t} \underset{N \times r}{\mathbf{E}}$$
+    where $r=20$ is the number of ranks we wish to truncate \textbf{E}, and $n_t$ is the available number of proxies at that time-step $t$. Note that $\textbf{H}_t$ is a function of $t$, but \textbf{E} is not.
+    
+    Then, we can find a column vector $\textbf{p}_t$ at time $t$ where:
+        \begin{align*}
+            \underset{r \times 1}{\textbf{p}_t} &= \underbrace{\Lambda \mathcal{H}_t^\intercal}_{r \times n_t} (\underbrace{\mathcal{H}_t \Lambda \mathcal{H}_t^\intercal}_{n_t \times n_t} + \underset{n_t \times n_t}{\textbf{R}_t})^{-1} \underset{n_t  \times 1}{\textbf{y}_t} \\
+            &= \underbrace{(\Lambda^{-1} + \mathcal{H}_t\mathbf{R}^{-1}\mathcal{H}_t^\intercal)^{-1} }_{\text{Error in } \textbf{p}_t} \mathcal{H}_t\mathbf{R}^{-1} \mathbf{y}_t
+        \end{align*}
+        
+        which we can prove to be equivalent. To explain the variables above:
+        \begin{itemize}
+            \item First recall what we had from SVD on modern data:
+            $$\underset{N \times T}{\textbf{X}} = \underset{N \times T}{\textbf{E}} \quad \underset{T \times T}{\Sigma} \quad \underset{T \times T}{\textbf{V}^\intercal}$$
+            
+            \item $\Lambda$ is the diagonal matrix of eigenvalues of modern data's spatial covariance matrix (\textbf{C}), calculated earlier through EOF, and reduced to rank r=20.
+            
+            \item $\textbf{y}_t$ is the column vector of paleo SSTs at time $t$ with dimension $n_t$, and $n_t \leq 82$.
+            \item $\textbf{R}_t$ is the error matrix, elaborated in the next point.
+        \end{itemize}
+    Now that we have obtained $\textbf{p}_t$ for each time-step $t$, we may reconstruct the full-field SST as:
+    $$\mathcal{T}_t = \textbf{E} \textbf{p}_t$$
+    where $\{\mathcal{T}_t\}$ represent a set of gridded fields of $\mathcal{T}$, which are re-arranged as column vectors of dimension $N$, in order of ascending (from 115.0 to 130.0 Kya) time $t \in \{1, 2, \dots T\}$.
+    
+    \item It is important to account for error in SST estimation. How can we calculate $\textbf{R}_t$? First, understand that we may decompose $\textbf{R}_t$ into two components:
+    \begin{enumerate}
+        \item Observational error, $\mathcal{E}^{obs}_t$, from proxy-to-SST transfer function, e.g. error in the measurement of $d^{18}O$ from Forams, which was then computed to an estimated paleo SST.
+        \item Rank reduction error, $\mathcal{E}^{red}_t$, from the earlier SVD process, where the full-rank $\textbf{E} \in \mathbb{R}^{N \times T}$ was truncated to 20-rank, $\textbf{E} \in \mathbb{R}^{N \times r}$, $r=20$.
+    \end{enumerate}
+
+    Mathematically, we may write the total error, $\textbf{R}_t$, as the sum of the expected value of the two error components, and apply the linearity of expectations:
+    \begin{align*}
+        \textbf{R}_t &= \mathbb{E}(\mathcal{E}_t \mathcal{E}_t^\intercal) \\
+        &= \mathbb{E}(\mathcal{E}_t^{red} (\mathcal{E}_t^{red})^\intercal) + \mathbb{E}(\mathcal{E}_t^{obs} (\mathcal{E}_t^{obs})^\intercal)
+    \end{align*}
+    
+    Let us first find the rank reduction error, $\mathcal{E}^{red}_t$. 
+    Recall that we've always been using the truncated $\textbf{E}$ with rank = 20. We can define a new variable, $\tilde{\textbf{E}}$, from the remaining ranks from a total of 151 ranks, i.e. all columns of the original $\textbf{E}$ except for the first 20 columns. 
+    
+    Likewise, we have truncated the diagonal matrix of eigenvalues $\Lambda$ to the first 20 eigenvalues during SVD, and scaled by $\frac{1}{T-1}$. We can also define $\tilde{\Lambda}$ as the diagonal matrix of all remaining, unused eigenvalues, also scaled by $\frac{1}{T-1}$.
+    
+    Therefore, we may compute a covariance matrix of the leftover ranks, then multiplied by the selector matrix $\textbf{H}_t$ on both sides to select only the locations with paleo-proxies.
+    This is equivalent to the rank reduction error component of the total error $\textbf{R}_t$:
+    $$\mathbb{E}(\mathcal{E}^{red}(\mathcal{E}^{red})^\intercal) = \textbf{H}_t (\tilde{\textbf{E}} \tilde{\Lambda}\tilde{\textbf{E}}^\intercal) \textbf{H}_t^\intercal$$
+
+    Next, let us find the observational error, $\mathcal{E}^{obs}_t$.
+    To find the deterministic matrix of this error, we can compute the diagonal matrix of variance for all available proxy locations at time $t$. We know that, for each sheet in the paleo SST Excel file, columns S and U contain “SST -2sd” and “SST +2sd” data for each time-step, respectively. Let $\sigma$ represent standard deviation. Then, we may obtain $\sigma$ by subtracting column T (the SST data column) from column U, and divide that by 2. Then, $\sigma^2$ is the variance.
+    Thus, we can write a column vector $\textbf{r}_{obs}$ for all $n_t$ proxies for the given time-step:
+    $$\textbf{r}_{obs} = \begin{bmatrix}
+        \sigma^2_1 \\
+        \sigma^2_2 \\
+        \vdots \\
+        \sigma^2_{n_t}
+    \end{bmatrix}$$
+    The observational error of a given time $t$ is a diagonal one with components of \textbf{r} on the diagonal:
+    $$\mathbb{E}(\mathcal{E}^{obs}_t (\mathcal{E}^{obs}_t)^\intercal) = \text{diag}(\textbf{r}_{obs})$$
+
+    Now that we have finished computing the two components of error (the sum of the two expected values is the total error, $\textbf{R}_t$), how does the error relate to the reconstructed SST data?
+    We may represent the sum of the two error components as the difference between the reconstructed SST and the given SST from paleo-proxies at the locations where paleo-proxies are provided.
+    
+    Taking into account of the rank reduction error, the reconstructed full SST field should be written as:
+    $$\mathcal{T}_t = \textbf{E} \textbf{p}_t + \tilde{\textbf{E}} \tilde{\textbf{p}_t}$$
+    where the tilde sign represents the variables computed using the leftover ranks after the 20th rank.
+    
+    If we select the locations from the reconstructed SST ($\mathcal{T}_t$) that matches the given paleo-proxy locations, we can write the selected SST values as $\textbf{H}_t \mathcal{T}_t$. 
+    It is impossible for this reconstruction to be exactly the same as the given SST from paleo-proxies ($\textbf{y}_t$), because there is a observational error innate to $\textbf{y}_t$.
+    Hence, we can express the small difference between the reconstruction and the given values as the sum of the two components of error:
+    \begin{align*}
+        \textbf{y}_t &= \textbf{H}_t \mathcal{T}_t + \mathcal{E}^{obs}_t \\
+        &= \textbf{H}_t \textbf{E} \textbf{p}_t + \underbrace{\textbf{H}_t \tilde{\textbf{E}} \tilde{\textbf{p}_t}}_{\mathcal{E}^{red}} + \mathcal{E}^{obs}_t
+    \end{align*}
+
+    This is what the errors actually mean in terms of their impacts on the reconstructed SST values.
+
+    \item Recall that we have performed area-weighing in Step 1.3 "Area-Weighing for HadISST EOF" above.
+    This indicates that the obtained reconstructed full-field SST, $\mathcal{T}_t$, is also area-weighed, and needs to be un-weighted to represent the actual physical SST.
+    
+    We had from above that:
+    $$\mathcal{T}_t = \textbf{Ep}_t$$
+    and note the spatial pattern \textbf{E} here is actually area-weighed (recall $\textbf{E}' = \textbf{W}^{\frac{1}{2}} \textbf{E}$, and then we used \textbf{E}' to override all subsequent \textbf{E}).
+    To "un-weight" the resulting $\mathcal{T}$ so the physical SST can be obtained:
+    $$\mathcal{T}_{t, \text{ phys}} = \textbf{W}^{-\frac{1}{2}} \textbf{E} \textbf{p}_t$$
+    Note that $\mathcal{T}_{t, \text{Phys}}$ should be the final reconstructed results that we plot, because the area-weighed temperature values do not have any physical meaning.
+
+    \item (Note this chunk continues to use \textbf{E} and \textbf{X} to represent the area-weighed variables, because this chunk is written prior to performing area-weighing.)
+    
+    Currently, when mapping the spatial and temporal patterns for our modern EOF, we saw mostly negative values for the leading rank. 
+    An optional change to make is to change the signs of PCs and EOFs so the leading rank(s) contains mostly non-negative values, making it more reasonable when presenting. Realize that during SVD, we had:
+        \begin{align*}
+            \textbf{X} &= \textbf{E} \Sigma \textbf{V}^\intercal \\
+            &= \textbf{E}{(\textbf{V}\Sigma)}^\intercal \\
+            &= \textbf{E} (\text{PC})^\intercal
+        \end{align*}
+    To change the signs of both \textbf{E} and PC, we can create a diagonal matrix \textbf{D} that only contains -1 on its diagonal entries, i.e. a negative identity matrix. Note that $\textbf{D} = \textbf{D}^{-1}$. Hence:
+        \begin{align*}
+            \textbf{X} &= \textbf{E} \Sigma \textbf{V}^\intercal \\
+            &= (\textbf{ED}) \Sigma (\textbf{D}^{-1} \textbf{V}^\intercal)\\
+            &= (\textbf{ED}) \Sigma (\textbf{VD})^\intercal
+        \end{align*}
+    Therefore, we can update the matrix of spatial patterns (\textbf{E}) and the PCs accordingly.
+
+    \item A large assumption that should be challenged is that the eigenvalues of the covariance matrices, $\Lambda$, for the Last Interglacial data and modern data are the same. 
+    This assumption is especially contestable if our paleo SST is significantly different from the modern data. For example, we know that the last glacial maximum was 6ºC colder than today's average temperature. How should we know if we should not constrain $\textbf{p}_t$ to the same covariance as $\Lambda$?
+
+    To check for this, we should examine the consistency between the full variance of signal versus the sum of the variance and the expectation of error:
+    $$\Lambda = \mathbb{E}(\textbf{p}_t\textbf{p}_t^\intercal)+\textbf{p}^{\text{OI}}_t$$
+    where:
+    $$\textbf{p}_t = \textbf{E} \textbf{p}_t^{\text{OI}} \textbf{E}^\intercal$$
+    and the error of paleo SST estimate is:
+    $$\textbf{p}_t^{\text{OI}} = \Lambda - \Lambda \mathcal{H}^\intercal_t (\mathcal{H}_t \Lambda \mathcal{H}_t^\intercal + \textbf{R}_t)^{-1} \mathcal{H}_t\Lambda$$
+    The meaning of this is that if we don't have any paleo data, we would have $\textbf{p}_t = 0$ and the error in estimate $\textbf{p}_t^{\text{OI}} = \Lambda$. If the error of SST estimate is severely inconsistent (having large discrepancies on the left and right sides?), then we should challenge our assumption.
+
+    \item One optional idea of further improvement is to use modeled SST to fill in temporal gaps. Currently, our temporal resolution of paleo SST is every 0.1 Kya (i.e. every century). This presents a significant mismatch with the resolution of 1 Yr in the modern SST dataset. Hence, some patterns that cannot be captured during a time-frame as short as 1870-2020 may play a large role during the Last Interglacial, such as obliquity forcing. 
+    
+    However, if we can use modeled products to interpolate between time-slices and increase the temporal resolution, we can perhaps work with the same short modern time-frame (1870-2020), because we assume short-term SST patterns can be captured with the paleo model.
+    
+\end{enumerate}
+
+\subsection{RSOI Summary: Steps to Take}
+In conclusion, after understanding how each variable is derived from the steps listed above, we can reconstruct a full-field SST map $\mathcal{T}_t$ for each time-step $t$ by doing the following:
+\begin{enumerate}
+    \item Construct the error matrix $\textbf{R}_t$ by:
+    $$\textbf{R}_t =\mathbb{E}(\mathcal{E}_t^{red} (\mathcal{E}_t^{red})^\intercal) + \mathbb{E}(\mathcal{E}_t^{obs} (\mathcal{E}_t^{obs})^\intercal)$$
+
+    \item Construct the time-variant column vector $\textbf{p}_t$ by
+    $${\textbf{p}_t} = {\Lambda \mathcal{H}_t^\intercal} ({\mathcal{H}_t \Lambda \mathcal{H}_t^\intercal} + {\textbf{R}_t})^{-1} {\textbf{y}_t}$$
+
+    \item Construct the full-field SST map as a column vector $\mathcal{T}_t$ by:
+    $$\mathcal{T}_t = \textbf{E} \textbf{p}_t$$
+
+    \item Undo area-weighing of $\mathcal{T}_t$ and obtain SST reconstruction with actual physical meaning by:
+    $$\mathcal{T}_{t, \text{ phys}} = \textbf{W}^{-\frac{1}{2}} \textbf{E} \textbf{p}_t$$
+
+    \item Correspond each row index in $\mathcal{T}_{t, \text{ phys}}$ to a coordinate on the $180 \times 360$ field to map the value of SST to that grid.
+
+    \item Repeat the previous 4 steps at all time-steps from 115.0 to 130.0 Kya to produce 151 reconstruction maps. Create an animation of these maps, starting with 130.0 and ending with 115.0 to represent the correct direction of time's arrow.
+    
+    \item Report the error $\textbf{R}_t$ at each time-step by graphing so that we may visualize trends of error magnitude changes throughout the Last Interglacial.
+    
+    \color{purple} Not exactly sure how to visualize $\textbf{R}_t$ because $\textbf{R}_t$ is a matrix. What ideas do we have? \color{black}
+
+\end{enumerate}
+
+
+\begin{thebibliography}{3}
+    \bibitem{Evans2002}Evans, M. N., A. Kaplan, and M.A. Cane, 2002: Pacific sea surface temperature field reconstruction from coral d18O data using reduced space objective analysis,\textit{Paleoceanography}, \textbf{17}(1), 10.1029/2000PA000590.
+    \bibitem{Hoffman2017} Hoffman, J. S., Clark, P. U., Parnell, A. C., \& He, F. (2017). Regional and global sea-surface temperatures during the last interglaciation. Science, 355(6322), 276–279. https://doi.org/10.1126/science.aai8464
+    \bibitem{Kaplan1997}Kaplan, A., Y. Kushnir, M. Cane, and M. Blumenthal, 1997: Reduced space optimal analysis for historical datasets: 136 years of Atlantic sea surface temperatures,\textit{J. Geophys. Res.}, \textbf{102}, 27835-27860.
+    \bibitem{HadISST} Rayner, N. A., Parker, D. E., Horton, E. B., Folland, C. K., Alexander, L. V., Rowell, D. P., et al. (2003). Global analyses of sea surface temperature, sea ice, and night marine air temperature since the late nineteenth century. Journal of Geophysical Research: Atmospheres, 108(D14). https://doi.org/10.1029/2002JD002670
+\end{thebibliography}
+
+\end{document}
+
+
+
+
+
+
+
+\section{Archive (disregard this section)}
+\subsection{Univariate Regression: Paleo SST on Modern SST}
+
+We use \textbf{H} as a mask on \textbf{B} to select rows in the modern SST matrix that have coordinates corresponding to those in \textbf{H}. Then, the product $\textbf{HB}$ has dimensions:
+$$\textbf{HB} \in \mathbb{R}^{82 \times T}$$
+Then, \textbf{HB} and \textbf{F} store the SST data of the same coordinates, just that the former is modern SST data, whereas the latter is paleo.
+
+We perform a univarite regression to solve for a diagonal matrix \textbf{M} where each row of \textbf{F} regresses on same row of \textbf{HB}:
+$$\textbf{F} = \textbf{MHB} + \text{error}$$
+In Prof. Kaplan's words, we wish to calibrate a linear model $\textbf{M}$ such that the equation above has minimal error, performing univariate regression of each paleo SST on the co-located modern SST. Note that this is different from the method in Evans et al. (2002).
+
+Finally, we now need to find a column vector $\textbf{p}$ with dimension as 20 (because we're using 20 ranks), where we can construct a reduced space solution at each given time step in the form:
+$$\textbf{x}=\textbf{E} \times\textbf{p} + \bar{\textbf{x}} + \text{error}$$
+where \textbf{E} only contains 20 of the columns of the matrix \textbf{E} obtained in SVD. \textbf{p} is found as an optimal estimate based on two weak constraints:
+\begin{enumerate}
+    \item that the centralized paleo SST data matrix for that time obeyed:
+    $$\textbf{F} = \textbf{MHEp}+\text{error}$$
+    \item and that the components of \textbf{p} came from distributions with zero means and covariances equal to $\text{diag}(\Lambda)$. $\Lambda$ is the diagonal matrix of eigenvalues of the covariance matrix of the modern SST data matrix \textbf{X}, which is calculated as $\Lambda = \frac{1}{N-1}\Sigma^2$.
+\end{enumerate}
+
+Overall, after solving for \textbf{p} above, we can reconstruct the full-field (map where location $N = 180 \times 360$) paleo SST data matrix $\hat{\textbf{X}}$ at any given time $t$:
+$$\hat{\textbf{X}}_t=\textbf{E}_t \times\textbf{p}_t + \bar{\textbf{X}}$$
+using modern spatial patterns (EOFs) and the estimated paleo amplitudes.
+
+Mapping the reconstruction back to the full-grid with land grids that are originally "NaN" in HadISST included still as "NaN" values, we can plot a full-field SST map for each time step during 115-130 Kya. The 151 maps altogether constructs a SST reconstruction animation for the Last Interglacial from simply 82 locations with valid paleo SST data.
+
+\subsection{List of Changes Made After Meeting With Alexey}
+
+\begin{enumerate}
+    \item Recall that in the previous version of this methodology, we had:
+    $$\overline{\textbf{Y}} = \frac{\textbf{Y} \times \mathbf{1}_T}{T}$$
+    $$\textbf{Y}_{\text{Centralized}} = \textbf{Y} - \overline{\textbf{Y}} \times {\mathbf{1}_T}^\intercal$$
+    However, the paleo data matrix \textbf{Y} should be centered based on the mean of the \textit{modern} data matrix \textbf{X}. This requires a change to Section 1.3, which I've already updated.
+
+    \item Currently, we have taken the annual average of the monthly HadISST dataset by averaging each year's data from January to December. This calendar-year method of averaging can break the cyclicality of ENSO, resulting in a poorer capture of ENSO variability in the modern EOF analysis. Hence, we should instead take the annual average from April to March (of the following year). This change is also already made in Section 1.
+
+    \item When cleaning the modern data matrix \textbf{X}, we have removed rows with $\geq 20\%$ of its entries as “NaN”; for rows still left with some “NaN” entries, we've imputed the “NaN” entries with the row-wise mean. This is inappropriate to do. Now, changes are made in Section 1 so that 1) if any row (representing any location) contains “NaN”, then it is removed. 2) The indexes of the cleaned modern data matrix is not reset, so that later, when the full-field reconstructed SST is calculated, it would have the same number of rows with the same indexes as the cleaned modern data matrix. The rows that are removed in the modern data matrix would also be “NaN” in the reconstruction, making plotting clearer.
+\end{enumerate}
+
