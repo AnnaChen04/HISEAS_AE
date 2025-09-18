@@ -14,7 +14,7 @@
 
 \title{HISEAS SST Reconstruction - RSOI Method}
 \author{Anna Chen}
-\date{Last Updated on September 7, 2025}
+\date{Last Updated on September 8, 2025}
 
 \begin{document}
 
@@ -23,7 +23,7 @@
 The \textbf{HISEAS} Project is an international paleo-climate research collaboration that aims to answer: “How much and why did Ice Sheets melt during the Last Interglacial?” My role in this project, thus far, has been focusing on quantitatively understanding the spatial and temporal patterns of Sea-Surface Temperature (SST) during the Last Interglacial (LIG, 130-115 Kya). 
 This is done by reconstructing full-field SST maps across 130-115 Kya using the LIG SST dataset complied by Hoffman et al. (2017) \cite{Hoffman2017}.
 
-This is a simplified run-down of preparing data matrices for the Reduced Space Optimal Interpolation (RSOI) method, which will later be used to reconstruct SST for the LIG. This is based on Prof. Alexey Kaplan's email on June 6, 2025 and later updated after our June 18 and July 7 Meeting. Two referred papers from Alexey are included in the References section.
+This is a simplified run-down of preparing data matrices for the Reduced Space Optimal Interpolation (RSOI) method, which will later be used to reconstruct SST for the LIG.
 
 \section{Data Preparation}
 \subsection{Construct Modern SST Data Matrix \textbf{X}}
@@ -77,7 +77,6 @@ We may plot the first 5, out of the total 20 columns of \textbf{E} and rows of $
 
 
 \subsection{Area-Weighing for HadISST EOF and SST Matrix \textbf{X}}
-\color{purple} [From July 7's meeting with Alexey.] \color{black}
 
 Recall that we have previously used Singular Value Decomposition (SVD) to decompose the centralized data matrix \textbf{X} as:
 \begin{align*}
@@ -163,7 +162,6 @@ Latitude likewise (\texttt{lat\_round}).
 Then, we can build a 3-column dataframe with 104 cores' ID, rounded longitude, and rounded latitude data. Call this \texttt{df\_coords}.
 
 \subsubsection{Optimal Estimation for Multi-proxy Cores}
-\color{purple} [From July 7's meeting with Alexey.] \color{black}
 
 % Previous method: dropping low-resolution or high-uncertainty cores:
 % Below is the list of 0-based indexes for replicated cores that should be dropped:
@@ -253,7 +251,6 @@ $$\textbf{y}_{\text{Centralized, }t} = \textbf{y}_t - \textbf{H}_t \overline{\te
 Like how we've overrode \textbf{X} with $\textbf{X}_{\text{Centralized}}$, we would also override each column vector $\textbf{y}_t$ with $\textbf{y}_{\text{Centralized, }t}$ and still refer to the centralized column vector as $\textbf{y}_t$ for simplification.
 
 \subsection{EOF Comparison for 82 Locations}
-\color{purple} [From July 7's meeting with Alexey.] \color{black}
 
 For the 82 proxy locations where both HadISST and Hoffman et al. (2017)'s datasets are available, we want to do EOF for both sets of data. Then, we can compare if the PCs and EOFs of the modern versus the paleo sets are similar.
 
