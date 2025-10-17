@@ -2,7 +2,6 @@
 \usepackage{graphicx} % Required for inserting images
 \usepackage{xcolor} % Change text colors package
 \graphicspath{{images/}} % Configuring the graphicx package
-
 \usepackage{chemfig} % Common chem package/library
 \usepackage{amsmath} % Common math equations package
 \usepackage{amssymb} % Common math symbols package
@@ -387,7 +386,14 @@ Then, we can smooth HadISST to represent averaged SST on 3, 5, or even 10 years 
 In conclusion, after understanding how each variable is derived from the steps listed above, we can reconstruct a full-field SST map $\mathcal{T}_t$ for each time-step $t$ by doing the following:
 \begin{enumerate}
     \item Construct the error matrix $\textbf{R}_t$ by:
-    $$\textbf{R}_t =\mathbb{E}(\mathcal{E}_t^{red} (\mathcal{E}_t^{red})^\intercal) + \mathbb{E}(\mathcal{E}_t^{obs} (\mathcal{E}_t^{obs})^\intercal)$$
+    $$\textbf{R}_t = \mathbb{E}(\mathcal{E}_t^{red} (\mathcal{E}_t^{red})^\intercal) + \mathbb{E}(\mathcal{E}_t^{obs} (\mathcal{E}_t^{obs})^\intercal)$$
+    where:
+    $$\mathbb{E}(\mathcal{E}_t^{obs} (\mathcal{E}_t^{obs})^\intercal) = 
+    \text{diag}({\begin{bmatrix}
+        \sigma^2_1 & \sigma^2_2 & \dots & \sigma^2_{n_t}
+    \end{bmatrix}}^\intercal)$$
+    $$ \mathbb{E}(\mathcal{E}_t^{red} (\mathcal{E}_t^{red})^\intercal) = 
+    \textbf{H}_t \tilde{\textbf{E}} \tilde{\textbf{p}_t}$$
 
     \item Construct the time-variant column vector $\textbf{p}_t$ by
     $${\textbf{p}_t} = {\Lambda \mathcal{H}_t^\intercal} ({\mathcal{H}_t \Lambda \mathcal{H}_t^\intercal} + {\textbf{R}_t})^{-1} {\textbf{y}_t}$$
