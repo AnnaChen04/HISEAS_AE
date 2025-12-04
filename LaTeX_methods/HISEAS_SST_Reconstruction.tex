@@ -13,16 +13,16 @@
 
 \title{HISEAS SST Reconstruction - RSOI Method}
 \author{Anna Chen}
-\date{Last Updated on September 8, 2025}
+\date{Last Updated on November 19, 2025}
 
 \begin{document}
 
 \maketitle
 
-The \textbf{HISEAS} Project is an international paleo-climate research collaboration that aims to answer: “How much and why did Ice Sheets melt during the Last Interglacial?” My role in this project, thus far, has been focusing on quantitatively understanding the spatial and temporal patterns of Sea-Surface Temperature (SST) during the Last Interglacial (LIG, 130-115 Kya). 
+The \textbf{HISEAS} Project is an international paleo-climate research collaboration that aims to answer: “\textbf{How much and why did Ice Sheets melt during the Last Interglacial?}” My role in this project, thus far, has been focusing on quantitatively understanding the spatial and temporal patterns of Sea-Surface Temperature (SST) during the Last Interglacial (LIG, 130-115 Kya). 
 This is done by reconstructing full-field SST maps across 130-115 Kya using the LIG SST dataset complied by Hoffman et al. (2017) \cite{Hoffman2017}.
 
-This is a simplified run-down of preparing data matrices for the Reduced Space Optimal Interpolation (RSOI) method, which will later be used to reconstruct SST for the LIG.
+This is a simplified run-down of preparing data matrices for the Reduced Space Optimal Interpolation (RSOI) method to reconstruct SST for the LIG.
 
 \section{Data Preparation}
 \subsection{Construct Modern SST Data Matrix \textbf{X}}
@@ -38,9 +38,10 @@ Hence, the number of rows, $N$, for the modern data matrix $\textbf{X}$ is only 
 
 Note HadISST is a monthly gridded dataset. To account for a full ENSO cycle in each annual average, rather than averaging for the January-to-December calendar year, we would like to average from April of that given year to the next March. For example, the “1870” time-step actually would mean the average of 12 months from April 1870 to March 1871. Months with NaN values are ignored when averaging.
 
-For the purpose of constraining Summer SST signals in the paleo dataset, which we will get to in Section 1.3, we should repeat this data matrix construction process for only the month of \ul{August}, containing HadISST modern data of only August of the given time-step, also for a total of $T=151$ time-steps. Remove rows with NaN data, similarly. Then, subtract each entry in the August-only matrix by each entry in the full modern data matrix \textbf{X} to compute an August-anomaly matrix. Call this anomaly matrix \textbf{A}. Last, compute the row-wise mean of \textbf{A} to calculate, on average between 1870 and 2020, how much warmer or colder is the August SST compared to the annual SST at each location:
+For the purpose of constraining Summer SST signals in the paleo dataset, which we will get to in Section 1.3, we should repeat this data matrix construction process for only the month of \textit{August}, containing HadISST modern data of only August of the given time-step, also for a total of $T=151$ time-steps. Remove rows with NaN data, similarly. 
+Then, subtract each entry in the August-only matrix by each entry in the full modern data matrix \textbf{X} to compute an August-anomaly matrix. Call this anomaly matrix \textbf{A}. Last, compute the row-wise mean of \textbf{A} to calculate, on average between 1870 and 2020, how much warmer or colder is the August SST compared to the annual SST at each location:
 $$\textbf{x}_{\text{Aug}} = \frac{\textbf{A} \times \mathlarger{\mathbf{1}}_{T}}{T}$$
-We will use the column vector $\textbf{x}_{\text{Aug}}$ in Section 1.4.3.
+We will use the column vector $\textbf{x}_{\text{Aug}}$ in Section 1.3 and 1.4.4.
 
 \subsection{Empirical Orthogonal Function (EOF) analysis on modern data matrix \textbf{X}}
 
@@ -249,14 +250,6 @@ After correcting rows previously displaying summer signals in $\textbf{y}_t$, we
 $$\textbf{y}_{\text{Centralized, }t} = \textbf{y}_t - \textbf{H}_t \overline{\textbf{x}}$$
 Like how we've overrode \textbf{X} with $\textbf{X}_{\text{Centralized}}$, we would also override each column vector $\textbf{y}_t$ with $\textbf{y}_{\text{Centralized, }t}$ and still refer to the centralized column vector as $\textbf{y}_t$ for simplification.
 
-\subsection{EOF Comparison for 82 Locations}
-
-For the 82 proxy locations where both HadISST and Hoffman et al. (2017)'s datasets are available, we want to do EOF for both sets of data. Then, we can compare if the PCs and EOFs of the modern versus the paleo sets are similar.
-
-One apparent issue is that HadISST is on annual scale whereas Hoffman et al. (2017)'s is on centurial scale. For example, the 2nd modern EOF represents ENSO, which we can expect to be much less significant in the paleo EOF.
-
-Then, we can smooth HadISST to represent averaged SST on 3, 5, or even 10 years and explore how the similarity to paleo EOF changes.
-
 \section{Reduced Space Optimal Interpolation (RSOI)}
 
 \begin{enumerate}
@@ -408,15 +401,15 @@ In conclusion, after understanding how each variable is derived from the steps l
 
     \item Repeat the previous 4 steps at all time-steps from 115.0 to 130.0 Kya to produce 151 reconstruction maps. Create an animation of these maps, starting with 130.0 and ending with 115.0 to represent the correct direction of time's arrow.
     
-    \item Report the error $\textbf{R}_t$ at each time-step by graphing so that we may visualize trends of error magnitude changes throughout the Last Interglacial.
+    \item Visualize the error $\textbf{R}_t$ at each time-step at each of the proxy locations by a bubble graph animation across 115.0-130.0 Kya.
     
 \end{enumerate}
 
 
-\begin{thebibliography}{3}
+\begin{thebibliography}{5}
     \bibitem{Evans2002}Evans, M. N., A. Kaplan, and M.A. Cane, 2002: Pacific sea surface temperature field reconstruction from coral d18O data using reduced space objective analysis,\textit{Paleoceanography}, \textbf{17}(1), 10.1029/2000PA000590.
     \bibitem{Hoffman2017} Hoffman, J. S., Clark, P. U., Parnell, A. C., \& He, F. (2017). Regional and global sea-surface temperatures during the last interglaciation. Science, 355(6322), 276–279. https://doi.org/10.1126/science.aai8464
-    \bibitem{Kaplan1997}Kaplan, A., Y. Kushnir, M. Cane, and M. Blumenthal, 1997: Reduced space optimal analysis for historical datasets: 136 years of Atlantic sea surface temperatures,\textit{J. Geophys. Res.}, \textbf{102}, 27835-27860.
+    \bibitem{Kaplan1997} Kaplan, A., Y. Kushnir, M. Cane, and M. Blumenthal, 1997: Reduced space optimal analysis for historical datasets: 136 years of Atlantic sea surface temperatures,\textit{J. Geophys. Res.}, \textbf{102}, 27835-27860.
     \bibitem{HadISST} Rayner, N. A., Parker, D. E., Horton, E. B., Folland, C. K., Alexander, L. V., Rowell, D. P., et al. (2003). Global analyses of sea surface temperature, sea ice, and night marine air temperature since the late nineteenth century. Journal of Geophysical Research: Atmospheres, 108(D14). https://doi.org/10.1029/2002JD002670
 \end{thebibliography}
 
@@ -429,6 +422,15 @@ In conclusion, after understanding how each variable is derived from the steps l
 
 
 \section{Archive (disregard this section)}
+
+\subsection{EOF Comparison for 82 Locations}
+
+For the 82 proxy locations where both HadISST and Hoffman et al. (2017)'s datasets are available, we want to do EOF for both sets of data. Then, we can compare if the PCs and EOFs of the modern versus the paleo sets are similar.
+
+One apparent issue is that HadISST is on annual scale whereas Hoffman et al. (2017)'s is on centurial scale. For example, the 2nd modern EOF represents ENSO, which we can expect to be much less significant in the paleo EOF.
+
+Then, we can smooth HadISST to represent averaged SST on 3, 5, or even 10 years and explore how the similarity to paleo EOF changes.
+
 \subsection{Univariate Regression: Paleo SST on Modern SST}
 
 We use \textbf{H} as a mask on \textbf{B} to select rows in the modern SST matrix that have coordinates corresponding to those in \textbf{H}. Then, the product $\textbf{HB}$ has dimensions:
