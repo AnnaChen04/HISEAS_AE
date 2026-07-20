@@ -1,0 +1,162 @@
+[
+ {
+  "tab": "RC10-62",
+  "field": "Longitude (col B)",
+  "old": 101.43,
+  "new": -101.43,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Verified against NCEI site record"
+ },
+ {
+  "tab": "RC13-110",
+  "field": "Longitude (col B)",
+  "old": 96.08,
+  "new": -96.08,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Verified against NCEI site record"
+ },
+ {
+  "tab": "RC13-110",
+  "field": "Age (col R)",
+  "old": "117.391-136.841 ka",
+  "new": "117391-136841 yr BP",
+  "fix": "Converted ka to years BP (x1000), 6 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "RC13-115",
+  "field": "Longitude (col B)",
+  "old": 104.5,
+  "new": -104.5,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Verified against NCEI site record"
+ },
+ {
+  "tab": "RC13-115",
+  "field": "Age (col R)",
+  "old": "115.432-140.167 ka",
+  "new": "115432-140167 yr BP",
+  "fix": "Converted ka to years BP (x1000), 9 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "V19-29",
+  "field": "Longitude (col B)",
+  "old": 83.57,
+  "new": -83.57,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Verified against NCEI site record"
+ },
+ {
+  "tab": "V19-29",
+  "field": "Age (col R)",
+  "old": "117.389-140.857 ka",
+  "new": "117389-140857 yr BP",
+  "fix": "Converted ka to years BP (x1000), 13 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "VNTR1-8",
+  "field": "Longitude (col B)",
+  "old": 110.48,
+  "new": -110.48,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Verified against NCEI site record"
+ },
+ {
+  "tab": "VNTR1-8",
+  "field": "Age (col R)",
+  "old": "116.600-140.695 ka",
+  "new": "116600-140695 yr BP",
+  "fix": "Converted ka to years BP (x1000), 14 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "Y69-106P",
+  "field": "Longitude (col B)",
+  "old": 86.55,
+  "new": -86.55,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Inferred: same study (Pisias & Mix 1997, eastern equatorial Pacific)"
+ },
+ {
+  "tab": "Y69-106P",
+  "field": "Age (col R)",
+  "old": "119.553-139.637 ka",
+  "new": "119553-139637 yr BP",
+  "fix": "Converted ka to years BP (x1000), 6 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "Y69-71P",
+  "field": "Longitude (col B)",
+  "old": 86.48,
+  "new": -86.48,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Inferred: same study (Pisias & Mix 1997, eastern equatorial Pacific)"
+ },
+ {
+  "tab": "Y69-71P",
+  "field": "Age (col R)",
+  "old": "116.545-140.317 ka",
+  "new": "116545-140317 yr BP",
+  "fix": "Converted ka to years BP (x1000), 5 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "Y71-3-2",
+  "field": "Longitude (col B)",
+  "old": 85.25,
+  "new": -85.25,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Inferred: same study (Pisias & Mix 1997, eastern equatorial Pacific)"
+ },
+ {
+  "tab": "Y71-3-2",
+  "field": "Age (col R)",
+  "old": "118.765-139.001 ka",
+  "new": "118765-139001 yr BP",
+  "fix": "Converted ka to years BP (x1000), 6 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "Y71-9-101",
+  "field": "Longitude (col B)",
+  "old": 106.95,
+  "new": -106.95,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Inferred: same study (Pisias & Mix 1997, eastern equatorial Pacific)"
+ },
+ {
+  "tab": "Y71-9-101",
+  "field": "Age (col R)",
+  "old": "117.696-140.938 ka",
+  "new": "117696-140938 yr BP",
+  "fix": "Converted ka to years BP (x1000), 11 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "Y71-6-12",
+  "field": "Longitude (col B)",
+  "old": 77.57,
+  "new": -77.57,
+  "fix": "Sign corrected to western hemisphere",
+  "basis": "Inferred: same study (Pisias & Mix 1997, eastern equatorial Pacific)"
+ },
+ {
+  "tab": "Y71-6-12",
+  "field": "Age (col R)",
+  "old": "115.704-137.932 ka",
+  "new": "115704-137932 yr BP",
+  "fix": "Converted ka to years BP (x1000), 5 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ },
+ {
+  "tab": "TR163-19",
+  "field": "Age (col R)",
+  "old": "116.400-139.700 ka",
+  "new": "116400-139700 yr BP",
+  "fix": "Converted ka to years BP (x1000), 14 cells",
+  "basis": "Unit inconsistency vs other tabs"
+ }
+]

@@ -1,0 +1,576 @@
+{
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/tripati2011/tripati2011replicate.txt": [
+"ODP 806B"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/tripati2011/tripati2011species.txt": [
+"DSDP 588"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sachs2003/sachs2003-tn057-21-pc2.txt": [
+"TN057-21"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/vm28-122-tab.txt": [
+"VM28-22"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r657-s-tab.txt": [
+"R657"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/w268-tab.txt": [
+"W268"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/u938-s-tab.txt": [
+"U938"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/russon2010/russon2010.txt": [
+"MD06-3018"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/hayes2014/hayes2014.txt": [
+"ODP 1094"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dubois2014/dubois2014-43jc-sst.txt": [
+"ME0005A-43JC"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dubois2014/dubois2014-27jc-sst.txt": [
+"ME0005A-27JC"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r13-110p-tab.txt": [
+"RC13-110"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/kumar2022/nh22p_kumar2022.txt": [
+"NH22P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/zhang2021/zhang2021.txt": [
+"KX97322-4"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp806b-tab.txt": [
+"ODP 806B"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/tierney2017b/tierney2017b.txt": [
+"RC09-166"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/bova2020/bova2020-u1485-sst.txt": [
+"IODP U1485"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/hoenisch2009/hoenisch2009.txt": [
+"ODP 668B"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/ikehara2000/": [
+"TSP-2MC"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m85668eb-tab.txt": [
+"MD85668"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/m85668eb-sytr-tab.txt": [
+"MD85668"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md90963-tab.txt": [
+"MD90963"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md79257-tab.txt": [
+"MD79257"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/md79257-sytr-tab.txt": [
+"MD79257"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md85674-tab.txt": [
+"MD85674"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/md85674-sytr-tab.txt": [
+"MD85674"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/t93929-p-tab.txt": [
+"TY93-929/P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/t93929-p-sytr-tab.txt": [
+"TY93-929/P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/tran2025/tran2025-u1482-bio-sst.txt": [
+"IODP U1482"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/windler2019/windler2019.txt": [
+"MD98-2152"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1021.txt": [
+"ODP 1021"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1241.txt": [
+"ODP 1241"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1338.txt": [
+"ODP 1338"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1088.txt": [
+"ODP 1088"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-dsdp594.txt": [
+"DSDP 594"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp907.txt": [
+"ODP 907"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp982.txt": [
+"ODP 982"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1085.txt": [
+"ODP 1085"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1208.txt": [
+"ODP 1208"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp887.txt": [
+"ODP 887"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp850.txt": [
+"ODP 850"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1125.txt": [
+"ODP 1125"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1010.txt": [
+"ODP 1010"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/dsdp594w-tab.txt": [
+"DSDP 594"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/q200-tab.txt": [
+"Q200"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/q585-tab.txt": [
+"Q585"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r657-tab.txt": [
+"R657"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/s794-tab.txt": [
+"S794"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/u938-tab.txt": [
+"U938"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/medina-elizalde2005/medina-elizalde2005.txt": [
+"ODP 806B"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp982-l-tab.txt": [
+"ODP 982"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstuk37.txt": [
+"MD99-2331"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstfor.txt": [
+"MD99-2331"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2006/nuernberg2006.txt": [
+"ODP 1172A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2004b/nuernberg2004b.txt": [
+"ODP 1172A",
+"ODP 1170A",
+"ODP 1168A",
+"ODP 1171A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/by_contributor/harada2006/harada2006.txt": [
+"MD01-2412"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/peterson2019/peterson2019-odp1125-sst.txt": [
+"ODP 1125"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/phytoplankton_zhang_2013.txt": [
+"ODP 925B"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/b_ca_tripati_2009.txt": [
+"ODP 806B",
+"ODP 588"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/o806b-mm-tab.txt": [
+"ODP 806B"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp847-tab.txt": [
+"ODP 847"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp36.txt": [
+"Deep Sea Drilling Project Site 36"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp475.txt": [
+"Deep Sea Drilling Project Site 475"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/gb10083-tab.txt": [
+"GeoB10083"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/gb10163-tab.txt": [
+"GeoB10163"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/gb10285-tab.txt": [
+"GeoB10285"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/ps1778-5-tab.txt": [
+"PS1778-5"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/wei2007/wei2007.txt": [
+"ODP 1144"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc17-tab.txt": [
+"RS147-GC017"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc14-tab.txt": [
+"RS147-GC14"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc31-tab.txt": [
+"RS147-GC31"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e45-29-tab.txt": [
+"E45-29"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-17-tab.txt": [
+"E49-17"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-18-tab.txt": [
+"E49-18"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-21-tab.txt": [
+"E49-21"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-23-tab.txt": [
+"E49-23"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r12-225r-tab.txt": [
+"RC12-225"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/mcclymont2016/mcclymont2016-dsdp593.txt": [
+"DSDP 593"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/martinez-garcia2010/martinez-garcia2010.txt": [
+"ODP 882",
+"ODP 1090"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e11-2m-tab.txt": [
+"E11-2"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m972141r-tab.txt": [
+"MD97-2141"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1172a-tab.txt": [
+"ODP 1172A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1168a-tab.txt": [
+"ODP 1168A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/windler2022/vm19-193_windler2022.txt": [
+"VM19-193"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/white2020-pp/white2020-806-mgca-sst.txt": [
+"ODP 806"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/ford2019/ford2019-odp806.txt": [
+"ODP 806"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2013/dyez2013-noaa.txt": [
+"ODP 871"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2014-grl/dyez2014-grl.txt": [
+"ODP 871"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/pacific/liu2022/liu2022-odp806-mgca.txt": [
+"ODP 806"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/pacific/liu2022/liu2022-u1488-alkenone.txt": [
+"IODP U1488"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/pacific/liu2022/liu2022-u1488-tex86.txt": [
+"IODP U1488"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/degaridel-thoron2005/degaridel-thoron2005.txt": [
+"MD97-2140"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/li2017/li2017.txt": [
+"ODP 1148"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md972120-tab.txt": [
+"MD97-2120"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/huang2007/huang2007biomarker.txt": [
+"ODP 722"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/k708-1-tab.txt": [
+"K708-1"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2021/clemens2021-u1446-mgca-noaa.txt": [
+"IODP U1446"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2021/clemens2021-u1446-d18Osw-noaa.txt": [
+"IODP U1446"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2021/clemens2021-u1446-tex86hsst-noaa.txt": [
+"IODP U1446"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/henry2016/henry2016sst.txt": [
+"KNR191-CDH19"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1014a-tab.txt": [
+"ODP 1014A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1016c-tab.txt": [
+"ODP 1016C"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/lpaz21p-tab.txt": [
+"LPAZ-21P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/lpaz21p-sytr-tab.txt": [
+"LPAZ-21P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1012-tab.txt": [
+"ODP 1012"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/odp1012-sytr-tab.txt": [
+"ODP 1012"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1020-tab.txt": [
+"ODP 1020"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/odp1020-sytr-tab.txt": [
+"ODP 1020"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lyle2010/lyle2010.txt": [
+"ODP 1018"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sachs2003/sachs2003-tn057-06-pc4.txt": [
+"TN057-06"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sachs2003/sachs2003-odp1089.txt": [
+"ODP 1089"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp999a-tab.txt": [
+"ODP 999A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/u939-tab.txt": [
+"U939"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2008/clemens2008.txt": [
+"ODP 1146"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/crosta2004/crosta2004.txt": [
+"SO136-111"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md2-2575-tab.txt": [
+"MD02-2575"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dubois2014/dubois2014-24jc-sst.txt": [
+"ME0005A-24JC"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp846l6-tab.txt": [
+"ODP 846"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/v19-29p-tab.txt": [
+"V19-29"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/rc10-62-tab.txt": [
+"RC10-62"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/rc13-115-tab.txt": [
+"RC13-115"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/vntr1-8-tab.txt": [
+"VNTR1-8"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/y69-106p-tab.txt": [
+"Y69-106P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/y69-71p-tab.txt": [
+"Y69-71P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/y71-3-2-tab.txt": [
+"Y71-3-2"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/y71-6-12-tab.txt": [
+"Y71-6-12"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/y719-101-tab.txt": [
+"Y71-9-101"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2016/dyez2016-sst.txt": [
+"ODP 1239"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2016/dyez2016-sst-rm10.txt": [
+"ODP 1239"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2016/dyez2016-sst-e10.txt": [
+"ODP 1239"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2016/dyez2016-sst-merge.txt": [
+"ODP 1239"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2016/dyez2016-sst-gradient.txt": [
+"ODP 1239"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp846-l-tab.txt": [
+"ODP 846"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/mohtadi2010b/mohtadi2010b.txt": [
+"GeoB10038-4"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/t16319l4-tab.txt": [
+"TR163-19"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/sk157_4-tab.txt": [
+"SK 157/4"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/tr163-19-tab.txt": [
+"TR163-19"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/1105-tab.txt": [
+"1105"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/1112-tab.txt": [
+"1112"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/tr163-22-sytr-tab.txt": [
+"TR163-22"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/tr163-22-tab.txt": [
+"TR163-22"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/weldeab2007/weldeab2007.txt": [
+"MD03-2707"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2001/lapaz21p.txt": [
+"LPAZ-21P"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2001/odp1012.txt": [
+"ODP 1012"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2001/odp1020.txt": [
+"ODP 1020"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/hodell2013/hodell2013biomarker.txt": [
+"MD01-2444"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp846.txt": [
+"ODP 846"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp722.txt": [
+"ODP 722"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/chat1k-tab.txt": [
+"CHAT 1K"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lawrence2006/lawrence2006.txt": [
+"ODP 846"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lea2004/lea2004.txt": [
+"TR163-19"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lea2006/lea2006.txt": [
+"TR163-22"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md04-2845-sstfor.txt": [
+"MD04-2845"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m2421-y-tab.txt": [
+"MD01-2421"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/oba2006/oba2006.txt": [
+"MD01-2421"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/oppo2005/oppo2005.txt": [
+"ODP 1145"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/oppo2006/oppo2006.txt": [
+"ODP 980"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/boron_isotopes_chalk_2017.txt": [
+"ODP 999A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2010/herbert2010.txt": [
+"ODP 846B/D",
+"ODP 662",
+"ODP 722",
+"IODP 1146"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/schmidt2006/schmidt2006.txt": [
+"ODP 999A"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/zhang2023/zhang2023-u1483-biomarker.txt": [
+"IODP U1483"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/thomas2014/thomas2014.txt": [
+"ODP 1146"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/thomas2014/thomas2014-gdgt.txt": [
+"ODP 1146"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1145-tab.txt": [
+"ODP 1145"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc07-tab.txt": [
+"RS147-GC07"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m88-770r-tab.txt": [
+"MD88-770"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r11-120r-tab.txt": [
+"RC11-120"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m97-2120-tab.txt": [
+"MD97-2120"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m97-2121-tab.txt": [
+"MD97-2121"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1123-tab.txt": [
+"ODP 1123"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/martinez-garcia2009/martinez-garcia2009.txt": [
+"ODP 1090",
+"PS2489-2"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/rc11120m-tab.txt": [
+"RC11-120"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/yamamoto2005/yamamoto2005.txt": [
+"MD01-2421"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/yamamoto2007/yamamoto2007.txt": [
+"ODP 1014A",
+"ODP 1016C"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2018/clemens2018-u1429-uk37sst-noaa.txt": [
+"IODP U1429"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2018/clemens2018-u1429-interp-noaa.txt": [
+"IODP U1429"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/oppo1996/": [
+"EW9302-8JPC"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/ps20821b-tab.txt": [
+"PS2082-1"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/rustic2020/rustic2020.txt": [
+"Central Equatorial Pacific"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/turney2021/": [
+"Global Ocean"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/bova2020/bova2020-ProxyData-tropics.txt": [
+"Tropical SST Region"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/bova2020/bova2020-ProxyData-extratropics.txt": [
+"Extratropical SST Region"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/tran2025/tran2025-u1482-coretop.txt": [
+"Indian Ocean NW Australia"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/paleocean/fossil_plankton/": [
+"North Atlantic Ocean"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-med.txt": [
+"Central/Southern Italy"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp883_884.txt": [
+"ODP 883/884"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lawrence2005/lawrence2005.txt": [
+"ODP 820"
+],
+"https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/prahl2006/prahl2006.txt": [
+"Eastern Pacific"
+]
+}
