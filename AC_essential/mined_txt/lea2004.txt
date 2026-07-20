@@ -1,0 +1,343 @@
+Eastern Tropical Pacific Foraminiferal Mg/Ca and SST Reconstruction
+---------------------------------------------------------------------
+                NOAA Paleoclimatology Program
+                               and
+         World Data Center for Paleoclimatology, Boulder
+---------------------------------------------------------------------
+NOTE: PLEASE CITE ORIGINAL REFERENCES WHEN USING THIS DATA!!!!!
+
+NAME OF DATA SET: Eastern Tropical Pacific Foraminiferal Mg/Ca and SST Reconstruction
+LAST UPDATE: 6/2004 (Original Receipt by WDC Paleo)
+
+CONTRIBUTOR: David Lea, University of California, Santa Barbara
+
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2004-028
+
+SUGGESTED DATA CITATION:  Lea, D. W., 2004.
+Eastern Tropical Pacific Foraminiferal Mg/Ca and SST Reconstruction,
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series #2004-028. 
+NOAA/NGDC Paleoclimatology Program, Boulder, CO, USA. 
+
+
+ORIGINAL REFERENCE: Lea, D. W.. 2004. 
+The 100,000 year cycle in tropical SST, greenhouse forcing, 
+and climate sensitivity. Journal of Climate 17(11), 2170-2179.
+
+
+ADDITIONAL REFERENCES:
+Dekens, P. S., D. W. Lea, D. K. Pak, and H. J. Spero. 2002. 
+Core top calibration of Mg/Ca in tropical foraminifera: 
+Refining paleo- temperature estimation. 
+Geochem. Geophys. Geosyst., 3, 1022, doi:10.1029/2001GC000200
+
+Lea, D. W., D. K. Pak, and H. J. Spero. 2000. 
+Climate impact of late quaternary equatorial Pacific 
+sea surface temperature variations. 
+Science, v.289, 1719–1724. 
+
+Shackleton, N. J.. 2000. 
+The 100,000-year ice-age cycle identified and found to lag temperature, 
+carbon dioxide, and orbital eccentricity. 
+Science, v.289, 1897–1902.
+
+
+
+
+ABSTRACT: 
+The key scientific uncertainty in the global warming debate is the 
+equilibrium climate sensitivity. Coupled atmosphere–ocean general 
+circulation models predict a wide range of equilibrium climate sensitivities, 
+with a consequently large spread of societal implications. Comparison of 
+models with instrumental data has not been able to reduce the uncertainty 
+in climate sensitivity. An alternative way to gauge equilibrium climate 
+sensitivity is to use paleoclimatic data. Two recent advances, the development 
+and application of proxy recorders of tropical sea surface temperature (SST) 
+and the synchronization of the deep-sea and Antarctic ice-core time scales, 
+make it possible to directly relate past changes in tropical SST to 
+atmospheric carbon dioxide (CO2) levels. The strong correspondence of a 
+proxy SST record from the eastern equatorial Pacific and the Vostok CO2 record 
+suggests that varying atmospheric carbon dioxide is the dominant control on 
+tropical climate on orbital time scales. This effect is especially pronounced 
+at the 100,000-yr cycle. Calibration of the CO2 influence via tropical SST 
+variability indicates a tropical climate sensitivity of 4.4°–5.6°C 
+(errors estimated at ± 1.0°C) for a doubling of atmospheric CO2 concentration. 
+This result suggests that the equilibrium response of tropical climate to 
+atmospheric CO2 changes is likely to be similar to the upper end of available 
+global predictions from coupled models.
+
+
+
+FUNDING SOURCES: USA NSF MG & G, Guggenheim and Leverhulme Foundations
+
+
+GEOGRAPHIC REGION: Cocos Ridge, Eastern tropical Pacific
+PERIOD OF RECORD: 361 KYrBP - present
+
+DESCRIPTION:   
+Cocos Ridge, Eastern tropical Pacific, foraminiferal Mg/Ca and SST reconstruction.
+Mg/Ca data on cleaned G. ruber shells by ICP-MS, 417 individual data points 
+from Lea et al. 2000, and 76 new data points from 39 depth intervals, 
+total data points 493, total depth intervals 208. 
+SST estimates based on depth/basin-corrected calibration in Dekens et al., 2002: 
+SST(deg C) = LN((Mg/Ca-m)/0.38)/0.09+0.61*2.348+1.6
+
+
+Core TR163-19, Cocos Ridge
+lat: 2°15.5'N
+long: 90°57.1'W
+2348m water depth
+
+
+Data precision: Mg/Ca, ±2.1%; SST (est.), ±0.6°C
+
+core site is NW flank of Cocos Ridge, 
+collected in February 1975, core is 10.3m long, 
+archived at University of Rhode Island
+
+Conversion of core depth to age is based on the 
+timescale for core V19-30 in Shackleton (2000). 
+Benthic O18 from TR163-19 was tied to V19-30 O18. 
+A calibrated radiocarbon age was used for the core-top only. 
+
+
+DATA:  
+
+1.  Age model
+
+Event    Depth-cm     age-ky
+Top             1      1.04
+ 2.0           44        12
+ 3.0          124        30
+ 3.3          239        55
+ 5.0          284        71
+  5e          389       124
+ 6.0          414       131
+ 6.5          529       171
+ 7.0          569       191
+7.4 to 7      679       230
+ 8.0          704       245
+ 9.0          799       279
+ 10.0         959       336
+ 10.2         999       344
+-            1029       361
+
+
+
+2.  Mg/Ca and SST
+Depth (cm), Age (ky), Mg/Ca (mmol/mol), SST (°C)
+
+
+
+Depth    Age-ky    Mg/Ca-m   SST-deg C
+    1         1     2.999       26
+    4       1.8      2.86     25.5
+    9       3.1     3.123     26.4
+   14       4.4     3.017     26.1
+   19       5.6     3.061     26.2
+   24       6.9     3.095     26.3
+   29       8.2     3.326     27.1
+   34       9.5     2.989     25.9
+   39      10.7     2.852     25.4
+   44        12     2.881     25.5
+   49      13.1     2.783     25.2
+   54      14.3     2.745       25
+   59      15.4     2.627     24.5
+   64      16.5     2.613     24.5
+   69      17.6     2.309     23.1
+   74      18.8     2.356     23.3
+   79      19.9     2.466     23.8
+   84        21       2.3       23
+   89      22.1     2.447     23.7
+   94      23.3     2.424     23.6
+   99      24.4     2.441     23.7
+  104      25.5     2.215     22.6
+  109      26.6     2.413     23.6
+  114      27.8     2.291       23
+  119      28.9     2.254     22.8
+  124        30     2.361     23.3
+  129      31.1     2.683     24.7
+  134      32.2     2.633     24.5
+  139      33.3     2.467     23.8
+  144      34.3     2.576     24.3
+  149      35.4     2.469     23.8
+  154      36.5     2.601     24.4
+  159      37.6     2.205     22.6
+  164      38.7     2.493     23.9
+  169      39.8      2.58     24.3
+  174      40.9     2.595     24.4
+  179        42     2.441     23.7
+  184        43     2.458     23.8
+  189      44.1     2.577     24.3
+  194      45.2     2.601     24.4
+  199      46.3     2.622     24.5
+  204      47.4     2.659     24.7
+  209      48.5     2.785     25.2
+  214      49.6     2.669     24.7
+  220      50.9     2.441     23.7
+  224      51.7     2.493     23.9
+  229      52.8     2.608     24.4
+  234      53.9     2.715     24.9
+  239        55      2.63     24.5
+  244      56.8     2.556     24.2
+  249      58.6     2.521     24.1
+  254      60.3     2.527     24.1
+  259      62.1     2.665     24.7
+  264      63.9     2.563     24.2
+  269      65.7     2.208     22.6
+  274      67.4     2.416     23.6
+  279      69.2     2.373     23.4
+  284        71     2.555     24.2
+  289      73.5     2.529     24.1
+  294        76     2.741       25
+  299      78.6     2.767     25.1
+  304      81.1     2.852     25.4
+  309      83.6     2.896     25.6
+  314      86.1     2.603     24.4
+  319      88.7     2.525     24.1
+  324      91.2     2.516       24
+  329      93.7     2.607     24.4
+  334      96.2     2.775     25.1
+  339      98.8     2.939     25.8
+  344     101.3     2.903     25.6
+  349     103.8     3.017     26.1
+  354     106.3     2.927     25.7
+  359     108.9     2.849     25.4
+  364     111.4     2.725     24.9
+  369     113.9     2.757     25.1
+  374     116.4     2.698     24.8
+  379       119      3.13     26.5
+  384     121.5     3.091     26.3
+  389       124     3.385     27.3
+  394     125.4      3.59       28
+  399     126.8     3.621     28.1
+  404     128.2     3.614     28.1
+  409     129.6     3.158     26.6
+  414       131     3.367     27.3
+  419     132.7     3.058     26.2
+  423     134.1     2.796     25.2
+  429     136.2     2.522     24.1
+  434       138     2.605     24.4
+  439     139.7     2.491     23.9
+  444     141.4     2.623     24.5
+  449     143.2     2.419     23.6
+  454     144.9     2.562     24.2
+  459     146.7     2.573     24.3
+  464     148.4      2.81     25.3
+  469     150.1     2.501       24
+  474     151.9      2.56     24.2
+  479     153.6     2.306     23.1
+  484     155.3     2.375     23.4
+  489     157.1     2.246     22.8
+  494     158.8      2.54     24.1
+  499     160.6     2.553     24.2
+  504     162.3     2.578     24.3
+  509       164     2.382     23.4
+512.8     165.3     2.483     23.9
+  519     167.5     2.302       23
+  524     169.3      2.56     24.2
+  529       171     2.444     23.7
+  534     173.5     2.519       24
+  539       176     2.343     23.2
+  544     178.5     2.748       25
+  549       181     2.419     23.6
+  554     183.5     2.575     24.3
+  559       186     2.332     23.2
+  564     188.5     2.645     24.6
+  569       191     2.438     23.7
+  574     192.8     2.605     24.4
+  579     194.5     2.569     24.3
+  584     196.3     2.942     25.8
+  589     198.1     2.784     25.2
+  594     199.9     3.089     26.3
+  599     201.6     2.768     25.1
+  604     203.4     2.629     24.5
+  609     205.2     2.601     24.4
+  614       207     2.744       25
+  619     208.7     2.765     25.1
+  624     210.5     3.019     26.1
+  629     212.3     3.115     26.4
+  634       214     3.183     26.6
+  639     215.8     3.025     26.1
+  644     217.6     2.816     25.3
+  649     219.4     2.533     24.1
+  654     221.1     2.524     24.1
+  659     222.9     2.402     23.5
+  664     224.7     2.816     25.3
+  669     226.5     2.615     24.5
+  674     228.2     2.669     24.7
+  679       230     2.753       25
+  684       233     3.135     26.5
+  689       236     3.172     26.6
+  694       239     3.346     27.2
+  699       242      3.52     27.8
+  704       245     3.215     26.8
+  709     246.8     2.884     25.6
+  714     248.6     2.724     24.9
+  719     250.4      2.65     24.6
+  724     252.2     2.352     23.3
+  729     253.9     2.427     23.6
+  734     255.7     2.385     23.4
+  739     257.5      2.46     23.8
+  743       259     2.384     23.4
+  744     259.3     2.476     23.9
+  749     261.1     2.441     23.7
+  754     262.9     2.425     23.6
+  759     264.7     2.445     23.7
+  764     266.5     2.495     23.9
+  769     268.3     2.278     22.9
+  774     270.1     2.333     23.2
+  779     271.8     2.536     24.1
+  784     273.6     2.337     23.2
+  789     275.4     2.331     23.2
+  794     277.2     2.414     23.6
+  799       279     2.723     24.9
+  804     280.8     2.468     23.8
+  809     282.6     2.824     25.3
+  814     284.3     2.839     25.4
+  819     286.1     3.102     26.4
+  824     287.9     3.071     26.3
+  829     289.7     3.231     26.8
+  834     291.5       2.8     25.2
+  839     293.3     2.296       23
+  844       295     2.385     23.4
+  849     296.8      2.55     24.2
+  854     298.6     2.388     23.5
+  859     300.4     2.643     24.6
+  864     302.2     2.665     24.7
+  869     303.9     2.689     24.8
+  874     305.7     2.636     24.6
+  879     307.5     2.795     25.2
+  884     309.3     2.846     25.4
+  889     311.1     2.775     25.1
+  894     312.8     2.919     25.7
+  899     314.6     3.022     26.1
+  904     316.4     2.772     25.1
+  909     318.2     2.794     25.2
+  914       320     2.894     25.6
+  919     321.8     2.884     25.6
+  924     323.5     2.885     25.6
+  929     325.3     3.355     27.2
+  934     327.1     3.174     26.6
+  939     328.9     3.429     27.5
+  944     330.7     3.088     26.3
+  949     332.4     3.509     27.7
+  954     334.2      3.31     27.1
+  959       336     3.535     27.8
+  964       337     3.113     26.4
+  969       338     3.177     26.6
+  974       339     2.858     25.5
+  979       340      2.83     25.3
+  984       341     2.674     24.7
+  989       342     2.753       25
+  994       343     2.588     24.3
+  999       344     2.512       24
+ 1004     346.8     2.484     23.9
+ 1009     349.7     2.668     24.7
+ 1014     352.5     2.518       24
+ 1019     355.3     2.408     23.5
+ 1024     358.2     2.329     23.2
+ 1029       361     2.341     23.2
+
+
+

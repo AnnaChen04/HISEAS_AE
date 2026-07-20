@@ -1,0 +1,234 @@
+# Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/25390
+#      Description: NOAA Landing Page
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp887.txt
+#      Description: NOAA location of the template
+#
+# Archive: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: biomarkers
+#---------------------------------------
+# Contribution_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# Title
+#    Study_Name: Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#---------------------------------------
+# Investigators
+#      Investigators: Herbert, T.D.; Lawrence, K.T.; Tzanova, A.; Peterson, L.C.; Caballero-Gill, R.; Kelly, C.S.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Note: age models for Sites 907 and 982 refined following publication of Herbert et al., 2016 NGS
+#         Provided Keywords: Global ocean cooling, mid-Miocene to Present
+#---------------------------------------
+# Publication
+# Authors: Herbert, T.D., Lawrence, K.T.,Tzanova, A., Peterson, L.C., Caballero-Gill, R., and Kelly, C.S.
+# Published_Date_or_Year: 2016
+# Published_Title: Late Miocene Global Cooling and the Rise of Modern Ecosystems
+# Journal_Name: Nature Geoscience
+# Volume: 9
+# Edition: 
+# Issue: 
+# Pages: 843-847
+# Report_Number: 
+# DOI: 10.1038/ngeo2813
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: During the late Miocene epoch, about seven million years ago, large areas of the continents experienced drying, enhanced seasonality, and a restructuring of terrestrial plant and animal communities. These changes are seen throughout the subtropics, but have typically been attributed to regional tectonic forcing. Here we present a set of globally distributed sea surface temperature records spanning the past 12 million years based on the alkenone unsaturation method. We find that a sustained late Miocene cooling occurred synchronously in both hemispheres, and culminated with ocean temperatures dipping to near-modern values between about 7 and 5.4 million years ago. The period of maximum cooling coincides with evidence for transient glaciations in the Northern Hemisphere and with a steepening of the pole-to-equator temperature gradient, as well. We thus infer that late Miocene aridity and terrestrial ecosystem changes occurred in a global context of increasing meridional temperature gradients. We conclude that a global forcing mechanism, such as the previously hypothesized decline in atmospheric CO2 levels between eight and six million years ago, is required to explain the late Miocene changes in temperature, climate and ecosystems. 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Science Foundation Ocean Sciences
+#    Grant:  1459280, 1545859
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Evolving Earth Foundation
+#    Grant: 
+#---------------------------------------
+# Site_Information
+# Site_Name: ODP 887
+# Location: North Pacific Ocean
+# Country: 
+# Northernmost_Latitude: 54.36535
+# Southernmost_Latitude: 54.36535
+# Easternmost_Longitude: -148.4463
+# Westernmost_Longitude: -148.4463
+# Elevation: -3636
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: ODP887-2016alkenones Herbert
+#   First_Year: 7329800
+#   Last_Year: 5150200
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: Uk'37 measurement precision typically 0.005 units
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# chronology taken from Herbert et al. 2016
+# Event	age_ka	error_ka	depth_(mbsf)	
+# core top	0	5	0	
+# C1n base	781	5	43.05	
+# C1r.1n	988	5	52.65	
+# C1r.1n	1068	5	56.25	
+# C2n	1785	5	75.3	
+# C2n base	1968	5	78.95	
+# C2An.1n	2582	20	87.4	
+# C2An.1n base	3034	20	98.3	
+# C2An.2n	3119	20	100.5	
+# C2An.2n base	3215	20	102.6	
+# C2An.3n	3333	20	103.4	
+# C2An.3n base	3597	20	105.85	
+# C3n.1n	4187	20	120.95	
+# C3n.1n base	4300	20	122	
+# C3n.2n	4493	20	125.15	
+# C3n.2nbase	4632	20	126.75	
+# C3n.3n	4799	20	127.2	
+# C3n.3n base	4896	20	135.1	
+# C3n.4n	4998	20	143.5	
+# C3n.4n base	5235	20	148.65	
+# C3An.1n	6030	20	166.25	
+# C3An.1n base	6265	20	171.15	
+# C3An.2n	6440	40	181.75	
+# C3An.2n base	6730	40	188.6	
+# C3Bn	7100	40	192.2	
+# C3Bn base	7210	40	192.8	
+# C3Br.1n	7250	40	193.6	
+# C3Br.1n base	7290	40	194.8	
+# CBr.2n	7450	40	197.8	
+# C4n.1n base	7640	40	199.25	
+# C4n.2	7700	40	199.75	
+# C4n.2n	8110	40	205.45	
+# C4r.1n	8260	40	206.8	
+# C4r.1n base	8300	40	207.4	
+# C4An	8660	40	211.8	
+# C4An base	9100	40	215.1	
+# C4Ar.1n	9311	40	215.6	
+# C4Ar.1n base	9410	40	216	
+# C4Ar.2n	9656	40	219.75	
+# C5n.1n	9779	40	220.75	
+# C5n.1n base	9934	40	222.8	
+# C5n.2n	9987	40	223	
+# 
+# C5r.1n	11120	40	232.25	
+# C5r.1n base	11150	40	232.6	
+# C5r.2n	11554	40	235.15	
+# C5r.2n base	11614	40	235.75	
+# C5An.1n	12014	40	238.2	
+# C5An.1n base	12116	40	239.15	
+# C5An.2n	12207	40	240.05	
+# C5An.2n base	12415	40	241.75	
+# C5A4.1n	12730	40	243.45	
+# C5A4.1n base	12765	40	243.85	
+# C5A4.2n	12820	40	244.65	
+# C5A4.2n base	12878	40	245.35	
+# C5AA.n	13015	40	245.5	
+# C5AA.n base	13156	40	247.3	
+# 5AB	13320	40	248.45	
+# 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## sitename	sample identification,,,,,paleoceanography,,,C,Site
+## Hole	notes,,,,,paleoceanography,,,C,hole name
+## core	notes,,,,,paleoceanography,,,C,core
+## section	notes,,,,,paleoceanography,,,C,section
+## cm_top	depth at sample end,,,centimeter,,paleoceanography,,,N,
+## cm_base	depth at sample start,,,centimeter,,paleoceanography,,,N,
+## depth_mbsf	depth,,,meter,,paleoceanography,,,N,shipboard meters below sea floor
+## depth_mcd	depth,,,meter,,paleoceanography,,,N,composite depth 
+## age_kaBP	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## age_uncert_ka	age,,90% confidence interval margin of error,calendar kiloyear before present,,paleoceanography,,,N,
+## Uk'37	alkenone unsaturation index,sediment,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,GC-FID
+## SST_P	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following F.G. Prahl et al., 1988; estimated
+## SST_M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following P.J. Muller et al. 1998; estimated
+## SST_anom-M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; Muller calibration
+## SST_anom_back	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; backtraced for paleolatitude/longitude
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NaN
+sitename	Hole	core	section	cm_top	cm_base	depth_mbsf	depth_mcd	age_kaBP	age_uncert_ka	Uk'37	SST_P	SST_M	SST_anom-M	SST_anom_back	
+887	C	17	5	40	42	147.2	NaN	5150.2	39.6	0.504	13.66	13.93	6.73	6.34	
+887	C	17	6	40	42	148.7	NaN	5223	45.65	0.527	14.35	14.63	7.43	7.03	
+887	C	17	7	40	42	150.2	NaN	5291.9	58	0.400	10.61	10.78	3.58	3.18	
+887	C	18	1	50	52	150.8	NaN	5309.8	60.2	0.443	11.89	12.10	4.90	4.49	
+887	C	18	2	50	52	152.3	NaN	5354.1	95.4	0.445	11.95	12.16	4.96	4.55	
+887	C	18	3	50	52	153.8	NaN	5398	147.75	0.438	11.74	11.95	4.75	4.33	
+887	C	18	4	50	52	155.3	NaN	5446.8	184.55	0.408	10.86	11.04	3.84	3.41	
+887	C	18	4	50	52	155.3	NaN	5446.8	184.55	0.418	11.15	11.34	4.14	3.71	
+887	C	18	4	50	52	155.3	NaN	5446.8	184.55	0.422	11.26	11.45	4.25	3.82	
+887	C	18	4	50	52	155.3	NaN	5446.8	184.55	0.424	11.31	11.51	4.31	3.88	
+887	C	18	6	60	62	157.9	NaN	5568.2	184.05	0.314	8.09	8.18	0.98	0.54	
+887	C	19	1	5	7	159.85	NaN	5657.9	232.15	0.243	6.01	6.04	-1.16	-1.61	
+887	C	19	1	75	77	160.55	NaN	5688.9	217.35	0.314	8.09	8.18	0.98	0.53	
+887	C	19	2	5	7	161.35	NaN	5724.4	197	0.456	12.27	12.49	5.29	4.84	
+887	C	19	2	75	77	162.05	NaN	5755	179.9	0.250	6.21	6.25	-0.95	-1.40	
+887	C	19	3	5	7	162.85	NaN	5790	164.8	0.342	8.91	9.02	1.82	1.37	
+887	C	19	3	5	7	162.85	NaN	5790	164.8	0.352	9.22	9.35	2.15	1.69	
+887	C	19	3	75	77	163.55	NaN	5820.9	156.15	0.304	7.78	7.87	0.67	0.21	
+887	C	19	3	75	77	163.55	NaN	5820.9	156.15	0.314	8.10	8.19	0.99	0.53	
+887	C	19	4	5	7	164.35	NaN	5856.3	153.8	0.340	8.85	8.96	1.76	1.30	
+887	C	19	4	5	7	164.35	NaN	5856.3	153.8	0.373	9.83	9.98	2.78	2.31	
+887	C	19	4	75	77	165.05	NaN	5888.6	159.7	0.251	6.24	6.28	-0.92	-1.38	
+887	C	19	4	75	77	165.05	NaN	5888.6	159.7	0.272	6.85	6.90	-0.30	-0.76	
+887	C	19	5	5	7	165.85	NaN	5945	127.15	0.289	7.36	7.43	0.23	-0.24	
+887	C	19	5	5	7	165.85	NaN	5945	127.15	0.309	7.95	8.04	0.84	0.37	
+887	C	19	5	75	77	166.55	NaN	5994.3	98.85	0.318	8.21	8.31	1.11	0.63	
+887	C	19	6	5	7	167.35	NaN	6050.9	70.15	0.273	6.89	6.95	-0.25	-0.72	
+887	C	19	6	5	7	167.35	NaN	6050.9	70.15	0.301	7.71	7.79	0.59	0.11	
+887	C	19	6	75	77	168.05	NaN	6100.2	54.4	0.279	7.07	7.13	-0.07	-0.55	
+887	C	19	6	75	77	168.05	NaN	6100.2	54.4	0.296	7.57	7.65	0.45	-0.03	
+887	C	19	7	5	7	168.35	NaN	6121.3	51.55	0.266	6.67	6.72	-0.48	-0.96	
+887	C	19	7	5	7	168.35	NaN	6121.3	51.55	0.282	7.14	7.20	0.00	-0.48	
+887	C	19	7	60	62	168.9	NaN	6160	58.45	0.311	8.01	8.10	0.90	0.42	
+887	C	20	1	75	77	169.65	NaN	6213	84.1	0.239	5.87	5.90	-1.30	-1.79	
+887	C	20	2	5	7	170.85	NaN	6260.2	79.45	0.224	5.44	5.45	-1.75	-2.24	
+887	C	20	2	75	77	171.55	NaN	6279	68.75	0.237	5.84	5.86	-1.34	-1.83	
+887	C	20	3	5	7	172.35	NaN	6300.7	59.25	0.263	6.58	6.63	-0.57	-1.07	
+887	C	20	4	5	7	173.85	NaN	6341.4	67.7	0.286	7.26	7.33	0.13	-0.37	
+887	C	20	5	5	7	175.35	NaN	6377.9	88.5	0.268	6.74	6.79	-0.41	-0.91	
+887	C	20	5	75	77	176.05	NaN	6390	86.3	0.236	5.80	5.82	-1.38	-1.88	
+887	C	20	6	5	7	176.85	NaN	6404	84.4	0.354	9.26	9.39	2.19	1.69	
+887	C	20	6	75	77	177.55	NaN	6416.1	83.8	0.216	5.20	5.21	-1.99	-2.50	
+887	C	21	1	75	77	179.55	NaN	6450.8	100.8	0.265	6.65	6.70	-0.50	-1.01	
+887	C	21	2	5	7	180.35	NaN	6466.4	100	0.263	6.59	6.64	-0.56	-1.07	
+887	C	21	2	5	7	180.35	NaN	6466.4	100	0.288	7.33	7.40	0.20	-0.31	
+887	C	21	2	5	7	180.35	NaN	6466.4	100	0.297	7.60	7.68	0.48	-0.03	
+887	C	21	2	5	7	180.35	NaN	6466.4	100	0.357	9.34	9.47	2.27	1.77	
+887	C	21	2	75	77	181.05	NaN	6481.8	89.7	0.284	7.21	7.27	0.07	-0.44	
+887	C	21	3	5	7	181.85	NaN	6499.4	82.05	0.264	6.61	6.66	-0.54	-1.05	
+887	C	21	3	75	77	182.55	NaN	6515	80.1	0.289	7.34	7.42	0.22	-0.30	
+887	C	21	4	5	7	183.35	NaN	6532.8	83.8	0.305	7.84	7.92	0.72	0.20	
+887	C	21	4	75	77	184.05	NaN	6548.3	89.5	0.296	7.56	7.63	0.43	-0.09	
+887	C	21	5	5	7	184.85	NaN	6565.9	100.85	0.339	8.82	8.94	1.74	1.21	
+887	C	21	5	75	77	185.55	NaN	6588.2	94.35	0.269	6.75	6.81	-0.39	-0.92	
+887	C	21	6	5	7	186.35	NaN	6615.9	85.75	0.291	7.42	7.49	0.29	-0.24	
+887	C	21	6	75	77	187.05	NaN	6640	82.35	0.294	7.49	7.57	0.37	-0.17	
+887	C	21	6	75	77	187.05	NaN	6640	82.35	0.354	9.28	9.41	2.21	1.67	
+887	C	21	7	20	22	188	NaN	6673	87.6	0.265	6.64	6.69	-0.51	-1.05	
+887	C	22	2	75	77	190.55	NaN	6800.6	99.5	0.339	8.82	8.94	1.74	1.18	
+887	C	22	3	5	7	191.35	NaN	6885.3	81.95	0.372	9.78	9.93	2.73	2.16	
+887	C	22	3	75	77	192.05	NaN	6959	68.05	0.441	11.82	12.02	4.82	4.25	
+887	C	22	4	5	7	192.85	NaN	7043.5	55.65	0.426	11.38	11.57	4.37	3.78	
+887	C	22	5	5	7	194.35	NaN	7202.1	53.65	0.558	15.26	15.57	8.37	7.78	
+887	C	22	6	5	7	195.85	NaN	7329.8	49.75	0.576	15.79	16.12	8.92	8.32	

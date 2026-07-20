@@ -1,0 +1,56 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# w268-tab.txt
+# Complete Data
+# File Created: 17-Apr-2006
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Elisabeth L. Sikes
+# Core/Site:      W268
+# Latitude:       42.51.02S	( -42.85056)
+# Longitude:      178.58.10E	( 178.9694)
+# Water Depth(m): 980
+#
+# Publications:
+#   Sikes, E.L., W.R. Howard, H.L. Neil, and J.K. Volkman. 2002. Glacial-interglacial
+#     sea surface temperature changes across the subtropical front east of New Zealand
+#     based on alkenone unsaturation ratios and foraminiferal assemblages. Paleoceanography,
+#     17(2).
+#------------------
+#
+# Description & Notes:
+#   Chatham Rise Alkenone and Foraminiferal SST Estimates.
+#   Uk37 SST warm season calculated using Sikes and Volkman [1993] calibration 9Uk'37=
+#   0.0414T-0.156). Subsurface Uk37 SST calculated using Prahl and Wakeham [1998]
+#   (Uk'37 = 0.034T+0.039). One sigma =1.0°C Antarctic CRC/CSIRO Oceanography. Foraminiferal
+#   SST's determined with Modern Analog Technique (MAT) using Southern Ocean core-top
+#   set, Data 1997, one sigma = 2 °C Antarctic CRC.
+#
+# Variables:
+#             depth         Depth (cm)
+#             yrBP          radiocarbon years B.P. (Libby half-life; B.P. = 1950)
+#             sst-sub.uk37  Subsurface Sea Temperature from Uk'37
+#             sst-warm.uk37 Sea Surface Temperature from Uk'37 (warm season)
+#             uk37          Alkenone saturation index
+#
+# CORE: W268
+depth	yrBP 	sst-sub.uk37	sst-warm.uk37	uk37	
+1	1000	14.69	16.775	0.538	
+3.25	3416.2	14.758	16.831	0.541	
+5.5	5832.3	12.789	15.214	0.474	
+8	8948	14.866	16.919	0.544	
+10.5	13181.9	10.769	13.554	0.405	
+13	14991.1	14.119	16.306	0.519	
+15.5	16800.4	12.076	14.627	0.45	
+18	18609.6	11.198	13.907	0.42	
+20.75	20599.8	12.319	14.827	0.458	
+23.5	22590	14.07	16.265	0.517	
+26	23280.9	12.192	14.723	0.454	
+29	24110	13.133	15.496	0.486	
+32	24939.1	13.223	15.57	0.489	
+35	25768.2	12.783	15.208	0.474	
+38	26597.3	12.868	15.278	0.477	

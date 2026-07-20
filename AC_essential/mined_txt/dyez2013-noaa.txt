@@ -1,0 +1,297 @@
+# Western Pacific Warm Pool ODP871 500 KYr Foraminiferal d18O and Mg/Ca SST
+#----------------------------------------------------------------------- 
+#               World Data Service for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available),
+# and date accessed when using these downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/13479
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-ocean-13479.json
+#   Study_Level_JSON_Description: JSON metadata of this file's parent study, which includes all study metadata.
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI: 10.25921/mxwf-c439
+#
+# Science_Keywords: Warm Pool
+#--------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2013/dyez2013-noaa.txt
+#   Data_Download_Description: NOAA Template File; Geochemistry Data and Temperature Reconstruction
+#
+# Original_Source_URL: 
+#   Original_Source_Description: 
+#
+#--------------------
+# Contribution_Date
+#   Date: 2012-10-29
+#--------------------
+# File_Last_Modified_Date
+#   Date: 2022-09-21
+#--------------------
+# Title
+#   Study_Name: Western Pacific Warm Pool ODP871 500 KYr Foraminiferal d18O and Mg/Ca SST
+#--------------------
+# Investigators
+#   Investigators: Dyez, K.A.(https://orcid.org/0000-0001-8347-3089); Ravelo, A.C.(https://orcid.org/0000-0003-3929-677X)
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: Mg/Ca paleothermometry from the planktonic foraminifera Globigerinoides ruber from the past 500 k.y. at Ocean Drilling Program (ODP) Site 871 in the western Pacific warm pool. 
+#--------------------
+# Publication
+#   Authors: Dyez, K.A. and A.C. Ravelo
+#   Journal_Name: Geology
+#   Published_Title: Late Pleistocene tropical Pacific temperature sensitivity to radiative greenhouse gas forcing
+#   Published_Date_or_Year: 2013
+#   Volume: 41
+#   Pages: 23-26
+#   Issue: 1
+#   Report_Number: 
+#   DOI: 10.1130/G33425.1
+#   Full_Citation: 
+#   Abstract: Understanding how global temperature changes with increasing atmospheric greenhouse gas concentrations, or climate sensitivity, is of central importance to climate change research. Climate models provide sensitivity estimates that may not fully incorporate slow, long-term feedbacks such as those involving ice sheets and vegetation. Geological studies, on the other hand, can provide estimates that integrate long- and short-term climate feedbacks to radiative forcing. Because high latitudes are thought to be most sensitive to greenhouse gas forcing owing to, for example, ice-albedo feedbacks, we focus on the tropical Pacific Ocean to derive a minimum value for long-term climate sensitivity. Using Mg/Ca paleothermometry from the planktonic foraminifera Globigerinoides ruber from the past 500 k.y. at Ocean Drilling Program (ODP) Site 871 in the western Pacific warm pool, we estimate the tropical Pacific climate sensitivity parameter (lambda) to be 0.94-1.06°C (W m-2)-1, higher than that predicted by model simulations of the Last Glacial Maximum or by models of doubled greenhouse gas concentration forcing. This result suggests that models may not yet adequately represent the long-term feedbacks related to ocean circulation, vegetation and associated dust, or the cryosphere, and/or may underestimate the effects of tropical clouds or other short-term feedback processes.
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant_Number: OCE-0902047
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name: Consortium for Ocean Leadership
+#   Grant_Number: Schlanger Fellowship
+#--------------------
+# Site_Information
+#   Site_Name:  ODP 871
+#   Location: Western Pacific Ocean
+#   Northernmost_Latitude: 5.5572
+#   Southernmost_Latitude: 5.5572
+#   Easternmost_Longitude: 172.3443
+#   Westernmost_Longitude: 172.3443
+#   Elevation: -1254
+#--------------------
+# Data_Collection
+#   Collection_Name:  ODP871Dyez2012
+#   First_Year: 537150
+#   Last_Year: 0
+#   Time_Unit: cal yr BP
+#   Core_Length: 5.59
+#   Parameter_Keywords: reconstruction
+#   Notes: 
+#--------------------
+# Chronology_Information
+#   Chronology:
+# 
+# 
+# 
+# 
+#------------------
+# Variables 
+#
+#   PaST_Thesaurus_Download_Resource:  https://www.ncdc.noaa.gov/paleo/skos/past-thesaurus.rdf
+#     PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+#   variables format: shortname <tab> what,material,error,units,seasonality,data_type,detail,method, C(har) or N(umeric) data,additional information
+#
+## depth_m	depth,,,meter,,climate reconstructions;paleoceanography,,,N,mbsf
+## age_calkaBP	age,,,calendar kiloyear before present,,climate reconstructions;paleoceanography,,,N,
+## d18Og.rub	delta 18O,Globigerinoides ruber,,per mil VPDB,,paleoceanography,,,N,
+## Mg/Ca-g.rub	magnesium/calcium,Globigerinoides ruber,,dimensionless,,paleoceanography,,,N,
+## sst	sea surface temperature,magnesium/calcium,,degree Celsius,,climate reconstructions;paleoceanography,,,N,Mg/Ca Globigerinoides ruber
+## notes	notes,,,,,paleoceanography,,,N,Site Hole Core Type Section Interval-cm
+#--------------------
+# Data:
+# Missing_Values:
+depth_m	age_calkaBP	d18Og.rub	Mg/Ca-g.rub	sst	notes
+0.01	0	4.18	3.858	28	871B1H1 1 - 3
+0.04	2.87	4.35	4.072	28.5	871B1H1 4 - 6
+0.07	5.89	4	3.839	27.9	871B1H1 7 - 9
+0.1	8.91	4.08	3.962	28.2	871B1H1 10 - 12
+0.13	11.93	3.96	4.073	28.5	871B1H1 13 - 15
+0.16	14.95	4.43	3.669	27.5	871B1H1 16 - 18
+0.19	17.97	3.56	3.942	28.2	871B1H1 19 - 21
+0.22	20.99	4.18	4.109	28.6	871B1H1 22 - 24
+0.25	24.01	4.05	3.952	28.2	871B1H1 25 - 27
+0.28	27.03	4.41	3.621	27.4	871B1H1 28 - 30
+0.31	30.05	4.44	3.897	28.1	871B1H1 31 - 33
+0.34	33.07	3.29	3.867	28	871B1H1 34 - 36
+0.37	36.09	4.2	4.119	28.6	871B1H1 37 - 39
+0.4	39.11	3.61	3.944	28.2	871B1H1 40 - 42
+0.43	42.13	4.84	3.786	27.8	871B1H1 43 - 45
+0.46	45.15	4.6	3.784	27.8	871B1H1 46 - 48
+0.49	48.16	4.09	3.669	27.5	871B1H1 49 - 51
+0.52	51.18	3.82	3.61	27.4	871B1H1 52 - 54
+0.55	54.2	4.57	3.702	27.6	871B1H1 55 - 57
+0.58	57.22	4.24	3.639	27.5	871B1H1 58 - 60
+0.61	60.24	4.66	3.675	27.6	871B1H1 61 - 63
+0.64	63.26	4.28	3.705	27.6	871B1H1 64 - 66
+0.67	66.28	4.42	3.582	27.3	871B1H1 67 - 69
+0.7	69.3	4.18	3.948	28.2	871B1H1 70 - 72
+0.73	72.32	4	3.682	27.6	871B1H1 73 - 75
+0.76	75.34	4.53	3.57	27.3	871B1H1 76 - 78
+0.79	78.36	4.09	3.661	27.5	871B1H1 79 - 81
+0.82	81.38	4.2	3.73	27.7	871B1H1 82 - 84
+0.85	84.4	3.68	3.857	28	871B1H1 85 - 87
+0.88	87.42	3.84	3.741	27.7	871B1H1 88 - 90
+0.91	90.44	3.89	3.933	28.2	871B1H1 91 - 93
+0.94	93.46	3.95	3.829	27.9	871B1H1 94 - 96
+0.97	96.48	3.87	3.969	28.3	871B1H1 97 - 99
+1	99.5	3.91	3.933	28.2	871B1H1 100 - 102
+1.03	102.52	3.63	3.907	28.1	871B1H1 103 - 105
+1.06	105.53	3.92	3.941	28.2	871B1H1 106 - 108
+1.09	108.55	4.06	4.38	29.2	871B1H1 109 - 111
+1.12	111.57	3.77	3.868	28	871B1H1 112 - 114
+1.15	114.59	3.95	4.266	28.9	871B1H1 115 - 117
+1.18	117.61	3.55	4.04	28.4	871B1H1 118 - 120
+1.21	120.63	4.01	4.473	29.4	871B1H1 121 - 123
+1.24	123.65	3.55	4.746	29.9	871B1H1 124 - 126
+1.27	126.67	4.06	4.533	29.5	871B1H1 127 - 129
+1.3	129.69	3.77	4.558	29.5	871B1H1 130 - 132
+1.33	132.54	4.78	4.198	28.8	871B1H1 133 - 135
+1.36	135.19	4.31	4.196	28.8	871B1H1 136 - 138
+1.39	137.84	4.54	3.912	28.1	871B1H1 139 - 141
+1.42	140.49	4.73	4.113	28.6	871B1H1 142 - 144
+1.45	143.14	4.48	4.1	28.5	871B1H1 145 - 147
+1.48	145.79	4.41	4.077	28.5	871B1H1 148 - 150
+1.5	147.56	4.35	3.898	28.1	871B1H2 0 - 1
+1.53	150.21	4.33	3.843	28	871B1H2 3 - 4
+1.56	152.86	4.36	3.922	28.1	871B1H2 6 - 7
+1.59	155.51	4.28	3.791	27.8	871B1H2 9 - 10
+1.62	158.16	4.21	3.685	27.6	871B1H2 12 - 13
+1.65	160.81	4.33	3.754	27.7	871B1H2 15 - 16
+1.68	163.46	3.9	3.714	27.6	871B1H2 18 - 19
+1.71	166.11	4.31	3.708	27.6	871B1H2 21 - 22
+1.74	168.76	4.17	3.768	27.8	871B1H2 24 - 25
+1.77	171.41	3.86	-999	-999	871B1H2 27 - 28
+1.8	174.06	4.24	3.704	27.6	871B1H2 30 - 31
+1.83	176.71	4.25	3.725	27.7	871B1H2 33 - 34
+1.86	179.36	4.27	3.494	27.1	871B1H2 36 - 37
+1.89	182	4.11	3.555	27.3	871B1H2 39 - 40
+1.92	184.65	4.22	3.829	27.9	871B1H2 42 - 43
+1.95	187.3	3.88	3.813	27.9	871B1H2 45 - 46
+1.98	189.95	3.9	3.878	28	871B1H2 48 - 49
+2.01	192.6	3.71	4.01	28.3	871B1H2 51 - 52
+2.04	195.25	3.52	4.22	28.8	871B1H2 54 - 55
+2.07	197.9	3.48	4.247	28.9	871B1H2 57 - 58
+2.1	200.55	3.69	4.295	29	871B1H2 60 - 61
+2.13	203.2	3.75	4.082	28.5	871B1H2 63 - 64
+2.16	205.85	3.68	4.099	28.5	871B1H2 66 - 67
+2.19	208.5	4.04	4.371	29.1	871B1H2 69 - 70
+2.22	211.15	3.3	4.075	28.5	871B1H2 72 - 73
+2.25	213.8	4.04	4.218	28.8	871B1H2 75 - 76
+2.28	216.45	3.47	4.035	28.4	871B1H2 78 - 79
+2.31	219.1	3.65	3.897	28.1	871B1H2 81 - 82
+2.34	221.9	4.74	3.628	27.4	871B1H2 84 - 85
+2.37	224.78	4.09	3.677	27.6	871B1H2 87 - 88
+2.4	227.66	-999	-999	-999	871B1H2 90 - 93
+2.43	230.55	4.1	3.821	27.9	871B1H2 93 - 94
+2.46	233.43	4.13	4.281	28.9	871B1H2 96 - 97
+2.49	236.31	3.43	3.765	27.8	871B1H2 99 - 100
+2.52	239.19	3.82	4.164	28.7	871B1H2 102 - 103
+2.55	242.08	4.24	4.04	28.4	871B1H2 105 - 106
+2.58	244.96	4.21	3.972	28.3	871B1H2 108 - 109
+2.61	247.84	4.39	3.706	27.6	871B1H2 111 - 112
+2.64	250.73	4.34	3.632	27.4	871B1H2 114 - 115
+2.67	253.61	4.51	3.697	27.6	871B1H2 117 - 118
+2.7	256.49	4.16	3.713	27.6	871B1H2 120 - 121
+2.73	259.37	4.24	3.815	27.9	871B1H2 123 - 124
+2.76	262.26	4.1	3.718	27.7	871B1H2 126 - 127
+2.79	265.14	3.85	3.795	27.8	871B1H2 129 - 130
+2.82	268.02	4.36	3.732	27.7	871B1H2 132 - 133
+2.85	270.91	3.84	3.882	28	871B1H2 135 - 136
+2.88	273.79	3.85	3.552	27.2	871B1H2 138 - 139
+2.91	276.67	3.77	3.506	27.1	871B1H2 141 - 142
+2.94	279.55	4.21	4.067	28.5	871B1H2 144 - 145
+2.97	282.44	3.67	3.884	28.1	871B1H2 147 - 148
+3.01	286.28	3.7	3.835	27.9	871B1H3 1 - 3
+3.04	289.16	3.5	4.044	28.4	871B1H3 4 - 6
+3.07	292.05	3.47	3.947	28.2	871B1H3 7 - 9
+3.1	294.93	3.42	3.642	27.5	871B1H3 10 - 12
+3.13	297.81	3.39	3.744	27.7	871B1H3 13 - 15
+3.16	300.69	3.98	3.679	27.6	871B1H3 16 - 18
+3.19	303.58	3.81	3.865	28	871B1H3 19 - 21
+3.22	306.46	3.73	4.058	28.5	871B1H3 22 - 24
+3.25	309.34	3.98	4.098	28.5	871B1H3 25 - 27
+3.28	312.23	3.65	4.18	28.7	871B1H3 28 - 30
+3.31	315.11	3.66	3.995	28.3	871B1H3 31 - 33
+3.34	317.99	3.59	4.209	28.8	871B1H3 34 - 36
+3.37	320.87	3.58	4.203	28.8	871B1H3 37 - 39
+3.4	323.29	2.76	4.154	28.7	871B1H3 40 - 42
+3.43	325.38	3.02	4.448	29.3	871B1H3 43 - 45
+3.46	327.46	-999	4.605	29.6	871B1H3 46 - 48
+3.49	329.54	3.68	4.59	29.6	871B1H3 49 - 51
+3.52	331.62	3.93	4.809	30	871B1H3 52 - 54
+3.55	333.71	3.12	4.534	29.5	871B1H3 55 - 57
+3.58	335.79	4.42	3.928	28.2	871B1H3 58 - 60
+3.61	337.87	3.85	3.996	28.3	871B1H3 61 - 63
+3.64	340.67	4.38	3.764	27.8	871B1H3 64 - 66
+3.67	343.75	4.65	3.816	27.9	871B1H3 67 - 69
+3.7	346.84	4.51	3.885	28.1	871B1H3 70 - 72
+3.73	349.93	4.49	3.816	27.9	871B1H3 73 - 75
+3.76	353.01	4.1	3.821	27.9	871B1H3 76 - 78
+3.79	356.1	4.39	3.95	28.2	871B1H3 79 - 81
+3.82	359.19	4.47	3.915	28.1	871B1H3 82 - 84
+3.85	362.27	4.11	3.765	27.8	871B1H3 85 - 87
+3.88	365.36	4.59	3.608	27.4	871B1H3 88 - 90
+3.91	368.45	4.27	3.559	27.3	871B1H3 91 - 93
+3.94	371.53	4.23	3.606	27.4	871B1H3 94 - 96
+3.97	374.62	4.21	3.683	27.6	871B1H3 97 - 99
+4	377.71	3.7	3.68	27.6	871B1H3 100 - 102
+4.03	380.79	4.07	3.722	27.7	871B1H3 103 - 105
+4.06	383.88	4.17	3.841	28	871B1H3 106 - 108
+4.09	386.97	3.76	3.846	28	871B1H3 109 - 111
+4.12	390.05	3.57	4.023	28.4	871B1H3 112 - 114
+4.15	393.14	3.89	4.047	28.4	871B1H3 115 - 117
+4.18	396.23	3.86	4.255	28.9	871B1H3 118 - 120
+4.21	399.31	3.62	4.342	29.1	871B1H3 121 - 123
+4.24	402.4	3.25	4.678	29.8	871B1H3 124 - 126
+4.27	405.49	2.74	4.807	30	871B1H3 127 - 129
+4.3	408.57	-999	4.918	30.2	871B1H3 130 - 132
+4.33	411.66	3.78	4.649	29.7	871B1H3 133 - 135
+4.36	414.75	3.29	4.72	29.9	871B1H3 136 - 138
+4.39	417.83	3.42	4.692	29.8	871B1H3 139 - 141
+4.42	420.92	4.89	4.406	29.2	871B1H3 142 - 144
+4.45	424.01	4.05	4.228	28.8	871B1H3 145 - 147
+4.48	427.09	4.32	4.227	28.8	871B1H3 148 - 150
+4.51	430.64	4.98	3.864	28	871B1H4 1 - 3
+4.54	434.24	4.6	3.623	27.4	871B1H4 4 - 6
+4.57	437.84	4.21	3.49	27.1	871B1H4 7 - 9
+4.6	441.44	4.45	3.561	27.3	871B1H4 10 - 12
+4.63	445.04	4.68	3.584	27.3	871B1H4 13 - 15
+4.66	448.64	4.28	3.586	27.3	871B1H4 16 - 18
+4.69	452.24	4.34	3.603	27.4	871B1H4 19 - 21
+4.72	455.84	4.44	3.906	28.1	871B1H4 22 - 24
+4.75	459.44	4.64	3.684	27.6	871B1H4 25 - 27
+4.78	463.04	4.15	3.731	27.7	871B1H4 28 - 30
+4.81	466.64	4.45	3.469	27	871B1H4 31 - 33
+4.84	470.24	4.33	3.423	26.9	871B1H4 34 - 36
+4.87	473.85	4.39	3.391	26.8	871B1H4 37 - 39
+4.9	477.45	4.14	3.379	26.8	871B1H4 40 - 42
+4.93	481.05	3.96	3.549	27.2	871B1H4 43 - 45
+4.96	483.7	3.06	3.56	27.3	871B1H4 46 - 48
+4.99	485.98	3.5	3.676	27.6	871B1H4 49 - 51
+5.02	488.26	3.66	3.978	28.3	871B1H4 52 - 54
+5.05	490.54	2.83	4.179	28.7	871B1H4 55 - 57
+5.08	492.82	3.69	4.1	28.5	871B1H4 58 - 60
+5.11	495.1	3.66	4.061	28.5	871B1H4 61 - 63
+5.14	497.38	3.67	4.066	28.5	871B1H4 64 - 66
+5.17	499.66	3.49	3.992	28.3	871B1H4 67 - 69
+5.2	501.95	3.88	3.929	28.2	871B1H4 70 - 72
+5.23	504.23	3.83	3.912	28.1	871B1H4 73 - 75
+5.26	506.51	3.76	3.821	27.9	871B1H4 76 - 78
+5.29	508.79	4.17	3.752	27.7	871B1H4 79 - 81
+5.32	511.07	4.14	3.94	28.2	871B1H4 82 - 84
+5.35	513.35	3.85	4.101	28.5	871B1H4 85 - 87
+5.38	515.63	4.08	3.981	28.3	871B1H4 88 - 90
+5.41	517.91	4.05	3.972	28.3	871B1H4 91 - 93
+5.44	520.19	4.15	3.994	28.3	871B1H4 94 - 96
+5.47	522.61	3.38	3.768	27.8	871B1H4 97 - 99
+5.5	526.25	4.07	3.881	28	871B1H4 100 - 102
+5.53	529.88	3.78	3.486	27.1	871B1H4 103 - 105
+5.56	533.51	4.29	3.593	27.3	871B1H4 106 - 108
+5.59	537.15	4.23	3.528	27.2	871B1H4 109 - 111

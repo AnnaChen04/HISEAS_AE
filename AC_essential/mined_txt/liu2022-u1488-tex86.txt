@@ -1,0 +1,225 @@
+# Western Pacific Warm Pool Sea Surface Temperature Reconstruction and Biomarker and Geochemistry Data for the past 10 million years
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data.
+# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with '#' followed by a space
+# Data lines have no '#'
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/37229
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-ocean-37229.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI: 10.25921/yfp3-kz54
+#
+# Science_Keywords: Sea Surface Temperature Reconstruction
+#---------------------------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/paleocean/pacific/liu2022/liu2022-u1488-tex86.txt
+#   Data_Download_Description: NOAA Template File; IODP U1488 TEX86 and SST Data
+#
+#---------------------------------------
+# Contribution_Date
+#   Date: 2023-01-11
+#---------------------------------------
+# File_Last_Modified_Date
+#   Date: 2024-11-05
+#---------------------------------------
+# Title
+#   Study_Name: Western Pacific Warm Pool Sea Surface Temperature Reconstruction and Biomarker and Geochemistry Data for the past 10 million years
+#---------------------------------------
+# Investigators
+#   Investigators: Liu, Xiaoqing; Huber, Matthew; Foster, Gavin L.; Dessler, Andrew; Zhang, Yi Ge
+#---------------------------------------
+# Description_Notes_and_Keywords
+#   Description: Data related to the publication "Persistent high latitude amplification of the Pacific Ocean over the past 10 million years" is available at Figshare - https://doi.org/10.6084/m9.figshare.21183769
+#---------------------------------------
+# Publication
+#   Authors: Liu, X., Huber, M., Foster, G.L., Dessler, A., and Zhang Y.G.
+#   Published_Date_or_Year: 2022-11-27
+#   Published_Title: Persistent high latitude amplification of the Pacific Ocean over the past 10 million years
+#   Journal_Name: Nature Communications
+#   Volume: 13
+#   Edition: 
+#   Issue: 
+#   Pages: 7310
+#   Report_Number: 
+#   DOI: 10.1038/s41467-022-35011-z
+#   Online_Resource: 
+#   Full_Citation: Liu, X., Huber, M., Foster, G.L., Dessler, A., and Zhang Y.G. Persistent high latitude amplification of the Pacific Ocean over the past 10 million years. Nature Communications 13, 7310 (2022). https://doi.org/10.1038/s41467-022-35011-z 
+#   Abstract: While high latitude amplification is seen in modern observations, paleoclimate records, and climate modeling, better constraints on the magnitude and pattern of amplification would provide insights into the mechanisms that drive it, which remain actively debated. Here we present multi-proxy multi-site paleotemperature records over the last 10 million years from the Western Pacific Warm Pool (WPWP) – the warmest endmember of the global ocean that is uniquely important in the global radiative feedback change. These sea surface temperature records, based on lipid biomarkers and seawater Mg/Ca-adjusted foraminiferal Mg/Ca, unequivocally show warmer WPWP in the past, and a secular cooling over the last 10 million years. Compiling these data with existing records reveals a persistent, nearly stationary, extratropical response pattern in the Pacific in which high latitude (~50°N) temperatures increase by ~2.4° for each degree of WPWP warming. This relative warming pattern is also evident in model outputs of millennium-long climate simulations with quadrupling atmospheric CO2, therefore providing a strong constraint on the future equilibrium response of the Earth System.
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: National Science Foundation
+#   Grant: OCE-1602905, 2217530
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: the International Ocean Discovery Program
+#   Grant: Post-Expedition Activity (PEA) award of the US Science Support Program
+#---------------------------------------
+# Site_Information
+#   Site_Name: IODP U1488
+#   Location: Western Pacific Ocean
+#   Northernmost_Latitude: 2.04
+#   Southernmost_Latitude: 2.04
+#   Easternmost_Longitude: 141.75
+#   Westernmost_Longitude: 141.75
+#   Elevation_m: -2604
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: IODP U1488 TEX86 SST Liu2022
+#   First_Year: 9746000
+#   Last_Year: 10000
+#   Time_Unit: calendar year before present
+#   Core_Length_m: 
+#   Parameter_Keywords: biomarkers, reconstruction
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+#---------------------------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## sitename	sample identification,,,,,paleoceanography,,,C,site name
+## Hole	sample identification,,,,,paleoceanography,,,C,Hole
+## Core	sample identification,,,,,paleoceanography,,,C,Core
+## Section	sample identification,,,,,paleoceanography,,,C,Section
+## cm_top	depth at sample end,,,centimeter,,paleoceanography; climate reconstructions,,,N,
+## cm_bottom	depth at sample start,,,centimeter,,paleoceanography; climate reconstructions,,,N,
+## depth_mbsf	depth,,,meter,,paleoceanography; climate reconstructions,,,N,shipboard meters below sea floor
+## age_kaBP	age,,,calendar kiloyear before present; climate reconstructions,,paleoceanography,,,N,
+## GDGT-0	glycerol dialkyl glycerol tetraether,,,peak area integral,,paleoceanography,,high-performance liquid chromatography; mass spectrometry ,N,peak area of GDGT-0
+## GDGT-1	glycerol dialkyl glycerol tetraether,,,peak area integral,,paleoceanography,,high-performance liquid chromatography; mass spectrometry ,N,peak area of GDGT-1
+## GDGT-2	glycerol dialkyl glycerol tetraether,,,peak area integral,,paleoceanography,,high-performance liquid chromatography; mass spectrometry ,N,peak area of GDGT-2
+## GDGT-3	glycerol dialkyl glycerol tetraether,,,peak area integral,,paleoceanography,,high-performance liquid chromatography; mass spectrometry ,N,peak area of GDGT-3
+## Cren	glycerol dialkyl glycerol tetraether,,,peak area integral,,paleoceanography,,high-performance liquid chromatography; mass spectrometry ,N,peak area of crenarchaeol
+## Cren'	glycerol dialkyl glycerol tetraether,,,peak area integral,,paleoceanography,,high-performance liquid chromatography; mass spectrometry ,N,peak area of crenarchaeol regioisomer
+## TEX86	tetraether index of 86 carbon atoms,sediment,,dimensionless,,paleoceanography,,,N,Following Schouten et al. (2002)
+## TEX86_average	tetraether index of 86 carbon atoms,sediment,,dimensionless,,paleoceanography,averaged,,N,averaged TEX86 values; the same sample was run twice or samples from different holes are at the same age
+## SST	sea surface temperature,glycerol dialkyl glycerol tetraether index,,degree Celsius,,paleoceanography; climate reconstructions,,,N,50th percentile of BAYSPAR-derived SST; BAYSPAR-SST was estimated using paleolocations and standard BAYSPAR calibration (prior_std=6); SST calibration following Tierney and Tingley (2014)
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NaN
+sitename	Hole	Core	Section	cm_top	cm_bottom	depth_mbsf	age_kaBP	GDGT-0	GDGT-1	GDGT-2	GDGT-3	Cren	Cren'	TEX86	TEX86_average	SST	
+U1488	C	1H	1	7	10	0.085	10	330671.7	113384.8	131894.8	22068.2	455516	86351.6	0.68	0.70	29.02	
+U1488	A	1H	1	19	20	0.195	10	26900.3	7005	8968.6	1580.2	44417.5	7375.5	0.72	NaN	NaN	
+U1488	A	1H	2	133	136	2.845	100	307449.6	113954.7	109513.6	27155.1	269364.6	60856.6	0.63	0.64	25.41	
+U1488	A	1H	2	133	136	2.845	100	239582	94789.6	88908.8	22345.5	315122.3	58522.9	0.64	NaN	NaN	
+U1488	A	1H	4	110	113	5.615	200	146899.8	51651.7	49019.3	9818.7	166420.3	30733.7	0.63	0.63	25.56	
+U1488	A	2H	2	45	48	7.865	300	431568.3	166012.3	145628.3	41650	435337.3	86868.2	0.62	0.62	24.81	
+U1488	A	2H	4	25	28	10.665	400	83643.4	24377.1	24693.8	5840.9	100405.1	16781.5	0.66	0.66	26.67	
+U1488	A	2H	6	13	16	13.545	500	162324.7	59088.8	54838	11742.4	182911.6	35686.8	0.63	0.63	25.33	
+U1488	B	3H	1	74	77	11.155	600	144090.9	49012.3	47008.1	11269.7	172686.6	38363.9	0.66	0.66	27.57	
+U1488	A	3H	2	68	71	17.595	700	208812.1	74809.4	73608	15911.3	227955.2	48188.6	0.65	0.65	25.78	
+U1488	A	3H	4	53	56	20.445	800	133405.6	48856.8	53674.8	12898.4	167433.5	35776.1	0.68	0.68	27.89	
+U1488	A	3H	4	53	56	20.445	800	110499	40512.9	45211.7	9522.2	165529.4	29012.2	0.67	NaN	NaN	
+U1488	A	3H	6	37	40	23.285	900	172838.1	55540.6	54266.5	14501.9	185896.6	36097.6	0.65	0.65	26.59	
+U1488	A	4H	1	14	17	25.055	1000	2202157.5	923832.3	958230.8	197261.8	2495382	592331.9	0.65	0.65	27.00	
+U1488	A	4H	2	32	35	26.735	1100	105394.3	32517.3	35390.4	6978.6	141663.4	24153.5	0.67	0.67	27.11	
+U1488	A	4H	3	62	65	28.535	1200	50782.9	14998.7	17587.3	3503.2	68485.9	12159.1	0.69	0.69	28.82	
+U1488	A	4H	3	62	65	28.535	1200	21374.9	5992.7	6334.5	1320.2	33591.2	6215.3	0.70	NaN	NaN	
+U1488	A	4H	4	87	90	30.285	1300	225377.5	83739	78727.7	23821.7	264780.3	58065.6	0.66	0.66	26.95	
+U1488	A	4H	5	112	115	32.035	1400	168698.6	66884.6	59256.8	15929.6	265781.6	50151.5	0.65	0.65	26.18	
+U1488	A	4H	6	134	137	33.755	1500	284835	91692.6	91901.6	21707.9	247254.4	48355.6	0.64	0.64	25.44	
+U1488	A	5H	1	11	14	34.525	1600	234611.3	89405.3	83938.3	21740	242612.5	60395.4	0.65	0.65	26.70	
+U1488	A	5H	1	11	14	34.525	1600	243265.3	74763.2	74195.7	19321.3	238534.4	49346.6	0.66	NaN	NaN	
+U1488	A	5H	2	35	38	36.265	1700	286344.1	112378.2	110268.7	30201.5	310569.9	67276.4	0.65	0.65	26.15	
+U1488	A	5H	3	59	62	38.005	1800	71830	21309.8	26146.1	5167.6	87199.1	15973	0.69	0.69	28.48	
+U1488	A	5H	3	140	150	38.85	1862	440127.8	140410.2	130971.5	31154.9	454406.8	81023.6	0.63	0.63	25.51	
+U1488	A	5H	4	81	84	39.725	1900	145912.8	55295.9	50396.5	15434.1	189946.2	36884	0.65	0.65	26.38	
+U1488	A	5H	5	107	110	41.485	2000	1197468.8	384455.4	373989.3	80161.5	1208594	261433.9	0.65	0.65	26.25	
+U1488	A	5H	6	129	132	43.205	2100	102808.8	37824.8	42205.9	9840.7	132062.9	26773.3	0.68	0.67	27.74	
+U1488	A	5H	6	129	132	43.205	2100	86858.4	32408.3	33422.4	6983	130990.1	25047.6	0.67	NaN	NaN	
+U1488	A	5H	6	140	150	43.35	2142	572170.6	226948.1	221662.4	52640.1	732759.1	167977.6	0.66	0.66	26.99	
+U1488	A	6H	1	35	38	44.265	2200	224936.2	81776.3	89606.9	21377.9	234792.6	64429.1	0.68	0.68	28.10	
+U1488	A	6H	2	60	63	46.015	2300	176447.4	62301.9	59972.2	17548.7	193246.7	38831.8	0.65	0.65	26.27	
+U1488	A	6H	3	84	87	47.755	2400	349504.6	159156	122102.5	35459.9	337030.4	75040.5	0.59	0.59	23.04	
+U1488	A	6H	6	21	24	51.625	2500	155393.7	53162.5	52651.1	14363.2	177808.6	33757.7	0.65	0.65	26.32	
+U1488	A	7H	2	4	7	54.955	2600	397364	168494.5	172713.5	45190.9	416141.5	94872.8	0.65	0.65	26.13	
+U1488	A	7H	4	95	98	58.865	2700	119456.5	46706.5	53708.1	13652.5	167840	32300.5	0.68	0.68	27.83	
+U1488	A	7H	7	34	37	62.755	2800	280272.8	112543.3	102816.4	26584.1	299263.1	63120	0.63	0.63	25.39	
+U1488	B	8H	3	132	135	62.175	2900	95157.1	31827.1	38641.1	10405.4	139166.2	28146	0.71	0.71	29.18	
+U1488	A	8H	4	92	95	68.335	3000	906112.4	334389	415672.4	123347.1	1123121	262019.9	0.71	0.71	29.90	
+U1488	B	9H	2	138	141	70.295	3100	255452.1	87966.8	91627.2	30993.6	291844.1	65596.5	0.68	0.68	27.98	
+U1488	A	9H	3	44	47	75.855	3200	309757.4	120698.6	149646.8	43913.4	374738.7	89927.3	0.70	0.70	28.96	
+U1488	A	9H	5	130	133	79.715	3300	176546	58848.2	72940	17546.6	247638.3	52887.1	0.71	0.71	29.43	
+U1488	A	10H	1	72	75	82.635	3400	207277.1	76212.2	97059.1	26368.3	284399	70858	0.72	0.72	29.80	
+U1488	A	10H	3	140	150	86.35	3480	15901.1	5053.2	7421.3	2077.8	25496.8	7092.2	0.77	0.77	32.97	
+U1488	A	10H	4	11	14	86.525	3500	290229.7	102241.7	128425.6	36476.2	366883.4	90207.2	0.71	0.71	29.89	
+U1488	A	10H	6	110	120	90.55	3599	728418	298222.8	356441.8	77355	911851.9	252151	0.70	0.70	29.32	
+U1488	A	10H	6	100	103	90.415	3600	116539.2	40207.2	48723.9	12290.1	157182.9	36588.4	0.71	0.71	29.07	
+U1488	A	11H	2	70	73	93.615	3700	172769.6	61876.4	80867.4	17458.5	224404.9	55820.4	0.71	0.71	29.81	
+U1488	A	11H	5	9	12	97.505	3800	66664.3	18064.7	24251.3	5040	110190.1	23109.3	0.74	0.74	31.36	
+U1488	C	11H	5	32	35	99.135	3900	169655.9	62070.5	73939.6	18731.5	227682.1	54873.4	0.70	0.70	29.18	
+U1488	A	12H	6	47	50	108.885	4100	208288.7	70567	88956.6	20709	242227.5	62872.9	0.71	0.71	29.39	
+U1488	A	13H	2	100	103	112.915	4200	19507.8	7857.5	7129.5	1897.7	26902	6826	0.67	0.67	27.57	
+U1488	A	13H	5	39	42	116.805	4300	287676.3	90657.2	101622.9	20738.1	370513.6	73110.6	0.68	0.68	28.15	
+U1488	B	14H	4	62	65	120.035	4400	306013.9	123268.9	132921.4	40502.5	390823.3	89636.3	0.68	0.68	28.52	
+U1488	C	14H	1	54	57	121.855	4500	153671.4	49174.4	53054.2	11579.6	196333.2	43547.6	0.69	0.69	28.08	
+U1488	A	14H	5	18	21	126.095	4600	94024.5	35389	41604.3	10346.4	162446.2	34144.1	0.71	0.71	29.64	
+U1488	A	14H	6	45	48	127.865	4700	176406.4	64233.2	71750.6	19284.5	239855.8	55664.1	0.70	0.70	28.63	
+U1488	A	15H	1	102	105	130.435	4800	218518.1	90942.4	106699.3	28926.7	328253.7	77126.8	0.70	0.70	29.49	
+U1488	A	15H	2	137	140	132.285	4900	26504.6	10490.3	11048.9	3587.4	39648.7	11003	0.71	0.73	30.81	
+U1488	A	15H	2	137	140	132.285	4900	47751.6	14877.1	20350.1	4232.2	110338.6	19175	0.75	NaN	NaN	
+U1488	A	15H	4	21	24	134.125	5000	2511578.8	930841.5	1067331	238303.6	2613974	717013.9	0.68	0.68	27.97	
+U1488	A	15H	3	140	150	133.85	5015	363987.9	126703.8	156918.9	36898	524602.3	121518.8	0.71	0.71	29.91	
+U1488	A	15H	7	47	50	138.885	5100	179012.1	61441	73648.6	17927.8	215823.9	53654.3	0.70	0.70	29.29	
+U1488	A	15H	6	140	150	138.35	5115	421537.1	117633.2	140260.3	32384.5	548087.2	129973.3	0.72	0.72	30.15	
+U1488	A	16H	3	60	63	142.515	5200	272450.5	90517	106848.9	27063.2	378597.9	109692.2	0.73	0.73	29.91	
+U1488	A	16H	6	87	90	147.285	5300	78533.5	20515	26552.2	6165.9	110416.8	22217.3	0.73	0.73	30.39	
+U1488	A	17H	2	104	107	150.955	5400	509743.1	168930	209469.1	55376.4	666572.6	149031.2	0.71	0.71	29.49	
+U1488	A	17H	5	132	135	155.735	5500	250161.3	95335.1	102724.2	30136	305791.4	76163.4	0.69	0.69	28.23	
+U1488	A	18H	2	114	117	160.555	5600	142079.5	40627.1	42401.2	10555.3	157360.8	34254.4	0.68	0.68	28.08	
+U1488	A	18H	5	118	121	165.095	5700	191530.8	66521	75244.6	20561.3	241187.3	57792.1	0.70	0.70	29.16	
+U1488	A	19H	1	142	145	168.835	5800	103936.8	29046.7	37540	8352.9	138708.8	33726	0.73	0.73	31.06	
+U1488	A	19H	4	145	148	173.365	5900	20785	6383.6	7138.4	1948.8	38207.3	6674.8	0.71	0.71	29.43	
+U1488	A	20H	1	29	32	177.205	6000	25025.6	4460.7	5848.4	1278.7	41864.9	6189	0.75	0.75	31.75	
+U1488	A	20H	4	30	33	181.715	6100	161062.4	42094.5	51839.6	11304.1	209750.5	56181.8	0.74	0.74	31.56	
+U1488	A	20H	5	74	77	183.655	6200	184760	67743	83461.9	23377.9	237492.8	64247.9	0.72	0.72	30.09	
+U1488	A	20H	6	117	120	185.585	6300	139718.1	28201.2	35254.7	10184.9	212658.5	30332.5	0.73	0.73	30.58	
+U1488	A	20H	6	140	150	185.85	6366	88497.3	21484.1	29343.4	5468.8	145887.3	28266.6	0.75	0.75	31.89	
+U1488	A	21H	1	37	40	186.785	6400	176092.7	50755.1	58674.2	12070.8	247448.6	57987.3	0.72	0.72	29.93	
+U1488	A	21H	2	75	78	188.665	6500	107452.1	24340.5	25291.7	5579.2	107858.5	22385.6	0.69	0.69	28.05	
+U1488	A	21H	3	120	123	190.615	6600	195941.8	36863.2	44036.7	9326.4	214109	41041.7	0.72	0.72	30.05	
+U1488	A	21H	5	13	16	192.545	6700	51424.7	8975.9	11988.8	3073.6	66678.3	12243.1	0.75	0.75	32.42	
+U1488	A	21H	6	55	58	194.465	6800	91884.2	19443.7	22309	4633.7	116878.8	21706.8	0.71	0.71	30.11	
+U1488	A	22H	1	21	24	196.125	6900	164784.7	47130.9	63731.1	14399.5	207038.1	48873.6	0.73	0.73	30.31	
+U1488	A	22H	2	66	69	198.075	7000	420421.7	98411.6	119102	27588.9	471512.7	103877.4	0.72	0.72	30.25	
+U1488	A	22H	3	107	110	199.985	7100	164252.4	41252.9	47906	11388.6	166865.3	40799.4	0.71	0.72	29.79	
+U1488	A	22H	3	107	110	199.985	7100	324414.8	83166.1	98980.8	22807.9	414824.9	94538.4	0.72	NaN	NaN	
+U1488	A	22H	5	3	6	201.945	7200	172831.1	47922.3	72200	14836.6	214894.4	50898.3	0.74	0.74	31.72	
+U1488	A	22H	5	3	6	201.945	7200	347928.5	84011.2	113415.9	26949.5	455461.1	99545.3	0.74	NaN	NaN	
+U1488	A	22H	6	44	47	203.855	7300	157409.9	40060.4	44322.7	13117.8	185679.9	47095.7	0.72	0.72	30.59	
+U1488	B	23H	3	11	14	203.525	7400	92145.3	24778.6	32990.1	6697.6	117448.6	28861.4	0.73	0.73	30.93	
+U1488	A	23H	5	26	29	211.675	7500	446142	122107.6	160493.6	35863.7	606424.4	129190.6	0.73	0.73	30.50	
+U1488	A	24H	2	104	107	217.455	7600	384972.8	90824.4	109127.9	25538.1	470547.8	108929.9	0.73	0.73	30.41	
+U1488	A	26H	2	1	4	235.425	7900	194210.3	43635.2	65091.1	15650.3	269569.3	62748	0.77	0.77	33.09	
+U1488	A	26H	6	42	45	241.835	8000	2081976.1	640597.1	819327.2	172075.2	2123661	569286.9	0.71	0.71	29.80	
+U1488	B	27H	5	141	144	245.825	8100	83421.3	15572.1	20614.8	4149.6	111711.6	19634.9	0.74	0.74	30.92	
+U1488	A	28H	4	45	48	257.865	8300	138577.1	21820.4	22635.3	5818.4	141271.8	30615.3	0.73	0.73	31.16	
+U1488	B	30H	2	121	124	269.625	8500	265155.4	97341.6	123998.9	27730.4	389991.6	110522.3	0.73	0.73	30.61	
+U1488	B	30H	7	16	19	276.075	8600	289520.8	105410.9	118179.2	30388.3	350672.8	107244	0.71	0.71	29.93	
+U1488	A	30H	6	140	150	280.85	8674	129754.2	21308.9	25168.3	4994.1	140390.6	24333.2	0.72	0.72	30.14	
+U1488	B	31H	3	133	136	280.745	8700	91379.9	21883.2	29240.4	5987	139301.4	28795	0.75	0.75	31.79	
+U1488	B	33H	2	60	63	297.515	9200	41969.2	5682	7082.3	1156	68952	12460.7	0.78	0.78	33.92	
+U1488	A	33F	4	83	86	304.615	9400	59353.8	13217.9	18027	2966.1	83573.3	16124.3	0.74	0.74	31.14	
+U1488	A	34F	2	68	71	307.295	9500	29177	5673.5	6576.7	1167.8	30455.4	4617.3	0.69	0.69	28.48	
+U1488	A	35F	3	110	120	313.95	9746	86162.6	15048.7	18229.6	3565.9	102631.4	17530.8	0.72	0.72	30.30	

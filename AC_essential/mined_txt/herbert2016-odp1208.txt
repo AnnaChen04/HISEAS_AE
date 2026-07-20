@@ -1,0 +1,861 @@
+# Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/25390
+#      Description: NOAA Landing Page
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1208.txt
+#      Description: NOAA location of the template
+#
+# Archive: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: biomarkers
+#---------------------------------------
+# Contribution_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# Title
+#    Study_Name: Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#---------------------------------------
+# Investigators
+#      Investigators: Herbert, T.D.; Lawrence, K.T.; Tzanova, A.; Peterson, L.C.; Caballero-Gill, R.; Kelly, C.S.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Note: age models for Sites 907 and 982 refined following publication of Herbert et al., 2016 NGS
+#         Provided Keywords: Global ocean cooling, mid-Miocene to Present
+#---------------------------------------
+# Publication
+# Authors: Herbert, T.D., K.T. Lawrence, A. Tzanova, L.C. Peterson, R. Caballero-Gill, and C.S. Kelly
+# Published_Date_or_Year: 2016
+# Published_Title: Late Miocene Global Cooling and the Rise of Modern Ecosystems
+# Journal_Name: Nature Geoscience
+# Volume: 9
+# Edition: 
+# Issue: 
+# Pages: 843-847
+# Report_Number: 
+# DOI: 10.1038/ngeo2813
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: During the late Miocene epoch, about seven million years ago, large areas of the continents experienced drying, enhanced seasonality, and a restructuring of terrestrial plant and animal communities. These changes are seen throughout the subtropics, but have typically been attributed to regional tectonic forcing. Here we present a set of globally distributed sea surface temperature records spanning the past 12 million years based on the alkenone unsaturation method. We find that a sustained late Miocene cooling occurred synchronously in both hemispheres, and culminated with ocean temperatures dipping to near-modern values between about 7 and 5.4 million years ago. The period of maximum cooling coincides with evidence for transient glaciations in the Northern Hemisphere and with a steepening of the pole-to-equator temperature gradient, as well. We thus infer that late Miocene aridity and terrestrial ecosystem changes occurred in a global context of increasing meridional temperature gradients. We conclude that a global forcing mechanism, such as the previously hypothesized decline in atmospheric CO2 levels between eight and six million years ago, is required to explain the late Miocene changes in temperature, climate and ecosystems. 
+#---------------------------------------
+# Publication
+# Authors: LaRiviere, J.P., A.C. Ravelo, A. Crimmins, P.S. Dekens, H.L. Ford, M. Lyle, and M.W. Wara
+# Published_Date_or_Year: 2012
+# Published_Title: Late Miocene decoupling of oceanic warmth and atmospheric carbon dioxide forcing,
+# Journal_Name: Nature
+# Volume: 486
+# Edition: 
+# Issue: 
+# Pages: 97-100
+# Report_Number: 
+# DOI: 10.1038/nature11200
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Deep-time palaeoclimate studies are vitally important for developing a complete understanding of climate responses to changes in the atmospheric carbon dioxide concentration (that is, the atmospheric partial pressure of CO2, pCO2). Although past studies have explored these responses during portions of the Cenozoic era (the most recent 65.5 million years (Myr) of Earth history), comparatively little is known about the climate of the late Miocene (~12-5 Myr ago), an interval with pCO2 values of only 200-350 parts per million by volume but nearly ice-free conditions in the Northern Hemisphere and warmer-than-modern temperatures on the continents4. Here we present quantitative geochemical sea surface temperature estimates from the Miocene mid-latitude North Pacific Ocean, and show that oceanic warmth persisted throughout the interval of low pCO2 ~12-5 Myr ago. We also present new stable isotope measurements from the western equatorial Pacific that, in conjunction with previously published data, reveal a long-term trend of thermocline shoaling in the equatorial Pacific since ~13?Myr ago. We propose that a relatively deep global thermocline, reductions in low-latitude gradients in sea surface temperature, and cloud and water vapour feedbacks may help to explain the warmth of the late Miocene. Additional shoaling of the thermocline after 5?Myr ago probably explains the stronger coupling between pCO2, sea surface temperatures and climate that is characteristic of the more recent Pliocene and Pleistocene epochs.
+#---------------------------------------
+# Publication
+# Authors: Venti, N.L., K. Billups, and T.D. Herbert
+# Published_Date_or_Year: 2013
+# Published_Title: Increased sensitivity of the Plio-Pleistocene northwest Pacific to obliquity forcing
+# Journal_Name: Earth and Planetary Science Letters
+# Volume: 384
+# Edition: 
+# Issue: 
+# Pages: 121-131
+# Report_Number: 
+# DOI: 10.1016/j.epsl.2013.10.007
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Insolation-driven changes in poleward heat transport and changes in greenhouse gas concentrations can explain aspects of the rise of obliquity-paced climate variability during the Pliocene–Pleistocene transition. Based on an alkenone-based sea surface temperature (SST) reconstruction of the Kuroshio Current Extension (KCE), we propose here that emergence of this region as the primary locus of ocean–atmosphere heat transfer in the Pacific Ocean promoted Northern Hemisphere Glaciation (NHG). Our record shows that with intensification of NHG at 2.7 Ma, the KCE cooled 2–4 °C during glacial intervals, likely in NH winter/spring. These high-amplitude 41-kyr SST cycles slightly lead variations, ruling out global ice-volume changes as the primary cause. The lead of SST over cycles matches the phasing between these two proxies observed in the tropics, supporting changes in CO2 concentrations as a unifying mechanism of ocean surface temperature change. However, the amplitude of the KCE SST cycle is twice that of the tropical records, pointing to an additional, regional process. We infer that cooling of the North Pacific sea surface by the East Asian winter monsoon and associated westerlies intensified during glacial intervals. This transfer of heat and moisture from the ocean to the atmosphere potentially furthered glacial formation by accelerating snow fall in North America. Therefore, these results might also support a role for tropical–extratropical heat balance in enhancing glacial growth via the obliquity pacing.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Science Foundation Ocean Sciences
+#    Grant:  1459280, 1545859
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Evolving Earth Foundation
+#    Grant: 
+#---------------------------------------
+# Site_Information
+# Site_Name: ODP 1208
+# Location: North Pacific Ocean
+# Country: 
+# Northernmost_Latitude: 36.127
+# Southernmost_Latitude: 36.127
+# Easternmost_Longitude: 158.205
+# Westernmost_Longitude: 158.205
+# Elevation: -3346
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: ODP1208-2016alkenones Herbert
+#   First_Year: 9779300
+#   Last_Year: 7100
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: alkenone data reported from LaRiviere et al., 2012, interpreted in anomaly framework by Herbert et al., 2016. chronology taken from LaRiviere et al., 2012, except for interval 1.76-2.997 Ma, where age derived from orbital tuning by Venti et al.
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## sitename	sample identification,,,,,paleoceanography,,,C,Site
+## Hole	notes,,,,,paleoceanography,,,C,hole name
+## core	notes,,,,,paleoceanography,,,C,core
+## section	notes,,,,,paleoceanography,,,C,section
+## cm_top	depth at sample end,,,centimeter,,paleoceanography,,,N,
+## cm_base	depth at sample start,,,centimeter,,paleoceanography,,,N,
+## depth_mbsf	depth,,,meter,,paleoceanography,,,N,shipboard meters below sea floor
+## depth_mcd	depth,,,meter,,paleoceanography,,,N,composite depth 
+## age_kaBP	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## age_uncert_ka	age,,90% confidence interval margin of error,calendar kiloyear before present,,paleoceanography,,,N,
+## Uk'37	alkenone unsaturation index,sediment,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,GC-FID
+## SST_P	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following F.G. Prahl et al., 1988; estimated
+## SST_M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following P.J. Muller et al. 1998; estimated
+## SST_anom-M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; Muller calibration
+## SST_anom_back	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; backtraced for paleolatitude/longitude
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NaN
+sitename	Hole	core	section	cm_top	cm_base	depth_mbsf	depth_mcd	age_kaBP	age_uncert_ka	Uk'37	SST_P	SST_M	SST_anom-M	SST_anom_back	
+1208	A	1	1	35	45	0.4	NaN	7.1	5.45	0.601	16.53	16.87	-1.83	-1.83	
+1208	A	1	2	46	56	2.01	NaN	36.4	24.3	0.538	14.67	14.97	-3.73	-3.74	
+1208	A	1	3	28	38	3.33	NaN	60.3	40.1	0.536	14.63	14.92	-3.78	-3.80	
+1208	A	1	4	46	56	4.31	NaN	78.1	51.75	0.557	15.25	15.56	-3.14	-3.16	
+1208	A	2	1	46	56	5.21	NaN	94.4	59.55	0.699	19.41	19.85	1.15	1.12	
+1208	A	2	2	49	59	6.74	NaN	121.9	60.55	0.636	17.55	17.93	-0.77	-0.80	
+1208	A	2	3	88	98	8.63	NaN	156.1	68	0.601	16.54	16.89	-1.81	-1.85	
+1208	A	2	4	125	135	10.5	NaN	189.8	77.1	0.613	16.89	17.25	-1.45	-1.49	
+1208	A	2	5	87	97	11.62	NaN	209.6	76.55	0.602	16.55	16.90	-1.80	-1.85	
+1208	A	2	6	48	58	12.73	NaN	229.3	79.8	0.616	16.97	17.33	-1.37	-1.42	
+1208	A	2	7	48	58	13.73	NaN	247	85.3	0.620	17.09	17.45	-1.25	-1.30	
+1208	A	3	1	88	98	15.13	NaN	271.9	91.9	0.654	18.10	18.49	-0.21	-0.27	
+1208	A	3	2	48	58	16.23	NaN	293.1	87.75	0.551	15.07	15.38	-3.32	-3.39	
+1208	A	3	3	47	57	17.72	NaN	321.7	88.55	0.551	15.05	15.35	-3.35	-3.42	
+1208	A	3	4	57	67	19.32	NaN	352.6	93.75	0.615	16.96	17.32	-1.38	-1.47	
+1208	A	3	5	86	96	21.11	NaN	386.8	96.15	0.686	19.02	19.45	0.75	0.66	
+1208	A	3	6	87	97	22.62	NaN	415.5	97.9	0.615	16.94	17.30	-1.40	-1.50	
+1208	A	3	7	27	37	23.52	NaN	432.6	99.15	0.574	15.72	16.05	-2.65	-2.75	
+1208	A	4	1	86	96	24.61	NaN	453.5	102.3	0.559	15.28	15.60	-3.10	-3.21	
+1208	A	4	2	56	66	25.81	NaN	475	101.1	0.554	15.14	15.44	-3.26	-3.37	
+1208	A	4	3	86	96	27.61	NaN	506.2	98.85	0.538	14.69	14.98	-3.72	-3.84	
+1208	A	4	4	86	96	29.11	NaN	532.3	99.95	0.594	16.34	16.68	-2.02	-2.14	
+1208	A	4	5	84	94	30.59	NaN	558.3	99.05	0.664	18.37	18.78	0.08	-0.05	
+1208	A	4	6	84	94	32.09	NaN	584.9	92.65	0.614	16.91	17.27	-1.43	-1.57	
+1208	A	4	7	34	44	33.09	NaN	602.7	89.65	0.606	16.68	17.04	-1.66	-1.81	
+1208	A	5	1	104	114	34.29	NaN	623.9	87.6	0.578	15.84	16.17	-2.53	-2.68	
+1208	A	5	2	94	104	35.69	NaN	649.3	82.05	0.585	16.06	16.40	-2.30	-2.45	
+1208	A	5	3	84	94	37.09	NaN	675.3	72	0.640	17.68	18.06	-0.64	-0.79	
+1208	A	5	4	53	63	38.28	NaN	697.4	66.45	0.552	15.10	15.40	-3.30	-3.46	
+1208	A	5	5	84	94	40.09	NaN	731.2	66.1	0.701	19.48	19.92	1.22	1.05	
+1208	A	5	6	93	103	41.68	NaN	762.7	49.6	0.632	17.45	17.83	-0.87	-1.05	
+1208	A	5	7	54	64	42.79	NaN	784.8	43	0.626	17.27	17.64	-1.06	-1.24	
+1208	A	6	1	89	99	43.64	NaN	801.9	41	0.542	14.80	15.10	-3.60	-3.79	
+1208	A	6	2	94	104	45.19	NaN	833.3	44.1	0.669	18.54	18.95	0.25	0.05	
+1208	A	6	3	84	94	46.59	NaN	863.2	37.25	0.557	15.22	15.53	-3.17	-3.37	
+1208	A	6	4	90	100	48.15	NaN	896.5	35.85	0.554	15.14	15.44	-3.26	-3.46	
+1208	A	6	5	84	94	49.59	NaN	927.4	38.25	0.542	14.79	15.09	-3.61	-3.83	
+1208	A	6	6	90	100	51.15	NaN	959.1	29.1	0.682	18.92	19.34	0.64	0.42	
+1208	A	6	7	23	33	51.98	NaN	975.6	22.3	0.600	16.51	16.86	-1.84	-2.07	
+1208	A	7	1	90	100	53.15	NaN	998.8	14.05	0.608	16.74	17.09	-1.61	-1.84	
+1208	A	7	2	62	72	54.37	NaN	1023.2	15.9	0.657	18.18	18.57	-0.13	-0.36	
+1208	A	7	4	102	112	57.77	NaN	1104.4	27.2	0.640	17.69	18.07	-0.63	-0.89	
+1208	A	7	6	84	94	60.59	NaN	1173.7	48.55	0.750	20.91	21.39	2.69	2.42	
+1208	A	7	7	30	40	61.55	NaN	1197.2	50.65	0.708	19.67	20.12	1.42	1.14	
+1208	A	8	1	103	113	62.78	NaN	1227.1	58.95	0.559	15.30	15.61	-3.09	-3.37	
+1208	A	8	2	104	114	64.29	NaN	1263.9	74.6	0.633	17.47	17.85	-0.85	-1.14	
+1208	A	8	3	90	100	65.65	NaN	1296.8	81.6	0.647	17.88	18.27	-0.43	-0.72	
+1208	A	8	4	103	113	67.28	NaN	1336.4	81.3	0.660	18.26	18.67	-0.03	-0.34	
+1208	A	8	5	90	100	68.65	NaN	1369.4	82.25	0.749	20.90	21.38	2.68	2.36	
+1208	A	8	6	105	115	70.3	NaN	1409.3	85.2	0.717	19.94	20.39	1.69	1.37	
+1208	A	9	1	84	94	72.09	NaN	1453.3	80.95	0.644	17.81	18.19	-0.51	-0.84	
+1208	A	9	2	68	78	73.43	NaN	1486.3	84.4	0.673	18.64	19.05	0.35	0.01	
+1208	A	9	3	84	94	75.09	NaN	1527.6	93.7	0.711	19.76	20.21	1.51	1.16	
+1208	A	9	4	89	99	76.64	NaN	1571.5	80.6	0.632	17.44	17.82	-0.88	-1.24	
+1208	A	9	5	83	93	78.08	NaN	1612.4	75.4	0.686	19.04	19.46	0.76	0.39	
+1208	A	9	6	89	99	79.64	NaN	1656.6	76.1	0.711	19.76	20.20	1.50	1.12	
+1208	A	9	7	46	56	80.71	NaN	1682.6	67.45	0.731	20.35	20.82	2.12	1.73	
+1208	A	10	1	89	99	81.64	NaN	1703.3	54.75	0.599	16.49	16.83	-1.87	-2.26	
+1208	A	10	2	84	94	83.09	NaN	1735.7	36.85	0.673	18.63	19.05	0.35	-0.05	
+1208	A	10	3	90	100	84.65	NaN	1745.8	24.65	0.715	19.89	20.34	1.64	1.24	
+1208	A	10	4	83	93	86.08	NaN	1760.2	16.15	0.706	19.61	20.05	1.35	0.94	
+1208	Venti	10	5	0	2	86.7	NaN	1760.0	5	0.719	19.99	20.44	1.74	1.33	
+1208	Venti	10	5	10	12	86.8	NaN	1762.1	5	0.704	19.56	20.00	1.30	0.89	
+1208	Venti	10	5	22	24	86.92	NaN	1764.5	5	0.697	19.35	19.79	1.09	0.68	
+1208	Venti	10	5	50	52	87.2	NaN	1770.3	5	0.714	19.85	20.30	1.60	1.19	
+1208	Venti	10	5	62	64	87.32	NaN	1772.7	5	0.722	20.09	20.54	1.84	1.43	
+1208	Venti	10	5	70	72	87.4	NaN	1774.4	5	0.714	19.85	20.30	1.60	1.19	
+1208	Venti	10	5	83	85	87.53	NaN	1777.1	5	0.746	20.80	21.28	2.58	2.17	
+1208	Venti	10	5	90	92	87.6	NaN	1778.5	5	0.740	20.62	21.10	2.40	1.99	
+1208	Venti	10	5	98	100	87.68	NaN	1780.1	5	0.734	20.43	20.89	2.19	1.78	
+1208	Venti	10	5	110	112	87.8	NaN	1782.5	5	0.712	19.78	20.23	1.53	1.12	
+1208	Venti	10	5	123.5	125.5	87.94	NaN	1787.5	5	0.689	19.12	19.55	0.85	0.44	
+1208	Venti	10	5	130	132	88	NaN	1789.6	5	0.695	19.30	19.74	1.04	0.62	
+1208	Venti	10	5	142	144	88.12	NaN	1794.2	5	0.679	18.84	19.26	0.56	0.14	
+1208	Venti	10	6	3	5	88.23	NaN	1797.7	5	0.688	19.09	19.52	0.82	0.40	
+1208	Venti	10	6	10	12	88.3	NaN	1800.0	5	0.692	19.20	19.63	0.93	0.51	
+1208	Venti	10	6	18	20	88.38	NaN	1801.6	5	0.686	19.04	19.47	0.77	0.35	
+1208	Venti	10	6	29	31	88.49	NaN	1803.8	5	0.703	19.53	19.97	1.27	0.85	
+1208	Venti	10	6	42	44	88.62	NaN	1806.3	5	0.720	20.02	20.47	1.77	1.35	
+1208	Venti	10	6	50	52	88.7	NaN	1807.9	5	0.721	20.07	20.53	1.83	1.41	
+1208	Venti	10	6	58	60	88.78	NaN	1809.5	5	0.707	19.65	20.09	1.39	0.98	
+1208	Venti	10	6	70	72	88.9	NaN	1811.8	5	0.682	18.91	19.33	0.63	0.22	
+1208	Venti	10	6	80	82	89	NaN	1813.8	5	0.687	19.05	19.48	0.78	0.36	
+1208	Venti	10	6	90	92	89.1	NaN	1816.0	5	0.704	19.55	19.99	1.29	0.87	
+1208	Venti	10	6	103	105	89.23	NaN	1817.8	5	0.657	18.17	18.57	-0.13	-0.55	
+1208	Venti	10	6	110	112	89.3	NaN	1818.8	5	0.661	18.30	18.70	0.00	-0.42	
+1208	Venti	10	6	123	125	89.43	NaN	1820.8	5	0.657	18.19	18.59	-0.11	-0.53	
+1208	Venti	10	6	131	133	89.51	NaN	1822.0	5	0.684	18.96	19.39	0.69	0.27	
+1208	Venti	10	6	143	145	89.63	NaN	1823.8	5	0.671	18.58	18.99	0.29	-0.13	
+1208	Venti	10	7	2.5	4.5	89.73	NaN	1825.3	5	0.666	18.45	18.86	0.16	-0.26	
+1208	Venti	10	7	10	12	89.8	NaN	1826.4	5	0.660	18.26	18.66	-0.04	-0.46	
+1208	Venti	10	7	18	20	89.88	NaN	1827.5	5	0.632	17.44	17.82	-0.88	-1.30	
+1208	Venti	10	7	30	32	90	NaN	1830.1	5	0.671	18.60	19.01	0.31	-0.11	
+1208	Venti	10	7	40	42	90.1	NaN	1832.2	5	0.703	19.54	19.98	1.28	0.86	
+1208	Venti	10	7	50	52	90.2	NaN	1834.3	5	0.698	19.38	19.82	1.12	0.70	
+1208	Venti	10	7	58	60	90.28	NaN	1836.0	5	0.716	19.91	20.36	1.66	1.24	
+1208	Venti	11	1	3	5	90.23	NaN	1843.7	5	0.706	19.61	20.05	1.35	0.93	
+1208	Venti	11	1	10	12	90.3	NaN	1845.1	5	0.708	19.69	20.13	1.43	1.01	
+1208	Venti	11	1	22	24	90.42	NaN	1847.5	5	0.700	19.45	19.89	1.19	0.77	
+1208	Venti	11	1	30	32	90.5	NaN	1849.0	5	0.700	19.44	19.88	1.18	0.75	
+1208	Venti	11	1	42	44	90.62	NaN	1852.3	5	0.694	19.25	19.68	0.98	0.56	
+1208	Venti	11	1	50	52	90.7	NaN	1854.5	5	0.695	19.30	19.73	1.03	0.60	
+1208	Venti	11	1	63	65	90.83	NaN	1858.0	5	0.699	19.41	19.85	1.15	0.72	
+1208	Venti	11	1	71	73	90.91	NaN	1860.0	5	0.666	18.43	18.83	0.13	-0.29	
+1208	Venti	11	1	83	85	91.03	NaN	1864.0	5	0.671	18.58	18.99	0.29	-0.14	
+1208	Venti	11	1	90	92	91.1	NaN	1866.2	5	0.667	18.48	18.89	0.19	-0.24	
+1208	Venti	11	1	100	102	91.2	NaN	1869.4	5	0.641	17.70	18.08	-0.62	-1.05	
+1208	Venti	11	1	110	112	91.3	NaN	1872.5	5	0.638	17.63	18.01	-0.69	-1.12	
+1208	Venti	11	1	123	125	91.43	NaN	1880.4	5	0.657	18.18	18.58	-0.12	-0.55	
+1208	Venti	11	1	130	132	91.5	NaN	1884.5	5	0.653	18.07	18.46	-0.24	-0.67	
+1208	Venti	11	1	138	140	91.58	NaN	1889.2	5	0.654	18.09	18.49	-0.21	-0.65	
+1208	Venti	11	2	3	5	91.73	NaN	1898.0	5	0.649	17.93	18.32	-0.38	-0.82	
+1208	Venti	11	2	10	12	91.8	NaN	1899.5	5	0.648	17.91	18.30	-0.40	-0.84	
+1208	Venti	11	2	18	20	91.88	NaN	1901.1	5	0.634	17.49	17.87	-0.83	-1.27	
+1208	Venti	11	2	30	32	92	NaN	1903.5	5	0.640	17.68	18.07	-0.63	-1.07	
+1208	Venti	11	2	38	40	92.08	NaN	1905.2	5	0.667	18.46	18.87	0.17	-0.27	
+1208	Venti	11	2	50	52	92.2	NaN	1907.6	5	0.703	19.53	19.97	1.27	0.83	
+1208	Venti	11	2	62	64	92.32	NaN	1910.0	5	0.700	19.43	19.87	1.17	0.73	
+1208	Venti	11	2	70	72	92.4	NaN	1914.5	5	0.717	19.93	20.38	1.68	1.24	
+1208	Venti	11	2	82.5	84.5	92.53	NaN	1921.7	5	0.708	19.68	20.13	1.43	0.99	
+1208	Venti	11	2	90	92	92.6	NaN	1925.5	5	0.721	20.07	20.53	1.83	1.38	
+1208	Venti	11	2	98	100	92.68	NaN	1930.0	5	0.708	19.66	20.11	1.41	0.96	
+1208	Venti	11	2	110	112	92.8	NaN	1936.6	5	0.697	19.37	19.80	1.10	0.66	
+1208	Venti	11	2	120	122	92.9	NaN	1942.0	5	0.667	18.47	18.88	0.18	-0.27	
+1208	Venti	11	2	130	132	93	NaN	1944.8	5	0.628	17.32	17.70	-1.00	-1.45	
+1208	Venti	11	2	140	142	93.1	NaN	1947.5	5	0.625	17.23	17.60	-1.10	-1.55	
+1208	Venti	11	3	3	5	93.23	NaN	1951.1	5	0.670	18.56	18.97	0.27	-0.18	
+1208	Venti	11	3	10	12	93.3	NaN	1953.0	5	0.690	19.14	19.57	0.87	0.42	
+1208	Venti	11	3	23	25	93.43	NaN	1956.6	5	0.635	17.53	17.90	-0.80	-1.25	
+1208	Venti	11	3	30	32	93.5	NaN	1958.5	5	0.633	17.47	17.85	-0.85	-1.30	
+1208	Venti	11	3	40	42	93.6	NaN	1961.3	5	0.637	17.59	17.97	-0.73	-1.18	
+1208	Venti	11	3	50	52	93.7	NaN	1964.0	5	0.627	17.30	17.67	-1.03	-1.48	
+1208	Venti	11	3	63	65	93.83	NaN	1967.5	5	0.576	15.79	16.11	-2.59	-3.04	
+1208	Venti	11	3	70	72	93.9	NaN	1969.6	5	0.628	17.32	17.69	-1.01	-1.46	
+1208	Venti	11	3	80	82	94	NaN	1972.4	5	0.645	17.83	18.21	-0.49	-0.94	
+1208	Venti	11	3	90	92	94.1	NaN	1975.3	5	0.670	18.54	18.96	0.26	-0.20	
+1208	Venti	11	3	100	102	94.2	NaN	1978.1	5	0.677	18.78	19.19	0.49	0.04	
+1208	Venti	11	3	110	112	94.3	NaN	1980.9	5	0.700	19.43	19.87	1.17	0.72	
+1208	Venti	11	3	122	124	94.42	NaN	1984.4	5	0.678	18.79	19.20	0.50	0.05	
+1208	Venti	11	3	130	132	94.5	NaN	1986.6	5	0.688	19.10	19.53	0.83	0.37	
+1208	Venti	11	3	140	142	94.6	NaN	1989.5	5	0.683	18.95	19.37	0.67	0.22	
+1208	Venti	11	4	3	5	94.73	NaN	1993.1	5	0.705	19.58	20.02	1.32	0.86	
+1208	Venti	11	4	10	12	94.8	NaN	1995.0	5	0.620	17.10	17.46	-1.24	-1.70	
+1208	Venti	11	4	20	22	94.9	NaN	1997.9	5	0.608	16.73	17.08	-1.62	-2.08	
+1208	Venti	11	4	30	32	95	NaN	2000.7	5	0.595	16.36	16.71	-1.99	-2.45	
+1208	Venti	11	4	40	42	95.1	NaN	2003.6	5	0.635	17.52	17.90	-0.80	-1.26	
+1208	Venti	11	4	50	52	95.2	NaN	2006.4	5	0.646	17.86	18.25	-0.45	-0.91	
+1208	Venti	11	4	60	62	95.3	NaN	2009.2	5	0.651	17.99	18.39	-0.31	-0.78	
+1208	Venti	11	4	70	72	95.4	NaN	2012.0	5	0.630	17.38	17.75	-0.95	-1.41	
+1208	Venti	11	4	80	82	95.5	NaN	2014.8	5	0.641	17.71	18.09	-0.61	-1.07	
+1208	Venti	11	4	90	92	95.6	NaN	2017.5	5	0.630	17.37	17.75	-0.95	-1.41	
+1208	Venti	11	4	100	102	95.7	NaN	2019.3	5	0.622	17.15	17.52	-1.18	-1.65	
+1208	Venti	11	4	110	112	95.8	NaN	2020.9	5	0.676	18.73	19.14	0.44	-0.02	
+1208	Venti	11	4	123	125	95.93	NaN	2023.2	5	0.738	20.56	21.04	2.34	1.87	
+1208	Venti	11	4	130	132	96	NaN	2024.3	5	0.723	20.13	20.58	1.88	1.42	
+1208	Venti	11	4	140	142	96.1	NaN	2026.0	5	0.713	19.82	20.27	1.57	1.10	
+1208	Venti	11	5	3	5	96.23	NaN	2028.2	5	0.703	19.53	19.97	1.27	0.81	
+1208	Venti	11	5	10	12	96.3	NaN	2029.4	5	0.684	18.98	19.41	0.71	0.24	
+1208	Venti	11	5	20	22	96.4	NaN	2031.1	5	0.676	18.75	19.16	0.46	0.00	
+1208	Venti	11	5	30	32	96.5	NaN	2032.8	5	0.711	19.75	20.20	1.50	1.03	
+1208	Venti	11	5	40	42	96.6	NaN	2034.5	5	0.699	19.40	19.84	1.14	0.67	
+1208	Venti	11	5	50	52	96.7	NaN	2036.2	5	0.728	20.26	20.72	2.02	1.56	
+1208	Venti	11	5	60	62	96.8	NaN	2037.9	5	0.696	19.33	19.76	1.06	0.60	
+1208	Venti	11	5	70	72	96.9	NaN	2039.6	5	0.690	19.15	19.58	0.88	0.41	
+1208	Venti	11	5	83	85	97.03	NaN	2041.8	5	0.665	18.41	18.81	0.11	-0.36	
+1208	Venti	11	5	90	92	97.1	NaN	2043.0	5	0.668	18.49	18.90	0.20	-0.27	
+1208	Venti	11	5	100	102	97.2	NaN	2044.7	5	0.669	18.54	18.95	0.25	-0.22	
+1208	Venti	11	5	110	112	97.3	NaN	2046.4	5	0.704	19.57	20.01	1.31	0.84	
+1208	Venti	11	5	123	125	97.43	NaN	2048.6	5	0.691	19.19	19.62	0.92	0.45	
+1208	Venti	11	5	130	132	97.5	NaN	2049.7	5	0.699	19.42	19.86	1.16	0.69	
+1208	Venti	11	5	140	142	97.6	NaN	2051.4	5	0.697	19.36	19.79	1.09	0.62	
+1208	Venti	11	6	3	5	97.73	NaN	2053.6	5	0.711	19.78	20.23	1.53	1.05	
+1208	Venti	11	6	10	12	97.8	NaN	2054.8	5	0.694	19.25	19.69	0.99	0.51	
+1208	Venti	11	6	20	22	97.9	NaN	2056.5	5	0.693	19.25	19.68	0.98	0.51	
+1208	Venti	11	6	30	32	98	NaN	2058.2	5	0.657	18.19	18.59	-0.11	-0.58	
+1208	Venti	11	6	40	42	98.1	NaN	2060.0	5	0.594	16.33	16.67	-2.03	-2.50	
+1208	Venti	11	6	50	52	98.2	NaN	2061.7	5	0.607	16.70	17.05	-1.65	-2.12	
+1208	Venti	11	6	60	62	98.3	NaN	2063.6	5	0.577	15.81	16.14	-2.56	-3.03	
+1208	Venti	11	6	70	72	98.4	NaN	2065.4	5	0.588	16.15	16.49	-2.21	-2.69	
+1208	Venti	11	6	80	82	98.5	NaN	2067.2	5	0.598	16.44	16.78	-1.92	-2.39	
+1208	Venti	11	6	90	92	98.6	NaN	2069.0	5	0.574	15.75	16.07	-2.63	-3.10	
+1208	Venti	11	6	100	102	98.7	NaN	2070.9	5	0.586	16.08	16.41	-2.29	-2.76	
+1208	Venti	11	6	110	112	98.8	NaN	2072.7	5	0.555	15.17	15.48	-3.22	-3.69	
+1208	Venti	11	6	123	125	98.93	NaN	2075.1	5	0.597	16.40	16.75	-1.95	-2.43	
+1208	Venti	11	6	130	132	99	NaN	2076.3	5	0.582	15.98	16.31	-2.39	-2.86	
+1208	Venti	11	6	140	142	99.1	NaN	2078.2	5	0.585	16.07	16.41	-2.29	-2.77	
+1208	Venti	11	7	0	2	99.2	NaN	2080.0	5	0.604	16.62	16.97	-1.73	-2.20	
+1208	Venti	11	7	10	12	99.3	NaN	2083.2	5	0.601	16.54	16.89	-1.81	-2.29	
+1208	Venti	11	7	20	22	99.4	NaN	2086.5	5	0.598	16.43	16.78	-1.92	-2.40	
+1208	Venti	11	7	30	32	99.5	NaN	2089.8	5	0.610	16.79	17.15	-1.55	-2.03	
+1208	Venti	11	7	40	42	99.6	NaN	2093.0	5	0.626	17.25	17.62	-1.08	-1.56	
+1208	Venti	11	7	50	52	99.7	NaN	2096.3	5	0.623	17.17	17.54	-1.16	-1.64	
+1208	Venti	11	7	60	62	99.8	NaN	2099.6	5	0.617	17.01	17.37	-1.33	-1.81	
+1208	Venti	11	7	70	72	99.9	NaN	2102.9	5	0.610	16.79	17.15	-1.55	-2.03	
+1208	Venti	11	CC	0	2	99.92	NaN	2103.5	5	0.591	16.22	16.56	-2.14	-2.62	
+1208	Venti	11	CC	10	12	100.02	NaN	2106.8	5	0.639	17.65	18.03	-0.67	-1.15	
+1208	Venti	12	1	3	5	99.73	NaN	2113.0	5	0.629	17.37	17.74	-0.96	-1.44	
+1208	Venti	12	1	10	12	99.8	NaN	2114.7	5	0.580	15.90	16.23	-2.47	-2.96	
+1208	Venti	12	1	23	25	99.93	NaN	2117.8	5	0.645	17.83	18.22	-0.48	-0.97	
+1208	Venti	12	1	30	32	100	NaN	2119.5	5	0.614	16.91	17.27	-1.43	-1.92	
+1208	Venti	12	1	40	42	100.1	NaN	2121.9	5	0.604	16.62	16.97	-1.73	-2.22	
+1208	Venti	12	1	50	52	100.2	NaN	2124.3	5	0.668	18.50	18.91	0.21	-0.27	
+1208	Venti	12	1	63	65	100.33	NaN	2127.5	5	0.688	19.08	19.51	0.81	0.32	
+1208	Venti	12	1	70	72	100.4	NaN	2129.6	5	0.683	18.94	19.36	0.66	0.17	
+1208	Venti	12	1	80	82	100.5	NaN	2132.7	5	0.670	18.54	18.96	0.26	-0.23	
+1208	Venti	12	1	90	92	100.6	NaN	2135.9	5	0.659	18.23	18.63	-0.07	-0.56	
+1208	Venti	12	1	100	102	100.7	NaN	2139.0	5	0.656	18.14	18.54	-0.16	-0.65	
+1208	Venti	12	1	110	112	100.8	NaN	2142.1	5	0.650	17.96	18.36	-0.34	-0.83	
+1208	Venti	12	1	122	124	100.92	NaN	2146.0	5	0.647	17.88	18.27	-0.43	-0.92	
+1208	Venti	12	1	130	132	101	NaN	2147.5	5	0.631	17.41	17.78	-0.92	-1.41	
+1208	Venti	12	1	140	142	101.1	NaN	2149.4	5	0.598	16.44	16.79	-1.91	-2.41	
+1208	Venti	12	2	3	5	101.23	NaN	2152.0	5	0.580	15.90	16.23	-2.47	-2.96	
+1208	Venti	12	2	10	12	101.3	NaN	2153.3	5	0.609	16.78	17.13	-1.57	-2.06	
+1208	Venti	12	2	20	22	101.4	NaN	2155.3	5	0.574	15.74	16.06	-2.64	-3.13	
+1208	Venti	12	2	30	32	101.5	NaN	2157.2	5	0.590	16.22	16.56	-2.14	-2.64	
+1208	Venti	12	2	42	44	101.62	NaN	2159.6	5	0.590	16.20	16.53	-2.17	-2.66	
+1208	Venti	12	2	50	52	101.7	NaN	2161.1	5	0.581	15.96	16.29	-2.41	-2.91	
+1208	Venti	12	2	60	62	101.8	NaN	2163.1	5	0.579	15.88	16.21	-2.49	-2.98	
+1208	Venti	12	2	70	72	101.9	NaN	2165.0	5	0.563	15.41	15.73	-2.97	-3.47	
+1208	Venti	12	2	80	82	102	NaN	2166.9	5	0.546	14.92	15.23	-3.47	-3.97	
+1208	Venti	12	2	90	92	102.1	NaN	2168.7	5	0.595	16.35	16.69	-2.01	-2.50	
+1208	Venti	12	2	100	102	102.2	NaN	2170.5	5	0.642	17.74	18.13	-0.57	-1.07	
+1208	Venti	12	2	110	112	102.3	NaN	2172.3	5	0.662	18.32	18.73	0.03	-0.47	
+1208	Venti	12	2	123	125	102.43	NaN	2174.7	5	0.672	18.60	19.02	0.32	-0.18	
+1208	Venti	12	2	130	132	102.5	NaN	2176.0	5	0.711	19.78	20.23	1.53	1.03	
+1208	Venti	12	2	140	142	102.6	NaN	2177.8	5	0.728	20.27	20.73	2.03	1.53	
+1208	Venti	12	3	3	5	102.73	NaN	2180.2	5	0.707	19.65	20.10	1.40	0.90	
+1208	Venti	12	3	10	12	102.8	NaN	2181.5	5	0.708	19.68	20.12	1.42	0.92	
+1208	Venti	12	3	20	22	102.9	NaN	2183.3	5	0.701	19.46	19.90	1.20	0.70	
+1208	Venti	12	3	30	32	103	NaN	2185.1	5	0.671	18.59	19.00	0.30	-0.20	
+1208	Venti	12	3	40	42	103.1	NaN	2187.0	5	0.679	18.84	19.26	0.56	0.06	
+1208	Venti	12	3	50	52	103.2	NaN	2188.8	5	0.682	18.92	19.34	0.64	0.14	
+1208	Venti	12	3	62	64	103.32	NaN	2191.0	5	0.674	18.68	19.09	0.39	-0.11	
+1208	Venti	12	3	70	72	103.4	NaN	2192.5	5	0.686	19.02	19.44	0.74	0.24	
+NaN	Venti	12	3	80	82	103.5	NaN	2194.0	5	0.671	18.59	19.00	0.30	-0.20	
+NaN	Venti	12	3	94	96	103.64	NaN	2196.1	5	0.658	18.20	18.60	-0.10	-0.60	
+NaN	Venti	12	3	100	102	103.7	NaN	2197.0	5	0.691	19.18	19.61	0.91	0.41	
+NaN	Venti	12	3	110	112	103.8	NaN	2198.5	5	0.680	18.85	19.27	0.57	0.06	
+NaN	Venti	12	3	122	124	103.92	NaN	2200.3	5	0.710	19.72	20.17	1.47	0.96	
+NaN	Venti	12	3	130	132	104	NaN	2201.5	5	0.705	19.60	20.04	1.34	0.83	
+NaN	Venti	12	3	140	142	104.1	NaN	2203.0	5	0.709	19.70	20.14	1.44	0.94	
+NaN	Venti	12	4	3	5	104.23	NaN	2205.0	5	0.676	18.72	19.14	0.44	-0.07	
+NaN	Venti	12	4	10	12	104.3	NaN	2206.5	5	0.655	18.11	18.51	-0.19	-0.70	
+NaN	Venti	12	4	20	22	104.4	NaN	2208.7	5	0.665	18.42	18.83	0.13	-0.38	
+NaN	Venti	12	4	30	32	104.5	NaN	2210.9	5	0.671	18.60	19.01	0.31	-0.20	
+NaN	Venti	12	4	50	52	104.7	NaN	2215.3	5	0.733	20.40	20.86	2.16	1.66	
+NaN	Venti	12	4	60	62	104.8	NaN	2217.5	5	0.748	20.86	21.34	2.64	2.13	
+NaN	Venti	12	4	70	72	104.9	NaN	2219.6	5	0.743	20.70	21.17	2.47	1.97	
+NaN	Venti	12	4	80	82	105	NaN	2221.8	5	0.728	20.26	20.72	2.02	1.51	
+NaN	Venti	12	4	90	92	105.1	NaN	2224.0	5	0.725	20.18	20.64	1.94	1.43	
+NaN	Venti	12	4	110	112	105.3	NaN	2228.4	5	0.717	19.93	20.38	1.68	1.17	
+NaN	Venti	12	4	123	125	105.43	NaN	2231.3	5	0.699	19.41	19.85	1.15	0.63	
+NaN	Venti	12	4	130	132	105.5	NaN	2232.8	5	0.685	19.01	19.43	0.73	0.22	
+NaN	Venti	12	4	140	142	105.6	NaN	2235.0	5	0.697	19.34	19.78	1.08	0.57	
+NaN	Venti	12	5	3	5	105.73	NaN	2237.2	5	0.646	17.85	18.24	-0.46	-0.97	
+NaN	Venti	12	5	10	12	105.8	NaN	2238.3	5	0.670	18.57	18.98	0.28	-0.23	
+NaN	Venti	12	5	20	22	105.9	NaN	2240.0	5	0.633	17.46	17.84	-0.86	-1.38	
+NaN	Venti	12	5	30	32	106	NaN	2241.6	5	0.663	18.37	18.77	0.07	-0.44	
+NaN	Venti	12	5	40	42	106.1	NaN	2243.3	5	0.657	18.17	18.57	-0.13	-0.64	
+NaN	Venti	12	5	50	52	106.2	NaN	2245.0	5	0.675	18.72	19.13	0.43	-0.08	
+NaN	Venti	12	5	60	62	106.3	NaN	2246.6	5	0.645	17.82	18.21	-0.49	-1.00	
+NaN	Venti	12	5	70	72	106.4	NaN	2248.3	5	0.670	18.57	18.98	0.28	-0.24	
+NaN	Venti	12	5	80	82	106.5	NaN	2250.0	5	0.701	19.47	19.91	1.21	0.69	
+NaN	Venti	12	5	90	92	106.6	NaN	2252.0	5	0.698	19.39	19.83	1.13	0.61	
+NaN	Venti	12	5	100	102	106.7	NaN	2254.0	5	0.731	20.36	20.82	2.12	1.61	
+NaN	Venti	12	5	110	112	106.8	NaN	2256.1	5	0.753	20.99	21.48	2.78	2.26	
+NaN	Venti	12	5	123	125	106.93	NaN	2258.7	5	0.774	21.62	22.12	3.42	2.91	
+NaN	Venti	12	5	130	132	107	NaN	2260.2	5	0.777	21.71	22.22	3.52	3.00	
+NaN	Venti	12	5	140	142	107.1	NaN	2262.2	5	0.761	21.24	21.73	3.03	2.51	
+NaN	Venti	12	6	3	5	107.23	NaN	2264.9	5	0.761	21.25	21.74	3.04	2.52	
+NaN	Venti	12	6	10	12	107.3	NaN	2266.3	5	0.757	21.12	21.60	2.90	2.39	
+NaN	Venti	12	6	20	22	107.4	NaN	2268.4	5	0.746	20.78	21.26	2.56	2.04	
+NaN	Venti	12	6	30	32	107.5	NaN	2270.4	5	0.746	20.78	21.26	2.56	2.04	
+NaN	Venti	12	6	40	42	107.6	NaN	2272.5	5	0.714	19.84	20.29	1.59	1.07	
+NaN	Venti	12	6	50	52	107.7	NaN	2274.5	5	0.669	18.54	18.95	0.25	-0.27	
+NaN	Venti	12	6	60	62	107.8	NaN	2276.5	5	0.651	17.99	18.38	-0.32	-0.84	
+NaN	Venti	12	6	70	72	107.9	NaN	2278.5	5	0.614	16.91	17.27	-1.43	-1.95	
+NaN	Venti	12	6	80	82	108	NaN	2280.5	5	0.591	16.24	16.58	-2.12	-2.64	
+NaN	Venti	12	6	90	92	108.1	NaN	2282.5	5	0.632	17.45	17.83	-0.87	-1.40	
+NaN	Venti	12	6	100	102	108.2	NaN	2284.5	5	0.655	18.11	18.51	-0.19	-0.72	
+NaN	Venti	12	6	110	112	108.3	NaN	2286.5	5	0.616	16.96	17.33	-1.37	-1.90	
+NaN	Venti	12	6	123	125	108.43	NaN	2289.1	5	0.666	18.43	18.83	0.13	-0.39	
+NaN	Venti	12	6	130	132	108.5	NaN	2290.5	5	0.674	18.68	19.09	0.39	-0.13	
+NaN	Venti	12	6	140	142	108.6	NaN	2292.5	5	0.714	19.86	20.31	1.61	1.09	
+NaN	Venti	12	7	0	2	108.7	NaN	2294.3	5	0.701	19.48	19.92	1.22	0.69	
+NaN	Venti	12	7	10	12	108.8	NaN	2296.1	5	0.704	19.56	20.01	1.31	0.78	
+NaN	Venti	12	7	20	22	108.9	NaN	2297.9	5	0.699	19.40	19.84	1.14	0.61	
+NaN	Venti	12	7	30	32	109	NaN	2299.7	5	0.667	18.47	18.88	0.18	-0.35	
+NaN	Venti	12	7	40	42	109.1	NaN	2301.4	5	0.673	18.64	19.05	0.35	-0.17	
+NaN	Venti	12	7	50	52	109.2	NaN	2303.2	5	0.694	19.25	19.69	0.99	0.46	
+NaN	Venti	12	7	60	62	109.3	NaN	2305.0	5	0.721	20.06	20.51	1.81	1.29	
+NaN	Venti	12	CC	0	2	109.37	NaN	2306.2	5	0.718	19.98	20.44	1.74	1.21	
+NaN	Venti	12	CC	10	12	109.47	NaN	2308.0	5	0.697	19.34	19.78	1.08	0.55	
+NaN	Venti	13	1	3	5	109.23	NaN	2310.0	5	0.720	20.02	20.48	1.78	1.25	
+NaN	Venti	13	1	10	12	109.3	NaN	2314.7	5	0.673	18.65	19.07	0.37	-0.16	
+NaN	Venti	13	1	23	25	109.43	NaN	2323.6	5	0.674	18.68	19.10	0.40	-0.13	
+NaN	Venti	13	1	30	32	109.5	NaN	2328.4	5	0.644	17.79	18.17	-0.53	-1.06	
+NaN	Venti	13	1	40	42	109.6	NaN	2335.0	5	0.666	18.44	18.84	0.14	-0.39	
+NaN	Venti	13	1	50	52	109.7	NaN	2337.2	5	0.715	19.89	20.35	1.65	1.11	
+NaN	Venti	13	1	63	65	109.83	NaN	2339.9	5	0.745	20.77	21.24	2.54	2.01	
+NaN	Venti	13	1	70	72	109.9	NaN	2341.3	5	0.727	20.22	20.68	1.98	1.45	
+NaN	Venti	13	1	80	82	110	NaN	2343.4	5	0.731	20.36	20.82	2.12	1.59	
+NaN	Venti	13	1	90	92	110.1	NaN	2345.5	5	0.740	20.62	21.10	2.40	1.86	
+NaN	Venti	13	1	100	102	110.2	NaN	2347.6	5	0.749	20.88	21.36	2.66	2.13	
+NaN	Venti	13	1	110	112	110.3	NaN	2349.7	5	0.698	19.38	19.81	1.11	0.58	
+NaN	Venti	13	1	123	125	110.43	NaN	2352.5	5	0.714	19.87	20.32	1.62	1.08	
+NaN	Venti	13	1	130	132	110.5	NaN	2354.0	5	0.680	18.86	19.28	0.58	0.04	
+NaN	Venti	13	1	140	142	110.6	NaN	2356.3	5	0.689	19.12	19.55	0.85	0.31	
+NaN	Venti	13	2	3	5	110.73	NaN	2359.3	5	0.648	17.91	18.30	-0.40	-0.94	
+NaN	Venti	13	2	10	12	110.8	NaN	2361.0	5	0.650	17.97	18.37	-0.33	-0.87	
+NaN	Venti	13	2	20	22	110.9	NaN	2363.3	5	0.688	19.09	19.52	0.82	0.28	
+NaN	Venti	13	2	30	32	111	NaN	2365.6	5	0.715	19.87	20.33	1.63	1.08	
+NaN	Venti	13	2	43	45	111.13	NaN	2368.6	5	0.766	21.37	21.87	3.17	2.63	
+NaN	Venti	13	2	50	52	111.2	NaN	2370.2	5	0.771	21.53	22.03	3.33	2.79	
+NaN	Venti	13	2	60	62	111.3	NaN	2372.5	5	0.775	21.64	22.14	3.44	2.90	
+NaN	Venti	13	2	70	72	111.4	NaN	2376.5	5	0.760	21.19	21.68	2.98	2.44	
+NaN	Venti	13	2	80	82	111.5	NaN	2380.5	5	0.738	20.56	21.03	2.33	1.79	
+NaN	Venti	13	2	90	92	111.6	NaN	2384.4	5	0.752	20.96	21.44	2.74	2.20	
+NaN	Venti	13	2	100	102	111.7	NaN	2388.4	5	0.745	20.76	21.23	2.53	1.99	
+NaN	Venti	13	2	110	112	111.8	NaN	2392.5	5	0.732	20.37	20.83	2.13	1.59	
+NaN	Venti	13	2	123	125	111.93	NaN	2397.0	5	0.711	19.77	20.22	1.52	0.97	
+NaN	Venti	13	2	130	132	112	NaN	2399.4	5	0.734	20.43	20.90	2.20	1.65	
+NaN	Venti	13	2	140	142	112.1	NaN	2402.9	5	0.756	21.09	21.57	2.87	2.32	
+NaN	Venti	13	3	3	5	112.23	NaN	2407.5	5	0.772	21.55	22.05	3.35	2.80	
+NaN	Venti	13	3	10	12	112.3	NaN	2409.1	5	0.778	21.74	22.25	3.55	3.00	
+NaN	Venti	13	3	20	22	112.4	NaN	2411.4	5	0.790	22.09	22.61	3.91	3.36	
+NaN	Venti	13	3	30	32	112.5	NaN	2413.7	5	0.777	21.69	22.20	3.50	2.95	
+NaN	Venti	13	3	40	42	112.6	NaN	2416.0	5	0.780	21.79	22.30	3.60	3.05	
+NaN	Venti	13	3	50	52	112.7	NaN	2418.3	5	0.756	21.09	21.58	2.88	2.33	
+NaN	Venti	13	3	63	65	112.83	NaN	2421.3	5	0.766	21.39	21.88	3.18	2.63	
+NaN	Venti	13	3	70	72	112.9	NaN	2422.9	5	0.751	20.95	21.44	2.74	2.19	
+NaN	Venti	13	3	80	82	113	NaN	2425.2	5	0.732	20.38	20.84	2.14	1.59	
+NaN	Venti	13	3	90	92	113.1	NaN	2427.5	5	0.702	19.49	19.93	1.23	0.68	
+NaN	Venti	13	3	100	102	113.2	NaN	2429.4	5	0.661	18.31	18.71	0.01	-0.54	
+NaN	Venti	13	3	110	112	113.3	NaN	2431.3	5	0.677	18.76	19.18	0.48	-0.07	
+NaN	Venti	13	3	123	125	113.43	NaN	2433.7	5	0.687	19.05	19.47	0.77	0.22	
+NaN	Venti	13	3	130	132	113.5	NaN	2435.0	5	0.704	19.56	20.00	1.30	0.74	
+NaN	Venti	13	3	140	142	113.6	NaN	2436.9	5	0.656	18.15	18.54	-0.16	-0.71	
+NaN	Venti	13	4	3	5	113.73	NaN	2439.3	5	0.650	17.96	18.36	-0.34	-0.90	
+NaN	Venti	13	4	10	12	113.8	NaN	2440.6	5	0.642	17.75	18.13	-0.57	-1.12	
+NaN	Venti	13	4	20	22	113.9	NaN	2442.5	5	0.681	18.89	19.31	0.61	0.05	
+NaN	Venti	13	4	30	32	114	NaN	2444.4	5	0.677	18.76	19.18	0.48	-0.08	
+NaN	Venti	13	4	40	42	114.1	NaN	2446.3	5	0.674	18.67	19.09	0.39	-0.17	
+NaN	Venti	13	4	50	52	114.2	NaN	2448.1	5	0.663	18.34	18.75	0.05	-0.51	
+NaN	Venti	13	4	60	62	114.3	NaN	2450.0	5	0.696	19.33	19.76	1.06	0.50	
+NaN	Venti	13	4	74	76	114.44	NaN	2455.2	5	0.706	19.61	20.05	1.35	0.79	
+NaN	Venti	13	4	80	82	114.5	NaN	2457.5	5	0.720	20.02	20.47	1.77	1.21	
+NaN	Venti	13	4	90	92	114.6	NaN	2461.2	5	0.759	21.17	21.66	2.96	2.40	
+NaN	Venti	13	4	100	102	114.7	NaN	2464.9	5	0.747	20.81	21.29	2.59	2.03	
+NaN	Venti	13	4	110	112	114.8	NaN	2468.7	5	0.749	20.88	21.37	2.67	2.10	
+NaN	Venti	13	4	123	125	114.93	NaN	2473.5	5	0.742	20.67	21.15	2.45	1.88	
+NaN	Venti	13	4	130	132	115	NaN	2476.1	5	0.740	20.61	21.08	2.38	1.82	
+NaN	Venti	13	4	140	142	115.1	NaN	2480.0	5	0.746	20.79	21.27	2.57	2.00	
+NaN	Venti	13	5	3	5	115.23	NaN	2481.6	5	0.752	20.96	21.45	2.75	2.18	
+NaN	Venti	13	5	10	12	115.3	NaN	2482.5	5	0.728	20.27	20.74	2.04	1.47	
+NaN	Venti	13	5	20	22	115.4	NaN	2483.7	5	0.677	18.75	19.17	0.47	-0.10	
+NaN	Venti	13	5	30	32	115.5	NaN	2485.0	5	0.675	18.72	19.13	0.43	-0.13	
+NaN	Venti	13	5	40	42	115.6	NaN	2486.2	5	0.675	18.70	19.12	0.42	-0.15	
+NaN	Venti	13	5	50	52	115.7	NaN	2487.5	5	0.691	19.17	19.60	0.90	0.33	
+NaN	Venti	13	5	60	62	115.8	NaN	2488.8	5	0.704	19.56	20.00	1.30	0.73	
+NaN	Venti	13	5	70	72	115.9	NaN	2490.0	5	0.662	18.31	18.71	0.01	-0.55	
+NaN	Venti	13	5	80	82	116	NaN	2491.3	5	0.666	18.45	18.86	0.16	-0.41	
+NaN	Venti	13	5	90	92	116.1	NaN	2492.5	5	0.673	18.64	19.05	0.35	-0.22	
+NaN	Venti	13	5	100	102	116.2	NaN	2494.8	5	0.689	19.13	19.56	0.86	0.29	
+NaN	Venti	13	5	110	112	116.3	NaN	2497.0	5	0.692	19.21	19.64	0.94	0.37	
+NaN	Venti	13	5	123	125	116.43	NaN	2499.9	5	0.705	19.59	20.04	1.34	0.76	
+NaN	Venti	13	5	130	132	116.5	NaN	2501.5	5	0.719	20.01	20.46	1.76	1.19	
+NaN	Venti	13	5	140	142	116.6	NaN	2503.7	5	0.727	20.23	20.69	1.99	1.42	
+NaN	Venti	13	6	3	5	116.73	NaN	2506.6	5	0.723	20.13	20.59	1.89	1.32	
+NaN	Venti	13	6	10	12	116.8	NaN	2508.1	5	0.740	20.63	21.10	2.40	1.83	
+NaN	Venti	13	6	20	22	116.9	NaN	2510.4	5	0.724	20.15	20.61	1.91	1.34	
+NaN	Venti	13	6	30	32	117	NaN	2512.5	5	0.707	19.65	20.10	1.40	0.83	
+NaN	Venti	13	6	42	44	117.12	NaN	2514.8	5	0.608	16.72	17.08	-1.62	-2.19	
+NaN	Venti	13	6	50	52	117.2	NaN	2516.2	5	0.593	16.31	16.65	-2.05	-2.62	
+NaN	Venti	13	6	60	62	117.3	NaN	2518.1	5	0.620	17.09	17.45	-1.25	-1.82	
+NaN	Venti	13	6	70	72	117.4	NaN	2519.9	5	0.619	17.06	17.43	-1.27	-1.85	
+NaN	Venti	13	6	80	82	117.5	NaN	2521.7	5	0.592	16.26	16.60	-2.10	-2.67	
+NaN	Venti	13	6	90	92	117.6	NaN	2523.5	5	0.596	16.38	16.72	-1.98	-2.55	
+NaN	Venti	13	6	100	102	117.7	NaN	2525.4	5	0.659	18.25	18.65	-0.05	-0.63	
+NaN	Venti	13	6	110	112	117.8	NaN	2527.2	5	0.649	17.95	18.35	-0.35	-0.93	
+NaN	Venti	13	6	123	125	117.93	NaN	2529.6	5	0.621	17.11	17.48	-1.22	-1.80	
+NaN	Venti	13	6	130	132	118	NaN	2530.9	5	0.625	17.24	17.61	-1.09	-1.66	
+NaN	Venti	13	6	140	142	118.1	NaN	2532.7	5	0.665	18.40	18.80	0.10	-0.47	
+NaN	Venti	13	7	3	5	118.23	NaN	2535.1	5	0.678	18.79	19.20	0.50	-0.08	
+NaN	Venti	13	7	10	12	118.3	NaN	2536.3	5	0.687	19.06	19.49	0.79	0.21	
+NaN	Venti	13	7	20	22	118.4	NaN	2538.2	5	0.672	18.62	19.04	0.34	-0.24	
+NaN	Venti	13	7	30	32	118.5	NaN	2540.0	5	0.719	19.99	20.44	1.74	1.16	
+NaN	Venti	13	7	40	42	118.6	NaN	2542.2	5	0.725	20.16	20.62	1.92	1.34	
+NaN	Venti	13	7	50	52	118.7	NaN	2544.5	5	0.721	20.06	20.51	1.81	1.23	
+NaN	Venti	13	7	60	62	118.8	NaN	2546.8	5	0.731	20.35	20.81	2.11	1.53	
+NaN	Venti	13	CC	0	2	118.85	NaN	2547.9	5	0.736	20.51	20.98	2.28	1.70	
+NaN	Venti	13	CC	10	12	118.95	NaN	2550.1	5	0.744	20.73	21.21	2.51	1.93	
+NaN	Venti	13	CC	20	22	119.05	NaN	2552.5	5	0.751	20.94	21.42	2.72	2.14	
+NaN	Venti	14	1	3	5	118.73	NaN	2555.1	5	0.749	20.88	21.36	2.66	2.08	
+NaN	Venti	14	1	10	12	118.8	NaN	2556.9	5	0.724	20.14	20.60	1.90	1.31	
+NaN	Venti	14	1	20	22	118.9	NaN	2559.4	5	0.720	20.04	20.49	1.79	1.21	
+NaN	Venti	14	1	30	32	119	NaN	2561.9	5	0.714	19.85	20.30	1.60	1.02	
+NaN	Venti	14	1	40	42	119.1	NaN	2564.4	5	0.698	19.37	19.80	1.10	0.52	
+NaN	Venti	14	1	50	52	119.2	NaN	2567.0	5	0.697	19.36	19.80	1.10	0.51	
+NaN	Venti	14	1	63	65	119.33	NaN	2570.2	5	0.714	19.86	20.31	1.61	1.02	
+NaN	Venti	14	1	72	74	119.42	NaN	2572.5	5	0.722	20.10	20.56	1.86	1.27	
+NaN	Venti	14	1	90	92	119.6	NaN	2577.1	5	0.741	20.65	21.12	2.42	1.83	
+NaN	Venti	14	1	100	102	119.7	NaN	2579.7	5	0.748	20.84	21.32	2.62	2.04	
+NaN	Venti	14	1	110	112	119.8	NaN	2582.3	5	0.752	20.96	21.45	2.75	2.16	
+NaN	Venti	14	1	123	125	119.93	NaN	2585.6	5	0.744	20.75	21.23	2.53	1.94	
+NaN	Venti	14	1	130	132	120	NaN	2587.4	5	0.731	20.36	20.83	2.13	1.54	
+NaN	Venti	14	1	142	144	120.12	NaN	2590.4	5	0.715	19.87	20.32	1.62	1.03	
+NaN	Venti	14	2	3	5	120.23	NaN	2593.3	5	0.726	20.19	20.65	1.95	1.36	
+NaN	Venti	14	2	10	12	120.3	NaN	2595.0	5	0.734	20.45	20.91	2.21	1.62	
+NaN	Venti	14	2	20	22	120.4	NaN	2596.8	5	0.736	20.51	20.98	2.28	1.68	
+NaN	Venti	14	2	30	32	120.5	NaN	2598.6	5	0.725	20.17	20.63	1.93	1.34	
+NaN	Venti	14	2	43	45	120.63	NaN	2600.9	5	0.735	20.46	20.93	2.23	1.64	
+NaN	Venti	14	2	60	62	120.8	NaN	2603.9	5	0.697	19.36	19.79	1.09	0.50	
+NaN	Venti	14	2	70	72	120.9	NaN	2605.6	5	0.653	18.07	18.46	-0.24	-0.83	
+NaN	Venti	14	2	80	82	121	NaN	2607.4	5	0.674	18.68	19.10	0.40	-0.20	
+NaN	Venti	14	2	90	92	121.1	NaN	2609.2	5	0.652	18.02	18.42	-0.28	-0.88	
+NaN	Venti	14	2	100	102	121.2	NaN	2610.9	5	0.640	17.68	18.07	-0.63	-1.23	
+NaN	Venti	14	2	110	112	121.3	NaN	2612.7	5	0.665	18.41	18.82	0.12	-0.48	
+NaN	Venti	14	2	123	125	121.43	NaN	2615.0	5	0.706	19.63	20.07	1.37	0.78	
+NaN	Venti	14	2	130	132	121.5	NaN	2616.6	5	0.696	19.34	19.77	1.07	0.47	
+NaN	Venti	14	2	140	142	121.6	NaN	2618.9	5	0.709	19.70	20.15	1.45	0.85	
+NaN	Venti	14	3	3	5	121.73	NaN	2621.9	5	0.713	19.81	20.26	1.56	0.96	
+NaN	Venti	14	3	10	12	121.8	NaN	2623.6	5	0.724	20.14	20.59	1.89	1.30	
+NaN	Venti	14	3	20	22	121.9	NaN	2625.9	5	0.712	19.80	20.25	1.55	0.95	
+NaN	Venti	14	3	30	32	122	NaN	2628.2	5	0.699	19.41	19.85	1.15	0.55	
+NaN	Venti	14	3	40	42	122.1	NaN	2630.5	5	0.684	18.96	19.38	0.68	0.08	
+NaN	Venti	14	3	50	52	122.2	NaN	2632.8	5	0.721	20.06	20.52	1.82	1.22	
+NaN	Venti	14	3	63	65	122.33	NaN	2635.8	5	0.656	18.15	18.55	-0.15	-0.75	
+NaN	Venti	14	3	70	72	122.4	NaN	2637.5	5	0.645	17.82	18.21	-0.49	-1.09	
+NaN	Venti	14	3	80	82	122.5	NaN	2640.0	5	0.683	18.93	19.36	0.66	0.05	
+NaN	Venti	14	3	90	92	122.6	NaN	2642.5	5	0.676	18.74	19.15	0.45	-0.15	
+NaN	Venti	14	3	100	102	122.7	NaN	2645.0	5	0.695	19.30	19.73	1.03	0.43	
+NaN	Venti	14	3	110	112	122.8	NaN	2647.6	5	0.700	19.44	19.87	1.17	0.57	
+NaN	Venti	14	3	123	125	122.93	NaN	2650.8	5	0.694	19.28	19.71	1.01	0.41	
+NaN	Venti	14	3	130	132	123	NaN	2652.5	5	0.716	19.93	20.38	1.68	1.07	
+NaN	Venti	14	3	140	142	123.1	NaN	2654.7	5	0.706	19.61	20.05	1.35	0.75	
+NaN	Venti	14	4	3	5	123.23	NaN	2657.5	5	0.709	19.70	20.15	1.45	0.84	
+NaN	Venti	14	4	10	12	123.3	NaN	2658.9	5	0.708	19.68	20.13	1.43	0.82	
+NaN	Venti	14	4	20	22	123.4	NaN	2661.0	5	0.722	20.09	20.55	1.85	1.24	
+NaN	Venti	14	4	30	32	123.5	NaN	2663.2	5	0.718	19.98	20.43	1.73	1.13	
+NaN	Venti	14	4	40	42	123.6	NaN	2665.3	5	0.750	20.92	21.40	2.70	2.10	
+NaN	Venti	14	4	50	52	123.7	NaN	2667.4	5	0.752	20.98	21.47	2.77	2.16	
+NaN	Venti	14	4	60	62	123.8	NaN	2669.5	5	0.756	21.10	21.59	2.89	2.28	
+NaN	Venti	14	4	70	72	123.9	NaN	2671.6	5	0.754	21.04	21.53	2.83	2.22	
+NaN	Venti	14	4	80	82	124	NaN	2673.7	5	0.754	21.03	21.51	2.81	2.20	
+NaN	Venti	14	4	90	92	124.1	NaN	2675.8	5	0.733	20.41	20.87	2.17	1.56	
+NaN	Venti	14	4	100	102	124.2	NaN	2678.0	5	0.718	19.97	20.43	1.73	1.12	
+NaN	Venti	14	4	110	112	124.3	NaN	2680.0	5	0.711	19.75	20.20	1.50	0.89	
+NaN	Venti	14	4	123	125	124.43	NaN	2681.9	5	0.721	20.06	20.51	1.81	1.20	
+NaN	Venti	14	4	140	142	124.6	NaN	2684.3	5	0.711	19.76	20.21	1.51	0.90	
+NaN	Venti	14	5	3	5	124.73	NaN	2686.2	5	0.714	19.84	20.29	1.59	0.98	
+NaN	Venti	14	5	10	12	124.8	NaN	2687.2	5	0.733	20.43	20.89	2.19	1.58	
+NaN	Venti	14	5	20	22	124.9	NaN	2688.6	5	0.726	20.21	20.67	1.97	1.36	
+NaN	Venti	14	5	30	32	125	NaN	2690.0	5	0.717	19.94	20.40	1.70	1.08	
+NaN	Venti	14	5	40	42	125.1	NaN	2693.1	5	0.715	19.87	20.32	1.62	1.01	
+NaN	Venti	14	5	50	52	125.2	NaN	2696.1	5	0.724	20.14	20.60	1.90	1.28	
+NaN	Venti	14	5	60	62	125.3	NaN	2699.0	5	0.716	19.90	20.36	1.66	1.04	
+NaN	Venti	14	5	70	72	125.4	NaN	2702.0	5	0.720	20.02	20.48	1.78	1.16	
+NaN	Venti	14	5	80	82	125.5	NaN	2705.0	5	0.681	18.89	19.31	0.61	0.00	
+NaN	Venti	14	5	90	92	125.6	NaN	2706.6	5	0.688	19.08	19.51	0.81	0.19	
+NaN	Venti	14	5	100	102	125.7	NaN	2708.2	5	0.669	18.54	18.95	0.25	-0.37	
+NaN	Venti	14	5	110	112	125.8	NaN	2709.9	5	0.689	19.13	19.56	0.86	0.24	
+NaN	Venti	14	5	123	125	125.93	NaN	2712.0	5	0.682	18.92	19.34	0.64	0.02	
+NaN	Venti	14	5	130	132	126	NaN	2713.2	5	0.655	18.12	18.52	-0.18	-0.79	
+NaN	Venti	14	5	140	142	126.1	NaN	2714.8	5	0.657	18.18	18.58	-0.12	-0.74	
+NaN	Venti	14	6	3	5	126.23	NaN	2717.0	5	0.669	18.52	18.93	0.23	-0.39	
+NaN	Venti	14	6	10	12	126.3	NaN	2718.1	5	0.689	19.11	19.54	0.84	0.22	
+NaN	Venti	14	6	20	22	126.4	NaN	2719.8	5	0.698	19.37	19.80	1.10	0.48	
+NaN	Venti	14	6	30	32	126.5	NaN	2721.4	5	0.704	19.55	20.00	1.30	0.68	
+NaN	Venti	14	6	40	42	126.6	NaN	2723.1	5	0.706	19.62	20.06	1.36	0.74	
+NaN	Venti	14	6	50	52	126.7	NaN	2724.7	5	0.725	20.17	20.63	1.93	1.31	
+NaN	Venti	14	6	60	62	126.8	NaN	2726.4	5	0.768	21.45	21.95	3.25	2.63	
+NaN	Venti	14	6	70	72	126.9	NaN	2728.0	5	0.753	21.00	21.49	2.79	2.17	
+NaN	Venti	14	6	80	82	127	NaN	2730.7	5	0.762	21.26	21.75	3.05	2.43	
+NaN	Venti	14	6	90	92	127.1	NaN	2733.4	5	0.771	21.52	22.02	3.32	2.70	
+NaN	Venti	14	6	100	102	127.2	NaN	2736.1	5	0.773	21.57	22.08	3.38	2.75	
+NaN	Venti	14	6	110	112	127.3	NaN	2738.8	5	0.778	21.72	22.23	3.53	2.91	
+NaN	Venti	14	6	123	125	127.43	NaN	2742.3	5	0.763	21.30	21.79	3.09	2.47	
+NaN	Venti	14	6	130	132	127.5	NaN	2744.1	5	0.767	21.41	21.91	3.21	2.58	
+NaN	Venti	14	6	140	142	127.6	NaN	2746.8	5	0.772	21.56	22.07	3.37	2.74	
+NaN	Venti	14	7	3	5	127.73	NaN	2750.3	5	0.775	21.66	22.17	3.47	2.84	
+NaN	Venti	14	7	10	12	127.8	NaN	2752.2	5	0.781	21.81	22.32	3.62	2.99	
+NaN	Venti	14	7	20	22	127.9	NaN	2755.0	5	0.776	21.68	22.18	3.48	2.85	
+NaN	Venti	14	7	30	32	128	NaN	2758.6	5	0.761	21.23	21.72	3.02	2.40	
+NaN	Venti	14	7	40	42	128.1	NaN	2762.3	5	0.784	21.93	22.44	3.74	3.11	
+NaN	Venti	14	7	50	52	128.2	NaN	2766.1	5	0.777	21.70	22.20	3.50	2.87	
+NaN	Venti	14	7	63	65	128.33	NaN	2771.0	5	0.796	22.26	22.78	4.08	3.45	
+NaN	Venti	14	7	70	72	128.4	NaN	2773.6	5	0.774	21.62	22.12	3.42	2.79	
+NaN	Venti	14	CC	0	2	128.47	NaN	2776.2	5	0.778	21.73	22.24	3.54	2.91	
+NaN	Venti	14	CC	10	12	128.57	NaN	2780.0	5	0.799	22.36	22.89	4.19	3.56	
+NaN	Venti	14	CC	20	22	128.67	NaN	2785.4	5	0.792	22.15	22.66	3.96	3.33	
+NaN	Venti	15	1	3	5	128.23	NaN	2791.4	5	0.765	21.36	21.86	3.16	2.53	
+NaN	Venti	15	1	10	12	128.3	NaN	2795.0	5	0.762	21.26	21.75	3.05	2.41	
+NaN	Venti	15	1	22	24	128.42	NaN	2799.3	5	0.762	21.26	21.75	3.05	2.41	
+NaN	Venti	15	1	30	32	128.5	NaN	2802.0	5	0.762	21.26	21.75	3.05	2.41	
+NaN	Venti	15	1	40	42	128.6	NaN	2805.4	5	0.762	21.26	21.75	3.05	2.41	
+NaN	Venti	15	1	50	52	128.7	NaN	2808.8	5	0.753	21.00	21.48	2.78	2.14	
+NaN	Venti	15	1	63	65	128.83	NaN	2813.3	5	0.758	21.16	21.65	2.95	2.31	
+NaN	Venti	15	1	70	72	128.9	NaN	2815.7	5	0.762	21.26	21.75	3.05	2.41	
+NaN	Venti	15	1	80	82	129	NaN	2819.1	5	0.751	20.94	21.42	2.72	2.08	
+NaN	Venti	15	1	90	92	129.1	NaN	2822.5	5	0.780	21.80	22.31	3.61	2.97	
+NaN	Venti	15	1	100	102	129.2	NaN	2825.4	5	0.782	21.84	22.35	3.65	3.01	
+NaN	Venti	15	1	110	112	129.3	NaN	2828.3	5	0.791	22.13	22.65	3.95	3.30	
+NaN	Venti	15	1	123	125	129.43	NaN	2832.1	5	0.779	21.77	22.28	3.58	2.94	
+NaN	Venti	15	1	130	132	129.5	NaN	2834.1	5	0.773	21.58	22.08	3.38	2.74	
+NaN	Venti	15	1	140	142	129.6	NaN	2837.0	5	0.770	21.49	21.99	3.29	2.65	
+NaN	Venti	15	2	0	2	129.7	NaN	2840.0	5	0.778	21.73	22.23	3.53	2.89	
+NaN	Venti	15	2	10	12	129.8	NaN	2841.7	5	0.761	21.24	21.74	3.04	2.39	
+NaN	Venti	15	2	20	22	129.9	NaN	2843.5	5	0.750	20.90	21.38	2.68	2.04	
+NaN	Venti	15	2	30	32	130	NaN	2845.2	5	0.756	21.08	21.56	2.86	2.22	
+NaN	Venti	15	2	43	45	130.13	NaN	2847.5	5	0.753	20.99	21.47	2.77	2.12	
+NaN	Venti	15	2	50	52	130.2	NaN	2848.8	5	0.735	20.46	20.93	2.23	1.58	
+NaN	Venti	15	2	60	62	130.3	NaN	2850.5	5	0.738	20.56	21.03	2.33	1.68	
+NaN	Venti	15	2	70	72	130.4	NaN	2852.3	5	0.731	20.34	20.80	2.10	1.46	
+NaN	Venti	15	2	80	82	130.5	NaN	2854.0	5	0.747	20.82	21.30	2.60	1.95	
+NaN	Venti	15	2	90	92	130.6	NaN	2855.8	5	0.753	21.00	21.49	2.79	2.14	
+NaN	Venti	15	2	100	102	130.7	NaN	2857.5	5	0.758	21.15	21.64	2.94	2.29	
+NaN	Venti	15	2	110	112	130.8	NaN	2860.1	5	0.768	21.43	21.93	3.23	2.58	
+NaN	Venti	15	2	123	125	130.93	NaN	2863.3	5	0.754	21.03	21.51	2.81	2.16	
+NaN	Venti	15	2	130	132	131	NaN	2865.0	5	0.751	20.93	21.42	2.72	2.07	
+NaN	Venti	15	2	140	142	131.1	NaN	2867.5	5	0.745	20.76	21.24	2.54	1.89	
+NaN	Venti	15	3	0	2	131.2	NaN	2870.0	5	0.753	21.01	21.49	2.79	2.14	
+NaN	Venti	15	3	10	12	131.3	NaN	2872.5	5	0.740	20.63	21.10	2.40	1.75	
+NaN	Venti	15	3	18	20	131.38	NaN	2874.5	5	0.740	20.62	21.09	2.39	1.74	
+NaN	Venti	15	3	30	32	131.5	NaN	2877.5	5	0.740	20.63	21.11	2.41	1.75	
+NaN	Venti	15	3	40	42	131.6	NaN	2879.6	5	0.724	20.14	20.60	1.90	1.25	
+NaN	Venti	15	3	50	52	131.7	NaN	2881.8	5	0.733	20.42	20.89	2.19	1.53	
+NaN	Venti	15	3	62	64	131.82	NaN	2884.4	5	0.726	20.20	20.66	1.96	1.30	
+NaN	Venti	15	3	70	72	131.9	NaN	2886.1	5	0.725	20.19	20.65	1.95	1.29	
+NaN	Venti	15	3	80	82	132	NaN	2888.2	5	0.726	20.22	20.68	1.98	1.33	
+NaN	Venti	15	3	90	92	132.1	NaN	2890.4	5	0.729	20.29	20.75	2.05	1.39	
+NaN	Venti	15	3	100	102	132.2	NaN	2892.5	5	0.742	20.68	21.16	2.46	1.80	
+NaN	Venti	15	3	110	112	132.3	NaN	2894.3	5	0.751	20.93	21.42	2.72	2.06	
+NaN	Venti	15	3	123	125	132.43	NaN	2896.5	5	0.751	20.93	21.41	2.71	2.05	
+NaN	Venti	15	3	130	132	132.5	NaN	2897.7	5	0.752	20.96	21.44	2.74	2.09	
+NaN	Venti	15	3	140	142	132.6	NaN	2899.5	5	0.738	20.55	21.03	2.33	1.67	
+NaN	Venti	15	4	0	2	132.7	NaN	2901.2	5	0.741	20.64	21.12	2.42	1.76	
+NaN	Venti	15	4	10	12	132.8	NaN	2903.0	5	0.736	20.50	20.97	2.27	1.61	
+NaN	Venti	15	4	20	22	132.9	NaN	2904.7	5	0.740	20.61	21.09	2.39	1.73	
+NaN	Venti	15	4	30	32	133	NaN	2906.4	5	0.731	20.36	20.83	2.13	1.47	
+NaN	Venti	15	4	40	42	133.1	NaN	2908.2	5	0.738	20.56	21.03	2.33	1.67	
+NaN	Venti	15	4	50	52	133.2	NaN	2910.0	5	0.726	20.22	20.68	1.98	1.32	
+NaN	Venti	15	4	60	62	133.3	NaN	2913.6	5	0.714	19.86	20.31	1.61	0.94	
+NaN	Venti	15	4	70	72	133.4	NaN	2917.4	5	0.698	19.38	19.81	1.11	0.45	
+NaN	Venti	15	4	80	82	133.5	NaN	2921.1	5	0.702	19.49	19.93	1.23	0.57	
+NaN	Venti	15	4	90	92	133.6	NaN	2924.9	5	0.666	18.45	18.86	0.16	-0.50	
+NaN	Venti	15	4	100	102	133.7	NaN	2928.7	5	0.680	18.86	19.28	0.58	-0.09	
+NaN	Venti	15	4	110	112	133.8	NaN	2932.4	5	0.693	19.23	19.66	0.96	0.30	
+NaN	Venti	15	4	123	125	133.93	NaN	2937.5	5	0.722	20.08	20.53	1.83	1.17	
+NaN	Venti	15	4	130	132	134	NaN	2938.9	5	0.720	20.03	20.48	1.78	1.12	
+NaN	Venti	15	4	140	142	134.1	NaN	2941.1	5	0.719	19.99	20.44	1.74	1.07	
+NaN	Venti	15	5	0	2	134.2	NaN	2943.3	5	0.704	19.56	20.00	1.30	0.63	
+NaN	Venti	15	5	10	12	134.3	NaN	2945.4	5	0.697	19.35	19.79	1.09	0.42	
+NaN	Venti	15	5	18	20	134.38	NaN	2947.2	5	0.714	19.85	20.30	1.60	0.93	
+NaN	Venti	15	5	30	32	134.5	NaN	2949.8	5	0.722	20.09	20.54	1.84	1.17	
+NaN	Venti	15	5	40	42	134.6	NaN	2951.9	5	0.714	19.85	20.30	1.60	0.93	
+NaN	Venti	15	5	50	52	134.7	NaN	2954.1	5	0.746	20.80	21.28	2.58	1.91	
+NaN	Venti	15	5	60	62	134.8	NaN	2956.3	5	0.740	20.62	21.10	2.40	1.73	
+NaN	Venti	15	5	70	72	134.9	NaN	2958.4	5	0.734	20.43	20.89	2.19	1.52	
+NaN	Venti	15	5	80	82	135	NaN	2960.6	5	0.712	19.78	20.23	1.53	0.86	
+NaN	Venti	15	5	90	92	135.1	NaN	2962.7	5	0.689	19.12	19.55	0.85	0.18	
+NaN	Venti	15	5	100	102	135.2	NaN	2965.0	5	0.695	19.30	19.74	1.04	0.36	
+NaN	Venti	15	5	110	112	135.3	NaN	2967.8	5	0.679	18.84	19.26	0.56	-0.12	
+NaN	Venti	15	5	123	125	135.43	NaN	2971.7	5	0.688	19.09	19.52	0.82	0.14	
+NaN	Venti	15	5	130	132	135.5	NaN	2973.7	5	0.692	19.20	19.63	0.93	0.25	
+NaN	Venti	15	5	140	142	135.6	NaN	2976.7	5	0.686	19.04	19.47	0.77	0.09	
+NaN	Venti	15	6	0	2	135.7	NaN	2979.7	5	0.703	19.53	19.97	1.27	0.59	
+NaN	Venti	15	6	10	12	135.8	NaN	2982.5	5	0.720	20.02	20.47	1.77	1.10	
+NaN	Venti	15	6	20	22	135.9	NaN	2985.5	5	0.721	20.07	20.53	1.83	1.15	
+NaN	Venti	15	6	30	32	136	NaN	2988.4	5	0.707	19.65	20.09	1.39	0.72	
+NaN	Venti	15	6	40	42	136.1	NaN	2991.3	5	0.682	18.91	19.33	0.63	-0.04	
+NaN	Venti	15	6	50	52	136.2	NaN	2994.2	5	0.687	19.05	19.48	0.78	0.10	
+NaN	Venti	15	6	60	62	136.3	NaN	2997.1	5	0.704	19.55	19.99	1.29	0.61	
+NaN	A	15	6	88	98	136.63	NaN	2999.2	53.75	0.744	20.75	21.23	2.53	1.85	
+NaN	A	15	7	48	58	137.73	NaN	3027.4	41.1	0.760	21.22	21.71	3.01	2.33	
+NaN	A	16	1	88	98	138.63	NaN	3050.4	32.35	0.821	23.01	23.55	4.85	4.16	
+NaN	A	16	2	88	98	140.13	NaN	3088.9	26.1	0.748	20.86	21.34	2.64	1.95	
+NaN	A	16	3	88	98	141.63	NaN	3127.5	16.5	0.688	19.09	19.51	0.81	0.11	
+NaN	A	16	4	88	98	143.13	NaN	3166.1	13.25	0.733	20.42	20.88	2.18	1.47	
+NaN	A	16	6	88	98	146.13	NaN	3242.5	14.85	0.791	22.13	22.65	3.95	3.22	
+NaN	A	16	7	48	58	147.23	NaN	3270.4	15.15	0.779	21.77	22.28	3.58	2.84	
+NaN	A	17	1	85	95	148.1	NaN	3292.4	19.95	0.729	20.29	20.76	2.06	1.32	
+NaN	A	17	2	85	95	149.6	NaN	3330.4	32.8	0.749	20.88	21.36	2.66	1.91	
+NaN	A	17	3	85	95	151.1	NaN	3377.8	37.4	0.739	20.58	21.05	2.35	1.60	
+NaN	A	17	4	84	94	152.59	NaN	3428	48.2	0.731	20.35	20.82	2.12	1.35	
+NaN	A	17	5	85	95	154.1	NaN	3479	65.9	0.719	19.99	20.45	1.75	0.97	
+NaN	A	17	6	85	95	155.6	NaN	3528.6	68	0.800	22.37	22.89	4.19	3.40	
+NaN	A	17	7	49	59	156.74	NaN	3565.5	49.75	0.731	20.34	20.80	2.10	1.30	
+NaN	A	18	1	85	95	157.6	NaN	3593.4	36.6	0.804	22.49	23.02	4.32	3.51	
+NaN	A	18	2	85	95	159.1	NaN	3641.9	17.05	0.778	21.72	22.23	3.53	2.71	
+NaN	A	18	3	85	95	160.6	NaN	3694.1	20.4	0.806	22.55	23.08	4.38	3.55	
+NaN	A	18	4	85	95	162.1	NaN	3752	46.25	0.658	18.19	18.59	-0.11	-0.95	
+NaN	A	18	5	85	95	163.6	NaN	3809.9	75.3	0.779	21.78	22.29	3.59	2.73	
+NaN	A	18	6	85	95	165.1	NaN	3868.1	103.25	0.774	21.61	22.12	3.42	2.55	
+NaN	A	18	7	49	59	166.24	NaN	3915.6	92.85	0.808	22.62	23.15	4.45	3.58	
+NaN	A	19	1	24	34	166.49	NaN	3926.1	91.3	0.708	19.68	20.13	1.43	0.55	
+NaN	A	19	1	84	94	167.09	NaN	3951	89.4	0.756	21.08	21.57	2.87	1.99	
+NaN	A	19	2	64	74	168.39	NaN	4004.9	94.4	0.739	20.58	21.05	2.35	1.46	
+NaN	A	19	2	105	115	168.8	NaN	4022	98.75	0.731	20.34	20.81	2.11	1.21	
+NaN	A	19	3	25	35	169.5	NaN	4051.1	107.3	0.716	19.90	20.35	1.65	0.75	
+NaN	A	19	3	88	98	170.13	NaN	4076.4	112	0.762	21.25	21.74	3.04	2.14	
+NaN	A	19	4	55	65	171.3	NaN	4117	86.45	0.765	21.34	21.83	3.13	2.22	
+NaN	A	19	4	92	102	171.67	NaN	4129.9	78.35	0.774	21.63	22.13	3.43	2.51	
+NaN	A	19	5	80	90	173.05	NaN	4177.8	50.7	0.755	21.05	21.53	2.83	1.90	
+NaN	A	19	6	20	30	173.95	NaN	4209	37.2	0.759	21.16	21.65	2.95	2.02	
+NaN	A	19	6	58	68	174.33	NaN	4222.2	33.2	0.721	20.06	20.52	1.82	0.88	
+NaN	A	20	1	46	56	176.21	NaN	4280.2	23.8	0.783	21.88	22.40	3.70	2.74	
+NaN	A	20	1	90	100	176.65	NaN	4292.8	22.15	0.799	22.34	22.87	4.17	3.21	
+NaN	A	20	2	20	30	177.45	NaN	4315.6	20.75	0.809	22.65	23.18	4.48	3.52	
+NaN	A	20	2	100	110	178.25	NaN	4338.4	22.45	0.786	21.98	22.50	3.80	2.83	
+NaN	A	20	3	24	34	178.99	NaN	4359.6	26.25	0.758	21.15	21.64	2.94	1.97	
+NaN	A	20	3	90	100	179.65	NaN	4378.6	29.7	0.765	21.34	21.84	3.14	2.16	
+NaN	A	20	4	90	100	181.15	NaN	4423.8	25.9	0.783	21.88	22.39	3.69	2.71	
+NaN	A	20	5	24	34	181.99	NaN	4449.5	22.7	0.782	21.86	22.37	3.67	2.68	
+NaN	A	20	5	90	100	182.65	NaN	4469.6	22.55	0.745	20.77	21.25	2.55	1.56	
+NaN	A	20	6	18	28	183.43	NaN	4493.3	24.65	0.753	21.01	21.49	2.79	1.79	
+NaN	A	20	6	89	99	184.14	NaN	4515	28	0.753	21.01	21.50	2.80	1.79	
+NaN	A	21	1	24	34	185.49	NaN	4563.3	28.9	0.797	22.29	22.82	4.12	3.10	
+NaN	A	21	1	90	100	186.15	NaN	4593	24.1	0.766	21.40	21.89	3.19	2.17	
+NaN	A	21	2	21	31	186.96	NaN	4629.4	19.5	0.763	21.30	21.79	3.09	2.07	
+NaN	A	21	2	90	100	187.65	NaN	4660.6	18.7	0.756	21.08	21.57	2.87	1.83	
+NaN	A	21	3	24	34	188.49	NaN	4698.4	21.35	0.715	19.89	20.34	1.64	0.59	
+NaN	A	21	3	90	100	189.15	NaN	4728.1	24.95	0.787	21.99	22.50	3.80	2.75	
+NaN	A	21	4	48	58	190.23	NaN	4777.2	30.65	0.724	20.16	20.62	1.92	0.86	
+NaN	A	21	4	90	100	190.65	NaN	4797	27.45	0.719	19.99	20.45	1.75	0.68	
+NaN	A	22	1	33	43	190.78	NaN	4803.1	26.65	0.669	18.53	18.94	0.24	-0.83	
+NaN	A	22	1	90	100	191.35	NaN	4829.9	22.6	0.705	19.58	20.02	1.32	0.25	
+NaN	A	22	2	54	64	192.49	NaN	4883.6	17.65	0.733	20.42	20.89	2.19	1.11	
+NaN	A	22	2	126	136	193.21	NaN	4917.6	17.95	0.744	20.75	21.22	2.52	1.44	
+NaN	A	22	3	35	45	193.8	NaN	4945.4	19.3	0.754	21.04	21.52	2.82	1.73	
+NaN	A	22	3	90	100	194.35	NaN	4971.3	22	0.728	20.27	20.73	2.03	0.94	
+NaN	A	22	4	20	30	195.15	NaN	5007.1	25.25	0.730	20.31	20.78	2.08	0.97	
+NaN	A	22	4	86	96	195.81	NaN	5029.7	20.9	0.723	20.12	20.57	1.87	0.76	
+NaN	A	22	5	30	40	196.75	NaN	5062	19.95	0.755	21.06	21.54	2.84	1.73	
+NaN	A	22	5	90	100	197.35	NaN	5082.5	22.25	0.753	21.00	21.48	2.78	1.66	
+NaN	A	22	6	18	28	198.13	NaN	5109.2	28.75	0.740	20.62	21.09	2.39	1.26	
+NaN	A	22	6	90	100	198.85	NaN	5133.9	36.2	0.783	21.87	22.39	3.69	2.55	
+NaN	A	23	1	26	36	200.41	NaN	5192.6	43.75	0.790	22.09	22.61	3.91	2.77	
+NaN	A	23	1	132	142	201.47	NaN	5242.7	32.15	0.807	22.58	23.12	4.42	3.26	
+NaN	A	23	2	42	52	202.07	NaN	5270.9	28.05	0.787	22.00	22.51	3.81	2.65	
+NaN	A	23	2	121	131	202.86	NaN	5308.1	26.6	0.736	20.50	20.97	2.27	1.10	
+NaN	A	23	3	23	33	203.38	NaN	5332.7	28.55	0.755	21.05	21.53	2.83	1.66	
+NaN	A	23	3	102	112	204.17	NaN	5369.9	33.65	0.762	21.25	21.74	3.04	1.86	
+NaN	A	23	4	51	61	205.16	NaN	5416.4	40.65	0.766	21.39	21.89	3.19	2.00	
+NaN	A	23	4	107	117	205.72	NaN	5442.1	42.45	0.807	22.60	23.13	4.43	3.23	
+NaN	A	23	5	29	39	206.44	NaN	5475.2	50.7	0.782	21.86	22.37	3.67	2.47	
+NaN	A	23	5	79	89	206.94	NaN	5498.1	58.8	0.753	21.00	21.48	2.78	1.58	
+NaN	A	23	6	20	30	207.35	NaN	5516.7	65.9	0.779	21.78	22.29	3.59	2.37	
+NaN	A	23	6	58	68	207.73	NaN	5534.1	73.4	0.760	21.20	21.69	2.99	1.77	
+NaN	A	24	1	41	51	210.26	NaN	5651.3	119.55	0.736	20.49	20.96	2.26	1.02	
+NaN	A	24	1	130	140	211.15	NaN	5696.9	105.25	0.642	17.73	18.11	-0.59	-1.84	
+NaN	A	24	2	123	133	212.58	NaN	5769.9	95.25	0.735	20.48	20.95	2.25	0.98	
+NaN	A	24	3	28	38	213.13	NaN	5798.1	96.25	0.691	19.19	19.62	0.92	-0.36	
+NaN	A	24	3	90	100	213.75	NaN	5830	98.85	0.727	20.24	20.71	2.01	0.73	
+NaN	A	24	4	37	47	214.72	NaN	5879.7	106.6	0.706	19.60	20.05	1.35	0.06	
+NaN	A	24	4	90	100	215.25	NaN	5905.5	104.05	0.744	20.72	21.20	2.50	1.21	
+NaN	A	24	5	32	42	216.17	NaN	5947.8	86.65	0.734	20.43	20.90	2.20	0.90	
+NaN	A	24	5	90	100	216.75	NaN	5974.5	74.65	0.728	20.26	20.72	2.02	0.72	
+NaN	A	24	6	17	27	217.52	NaN	6009.9	59.8	0.772	21.56	22.06	3.36	2.04	
+NaN	A	24	6	90	100	218.25	NaN	6043.4	47.5	0.712	19.78	20.23	1.53	0.21	
+NaN	A	25	1	34	44	219.79	NaN	6114.4	32.7	0.732	20.39	20.85	2.15	0.82	
+NaN	A	25	1	103	113	220.48	NaN	6148.5	30.6	0.741	20.65	21.12	2.42	1.08	
+NaN	A	25	2	16	26	221.11	NaN	6180.7	30.85	0.738	20.56	21.03	2.33	0.98	
+NaN	A	25	2	100	110	221.95	NaN	6223.4	37.35	0.807	22.60	23.13	4.43	3.07	
+NaN	A	25	3	22	32	222.67	NaN	6260	46.45	0.780	21.78	22.29	3.59	2.22	
+NaN	A	25	3	90	100	223.35	NaN	6294.7	56.5	0.789	22.07	22.59	3.89	2.52	
+NaN	A	25	4	0	10	223.65	NaN	6310.1	61.45	0.801	22.42	22.95	4.25	2.87	
+NaN	A	25	4	52	62	224.17	NaN	6336.7	70.1	0.797	22.31	22.83	4.13	2.75	
+NaN	A	26	1	35	45	229.5	NaN	6608.3	100.95	0.806	22.55	23.08	4.38	2.94	
+NaN	A	26	1	93	103	230.08	NaN	6636.8	107.2	0.811	22.70	23.24	4.54	3.10	
+NaN	A	26	2	19	29	230.84	NaN	6666.8	97.65	0.840	23.56	24.12	5.42	3.98	
+NaN	A	26	2	120	130	231.85	NaN	6706.6	87.4	0.821	23.00	23.55	4.85	3.39	
+NaN	A	26	3	22	32	232.37	NaN	6727.2	82.25	0.828	23.21	23.77	5.07	3.61	
+NaN	A	26	3	102	112	233.17	NaN	6758.7	77	0.820	22.98	23.53	4.83	3.36	
+NaN	A	26	4	15	25	233.8	NaN	6783.4	76.15	0.818	22.92	23.46	4.76	3.29	
+NaN	A	26	4	79	89	234.44	NaN	6808.6	75.2	0.737	20.52	20.99	2.29	0.81	
+NaN	A	26	5	28	38	234.88	NaN	6826	77.25	0.801	22.41	22.94	4.24	2.76	
+NaN	A	26	5	57	67	235.17	NaN	6845.3	75.1	0.833	23.37	23.92	5.22	3.74	
+NaN	A	27	1	21	31	238.96	NaN	7170.7	52.45	0.789	22.05	22.56	3.86	2.32	
+NaN	A	27	1	62	72	239.37	NaN	7205.8	59	0.853	23.94	24.51	5.81	4.26	
+NaN	A	27	1	102	112	239.77	NaN	7240	64.7	0.780	21.78	22.29	3.59	2.03	
+NaN	A	27	1	134	144	240.09	NaN	7267	66.5	0.827	23.16	23.71	5.01	3.45	
+NaN	A	27	2	15	25	240.4	NaN	7291.8	62.3	0.839	23.53	24.09	5.39	3.83	
+NaN	A	27	2	52	62	240.77	NaN	7321.4	57.75	0.835	23.41	23.97	5.27	3.70	
+NaN	A	27	2	84	94	241.09	NaN	7347.1	53.6	0.808	22.62	23.15	4.45	2.87	
+NaN	A	27	2	140	150	241.65	NaN	7392	47.05	0.810	22.68	23.22	4.52	2.93	
+NaN	A	27	3	0	10	241.75	NaN	7400.1	45.7	0.816	22.85	23.39	4.69	3.10	
+NaN	A	27	3	38	48	242.13	NaN	7430.5	41.7	0.818	22.91	23.45	4.75	3.16	
+NaN	A	27	3	82	92	242.57	NaN	7465.8	37.85	0.865	24.29	24.87	6.17	4.57	
+NaN	A	27	3	110	120	242.85	NaN	7488.1	36	0.813	22.77	23.31	4.61	3.01	
+NaN	A	27	4	0	10	243.25	NaN	7520.1	33.7	0.816	22.85	23.39	4.69	3.08	
+NaN	A	27	4	35	45	243.6	NaN	7548.1	32.75	0.869	24.40	24.99	6.29	4.67	
+NaN	A	27	4	92	102	244.17	NaN	7593.9	33.7	0.780	21.79	22.29	3.59	1.97	
+NaN	A	27	4	127	137	244.52	NaN	7622.1	34.8	0.795	22.24	22.76	4.06	2.43	
+NaN	A	27	5	0	10	244.75	NaN	7640.5	36.15	0.811	22.72	23.25	4.55	2.92	
+NaN	A	27	5	32	42	245.07	NaN	7665.7	37.2	0.835	23.42	23.98	5.28	3.64	
+NaN	A	27	5	83	93	245.58	NaN	7701.9	31.3	0.811	22.70	23.23	4.53	2.89	
+NaN	A	27	5	124	134	245.99	NaN	7731.1	29.1	0.847	23.77	24.34	5.64	3.99	
+NaN	A	28	1	50	60	248.65	NaN	7920.2	63.05	0.821	23.00	23.55	4.85	3.16	
+NaN	A	28	1	82	92	248.97	NaN	7942.9	68.95	0.816	22.84	23.38	4.68	2.99	
+NaN	A	28	1	130	140	249.45	NaN	7977	79.05	0.834	23.40	23.95	5.25	3.56	
+NaN	A	28	2	15	25	249.8	NaN	8001.8	86.1	0.856	24.03	24.61	5.91	4.21	
+NaN	A	28	2	59	69	250.24	NaN	8026.1	86.75	0.845	23.70	24.27	5.57	3.87	
+NaN	A	28	2	124	134	250.89	NaN	8053.1	76.65	0.883	24.82	25.43	6.73	5.01	
+NaN	A	28	3	83	93	251.98	NaN	8098.6	60.4	0.873	24.52	25.11	6.41	4.69	
+NaN	A	28	3	127	137	252.42	NaN	8116.9	55.2	0.823	23.05	23.59	4.89	3.17	
+NaN	A	28	4	58	68	253.23	NaN	8150.7	46.25	0.631	17.40	17.78	-0.92	-2.65	
+NaN	A	28	4	140	150	254.05	NaN	8184.9	41.8	0.847	23.78	24.35	5.65	3.91	
+NaN	A	28	5	34	44	254.49	NaN	8203.2	41.05	0.847	23.77	24.34	5.64	3.90	
+NaN	A	28	5	139	149	255.54	NaN	8293.9	36.15	0.841	23.58	24.15	5.45	3.69	
+NaN	A	28	6	20	30	255.85	NaN	8333.6	33.1	0.847	23.77	24.34	5.64	3.88	
+NaN	A	28	6	78	88	256.43	NaN	8408.2	29.85	0.789	22.04	22.56	3.86	2.09	
+NaN	A	29	1	63	73	258.48	NaN	8672	45.65	0.776	21.67	22.17	3.47	1.65	
+NaN	A	29	1	139	149	259.24	NaN	8769.8	57	0.906	25.50	26.13	7.43	5.59	
+NaN	A	29	2	0	10	259.35	NaN	8784	58.95	0.888	24.96	25.56	6.86	5.02	
+NaN	A	29	2	40	50	259.75	NaN	8835.4	66.45	0.806	22.57	23.10	4.40	2.55	
+NaN	A	29	2	83	93	260.18	NaN	8880.7	67.55	0.789	22.06	22.58	3.88	2.03	
+NaN	A	29	3	0	10	260.85	NaN	8930.1	58.4	0.803	22.47	23.00	4.30	2.43	
+NaN	A	29	3	100	110	261.85	NaN	9003.7	47.4	0.830	23.28	23.83	5.13	3.25	
+NaN	A	29	4	108	118	263.43	NaN	9119.9	42.5	0.763	21.30	21.80	3.10	1.20	
+NaN	A	29	5	31	41	264.16	NaN	9173.6	47.35	0.896	25.20	25.82	7.12	5.21	
+NaN	A	30	3	35	45	270.8	NaN	9779.3	64.55	0.827	23.19	23.74	5.04	3.04	

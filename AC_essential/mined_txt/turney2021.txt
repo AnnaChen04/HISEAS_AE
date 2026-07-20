@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Index of /pub/data/paleo/reconstructions/turney2021/</title>
+</head>
+<body>
+<h1>Index of /pub/data/paleo/reconstructions/turney2021/</h1>
+<table><tbody>
+<tr>
+<th>Name</th>
+<th>Last modified</th>
+<th>Size</th>
+<th>Description</th>
+</tr>
+<tr><th colspan="4"><hr></th></tr>
+<tr>
+<td><a href="..">Parent Directory</a></td>
+<td> </td>
+<td align="right">-</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="turney2021early-lig-sst-ann.txt">turney2021early-lig-sst-ann.txt</a></td>
+<td align="right">2020-10-27 16:32</td>
+<td align="right">58166</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="turney2021lig-sst-ann.txt">turney2021lig-sst-ann.txt</a></td>
+<td align="right">2020-10-27 16:32</td>
+<td align="right">58449</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="turney2021lig-sst-djf.txt">turney2021lig-sst-djf.txt</a></td>
+<td align="right">2020-10-27 16:32</td>
+<td align="right">33825</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="turney2021lig-sst-jja.txt">turney2021lig-sst-jja.txt</a></td>
+<td align="right">2020-10-27 16:32</td>
+<td align="right">31311</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="turney2021lig-sst.xlsx">turney2021lig-sst.xlsx</a></td>
+<td align="right">2020-10-27 16:32</td>
+<td align="right">116799</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="turney2021mis6-lig-sst-ann.txt">turney2021mis6-lig-sst-ann.txt</a></td>
+<td align="right">2020-10-27 16:32</td>
+<td align="right">21195</td>
+<td> </td>
+</tr>
+<tr><th colspan="4"><hr></th></tr>
+</tbody></table>
+<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&amp;subagency=NOAA"></script>
+<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA"></script></body>
+</html>

@@ -1,0 +1,170 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# md79257_sytr-tab.txt
+# SYNTRACE data only
+# File Created: 07-May-2009
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Edouard Bard
+# Core/Site:      MD79257
+# Latitude:       20.24.00S	( -20.4)
+# Longitude:      36.20.00E	( 36.33333)
+# Water Depth(m): 1260
+#
+# Publications:
+#   Bard, E., F. Rostek, and C. Sonzogni. 1997. Interhemispheric synchrony of the
+#     last deglaciation inferred from alkenone palaeothermometry. Nature 385, 707-710.
+#   Rostek, F., G. Ruhland, F. Bassinot, P.J. Mueller, L. Labeyrie, Y. Lancelot,
+#     and E. Bard. 1993. Reconstructing sea surface temperature and salinity using
+#     d18O and alkenone records. Nature 364, 319-321.
+#   Rostek, F., E. Bard, L. Beaufort, C. Sonzogni, and G. Ganssen. 1997. Sea surface
+#     temperature and productivity records for the past 240 kyr in the Arabian Sea.
+#     Deep Sea Research II 44, 1461-1480.
+#------------------
+#
+# Description & Notes:
+#   Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years.
+#   
+#
+# MD79257 C14 Dates
+# 
+#   yrBP      radiocarbon years B.P. (Libby half-life; B.P. = 1950)
+# 
+#  Depth      yrBP          Error+        Error-            Material  Notes
+#  0           1670          100           100          G. ruber                    
+#  50          3700          120           120          G. ruber                    
+#  100         5780          170           170          G. ruber                    
+#  160         9710          240           240          G. ruber                    (turbidite)
+#  210         7330          130           130          G. ruber                    (turbidite)
+#  250         7420          250           250          G. ruber                    
+#  380         9450          190           190          G. ruber                    
+#  400         9420          130           130          G. ruber                    
+#  440         10240         230           230          G. ruber                    
+#  460         10160         140           140          G. ruber                    
+#  480         10450         150           150          G. ruber                    
+#  500         12100         230           230          G. ruber                    
+#  520         12120         210           210          G. ruber                    
+#  540         11900         210           210          G. ruber                    
+#  580         13830         230           230          G. ruber                    
+#  600         14820         180           180          G. ruber                    
+#  620         16220         390           390          G. ruber                    
+#  640         18070         320           320          G. ruber                    
+#  660         18690         240           240          G. ruber                    
+#  680         20130         320           320          G. ruber                    
+#  700         21970         350           350          G. ruber                    
+#  750         22990         340           340          G. ruber                    
+# 
+# Variables:
+#             depth         Depth (cm)
+#             calyrBP       calendar years B.P. (B.P. = 1950)
+#             sst-uk37      Sea Surface Temperature from Uk'37
+#
+# CORE: MD79257
+depth	calyrBP 	sst-uk37	
+-999	1200	26.8	
+-999	1500	26.9	
+-999	2100	26.9	
+-999	3800	27.2	
+-999	4300	27.4	
+-999	4700	27.2	
+-999	5300	27.1	
+-999	5700	27.1	
+-999	6100	27.3	
+-999	6400	27.4	
+-999	6700	27.5	
+-999	7100	27.5	
+-999	7200	26.8	
+-999	7400	27.2	
+-999	7900	26.6	
+-999	8000	26.5	
+-999	8000	26.5	
+-999	8000	26.6	
+-999	8100	26.5	
+-999	8100	26.4	
+-999	8100	26.6	
+-999	8200	26.8	
+-999	8300	26.7	
+-999	8500	26.8	
+-999	8700	26.8	
+-999	8900	26.9	
+-999	9200	26.9	
+-999	9400	26.1	
+-999	9600	26.3	
+-999	9800	26.3	
+-999	10100	26.1	
+-999	10200	26.4	
+-999	10400	26.3	
+-999	10500	26.2	
+-999	10700	26.1	
+-999	10900	26.4	
+-999	11000	26.3	
+-999	11100	26.4	
+-999	11300	26.2	
+-999	11400	26.3	
+-999	11500	26	
+-999	11700	25.8	
+-999	11900	25.9	
+-999	12000	25.8	
+-999	12200	25.8	
+-999	12400	26.1	
+-999	12600	26	
+-999	12800	25.9	
+-999	13100	26	
+-999	13400	26.1	
+-999	13800	26.1	
+-999	14300	26.1	
+-999	14700	26.1	
+-999	15200	25.9	
+-999	15700	24.9	
+-999	16300	24.7	
+-999	16900	24.6	
+-999	17400	25.4	
+-999	18000	24.6	
+-999	18900	25	
+-999	19600	24.2	
+-999	20400	25	
+-999	20700	25.3	
+-999	21200	25.4	
+-999	21800	25.1	
+-999	22300	25.3	
+-999	22900	25.3	
+-999	23400	25.2	
+-999	23900	25.4	
+-999	24600	25.6	
+-999	25000	25.3	
+-999	25500	25.9	
+-999	26000	25.8	
+-999	26600	26	
+-999	27100	25.8	
+-999	27600	25.1	
+-999	28200	25.3	
+-999	28700	25.6	
+-999	29300	25.8	
+-999	29800	25.6	
+-999	30300	25.5	
+-999	30800	25.9	
+-999	31300	25.7	
+-999	31900	25.6	
+-999	32400	26	
+-999	32900	25.3	
+-999	33500	25.4	
+-999	34000	26.2	
+-999	34600	26.1	
+-999	35200	26.3	
+-999	35800	25.7	
+-999	36400	25.6	
+-999	37000	25.8	
+-999	37600	25.9	
+-999	38300	25.6	
+-999	39000	25.7	
+-999	39700	25.8	
+-999	40500	26.2	
+-999	41300	26	
+-999	42100	26.5	
+-999	43000	26.6	
+-999	43900	26.7	
+-999	44900	26.4	

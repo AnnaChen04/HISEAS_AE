@@ -1,0 +1,148 @@
+# Atmospheric CO2 20 Million Year Foraminiferal B/Ca Reconstruction
+#-----------------------------------------------------------------------
+#                World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/16154
+#
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/tripati2011/tripati2011replicate.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Paleoceanography
+#--------------------
+# Contribution_Date
+#	Date: 2014-03-09
+#--------------------
+# Title
+#	Study_Name: Atmospheric CO2 20 Million Year Foraminiferal B/Ca Reconstruction
+#--------------------
+# Investigators
+#       Investigators: Tripati, A.K.; Roberts, C.D.; Eagle, R.A.; Li, G.
+#--------------------
+# Description_and_Notes
+#	Description: Paleoatmospheric CO2 concentrations estimated from the boron/calcium ratio of planktonic foraminifera.
+#       Samples from Deep Sea Drilling Project Site 588 and Ocean Drilling Program Site 806 were used to reconstruct pCO2
+#       values from the Miocene through Holocene (~20 to 0 Ma). Average, maximum, and minimum pCO2 estimates are calculated
+#       for each time.
+#--------------------
+# Publication
+#       Authors: Aradhna K. Tripati, Christopher D. Roberts, Robert A. Eagle, Gaojun Li
+#       Published_Date_or_Year: 2011-05-15
+#       Published_Title: A 20 million year record of planktic foraminiferal B/Ca ratios: Systematics and uncertainties in pCO2 reconstructions
+#       Journal_Name: Geochimica et Cosmochimica Acta
+#       Volume: 75
+#       Edition:
+#       Issue: 10
+#       Pages: 2582-2610
+#       DOI: 10.1016/j.gca.2011.01.018
+#       Online_Resource: http://www.sciencedirect.com/science/article/pii/S0016703711000263
+#       Full_Citation:
+#       Abstract: We use new and published data representing a 20 million long record to discuss the systematics of interpreting planktic foraminiferal B/Ca ratios. B/Ca-based reconstructions of seawater carbonate chemistry and atmospheric pCO2 assume that the incorporation of boron into foraminiferal tests can be empirically described by an apparent partition coefficient, KD=(B/CaCaCO3)/(BOH4-/HCO3- seawater) (Hemming and Hanson, 1992). It has also been proposed that there is a species-specific relationship between KD and temperature (Yu et al., 2007). As we discuss, although these relationships may be robust, there remain significant uncertainties over the controls on boron incorporation into foraminifera. It is difficult to be certain that the empirically defined correlation between temperature and KD is not simply a result of covariance of temperature and other hydrographic variables in the ocean, including carbonate system parameters. There is also some evidence that KD may be affected by solution [HCO3-]/[CO32-] ratios (i.e., pH), or by [CO32-]. In addition, the theoretical basis for the definition of KD and for a temperature control on KD is of debate. We also discuss the sensitivity of pCO2 reconstructions to different KD-temperature calibrations and seawater B/Ca. If a KD-temperature calibration is estimated using ice core pCO2 values between 0 and 200 ka, B/Ca ratios can be used to reasonably approximate atmospheric pCO2 between 200 and 800 ka; however, the absolute values of pCO2 calculated are sensitive to the choice of KD-temperature relationship. For older time periods, the absolute values of pCO2 are also dependent on the evolution of seawater B concentrations. However, we find that over the last 20 Ma, reconstructed changes in declining pCO2 across the Mid-Pleistocene Transition, Pliocene glacial intensification, and the Middle Miocene Climate Transition are supported by the B/Ca record even if a constant coretop KD is used, or different KD-temperature calibrations and models of seawater B evolution are applied to the data. The inferred influence of temperature on KD from coretop data therefore cannot itself explain the structure of a published pCO2 reconstruction (Tripati et al., 2009). We conclude the raw B/Ca data supports a coupling between pCO2 and climate over the past 20 Ma. Finally, we explore possible implications of B/Ca-based pCO2 estimates for the interpretation of other marine pCO2 proxies.
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: National Environmental Research Council (UK)
+#       Grant:
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: University of California - Los Angeles (USA)
+#       Grant:
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: Magdalene College (UK)
+#       Grant:
+#------------------
+# Site_Information
+#       Site_Name: DSDP588
+#       Location: Ocean>Pacific Ocean>South Pacific Ocean
+#	Country:
+#	Northernmost_Latitude: -26.1117
+# 	Southernmost_Latitude: -26.1117
+# 	Easternmost_Longitude: 161.2267
+# 	Westernmost_Longitude: 161.2267
+# 	Elevation: -1533 m
+#------------------
+# Site_Information
+#       Site_Name: ODP806
+#       Location: Ocean>Pacific Ocean>North Pacific Ocean
+#	Country:
+#	Northernmost_Latitude: 0.3187
+# 	Southernmost_Latitude: 0.3187
+# 	Easternmost_Longitude: 159.361
+# 	Westernmost_Longitude: 159.361
+# 	Elevation: -2521 m
+#------------------
+# Data_Collection
+#	Collection_Name: Tripati2011replicate
+#	Earliest_Year: 20000000
+#	Most_Recent_Year: 0
+#	Time_Unit: Cal. Year BP
+#	Core_Length: m
+#	Notes:
+#------------------
+# Chronology:
+#
+#
+#----------------
+# Variables
+#
+# Data variables follow (have no #)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## age_calMaBP	Age, , , millions of years before present, , , , ,N
+## notes-Species	Notes Species, , , , , , , ,C
+## BOH4-HCO3sw	Seawater borate/bicarbonate, , , mol/mol, , , , ,N
+## temp	Temperature, , , deg C, , , , ,N
+## sal	Salinity, , , PSU, , , , ,N
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values:
+# Comparison of reconstruction for replicate analyses
+age_calMaBP	notes-Species	BOH4-HCO3sw	temp	sal
+0.014	G. ruber	0.10115	27.1	36.8
+0.014	G. ruber	0.09348	27.6	37.2
+0.164	G. ruber	0.09799	26.5	35.9
+0.164	G. ruber	0.09238	27.1	36.3
+0.212	G. ruber	0.08677	28.5	35.5
+0.212	G. ruber	0.08626	28.7	35.6
+0.244	G. ruber	0.10554	26.8	36.2
+0.244	G. ruber	0.09638	27	36.3
+0.253	G. ruber	0.08929	27.9	36.1
+0.253	G. ruber	0.08714	27.9	36.1
+0.297	G. ruber	0.09393	27.7	34.7
+0.297	G. ruber	0.09173	27.2	34.4
+0.316	G. ruber	0.08778	29.5	36.5
+0.316	G. ruber	0.08688	29.9	36.8
+0.36	G. ruber	0.10353	26.5	35.8
+0.36	G. ruber	0.10067	26.3	35.7
+0.367	G. ruber	0.10237	25.9	34.4
+0.367	G. ruber	0.08816	26.3	34.7
+0.379	G. ruber	0.09424	26.7	36.1
+0.379	G. ruber	0.08159	27.1	36.3
+0.617	G. ruber	0.08291	28.1	35.7
+0.617	G. ruber	0.08224	28.6	36
+0.67	G. ruber	0.0918	26.5	36.1
+0.67	G. ruber	0.08455	27.2	36.5
+1.364	G. ruber	0.0856	27	35.3
+1.364	G. ruber	0.07801	28.2	36.1
+2.017	G. ruber	0.08762	28.4	37.4
+2.017	G. ruber	0.08043	28.6	37.5
+2.264	G. ruber	0.08922	28.1	35.1
+2.264	G. ruber	0.08882	28.5	35.3
+2.284	G. ruber	0.09198	27.6	35.8
+2.284	G. ruber	0.08427	28.4	36.2
+2.291	G. ruber	0.0924	27.6	37.1
+2.291	G. ruber	0.08682	28.3	37
+2.857	G. ruber	0.08971	27.2	35.8
+2.857	G. ruber	0.08826	27.7	36.1
+4.266	G. sacculifer	0.09424	26.5	35.9
+4.266	G. sacculifer	0.09099	26.8	36
+4.269	G. sacculifer	0.09843	27.2	36.3
+4.269	G. sacculifer	0.09294	27	36.2

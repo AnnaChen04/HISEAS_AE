@@ -1,0 +1,161 @@
+# Indian Ocean near Northwest Australia Biomarker, Geochemistry and SST Data over the last 640 Kyr
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data.
+# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with '#' followed by a space
+# Data lines have no '#'
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/42939
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-ocean-42939.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI: 10.25921/vrrk-s011
+#
+# Science_Keywords: Sea Surface Temperature Reconstruction, Warm Pool, glacial, interglacial
+#---------------------------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/tran2025/tran2025-u1482-coretop.txt
+#   Data_Download_Description: NOAA Template File; U1482 Coretop SST Data
+#
+#---------------------------------------
+# Contribution_Date
+#   Date: 2025-07-23
+#---------------------------------------
+# File_Last_Modified_Date
+#   Date: 2026-03-26
+#---------------------------------------
+# Title
+#   Study_Name: Indian Ocean near Northwest Australia Biomarker, Geochemistry and SST Data over the last 640 Kyr
+#---------------------------------------
+# Investigators
+#   Investigators: Tran, T.T.; Tierney, J.E.; Holbourn, A.E; Rattanasriampaipong, R.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#   Description: Provided keywords: Pleistocene paleoclimate
+#---------------------------------------
+# Publication
+#   Authors: Tran, T.T.; Tierney, J.E.; Holbourn, A.E; Rattanasriampaipong, R.
+#   Published_Date_or_Year: 2026
+#   Published_Title: Biomarker Constraints on Indo-Pacific Warm Pool Temperature During the Late Pleistocene: The Role of Orbital Forcing
+#   Journal_Name: Paleocenography and Paleoclimatology
+#   Volume: 41
+#   Edition: 
+#   Issue: 3
+#   Pages: 
+#   Report_Number: e2025PA005276
+#   DOI: 10.1029/2025PA005276
+#   Online_Resource: 
+#   Full_Citation: 
+#   Abstract: The Indo-Pacific Warm Pool (IPWP) exerts a major influence on global atmospheric circulation, yet the drivers of late Pleistocene IPWP sea surface temperature (SST) variability remain debated. To evaluate how IPWP temperature responds to different climate forcings, we present new SST records spanning the past 650 kyr based on three independent proxies - TEX86, Uk'37, and Mg/Ca - from International Ocean Discovery Program Site U1482, located off northwestern Australia at the southernmost margin of the IPWP. Core top samples suggest that Uk'37 and Mg/Ca are biased toward austral summer, while TEX86 is elevated under low-nutrient conditions. Down-core, all proxies exhibit coherent glacial–interglacial SST variations of ∼5 C, although TEX86 is affected by nutrient stress during interglacials. The Uk'37 record shows relatively warm conditions during Marine Isotope Stage 6 compared to other glacial intervals, but this is not observed in the TEX86 or Mg/Ca records. Total alkenone concentration, reflecting paleo-productivity, indicate enhanced productivity during glacial intervals and reduced productivity during interglacials. The SST proxy records are in phase with greenhouse gas and ice volume in the 100 and 41 kyr orbital bands, emphasizing tropical-high latitude climate coupling, while local precession forcing impacts seasonal SSTs. Productivity variations track both glacial-interglacial cycles and precession-driven changes in wind-driven upwelling and surface current intensity in the Indo-Pacific. Our regional synthesis highlights sea-level and shelf exposure as key drivers of IPWP SST patterns, with a more pronounced precession influence at the southern IPWP margin. Our findings demonstrate that both glacial-interglacial cycles and precession govern SST and productivity variations in the IPWP.
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: OPP-2202667, Alan T. Waterman award
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Oceanic and Atmospheric Administration
+#   Grant: Climate and Global Change Postdoctoral Fellowship Program (Grant NA23OAR4310383B)
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: Bundesministerium für Bildung und Forschung (BMBF)
+#   Grant: Grant 03G0257A 
+#---------------------------------------
+# Site_Information
+#   Site_Name: Indian Ocean NW Australia 
+#   Location: Indian Ocean
+#   Northernmost_Latitude: -15.05515
+#   Southernmost_Latitude: -28.96788
+#   Easternmost_Longitude: 120.4362
+#   Westernmost_Longitude: 111.09522
+#   Elevation_m: 
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: NWAust Coretop SST Tran2025
+#   First_Year: 
+#   Last_Year: 
+#   Time_Unit: 
+#   Core_Length_m: 
+#   Parameter_Keywords: biomarkers, geochemistry, reconstruction
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+#---------------------------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## site_ID	sample identification,,,,,Paleoceanography,,,C,site name
+## water_depth_m	collection water depth,,,meter,,Paleoceanography,,,N,vertical distance from the ocean surface down to the seafloor at the core site
+## latitude	latitude,,,degree north,,Paleoceanography,,,N,
+## longitude	longitude,,,degree east,,Paleoceanography,,,N,
+## sample_depth_cm	depth,,,centimeter,,Paleoceanography,,,C,position of sample within the recovered sediment column
+## uk37	alkenone unsaturation index UK37 prime,,,dimensionless,,Paleoceanography,,gas chromatography,N,
+## sst_uk_low	sea surface temperature,alkenone unsaturation index,90% confidence interval lower bound,degree Celsius,,Paleoceanography;climate reconstructions,,Bayesian hierarchical modeling,N,2.5% confidence interval using BAYSPLINE calibration
+## sst_uk_med	sea surface temperature,alkenone unsaturation index,,degree Celsius,,Paleoceanography;climate reconstructions,,Bayesian hierarchical modeling,N,Median values using BAYSPLINE calibration
+## sst_uk_high	sea surface temperature,alkenone unsaturation index,90% confidence interval upper bound,degree Celsius,,Paleoceanography;climate reconstructions,,Bayesian hierarchical modeling,N,97.5% confidence interval using BAYSPLINE calibration
+## TEX86	tetraether index of 86 carbon atoms,,,dimensionless,,Paleoceanography,,high-performance liquid chromatography,N,
+## sst_tex_low	sea surface temperature,glycerol dialkyl glycerol tetraether index,90% confidence interval lower bound,degree Celsius,,Paleoceanography;climate reconstructions,,Bayesian hierarchical modeling,N,2.5% confidence interval using BAYSPAR SST calibration
+## sst_tex_med	sea surface temperature,glycerol dialkyl glycerol tetraether index,,degree Celsius,,Paleoceanography;climate reconstructions,,Bayesian hierarchical modeling,N,Median values using BAYSPAR SST calibration
+## sst_tex_high	sea surface temperature,glycerol dialkyl glycerol tetraether index,90% confidence interval upper bound,degree Celsius,,Paleoceanography;climate reconstructions,,Bayesian hierarchical modeling,N,97.5% confidence interval using BAYSPAR SST calibration
+## BIT	branched and isoprenoid tetraether index,,,dimensionless,,Paleoceanography,,high-performance liquid chromatography,N,
+## MI	methane index,,,dimensionless,,Paleoceanography,,high-performance liquid chromatography,N,
+## deltaRI	ring index,,,dimensionless,,Paleoceanography,,high-performance liquid chromatography,N,
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NA
+site_ID	water_depth_m	latitude	longitude	sample_depth_cm	uk37	sst_uk_low	sst_uk_med	sst_uk_high	TEX86	sst_tex_low	sst_tex_med	sst_tex_high	BIT	MI	deltaRI	
+coretop_18547	1460.5	-15.0552	120.4362	0-2	0.981305	25.3389	29.6366	35.9911	0.720611	24.09747	30.68113	39.24206	0.062592	0.208564	0.075374	
+coretop_18549	1628.5	-15.9616	119.5097	0-2	0.967299	24.85315	28.95387	35.19698	0.703018	24.10783	29.17544	35.02744	0.060624	0.208589	0.040308	
+coretop_18550	1388	-16.8595	118.757	0-2	0.977742	25.21726	29.41973	35.73113	0.738653	25.94634	31.37081	37.35121	0.067271	0.197568	0.063211	
+coretop_18551	668.8	-17.5916	118.4457	0-2	0.9519	24.31563	28.1731	34.21275	0.742189	26.14498	31.40686	37.89225	0.083749	0.189787	0.176512	
+coretop_18552	1951.3	-17.676	117.694	0-2	0.975027	25.13771	29.30076	35.5945	0.726546	25.35185	30.5385	36.45763	0.038405	0.195816	0.104641	
+coretop_18553	1619.7	-18.1164	117.1166	0-2	0.966874	24.85411	28.9184	35.14658	0.756038	26.7806	32.27972	38.50079	0.07958	0.167178	0.202119	
+coretop_18554	497.9	-18.5332	117.3664	0-2	0.96707	24.84788	28.91836	35.15356	0.722431	25.29558	30.26834	35.96879	0.049343	0.192907	0.241539	
+coretop_18555	1113.7	-18.3509	117.2567	0-2	0.964638	24.74404	28.80325	35.05689	0.714983	24.57365	29.89781	35.89151	0.027977	0.194372	0.209515	
+coretop_18556	1843.6	-17.1036	117.2305	0-2	0.971298	24.98539	29.1025	35.32241	0.767526	27.5754	32.58962	38.6915	0.071262	0.154943	0.109706	
+coretop_18557	2405.9	-17.5486	117.1459	0-2	0.96864	24.87116	29.04493	35.24545	0.822995	30.37944	36.2105	42.99325	0.14289	0.12297	0.151414	
+coretop_18558	1755.4	-18.3992	115.2279	0-2	0.959928	24.6108	28.55614	34.7847	0.730121	25.48763	30.81021	36.85622	0.067271	0.203818	0.071893	
+coretop_18559	1976.5	-18.0833	115.0477	0-2	0.95549	24.45839	28.38933	34.52287	0.729296	25.59352	30.68229	36.475	0.045543	0.191157	0.056355	
+coretop_18560	868.8	-19.304	115.4321	0-2	0.953848	24.43755	28.28788	34.40743	0.782671	28.41351	33.81111	40.6575	0.078205	0.138555	0.29462	
+coretop_18561	1185	-19.2425	115.3992	0-2	0.961986	24.67067	28.69861	34.81759	0.75259	26.67024	31.9309	38.2652	0.055931	0.162931	0.260207	
+coretop_18562	1298.8	-19.4167	114.319	0-2	0.965981	24.83091	28.86132	35.05124	0.710729	24.58119	29.63958	35.51192	0.075654	0.202685	0.098043	
+coretop_18564	349.7	-20.5007	114.7846	0-2	0.972478	25.0072	29.20845	35.41897	0.677049	22.47808	27.63792	33.41732	0.076616	0.169501	0.455855	
+coretop_18565	1253.9	-20.014	114.2391	0-2	0.944311	24.11843	27.82685	33.8077	0.769024	27.50954	32.7797	39.17865	0.049674	0.137548	0.26675	
+coretop_18566	1133.5	-19.6451	113.8106	0-2	0.954169	24.43626	28.30574	34.43048	0.691279	23.0505	28.50721	34.07188	0.07959	0.199662	0.099735	
+coretop_18567	1131	-19.5206	113.0588	0-2	0.928855	23.55034	27.07437	32.9051	0.683977	22.45293	27.69467	33.45347	0.06282	0.201935	0.136675	
+coretop_18568	1100	-20.61	113.6244	0-2	0.952615	24.33874	28.28378	34.44252	0.689944	23.42203	28.37749	33.9734	0.067866	0.196093	0.119841	
+coretop_18570	1182.4	-20.9911	113.4489	0-2	0.941326	23.96125	27.6485	33.68908	0.688583	23.24288	28.0803	33.93007	0.057104	0.180786	0.228934	
+coretop_18571	1049.3	-22.1114	113.4944	0-2	0.946653	24.19645	27.97111	34.07678	0.677691	22.22589	27.51882	33.40888	0.074841	0.194341	0.216149	
+coretop_18572	1327.9	-22.0783	113.2284	0-2	0.928468	23.54018	27.06938	32.8729	0.743551	26.14202	31.37475	36.92046	0.150554	0.143934	0.304959	
+coretop_18573	1250.5	-22.6207	112.8368	0-2	0.911144	22.97108	26.25488	31.80849	0.668572	22.12361	27.02345	32.58099	0.060007	0.193954	0.189313	
+coretop_18574	504.5	-24.2316	112.3686	0-2	0.905127	22.77813	26.0077	31.41985	0.710474	23.98269	29.27276	35.45774	0.044688	0.155781	0.32504	
+coretop_18575	1032	-24.2315	111.853	0-2	0.883213	22.02769	25.0762	29.86761	0.700119	23.61906	28.50033	34.26283	0.108459	0.189668	0.16095	
+coretop_18576	1725.9	-24.1399	111.3408	0-2	0.891019	22.30765	25.39	30.47577	0.695123	23.48483	28.58449	34.05298	0.088475	0.20675	0.023401	
+coretop_18578	1678.9	-25.371	111.0952	0-2	0.862287	21.30772	24.25669	28.42185	0.700494	23.5302	28.70139	34.21112	0.075178	0.179438	0.188031	
+coretop_18579	715.1	-25.1016	111.8489	0-2	0.878207	21.88374	24.87631	29.54272	0.761653	26.79903	32.32569	38.73122	0.108661	0.140526	0.211818	
+coretop_18580	1369.1	-24.5689	111.2459	0-2	0.875887	21.82111	24.83211	29.44842	0.692533	22.96096	28.20634	34.10532	0.106967	0.179636	0.152567	
+coretop_18582	1571.5	-25.8983	111.372	0-2	0.858941	21.26813	24.17602	28.15104	0.696755	23.25061	28.47244	34.02101	0.097305	0.171925	0.20084	
+coretop_18584	1121.1	-27.7698	112.4205	0-2	0.856848	21.1885	24.09249	28.06673	0.711688	23.86461	29.28161	34.9087	0.091237	0.150904	0.297858	
+coretop_18585	1182.7	-27.2554	112.0363	0-2	0.857029	21.17164	24.07293	28.11065	0.674868	22.36179	27.16931	33.17322	0.065481	0.183255	0.208035	
+coretop_18586	1014.6	-28.1418	112.6339	0-2	0.865767	21.46752	24.41447	28.6921	0.660357	20.88297	26.32149	31.50075	0.081487	0.182727	0.243743	
+coretop_18587	797.8	-28.1289	112.937	0-2	0.863818	21.40128	24.36154	28.66155	0.676621	21.90967	27.29686	33.53464	0.04501	0.17217	0.411939	
+coretop_18588	810.2	-28.3847	113.0165	0-2	0.908086	22.84931	26.15464	31.57722	0.639376	19.79597	24.75755	30.54491	0.039658	0.192793	0.215465	
+coretop_18589	2485.8	-28.9679	112.876	0-2	0.873908	21.78099	24.72155	29.22013	0.677627	18.72202	24.07359	29.47611	0.075455	0.206836	0.074694	

@@ -1,0 +1,337 @@
+Southeast Pacific Alkenone Paleothermometry Calibration Data 
+-----------------------------------------------------------------------
+               World Data Center for Paleoclimatology, Boulder
+                                  and
+                     NOAA Paleoclimatology Program
+-----------------------------------------------------------------------
+NOTE: PLEASE CITE ORIGINAL REFERENCE WHEN USING THIS DATA!!!!!
+
+
+NAME OF DATA SET: 
+Southeast Pacific Alkenone Paleothermometry Calibration Data  
+
+LAST UPDATE: 4/2009 (Original receipt by WDC Paleo)
+CONTRIBUTOR: Fredrick G. Prahl, Oregon State University 
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2009-041
+
+
+WDC PALEO CONTRIBUTION SERIES CITATION: 
+Prahl, F.G., et al. 2009.
+Southeast Pacific Alkenone Paleothermometry Calibration Data.   
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2009-041.     
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
+
+
+ORIGINAL REFERENCE: 
+Prahl, F.G., A.C. Mix, and M.A. Sparrow.  2006. 
+Alkenone paleothermometry: Biological lessons from marine sediment 
+records off western South America.  
+Geochimica et Cosmochimica Acta, Vol. 70, pp. 101-117.   
+doi:10.1016/j.gca.2005.08.023
+
+
+ABSTRACT: 
+An empirical global core-top calibration that relates the alkenone 
+unsaturation index UK'37 to mean annual SST (maSST) is statistically
+the same as that defined for a subarctic Pacific strain of Emiliania 
+huxleyi (CCMP1742) grown exponentially in batch culture under 
+isothermal conditions. Although both equations have been applied 
+widely for paleoSST reconstruction, uncertainty still stems from two 
+key ecological factors: variability in the details of biosynthesis 
+among genetically distinct alkenone-producing strains, and impacts 
+of nonthermal physiological growth factors on UK'37.  New batch 
+culture experiments with CCMP1742 here reveal that UK'37 diverge 
+systematically from the core-top calibration in response to nutrient 
+depletion and light deprivation, two physiological stresses 
+experienced by phytoplankton populations in the real ocean. 
+Other aspects of alkenone/alkenoate composition also respond to 
+these stresses and may serve as signatures of such effects, 
+providing an opportunity to detect, understand, and potentially 
+correct for such impacts on the geologic record.  A test case 
+documents that sediments from the Southeast Pacific display the 
+alkenone/alkenoate compositional signature characteristic of cells 
+physiologically stressed by light deprivation. Such an observation 
+could be explained if marine snow provided a major vector of 
+sedimentation for these biomarkers. Late Pleistocene UK'37 records 
+in the Southeast Pacific yield plausible paleotemperature histories
+of ice-age cooling, but ice-age alkenone/alkenoate signatures fall 
+outside the range of modern calibration samples of similar UK'37.
+They better match core-top samples deposited beneath waters 
+characterized by much cooler maSST, suggesting key features of 
+ice-age ecology for alkenone-producing haptophytes were different 
+from today, and that the UK'37 index taken alone may misgauge the 
+total range of ice-age cooling at these locations. Analysis of the 
+full spectrum of alkenone/alkenoate compositions preserved in 
+sediments opens up a new opportunity that may improve the accuracy 
+of paleotemperature estimates based on simple UK'37 analysis and 
+help resolve longstanding disagreements between various 
+paleotemperature reconstruction methods.
+
+
+
+GEOGRAPHIC REGION: Eastern Pacific 
+PERIOD OF RECORD: 175 KYrBP - present
+
+FUNDING SOURCES: 
+US National Science Foundation Ocean Sciences Division grants 
+OCE-9730376 to F.G.P. and A.C.M.; OCE-9986306 and 0350409 to F.G.P.
+
+
+
+DESCRIPTION:   
+Alkenone paleothermometry calibration data from surface samples and 3 piston cores 
+from the eastern Pacific Ocean, offshore of western South America.  Surface sample 
+locations given in Table 1.  Piston core locations as follows:
+
+Core RR9702A-11PC: 46.317°S, 76.538°W, 2825 m depth (subpolar transition zone off southern Chile) 
+Core Y71-6-12P:    16.443°S, 77.563°W, 2734 m depth (eastern boundary current off southern Peru)
+Core Y69-71P:      0.083°N,  86.482°W, 2740 m depth (equatorial "cold-tongue" upwelling zone)
+
+
+
+
+DATA:
+1. Table 1. Surface Sediment Alkenone and SST data 
+
+Code               Lat°S    Lon°W    Water   sumSST   winSST    maSST     Core      OC    %CaCO3    Tot.Alk  UK'37   UK'37-T    %K37     %K38   ME/K37    EE/ME 
+                     *a              Depth    °C *b    °C *b    °C *b    Depth      wt%      wt%      *d              °C *e       *f       *f       *f       *f
+RR9702A-01MC3       50.7       77     3964      9.7      7.2      8.7      5.5     0.29      5.6      303     0.37      9.7       52       43    0.253    0.666
+RR9702A-08MC2       46.4     76.7     3014     11.9      7.4     10.3      5.5        1      5.4      360     0.42     11.2       51       44    0.226    0.729
+RR9702A-12MC2       43.4     76.3     3523     13.5      9.2     11.8      5.5      1.3      1.8      348    0.467     12.6       50       44    0.213    0.711
+RR9702A-27MC2       40.5     75.9     3850     15.4     10.5     13.2      5.5      1.2      0.4      399     0.47     12.7       50       44    0.185      0.7
+RR9702A-44MC2       35.8       73      172     16.3     10.7     13.6      5.5      2.5      3.3      294    0.488     13.2       53       43    0.183    0.653
+RR9702A-50MC1       23.6     73.6     3396     20.4       16     17.8      5.5     0.27     63.4      169     0.64     17.7       53       42    0.118     0.78
+RR9702A-60MC1       20.9     81.5     2480     21.4       18     19.4      5.5      0.2     90.5       78    0.707     19.7       *g       *g       *g       *g
+RR9702A-34MC1       36.5     73.4      133     16.7     11.1     13.9      5.5      3.5      1.2      369    0.479     12.9       51       43    0.141    0.725
+RR9702A-48MC3       32.6     73.7     3920     17.4     13.1     15.1      5.5     0.56     23.3      387    0.564     15.4       52       43    0.142    0.794
+RR9702A-54MC1       21.4     81.4     1323     21.1     17.9     19.2      5.5      0.2     95.6      239    0.749     20.9       *g       *g       *g       *g
+RR9702A-77MC1       16.1       77     2588     22.8     16.6     19.4      5.5      1.6      5.7      679    0.677     18.8       53       42    0.078    0.907
+RR9702A-80MC4       13.5     76.9      448     21.7     14.7       18      5.5      4.4      0.3      657    0.699     19.4       55       42     0.06    0.779
+RR9702A-31MC1       37.7     75.4     3946       17     11.7     14.3      5.5      1.3      0.4      505    0.495     13.4       49       45     0.16    0.751
+RR9702A-06MC2       46.9     76.6     3298     11.9      7.4     10.3      0.5     0.89      2.7      376    0.402     10.7       47       48    0.239    0.684
+RR9702A-14MC4       43.5     76.5     3471     13.5      9.2     11.8      0.5      1.1      1.6      354    0.453     12.2       47       47    0.202    0.711
+RR9702A-20MC7         40     74.5     1055     15.9     10.1     13.2      1.5        1      4.5      452    0.479     12.9       47       48    0.186     0.71
+RR9702A-04MC5         47     76.6     3354     11.9      7.4     10.3      2.5     0.92      2.7      399     0.41     10.9       46       48    0.241    0.717
+RR9702A-10MC2       46.3     76.5     2879     11.9      7.4     10.3        2     0.85      6.5      398     0.43     11.5       47       47    0.232    0.696
+RR9702A-22MC3         40     74.1      430     15.2      9.6     12.9      0.5      1.4        2      479    0.487     13.2       47       48    0.189    0.667
+RR9702A-25MC2       39.9     75.9     4087     16.1     10.9     13.6      0.5      1.1      0.5      336    0.489     13.2       46       47    0.182    0.691
+RR9702A-39MC3       36.2     73.6      510     16.7     11.1     13.9        2      2.3        1      392    0.507     13.8       49       46    0.174    0.697
+RR9702A-42MC1       36.2     73.7     1028     16.7     11.1     13.9      0.5      2.4      4.7      441    0.481       13       50       46    0.186    0.668
+RR9702A-46MC1       33.3     73.5     3852     16.9     12.6     14.7        2     0.94      7.8      397    0.533     14.5       49       46     0.17     0.74
+RR9702A-52MC1       23.2     73.3     3418     20.4       16     17.8      2.5     0.33     54.2      167    0.633     17.5       51       45    0.125    0.729
+RR9702A-62MC1       18.1       79     2937     22.5     17.6     19.7      1.5     0.92     75.7       68    0.698     19.4       53       44    0.106    0.889
+RR9702A-72MC1       16.5     76.2     3782     22.8     16.6     19.4        2     0.84      0.5      349    0.696     19.3       52       44    0.083    0.869
+RR9702A-74MC1       16.2     76.2     3476     22.8     16.6     19.4        2      1.2      0.1      478    0.675     18.7       53       44    0.088    0.982
+RR9702A-66MC1       16.1     77.1     2575     22.9     16.9     19.6        2      1.6      6.4      427    0.677     18.8       53       44    0.095    0.819
+RR9702A-68MC1         16     76.4     3228     22.8     16.6     19.4      1.5      1.6        0      513    0.685       19       51       45    0.077    0.886
+RR9702A-70MC1       16.7       76     4124     22.8     16.6     19.4        3     0.67        0      270    0.661     18.3       53       43    0.098    0.894
+RR9702A-64MC1         17     78.1     2930     22.9     17.4     19.8        2     0.44     55.9      227    0.701     19.5       52       44    0.086    0.982
+RR9702A-83MC2       13.2     77.3     1419     22.3     15.9     18.9      2.5      8.9        0      571    0.748     20.9       52       44     0.07     0.89
+RR9702A-82MC4       13.7     76.7      264     21.7     14.7       18        2       15      4.4      618    0.736     20.5       52       43    0.062    1.035
+VNTR01-19PC         -7.9     90.5     3448     27.6     26.8     27.4      3.5       *h       *h       *h    0.911     25.6       *g       *g       *g       *g
+VNTR01-9PC             3    110.5     3860       26     22.1     24.1      2.5       *h       *h       *h    0.876     24.6       *g       *g       *g       *g
+VNTR01-12GC            3     95.1     3535     26.3     20.3     23.2      3.5       *h       *h       *h    0.802     22.4       *g       *g       *g       *g
+VNTR01-10GC          4.5      102     3405     25.4     22.2     24.3      3.5       *h       *h       *h    0.867     24.3       *g       *g       *g       *g
+VNTR01-8PC             0    110.5     3791     25.7     21.8     23.4      0.5       *h       *h       *h    0.868     24.4       *g       *g       *g       *g
+VNTR01-21GC         -9.6     94.6     3710     27.8     27.2     27.7      3.5       *h       *h       *h    0.908     25.6       *g       *g       *g       *g
+MANOP-14GC            -1      140     3900       27     25.3     26.1      0.5     0.36       80       92    0.957       27       *g       *g       *g       *g
+
+*a Negative Numbers are north latitude, i.e. -9.6 = 9.6°N.
+*b sumSST, winSST, mast, summer, winter, and mean annual SST, respectively.
+*c Depths measured from top of core liner. Cores settled during transport, so all samples actually taken within the top 3 cm of original sediment–water interface.
+*d Total C37, C38, and C39 alkenone concentration. (ug/gOC)
+*e Temperature estimated from calibration equation UK'37 = 0:034T + 0.039 (Prahl et al., 1988)
+*f Alkenone/alkenoate compositional properties-see text for definition.
+*g Chromatograms contained interfering peaks which prohibited reliable quantitation of these compositional properties.
+*h Not determined.
+
+
+
+
+
+2. Table 2(a) Piston Core RR9702A-11PC alkenone/alkenoate signatures
+
+Depth     Age     UK'37   ME/K37    EE/ME
+(cm)     (kyr)
+
+1.5        0.6    0.463    0.229    0.673
+11.5       4.8    0.425    0.269    0.519
+21.5         9    0.405    0.268    0.448
+31.5      13.1    0.322    0.308    0.522
+41.5      17.3     0.29    0.321    0.475
+51.5      21.5    0.268     0.31    0.504
+61.5              0.262
+71.5              0.308
+81.5              0.365
+91.5              0.348
+101.5             0.349
+111.5             0.347
+121.5             0.363
+131.5             0.355
+141.5             0.349
+151.5             0.376
+161.5             0.367
+171.5             0.367
+181.5              0.33
+191.5             0.342
+200.5             0.337
+210.5             0.323
+220.5             0.319
+230.5             0.335
+250.5             0.334
+270.1             0.307
+290.5               0.3
+310.5             0.265     0.32
+320.5             0.264    0.331
+330.5             0.259    0.304
+350.5              0.35
+370.5             0.325
+391               0.347
+410.5              0.35
+430.5             0.342
+450.5             0.332
+470.5             0.307
+500.5             0.307
+520.5             0.326
+530.5             0.302
+550.5             0.296
+570.5             0.302    0.326
+610.5             0.284    0.311
+680.5             0.284
+700.5             0.306
+720.5             0.305
+740.5             0.313
+760.5             0.321
+
+
+
+
+
+
+3. Table 2(b) Piston Core Y71-6-12P alkenone/alkenoate signatures
+
+Depth      Age    UK'37     %K37     %K38   ME/K37    EE/ME
+(cm)     (kyr)
+
+12.5       4.2    0.712       52       44     0.14    0.868
+17.5       6.5     0.71       54       42    0.102     0.78
+27        10.8    0.683       54       42    0.101    0.746
+32        12.7    0.696       52       43    0.095    0.848
+45.5      16.8    0.646       53       43    0.113    0.699
+49.5      18.3    0.616       53       43    0.121    0.645
+55.5      20.4    0.625       54       42    0.126    0.621
+60.5      21.9    0.612       53       43    0.131    0.644
+65.5      23.5    0.625       54       42    0.131    0.658
+65.5      23.5    0.613       54       42    0.132    0.664
+70.5        26    0.626       54       43    0.124    0.762
+75.5      28.3    0.624       54       42    0.127    0.707
+80.5      31.5    0.622       54       42    0.138    0.599
+85.5      37.8    0.627       54       42    0.138    0.596
+90.5      44.6    0.639       54       42    0.122    0.596
+96.5        50    0.662       54       42    0.122    0.532
+100       52.9    0.659       55       42    0.117    0.539
+104.5     56.5    0.683       54       43    0.111    0.533
+113       60.4    0.678       54       42    0.113    0.521
+117.5     62.1    0.678       53       43    0.117    0.476
+119.5     62.7    0.674       54       42    0.117    0.513
+125.5       66    0.659       54       43    0.126    0.468
+130.5     70.9    0.673       54       42    0.132    0.436
+135.5     75.8    0.712       54       43    0.125    0.448
+140.5     79.9    0.735       54       42    0.127    0.429
+145         85    0.738       53       43    0.123    0.429
+150       91.1    0.695       54       42    0.117     0.44
+155       97.1    0.706       55       42    0.118     0.45
+160      103.1    0.689       54       42    0.121    0.466
+165      106.6    0.712       54       42    0.115    0.424
+170      108.9    0.681       54       42    0.107    0.485
+175      111.7    0.714       53       43    0.104     0.44
+180      115.7    0.734       53       43    0.091    0.485
+186.5    122.8    0.738       52       43    0.086    0.503
+194.5    133.8    0.701       51       44      0.1    0.491
+201      138.6    0.689       51       45    0.113    0.541
+206      141.9    0.704       53       43    0.092    0.505
+210      144.8     0.68       52       43    0.102    0.465
+216      149.1    0.683       52       44    0.104     0.52
+221      152.5    0.657       52       44    0.107    0.466
+226      155.7    0.682       52       44    0.092     0.53
+231      158.8     0.66       52       43    0.089    0.489
+236        162    0.676       52       44    0.092     0.55
+241      165.9    0.645       53       43    0.097    0.529
+246      170.1    0.673       53       44    0.094     0.56
+251      174.1     0.64       53       43    0.105    0.508
+
+
+
+
+
+
+4. Table 2(c) Piston Core Y69-71P alkenone/alkenoate signatures
+
+Depth      Age    UK'37     %K37     %K38   ME/K37    EE/ME
+(cm)     (kyr)
+
+7.3        1.1    0.857       55       42    0.069    0.921
+10.5       1.5    0.859       54       42    0.066    0.967
+18.5       2.6    0.854       55       42    0.057    1.077
+40.5       5.6    0.831       55       41    0.056    1.088
+50         6.9    0.816       54       43    0.055    1.198
+62         8.5    0.797       55       42    0.064    1.026
+80.5        11    0.787       55       42    0.058    0.983
+100.5     12.8    0.756       54       42    0.056    1.128
+120.5     14.5    0.767       55       41    0.055    0.928
+139.5     16.2    0.764       55       41    0.056    0.852
+149         17    0.771       55       41    0.054    0.905
+180       19.2    0.777       56       41    0.059    0.719
+201       20.5    0.766       56       41    0.061    0.887
+218.5     21.5    0.777       57       39     0.07    0.565
+240.5     22.8    0.779       56       41    0.063     0.57
+250       23.5     0.79       55       41    0.074    0.528
+260.5     24.2    0.801       55       41    0.062    0.628
+279.5     26.4    0.814       55       41    0.067    0.651
+300.5     29.1    0.827       54       43    0.094    0.562
+322.5     31.8    0.809       54       42    0.069    0.668
+336.5     33.6     0.82       55       41    0.078    0.514
+339       33.9    0.797       57       41    0.082    0.483
+348.5     35.1    0.813       55       42    0.078    0.509
+357.5     36.2    0.808       56       41    0.074     0.53
+361       36.6    0.819       55       42     0.07    0.574
+377.5     38.7    0.797       56       41    0.077    0.556
+381       39.1    0.785       56       41    0.074    0.568
+400.5     41.6    0.809       55       41    0.069    0.607
+420         44    0.818       56       41    0.074    0.569
+449       47.6    0.833       56       41    0.073    0.531
+459       48.9    0.831       56       41    0.077    0.484
+482       51.8    0.846       56       41    0.076    0.437
+501       54.1    0.819       56       41    0.078    0.565
+519.5     56.4     0.84       56       41    0.093    0.406
+538.5     58.9    0.816       56       41    0.077    0.467
+548.5     60.8    0.799       56       41     0.08    0.428
+559.5     62.9    0.796       56       41    0.077    0.476
+577.5     66.3    0.809       55       41    0.091    0.405
+598.5     70.1    0.806       55       41     0.11    0.346
+618       73.5    0.812       56       41    0.089    0.396
+637.5       77    0.844       55       42    0.087    0.346
+648.5       79    0.869       55       42    0.071    0.413
+662.5     81.5    0.859       55       42    0.076    0.401
+678.5     84.8    0.862       55       42    0.086    0.422
+698.5     89.7    0.864       55       42    0.087    0.397
+718.5     95.5    0.874       55       42    0.076    0.436
+737.5    100.6    0.866       55       43    0.074     0.44
+758.5    105.6     0.85       54       42    0.065    0.489
+783      111.9    0.814       56       41    0.065    0.502
+800.5    116.7    0.874       56       42    0.061    0.396
+818.5    121.5    0.899       55       42    0.053    0.498
+838.5    125.4    0.905       54       42    0.039    0.853
+858.5    129.2    0.872       54       43    0.052    0.772
+878.5    132.9    0.847       54       43    0.064    0.642
+898.5    136.6     0.84       54       43    0.063    0.604
+919.5    140.4    0.855       54       43    0.052    0.648
+938.5    143.9    0.857       54       43    0.046     0.65
+958.5    147.4    0.824       54       43    0.052    0.654
+980.5    151.1    0.827       54       43    0.049    0.751
+1002.5     155    0.843       54       43    0.046    0.819
+
+
+
+

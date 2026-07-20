@@ -1,0 +1,465 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Index of /pub/data/paleo/paleocean/fossil_plankton/</title>
+</head>
+<body>
+<h1>Index of /pub/data/paleo/paleocean/fossil_plankton/</h1>
+<table><tbody>
+<tr>
+<th>Name</th>
+<th>Last modified</th>
+<th>Size</th>
+<th>Description</th>
+</tr>
+<tr><th colspan="4"><hr></th></tr>
+<tr>
+<td><a href="..">Parent Directory</a></td>
+<td> </td>
+<td align="right">-</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="russian_fossil_plankton">russian_fossil_plankton/</a></td>
+<td align="right">2003-11-14 14:02</td>
+<td align="right">-</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="552a_ful.sst">552a_ful.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">1939</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="552a_qck.sst">552a_qck.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">8537</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="chk9.ful">chk9.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">8476</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="chk9.sst">chk9.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">1160</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="compq.dat">compq.dat</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">29179</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="dsdp552a.ful">dsdp552a.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">15001</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="dsdp552a.qck">dsdp552a.qck</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">15622</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="dsdp607_.qck">dsdp607_.qck</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">56176</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="faunal.doc">faunal.doc</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">14091</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_1.ful">k708_1.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">75221</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_1.sst">k708_1.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">9607</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_4.ful">k708_4.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">52865</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_4.sst">k708_4.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">6778</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_6.ful">k708_6.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">69389</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_6.sst">k708_6.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">8869</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_7.sst">k708_7.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">1117</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_7a.ful">k708_7a.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">99845</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_7b.qck">k708_7b.qck</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">1926</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_8.ful">k708_8.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">56753</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k708_8.sst">k708_8.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">7270</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k714_14.ful">k714_14.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">50273</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k714_15.ful">k714_15.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">36341</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k714_15.sst">k714_15.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">4688</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k714_3.ful">k714_3.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">39257</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k714_3.sst">k714_3.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">5056</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="k714_4.sst">k714_4.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">6450</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="lk4.ful">lk4.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">7505</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="lk4b.ful">lk4b.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">7505</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="lk6.ful">lk6.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">4265</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="lk7.ful">lk7.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">16577</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="lk_4.sst">lk_4.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">1038</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="rc9_225.ful">rc9_225.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">37637</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="rc9_225.sst">rc9_225.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">4810</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="rc9_228.sst">rc9_228.sst</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">2800</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="rc9_228s.ful">rc9_228s.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">21761</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="re5_34.ful">re5_34.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">11717</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="re5_34.sst">re5_34.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">1530</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="readme_fossil_plankton.txt">readme_fossil_plankton.txt</a></td>
+<td align="right">1996-10-16 15:47</td>
+<td align="right">2916</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="sst.doc">sst.doc</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">1264</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_23.ful">v23_23.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">27593</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_23.sst">v23_23.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">3581</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_42.ful">v23_42.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">39581</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_42.sst">v23_42.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">5098</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_81s.ful">v23_81s.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">40230</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_81s.sst">v23_81s.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">5137</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_82s.ful">v23_82s.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">59021</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_82s.sst">v23_82s.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">7515</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_83.ful">v23_83.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">39581</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v23_83.sst">v23_83.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">5098</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_114.ful">v27_114.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">20141</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_114.sst">v27_114.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">2638</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_116.ful">v27_116.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">54161</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_116.sst">v27_116.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">6943</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_17.ful">v27_17.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">38933</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_17.sst">v27_17.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">5015</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_19.ful">v27_19.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">35369</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_19.sst">v27_19.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">4565</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_20.sst">v27_20.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">6368</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_20a.ful">v27_20a.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">49949</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v27_20b.ful">v27_20b.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">49625</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v28_14.sst">v28_14.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">8685</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_177.ful">v29_177.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">18197</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_177.sst">v29_177.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">2350</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_178.ful">v29_178.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">18845</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_178.sst">v29_178.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">2432</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_179.ful">v29_179.ful</a></td>
+<td align="right">1992-11-04 15:32</td>
+<td align="right">50273</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_179.sst">v29_179.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">6408</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_180.ful">v29_180.ful</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">26621</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_180.sst">v29_180.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">3415</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v29_206.sst">v29_206.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">3005</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v30_97.ful">v30_97.ful</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">62909</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="v30_97.sst">v30_97.sst</a></td>
+<td align="right">1992-11-04 15:33</td>
+<td align="right">8008</td>
+<td> </td>
+</tr>
+<tr><th colspan="4"><hr></th></tr>
+</tbody></table>
+<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&amp;subagency=NOAA"></script>
+<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA"></script></body>
+</html>

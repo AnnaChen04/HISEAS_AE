@@ -1,0 +1,111 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# m85668eb_sytr-tab.txt
+# SYNTRACE data only
+# File Created: 08-Jul-2009
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Edouard Bard
+# Core/Site:      MD85668
+# Latitude:       0.01.00S	( -0.01667)
+# Longitude:      46.02.18E	( 46.03833)
+# Water Depth(m): 4020
+#
+# Publications:
+#   Bard, E., F. Rostek, and C. Sonzogni. 1997. Interhemispheric synchrony of the
+#     last deglaciation inferred from alkenone palaeothermometry. Nature 385, 707-710.
+#   Rostek, F., G. Ruhland, F. Bassinot, P.J. Mueller, L. Labeyrie, Y. Lancelot,
+#     and E. Bard. 1993. Reconstructing sea surface temperature and salinity using
+#     d18O and alkenone records. Nature 364, 319-321.
+#   Rostek, F., E. Bard, L. Beaufort, C. Sonzogni, and G. Ganssen. 1997. Sea surface
+#     temperature and productivity records for the past 240 kyr in the Arabian Sea.
+#     Deep Sea Research II 44, 1461-1480.
+#------------------
+#
+# Description & Notes:
+#   Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years.
+#   
+#
+# Variables:
+#             depth         Depth (cm)
+#             calyrBP       calendar years B.P. (B.P. = 1950)
+#             sst-uk37      Sea Surface Temperature from Uk'37
+#
+# CORE: MD85668
+depth	calyrBP 	sst-uk37	
+-999	0	26.7	
+-999	800	26.7	
+-999	2200	26.5	
+-999	3700	26.3	
+-999	5200	26.1	
+-999	7300	26.4	
+-999	9300	25.7	
+-999	11300	25.6	
+-999	13400	26	
+-999	15200	25.9	
+-999	16800	26.2	
+-999	18000	25.5	
+-999	18700	25.6	
+-999	19200	25.1	
+-999	19700	25.6	
+-999	20200	25.5	
+-999	20800	25.3	
+-999	21300	26.2	
+-999	22100	26.6	
+-999	24600	26.5	
+-999	27200	26.4	
+-999	29900	26.3	
+-999	33700	26.1	
+-999	37600	26.3	
+-999	41400	26.1	
+-999	44900	26.4	
+-999	47400	26	
+-999	49800	26.1	
+-999	51400	26.7	
+-999	53200	26.6	
+-999	55100	26.6	
+-999	57000	26.6	
+-999	58900	26.7	
+-999	60900	26.1	
+-999	63000	26.1	
+-999	65200	26.1	
+-999	67300	26	
+-999	69300	26	
+-999	71400	26.6	
+-999	73400	26.4	
+-999	75300	26.8	
+-999	76900	26.6	
+-999	78500	27.3	
+-999	80200	27.3	
+-999	81900	26.7	
+-999	83700	26.8	
+-999	85500	27.2	
+-999	87600	26.9	
+-999	90000	26.7	
+-999	92700	27.1	
+-999	95400	27.2	
+-999	98300	27.2	
+-999	101600	27.3	
+-999	104900	27.5	
+-999	108300	26.9	
+-999	112400	26.9	
+-999	116700	27	
+-999	120900	27.6	
+-999	124200	27.7	
+-999	126300	28.1	
+-999	128300	27.8	
+-999	130400	27.2	
+-999	132500	27	
+-999	134700	26.3	
+-999	136900	26.3	
+-999	139100	26.2	
+-999	141200	26.4	
+-999	143400	26.4	
+-999	145600	26.8	
+-999	147800	26.4	
+-999	149600	26.3	
+-999	151500	26.6	

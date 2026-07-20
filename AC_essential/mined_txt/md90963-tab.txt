@@ -1,0 +1,129 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# md90963-tab.txt
+# Complete Data
+# File Created: 16-Dec-2009
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Edouard Bard
+# Core/Site:      MD90963
+# Latitude:       5.04.00N	( 5.06667)
+# Longitude:      73.53.00E	( 73.88333)
+# Water Depth(m): 2446
+#
+# Publications:
+#   Bard, E., F. Rostek, and C. Sonzogni. 1997. Interhemispheric synchrony of the
+#     last deglaciation inferred from alkenone palaeothermometry. Nature 385, 707-710.
+#   Rostek, F., G. Ruhland, F. Bassinot, P.J. Mueller, L. Labeyrie, Y. Lancelot,
+#     and E. Bard. 1993. Reconstructing sea surface temperature and salinity using
+#     d18O and alkenone records. Nature 364, 319-321.
+#   Rostek, F., E. Bard, L. Beaufort, C. Sonzogni, and G. Ganssen. 1997. Sea surface
+#     temperature and productivity records for the past 240 kyr in the Arabian Sea.
+#     Deep Sea Research II 44, 1461-1480.
+#------------------
+#
+# Description & Notes:
+#   Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years.
+#   Geochemical and geochronological data, together with some interpretations, can
+#   be found in Rostek et al. (1993)
+#
+# Variables:
+#             depth         Depth (cm)
+#             calyrBP       calendar years B.P. (B.P. = 1950)
+#             sst-uk37      Sea Surface Temperature from Uk'37 (C)
+#
+# CORE: MD90963
+depth	calyrBP 	sst-uk37	
+-999	0	28	
+-999	13900	27.6	
+-999	16000	26.7	
+-999	18000	27	
+-999	20000	26.9	
+-999	22100	25.5	
+-999	24100	26.2	
+-999	26100	26.8	
+-999	28100	26.5	
+-999	30100	26.2	
+-999	32000	26.3	
+-999	34000	25.8	
+-999	35700	26.4	
+-999	37800	26	
+-999	39700	26.7	
+-999	41600	26.2	
+-999	43400	25.9	
+-999	45300	25.1	
+-999	47100	25.4	
+-999	48900	25.8	
+-999	50700	26.2	
+-999	52500	26.1	
+-999	53200	27	
+-999	56100	26.3	
+-999	57800	26.5	
+-999	59600	26.7	
+-999	61300	26.7	
+-999	62900	26	
+-999	66700	26.9	
+-999	68000	27	
+-999	69300	27.5	
+-999	70900	27.2	
+-999	72000	27.5	
+-999	73300	27.1	
+-999	74600	27.2	
+-999	75900	27.6	
+-999	77300	27.6	
+-999	78600	27.4	
+-999	80000	27.3	
+-999	82700	27.1	
+-999	84000	27.2	
+-999	85400	27.7	
+-999	86900	27.7	
+-999	88300	27.7	
+-999	89800	27.5	
+-999	91300	27.8	
+-999	92900	27.9	
+-999	94400	27.7	
+-999	95900	27.9	
+-999	97500	27.5	
+-999	99000	28	
+-999	100600	27.5	
+-999	102200	28.1	
+-999	103800	27.4	
+-999	105400	27.7	
+-999	107200	27	
+-999	109500	27.7	
+-999	110600	27.4	
+-999	111700	27.7	
+-999	112900	27.4	
+-999	114100	27.6	
+-999	115300	27.6	
+-999	117700	27	
+-999	118900	27.4	
+-999	121200	28	
+-999	122200	27.5	
+-999	125700	27.5	
+-999	128100	27	
+-999	130400	27.4	
+-999	131500	27.4	
+-999	132900	27.4	
+-999	134700	27.5	
+-999	136700	27.3	
+-999	138800	27	
+-999	140800	27.2	
+-999	142900	27.5	
+-999	144800	27.2	
+-999	148200	27.3	
+-999	150300	27	
+-999	152300	27.2	
+-999	154200	26.9	
+-999	156100	26.6	
+-999	158000	27.6	
+-999	159800	27.5	
+-999	161800	27.5	
+-999	163700	27.5	
+-999	165900	27.7	
+-999	169200	27.3	
+-999	171400	26.1	

@@ -1,0 +1,292 @@
+# Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/25390
+#      Description: NOAA Landing Page
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-dsdp594.txt
+#      Description: NOAA location of the template
+#
+# Archive: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: biomarkers
+#---------------------------------------
+# Contribution_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# Title
+#    Study_Name: Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#---------------------------------------
+# Investigators
+#      Investigators: Herbert, T.D.; Lawrence, K.T.; Tzanova, A.; Peterson, L.C.; Caballero-Gill, R.; Kelly, C.S.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Note: age models for Sites 907 and 982 refined following publication of Herbert et al., 2016 NGS
+#         Provided Keywords: Global ocean cooling, mid-Miocene to Present
+#---------------------------------------
+# Publication
+# Authors: Herbert, T.D., K.T. Lawrence, A. Tzanova, L.C. Peterson, R. Caballero-Gill, and C.S. Kelly
+# Published_Date_or_Year: 2016
+# Published_Title: Late Miocene Global Cooling and the Rise of Modern Ecosystems
+# Journal_Name: Nature Geoscience
+# Volume: 9
+# Edition: 
+# Issue: 
+# Pages: 843-847
+# Report_Number: 
+# DOI: 10.1038/ngeo2813
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: During the late Miocene epoch, about seven million years ago, large areas of the continents experienced drying, enhanced seasonality, and a restructuring of terrestrial plant and animal communities. These changes are seen throughout the subtropics, but have typically been attributed to regional tectonic forcing. Here we present a set of globally distributed sea surface temperature records spanning the past 12 million years based on the alkenone unsaturation method. We find that a sustained late Miocene cooling occurred synchronously in both hemispheres, and culminated with ocean temperatures dipping to near-modern values between about 7 and 5.4 million years ago. The period of maximum cooling coincides with evidence for transient glaciations in the Northern Hemisphere and with a steepening of the pole-to-equator temperature gradient, as well. We thus infer that late Miocene aridity and terrestrial ecosystem changes occurred in a global context of increasing meridional temperature gradients. We conclude that a global forcing mechanism, such as the previously hypothesized decline in atmospheric CO2 levels between eight and six million years ago, is required to explain the late Miocene changes in temperature, climate and ecosystems. 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Science Foundation Ocean Sciences
+#    Grant: 1304366, 1459280, 1545859
+#---------------------------------------
+# Site_Information
+# Site_Name: DSDP 594
+# Location: South Pacific Ocean
+# Country: 
+# Northernmost_Latitude: -45.521
+# Southernmost_Latitude: -45.521
+# Easternmost_Longitude: 174.948
+# Westernmost_Longitude: 174.948
+# Elevation: -1204
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: DSDP594-2016alkenones Herbert
+#   First_Year: 10353600
+#   Last_Year: 7100
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: Uk'37 measurement precision typically 0.005 units
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# 
+# Event	Age_(ka)	Uncertainty_(ka)	Depth_(mcd)	
+# core top		0		1		0	
+# C1n base	781		25	84.7	
+# MIS G20	3015	10	142.76	
+# C2An.2n	3119		50		148.8	
+# C2An.3n	3330		50		153	
+# MIS Gi1	3600	10	158.55	
+# C2An.3n base	3597		50		160	
+# LO R. pseudoumbilica		3900		250		162.5	
+# FO G punctilata		4500		250		164	
+# C3n.1n	4187		50		166.5	
+# MIS Si6	4892	20	172.6	
+# C3n.4n base	5235		50		177	
+# LAD_G._miotumida		5300		250		183	
+# FCO G spericomiozoa		5600		250		184	
+# C3An.1n	6030		50		185	
+# top C. conomizea		5600		250		188	
+# C3An.2n	6440		75	191.8	
+# LO D. quinqueramus		5580	100		193	
+# FAD G. conomiozea		7120		250		195	
+# C4n.1n base		7597		75		209	
+# LAD N. continuousa		6200		250		210	
+# C4An		8770		75		231	
+# C4An base		9105		100		238	
+# FO D. quinqueramus		8200		250		241	
+# C4Ar.1n		9311		150		242.8	
+# FO N. pachyderma		9300		250		251	
+# C4Ar.1n base		9410		150		251.925	
+# LO D hamatus		9490		250		260	
+# LAD G. mayeri		11400		500		362	
+# FAD D kugleri		12000	50		390	
+# FAD O. universa		14740		500		394	
+# LAD G. miozoa		10600		500		423	
+# LAD G. peripheronda		13500		500		430	
+# FO neogloboquadrinids		13490		500		431	
+# LAD G.conica		13000		500		466	
+# FAD L. suturalis		15100		500		468	
+# FAD G. mayeri		12400		500		469	
+# BT O.suturalis		15200		500		529.1	
+# Sphenolithus heteromorphus		14400		500		530.615	
+# FO Sphenolithus heteromorphus (Di Stefano 2015)	17992		500		615.5	
+# 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## sitename	sample identification,,,,,paleoceanography,,,C,Site
+## Hole	notes,,,,,paleoceanography,,,C,hole name
+## core	notes,,,,,paleoceanography,,,C,core
+## section	notes,,,,,paleoceanography,,,C,section
+## cm_top	depth at sample end,,,centimeter,,paleoceanography,,,N,
+## cm_base	depth at sample start,,,centimeter,,paleoceanography,,,N,
+## depth_mbsf	depth,,,meter,,paleoceanography,,,N,shipboard meters below sea floor
+## depth_mcd	depth,,,meter,,paleoceanography,,,N,composite depth 
+## age_kaBP	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## age_uncert_ka	age,,90% confidence interval margin of error,calendar kiloyear before present,,paleoceanography,,,N,
+## Uk'37	alkenone unsaturation index,sediment,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,GC-FID
+## SST_P	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following F.G. Prahl et al., 1988; estimated
+## SST_M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following P.J. Muller et al. 1998; estimated
+## SST_anom-M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; Muller calibration
+## SST_anom_back	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; backtraced for paleolatitude/longitude
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NaN
+sitename	Hole	core	section	cm_top	cm_base	depth_mbsf	depth_mcd	age_kaBP	age_uncert_ka	Uk'37	SST_P	SST_M	SST_anom-M	SST_anom_back	
+594	*	16	1	13	15	140.44	140.44	2739.9	149.9	0.458	12.33	12.55	1.50	1.93	
+594	*	16	2	115	117	142.96	142.96	2931.6	60.05	0.404	10.73	10.90	-0.15	0.32	
+594	*	16	3	133	135	144.64	144.64	3086.6	45.3	0.420	11.21	11.40	0.35	0.84	
+594	*	16	4	37	39	145.18	145.18	3134.1	63.3	0.489	13.23	13.48	2.43	2.94	
+594	*	16	4	97	99	145.78	145.78	3145.2	61.45	0.502	13.61	13.87	2.82	3.32	
+594	*	16	5	7	9	146.38	146.38	3156.3	61.7	0.463	12.47	12.70	1.65	2.15	
+594	*	16	5	73	75	147.04	147.04	3168.1	64.35	0.488	13.19	13.44	2.39	2.90	
+594	*	16	5	133	135	147.64	147.64	3179.5	68.2	0.318	8.20	8.29	-2.76	-2.25	
+594	*	16	6	43	45	148.24	148.24	3190.4	73.1	0.391	10.36	10.52	-0.53	-0.01	
+594	*	16	6	115	117	148.96	148.96	3203.6	80	0.446	11.96	12.17	1.12	1.64	
+594	*	16	cc	1	3	149.56	149.56	3214.6	86.95	0.476	12.85	13.09	2.04	2.56	
+594	A	10	1	31	33	128.02	150.17	3231.0	91.1	0.441	11.82	12.02	0.97	1.49	
+594	A	10	1	91	93	128.62	150.77	3253.0	84.5	0.468	12.62	12.85	1.80	2.33	
+594	A	10	2	1	3	129.22	151.37	3274.9	79.9	0.507	13.77	14.04	2.99	3.52	
+594	A	10	2	61	63	129.82	151.97	3296.8	78.2	0.493	13.35	13.60	2.55	3.08	
+594	A	10	2	121	123	130.42	152.57	3318.8	80.3	0.405	10.75	10.93	-0.12	0.42	
+594	A	10	3	31	33	131.02	153.17	3340.8	85.3	0.330	8.57	8.67	-2.38	-1.83	
+594	A	10	3	91	93	131.62	153.77	3362.7	93.55	0.393	10.41	10.57	-0.48	0.07	
+594	A	10	4	1	3	132.22	154.37	3384.6	103.55	0.462	12.45	12.68	1.63	2.18	
+594	A	10	4	73	75	132.94	155.09	3411.6	114.35	0.430	11.51	11.71	0.66	1.22	
+594	A	10	4	133	135	133.54	155.69	3439.1	99.8	0.527	14.36	14.64	3.59	4.15	
+594	A	10	5	43	45	134.14	156.29	3466.6	84.95	0.503	13.64	13.91	2.86	3.42	
+594	A	10	5	103	105	134.74	156.89	3494.1	71.1	0.490	13.27	13.52	2.47	3.04	
+594	A	10	6	13	15	135.34	157.49	3521.5	57.2	0.522	14.19	14.47	3.42	4.00	
+594	A	10	6	73	75	135.94	158.09	3549.0	44.7	0.514	13.97	14.25	3.20	3.78	
+594	A	10	6	133	135	136.54	158.69	3576.7	35.1	0.527	14.36	14.65	3.60	4.18	
+594	A	10	cc	14	16	137.13	159.28	3604.0	30	0.454	12.22	12.44	1.39	1.98	
+594	*	18	1	43	45	159.94	159.87	3634.4	32.25	0.458	12.34	12.56	1.51	2.10	
+594	*	18	1	103	105	160.54	160.47	3674.8	37.35	0.349	9.11	9.23	-1.82	-1.21	
+594	*	18	2	13	15	161.14	161.07	3717.0	54.6	0.411	10.94	11.12	0.07	0.68	
+594	*	18	2	73	75	161.74	161.67	3759.2	76.5	0.452	12.14	12.35	1.30	1.92	
+594	*	18	2	133	135	162.34	162.27	3801.2	100.45	0.426	11.38	11.58	0.53	1.15	
+594	*	18	3	43	45	162.94	162.87	3843.2	124.9	0.489	13.24	13.49	2.44	3.07	
+594	*	18	3	103	105	163.54	163.47	3885.3	149.4	0.424	11.34	11.53	0.48	1.12	
+594	*	18	4	25	27	164.26	164.19	3935.8	179.5	0.454	12.22	12.44	1.39	2.04	
+594	*	18	4	85	87	164.86	164.79	3978.0	204.45	0.493	13.36	13.61	2.56	3.22	
+594	*	18	4	145	147	165.46	165.39	4032.2	187.6	0.469	12.63	12.87	1.82	2.48	
+594	*	18	5	55	57	166.06	165.99	4090.1	160.7	0.503	13.64	13.90	2.85	3.53	
+594	*	18	5	115	117	166.66	166.59	4148.0	139.7	0.460	12.38	12.60	1.55	2.25	
+594	*	18	6	25	27	167.26	167.19	4206.0	128.75	0.438	11.74	11.94	0.89	1.59	
+594	*	18	CC	13	15	167.89	167.82	4266.9	132.05	0.477	12.87	13.11	2.06	2.77	
+594	*	19	1	43	45	169.54	168.43	4425.4	187.6	0.526	14.33	14.61	3.56	4.31	
+594	*	19	1	97	99	170.08	168.97	4479.3	206.3	0.481	12.99	13.23	2.18	2.93	
+594	*	19	1	145	147	170.56	169.45	4535.8	180.55	0.488	13.20	13.45	2.40	3.16	
+594	*	19	2	25	27	170.86	169.75	4571.1	165.1	0.512	13.92	14.19	3.14	3.91	
+594	*	19	2	61	63	171.22	170.11	4613.5	146.8	0.478	12.92	13.16	2.11	2.89	
+594	*	19	2	91	93	171.52	170.41	4648.8	131.55	0.504	13.67	13.93	2.88	3.66	
+594	*	19	2	121	123	171.82	170.71	4684.2	117	0.444	11.90	12.11	1.06	1.85	
+594	*	19	3	7	9	172.18	171.07	4726.5	99.85	0.473	12.76	12.99	1.94	2.74	
+594	*	19	3	37	38	172.475	171.365	4761.4	87.15	0.506	13.75	14.01	2.96	3.77	
+594	*	19	3	67	69	172.78	171.67	4797.5	74.9	0.503	13.65	13.91	2.86	3.67	
+594	*	19	3	97	98	173.075	171.965	4832.3	65	0.480	12.96	13.20	2.15	2.96	
+594	*	19	3	145	147	173.56	172.45	4889.2	57.3	0.457	12.28	12.50	1.45	2.28	
+594	*	19	4	55	57	174.16	173.05	4959.8	63.9	0.498	13.50	13.76	2.71	3.55	
+594	*	19	4	115	117	174.76	173.65	5030.3	84.05	0.528	14.39	14.67	3.62	4.47	
+594	*	19	5	28	30	175.39	174.28	5083.8	86.55	0.469	12.64	12.87	1.82	2.69	
+594	*	19	5	73	75	175.84	174.73	5112.9	80.35	0.445	11.94	12.15	1.10	1.96	
+594	*	19	5	103	104	176.135	175.025	5132.2	78.7	0.509	13.83	14.09	3.04	3.92	
+594	*	19	5	133	135	176.44	175.33	5152.2	79.65	0.489	13.25	13.50	2.45	3.32	
+594	*	19	6	13	15	176.74	175.63	5171.9	82.25	0.464	12.49	12.72	1.67	2.55	
+594	*	19	6	45	46	177.055	175.945	5192.4	86.55	0.488	13.20	13.45	2.40	3.28	
+594	*	19	6	73	75	177.34	176.23	5210.8	91.65	0.472	12.74	12.98	1.93	2.81	
+594	*	19	6	103	105	177.64	176.53	5230.3	98.5	0.493	13.36	13.62	2.57	3.46	
+594	*	19	6	133	135	177.94	176.83	5249.7	106.6	0.436	11.68	11.89	0.84	1.73	
+594	*	19	7	14	15	178.245	177.135	5269.5	115.65	0.490	13.26	13.51	2.46	3.36	
+594	*	19	CC	7	9	178.5	177.39	5286.1	123.35	0.490	13.25	13.50	2.45	3.35	
+594	*	20	1	43	45	179.14	177.98	5327.6	145.2	0.521	14.17	14.44	3.39	4.30	
+594	*	20	1	109	111	179.8	178.64	5370.4	168.2	0.350	9.13	9.26	-1.79	-0.87	
+594	*	20	2	19	21	180.4	179.24	5413.6	164.5	0.420	11.20	11.39	0.34	1.27	
+594	*	20	2	79	81	181	179.84	5459.2	149.65	0.432	11.57	11.77	0.72	1.65	
+594	*	20	2	139	141	181.6	180.44	5504.8	138.45	0.430	11.49	11.69	0.64	1.58	
+594	*	20	3	49	51	182.2	181.04	5550.6	132.65	0.400	10.61	10.78	-0.27	0.68	
+594	*	20	3	117	119	182.88	181.72	5602.5	130.5	0.371	9.76	9.91	-1.14	-0.18	
+594	*	20	4	33	35	183.54	182.38	5653.0	135.9	0.425	11.37	11.56	0.51	1.48	
+594	*	20	4	91	93	184.12	182.96	5697.2	145.45	0.433	11.59	11.79	0.74	1.71	
+594	*	20	5	7	9	184.78	183.62	5747.5	161	0.393	10.40	10.57	-0.48	0.50	
+594	*	20	5	73	75	185.44	184.28	5803.3	151.15	0.432	11.55	11.75	0.70	1.69	
+594	*	21	1	7	9	188.38	184.97	6064.5	182.7	0.434	11.62	11.82	0.77	1.81	
+594	*	21	1	67	69	188.98	185.57	6117.6	213.5	0.472	12.74	12.97	1.92	2.97	
+594	*	21	1	127	129	189.58	186.17	6170.7	248.5	0.439	11.76	11.96	0.91	1.97	
+594	*	21	2	43	45	190.24	186.83	6230.7	260.8	0.463	12.46	12.69	1.64	2.71	
+594	*	21	2	103	105	190.84	187.43	6287.3	232.6	0.515	14.01	14.28	3.23	4.31	
+594	*	21	3	13	15	191.44	188.03	6344.0	209.85	0.546	14.90	15.20	4.15	5.24	
+594	*	21	3	79	81	192.1	188.69	6407.2	193.65	0.498	13.51	13.76	2.71	3.82	
+594	*	21	3	139	141	192.7	189.29	6464.7	187.85	0.455	12.24	12.46	1.41	2.52	
+594	*	21	4	49	51	193.3	189.89	6522.0	194.5	0.466	12.55	12.78	1.73	2.86	
+594	*	21	4	109	111	193.9	190.49	6579.1	208.7	0.465	12.52	12.75	1.70	2.83	
+594	*	21	5	19	21	194.5	191.09	6636.0	230.8	0.521	14.19	14.47	3.42	4.56	
+594	*	21	5	79	81	195.1	191.69	6689.3	250.6	0.506	13.72	13.99	2.94	4.09	
+594	*	21	5	139	141	195.7	192.29	6725.6	241.75	0.490	13.28	13.53	2.48	3.64	
+594	*	21	6	55	57	196.36	192.95	6766.4	238.75	0.496	13.45	13.71	2.66	3.83	
+594	*	21	6	109	111	196.9	193.49	6799.8	241.5	0.516	14.02	14.30	3.25	4.42	
+594	*	21	CC	1	3	197.47	194.06	6835.1	247.75	0.541	14.77	15.06	4.01	5.19	
+594	A	11	1	37	39	198.28	194.69	6885.5	262.25	0.510	13.85	14.11	3.06	4.25	
+594	A	11	1	97	99	198.88	195.29	6922.7	279.55	0.532	14.49	14.78	3.73	4.92	
+594	A	11	2	7	9	199.48	195.89	6960.1	298.65	0.541	14.76	15.06	4.01	5.21	
+594	A	11	2	67	69	200.08	196.49	6997.5	315.25	0.502	13.63	13.89	2.84	4.04	
+594	A	11	2	127	129	200.68	197.09	7031.7	303.7	0.537	14.64	14.93	3.88	5.09	
+594	A	11	3	37	39	201.28	197.69	7065.9	294.45	0.551	15.06	15.36	4.31	5.53	
+594	A	11	3	97	99	201.88	198.29	7100.0	289.05	0.497	13.46	13.72	2.67	3.89	
+594	A	11	4	19	21	202.6	199.01	7141.3	286.85	0.556	15.20	15.51	4.46	5.69	
+594	A	11	4	79	81	203.2	199.61	7175.7	286.55	0.599	16.46	16.81	5.76	6.99	
+594	A	11	4	139	141	203.8	200.21	7210.1	291	0.586	16.08	16.41	5.36	6.60	
+594	A	11	5	49	51	204.4	200.81	7244.6	297.45	0.541	14.78	15.07	4.02	5.27	
+594	A	11	5	109	111	205	201.41	7279.1	306.95	0.572	15.68	16.00	4.95	6.21	
+594	*	23	1	50	52	208.01	204.42	7457.3	216.2	0.595	16.35	16.70	5.65	6.93	
+594	*	23	1	100	102	208.51	204.92	7484.1	214.1	0.552	15.09	15.39	4.04	5.63	
+594	*	23	1	125	127	208.76	205.17	7497.5	208.6	0.569	15.59	15.91	4.54	6.15	
+594	*	23	2	125	127	210.26	206.67	7578.0	205.5	0.611	16.82	17.18	5.77	7.43	
+594	*	23	3	50	52	211.01	207.42	7629.4	201.5	0.574	15.74	16.06	5.01	6.33	
+594	*	23	5	10	12	213.61	210.02	7757.7	247.65	0.645	17.81	18.20	6.76	8.49	
+594	*	23	5	50	52	214.01	210.42	7788.0	256.4	0.570	15.62	15.94	4.89	6.23	
+594	*	23	6	40	42	215.41	211.82	7854.2	265.2	0.608	16.72	17.08	5.67	7.38	
+594	*	23	6	100	102	216.01	212.42	7886.4	268.5	0.581	15.94	16.27	4.89	6.57	
+594	*	23	6	125	127	216.26	212.67	7899.8	271.7	0.555	15.19	15.50	4.14	5.80	
+594	*	24	1	50	52	217.61	214.02	7980.8	282.75	0.598	16.43	16.77	5.72	7.09	
+594	*	24	3	50	52	220.61	217.02	8144.4	311	0.535	14.60	14.89	3.84	5.23	
+594	*	24	5	50	52	223.61	220.02	8309.5	289.9	0.563	15.42	15.73	4.68	6.11	
+594	*	25	1	50	52	227.21	223.62	8502.8	241	0.565	15.47	15.82	4.77	6.22	
+594	*	25	3	50	52	230.21	226.62	8661.3	221.25	0.609	16.76	17.12	6.07	7.54	
+594	*	25	5	50	52	233.21	229.62	8794.0	173.8	0.627	17.30	17.68	6.63	8.12	
+594	*	26	1	50	52	236.81	233.22	8934.4	169.95	0.684	18.96	19.39	8.34	9.85	
+594	*	26	3	50	52	239.81	236.22	9035.2	179.25	0.660	18.26	18.66	7.61	9.14	
+594	*	27	1	50	52	246.41	242.82	9198.5	180	0.726	18.78	19.20	8.15	9.70	
+594	*	27	3	50	52	249.41	245.82	9267.0	188.95	0.726	20.21	20.67	9.62	11.19	
+594	*	27	3	50	52	249.41	245.82	9267.0	188.95	0.724	20.15	20.61	9.56	11.13	
+594	*	28	1	50	52	256.01	252.42	9411.2	194.7	0.682	18.91	19.33	8.28	9.87	
+594	*	28	3	50	52	259.01	255.42	9471.1	206.95	0.678	18.79	19.21	8.16	9.76	
+594	*	29	1	50	52	265.61	262.02	9605.9	235.7	0.661	18.30	18.70	7.65	9.27	
+594	*	29	3	50	52	268.61	265.02	9667.1	244.65	0.664	18.39	18.80	7.75	9.37	
+594	*	30	1	50	52	275.21	271.62	9799.1	269.7	0.672	18.62	19.03	7.98	9.62	
+594	*	30	3	50	52	278.21	274.62	9859.3	272.85	0.692	19.21	19.64	8.59	10.24	
+594	*	35	3	50	52	326.21	322.62	10833.7	334.75	0.761	21.25	21.74	10.69	12.46	
+594	*	36	1	50	52	332.81	329.22	10967.4	336.45	0.744	20.73	21.21	10.16	11.95	
+594	*	36	2	50	52	334.11	330.52	10993.8	339.7	0.747	20.83	21.31	10.26	12.05	
+594	*	37	1	50	52	342.41	338.82	11162.1	336.5	0.729	20.08	20.53	9.48	11.29	
+594	*	39	1	50	52	361.61	358.02	11548.6	315.6	0.736	20.49	20.96	9.91	11.76	
+594	*	40	1	50	52	370.61	367.02	11731.8	308.05	0.749	20.89	21.37	10.32	12.18	
+594	*	40	3	50	52	373.61	370.02	11792.7	302.15	0.780	21.79	22.30	11.25	13.12	
+594	*	41	1	50	52	380.81	377.22	11939.7	293	0.805	22.52	23.06	12.01	13.89	
+594	*	41	2	50	52	382.31	378.72	11970.7	286.55	0.864	24.28	24.86	13.81	15.70	
+594	*	42	1	50	52	390.41	386.82	12138.3	267	0.820	22.98	23.52	12.47	14.37	
+594	*	42	2	50	52	391.91	388.32	12171.1	261.95	0.838	23.50	24.06	13.01	14.92	
+594	*	43	1	50	52	400.01	396.42	12357.2	291.55	0.811	22.69	23.23	12.18	14.10	

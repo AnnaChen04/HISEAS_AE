@@ -1,0 +1,315 @@
+# Eastern Equatorial Pacific 100Kyr Benthic d18O and SST Data
+#----------------------------------------------------------------------- 
+#                World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                     NOAA Paleoclimatology Program 
+#----------------------------------------------------------------------- 
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: http://www.hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:17288
+#
+# Original_Source_URL: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/dubois2014/dubois2014-43jc-uk37.txt
+# 
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Paleoceanography
+#--------------------
+# Contribution_Date
+#	Date:  2014-03-27
+#--------------------
+# Title
+#	Study_Name: Eastern Equatorial Pacific 100Kyr Benthic d18O and SST Data
+#--------------------
+# Investigators
+#       Investigators:  Dubois, N.; Kienast, M.; Kienast, S.; Timmermann, A.; Mix, A.
+#--------------------
+# Description_and_Notes
+#	Description: The data set contains alkenone-based SST estimates, and benthic d18O from 3 cores from the eastern equatorial Pacific covering the late Quaternary.
+#
+# Methods: Cores ME0005A-24JC, ME0005A-27JC and ME0005A-43JC were analyzed for alkenone unsaturation at Dalhousie University following standard laboratory procedures detailed by Kienast et al. (2006). Sea-surface temperature estimates (UK'37 SST) were calculated from the ratio of the concentration of the di and triunsaturated alkenones, using the calibration of Prahl et al. (1988). The upper 500 cm of ME0005A-24JC were analyzed at WHOI following the same procedure and were previously published by Kienast et al. (2006). These data were shifted by +0.027 UK'37 units because of a laboratory offset determined from 10 replicate samples. Results from the last 25 kyr BP of core ME0005A-43JC were previously published in Dubois et al. (2009). Results of cores ME0005A-24JC and ME0005A-27JC were previously published in Dubois et al. (2011). 
+#
+# Stable oxygen isotope measurements of benthic foraminifera from cores ME0005A-24JC, ME0005A-27JC and ME0005A-43JC were performed at the Oregon State University College of Earth, Ocean, and Atmospheric Sciences (OSU/CEOAS) Stable Isotope Mass Spectrometer Facility using a Kiel III carbonate preparation device connected to a Thermo-Finnigan MAT-252 mass spectrometer. The data were corrected to the accepted PDB scale using an internal lab calcite standard (Wiley) and the international calcite standard NIST-8544 (NBS-19, d18O=-2.20). External precision (1 standard deviation) of the Wiley standard of similar weight to the foraminiferal samples was 'b1 0.05 per mil. Results of cores ME0005A-24JC were previously published  in Kienast et al. (2013). 
+#
+# ADDITIONAL REFERENCES: 
+# Benway, H.M., Mix, A.C., Haley, B.A., Klinkhammer, G.P., 2006. Eastern Pacific Warm Pool paleosalinity and climate variability: 0-30 kyr. Paleoceanography 21, PA3008.
+#
+# Drexler, J.W., Rose, W.I.J., Sparks, R.S.J., Ledbetter, M.T., 1980. The Los Chocoyos Ash, Guatemala: a major stratigraphic marker in middle America and in three ocean basins. Quaternary Research 13, 327-345.
+#
+# Dubois, N., M. Kienast, C. Normandeau and T.D. Herbert. 2009. The east equatorial Pacific cold tongue during the last glacial maximum as seen from alkenone paleothermometry. Paleoceanography, v. 24, PA4207. 
+# 
+# Dubois, N., M. Kienast, S. Kienast, C. Normandeau, S.E. Calvert, T.D. Herbert, and A. Mix. 2011. Millennial-scale variations in hydrography and biogeochemistry in the Eastern Equatorial Pacific over the last 100 kyr. Quaternary Science Reviews, Vol. 30, pp. 210-223. 
+#
+# Kienast, M., S.S. Kienast, S.E. Calvert, T.I. Eglinton, G. Mollenhauer, R. François and A. Mix. 2006. Eastern Pacific cooling and Atlantic overturning circulation during the last deglaciation. Nature, v. 443, 846Ð849, doi:10.1038/nature05222. 
+#
+# Kienast, S., Friederich, T., Dubois, N., Hill, P. S., Timmermann, A., Mix, A. C., Kienast, M., 2013. Near collapse of the meridional SST gradient in the eastern equatorial Pacific during Heinrich Stadial 1. Paleoceanography 28, 1-12.
+#
+# Kienast, S. S., M. Kienast, A. C. Mix, S. E. Calvert and R. Francois, 2007. Thorium-230 normalized particle flux and sediment focusing in the Panama Basin region during the last 30,000 years., Paleoceanography, 22, PA2213.
+#
+# Kusch, S., T. I. Eglinton, A. C. Mix and G. Mollenhauer, 2010. Timescales of lateral sediment transport in the Panama Basin as revealed by compound-specific radiocarbon ages of alkenones, Earth and Planetary Science Letters, 290, 340-350.
+#
+# Lisiecki, L. E. & Raymo, M. E., 2005. A Pliocene-Pleistocene stack of 57 globally distributed benthic d18O records. Paleoceanography 20, PA1003.
+#
+# Reimer, P. J., E. Bard, et al. (2013), IntCal13 and Marine13 Radiocarbon Age Calibration Curves 0–50,000 Years cal BP, Radiocarbon, 55, 1869-1887.
+#
+#--------------------
+# Publication 
+#       Authors: Dubois, N., M. Kienast, S. Kienast, and A. Timmermann
+#       Published_Date_or_Year:  2014
+#       Published_Title: Millennial-scale Atlantic/East Pacific sea surface temperature linkages
+#       Journal_Name: Earth and Planetary Science Letters
+#       Volume: 396
+#       Edition: 
+#       Issue: 
+#       Pages: 134-142
+#       DOI: 10.1016/j.epsl.2014.04.008
+#       Online_Resource: 
+#       Full_Citation: 
+#       Abstract: Amplifying both internally generated variability and remote climate signals from the Atlantic Ocean via coupled air-sea instabilities, the eastern tropical Pacific (ETP) is well situated to detect past climate changes and variations in Central American wind systems that dynamically link the Atlantic and the Pacific. Here we compare new and previously published alkenone-based sea surface temperature (SST) reconstructions from diverse environments within the ETP, i.e. the Eastern Pacific Warm Pool (EPWP), the equatorial and the northern Peruvian Upwelling regions over the past 100,000 years. Over this time period, a fairly constant meridional temperature gradient across the region is observed, indicating similar hydrographic conditions during glacial and interglacial periods. The data further reveal that millennial-scale cold events associated with massive iceberg surges in the North Atlantic (Heinrich events) generate cooling in the ETP from ~8°N to ~2°S. Data from Heinrich event 1 however indicate that the response changes sign south of 2'a1S. These millennial-scale alterations of the SST pattern across diverse environments of the ETP support previous climate modeling experiments that suggested an Atlantic-Pacific connection caused by the intensification of the Central American gap winds, enhanced upwelling and mixing north of the equator and supported by positive air-sea feedbacks in the eastern tropical Pacific.
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Natural Sciences and Engineering Research Council of Canada (NSERC)
+#       Grant:
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: US National Science Foundation
+# 		Grant: 1010869 and 1204011
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Swiss National Science Foundation
+# 		Grant: PBSKP2-128454
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Canadian Institute for Advanced Research (CIFAR)
+# 		Grant:
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Geological Society of America (GSA)
+# 		Grant:
+#------------------
+# Funding_Agency 
+#       Funding_Agency_Name: Japan Agency for Marine-Earth Science and Technology
+# 		Grant:
+#------------------
+# Site_Information 
+#   Site_Name: ME0005A-43JC
+#   Location: Eastern Pacific 
+#	Country: 
+#	Northernmost_Latitude:  7.85583
+# 	Southernmost_Latitude:  7.85583
+# 	Easternmost_Longitude:  -83.60833
+# 	Westernmost_Longitude:  -83.60833
+# 	Elevation:   -1368 m  
+#--------------------------------
+# Data Collection 
+# Collection_Name: ME0005A-43JC SST D14
+# Oldest_Year: 100500
+# Most_Recent_Year: 2430
+# Time_Unit: cal yr BP
+# Core_Length;
+# Notes: 
+#--------------------------------
+# Chronology:
+#
+#--------------------------------
+# Variables    
+# 
+# Data variables follow (have double #'s)
+# Variables are one per line, shortname--tab- nine components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+## depth_cm  depth ,,,cm,,,,,N
+## age_calkaBP  age,,,kyr BP,,,,,N
+## sst-uk37	sea surface temperature,Uk'37,,degrees Celsius,,Paleoceanography,,,N
+#
+# Data:
+# Missing Value: -999.99
+depth_cm	sst_calkaBP	sst-uk37
+11	2.43	27.08
+25	5	26.91
+28	5.37	26.76
+34	5.95	26.76
+44	6.92	26.59
+47	7.21	26.59
+53	7.79	26.56
+65	8.95	26.55
+71	9.53	26.18
+76	10.01	26.05
+79	10.3	26.26
+84	10.78	26.14
+87	11.07	25.87
+90	11.36	25.92
+93	11.68	25.9
+96	12.02	25.86
+99	12.35	26.03
+102	12.68	25.77
+108	13.35	25.62
+111	13.68	25.88
+114	14.01	25.63
+117	14.35	25.88
+121	14.79	25.76
+124	15.12	25.79
+127	15.46	25.31
+132	15.99	25.49
+135	16.27	25.36
+138	16.55	25.01
+141	16.83	25.43
+144	17.11	25.38
+147	17.4	24.95
+151	17.77	25.7
+155	18.14	25.1
+158	18.42	25.49
+161	18.7	25.75
+164	18.98	25.69
+171	19.64	25.49
+173	19.83	25.34
+176	20.11	25.33
+178	20.29	25.65
+180	20.48	25.72
+183	20.76	25.52
+187	21.11	25.79
+191	21.38	25.65
+193	21.52	25.62
+202	22.13	25.69
+208	22.54	25.72
+211	22.77	25.24
+214	23	25.81
+217	23.23	25.47
+221	23.54	26.06
+227	24	25.64
+231	24.31	25.15
+234	24.54	25.56
+237	24.77	24.85
+241	25.08	24.92
+243	25.23	25.44
+246	25.46	25.05
+254	26.08	25.68
+261	26.62	25.8
+267	27.07	26.14
+274	27.59	25.92
+281	28.11	26.12
+287	28.56	26.21
+294	29.08	25.89
+301	29.6	25.61
+307	30.05	25.55
+314	30.57	25.63
+321	31.09	25.49
+327	31.53	25.49
+335	32.13	25.65
+341	32.57	25.51
+347	33.02	25.51
+354	33.54	25.96
+361	34.06	25.99
+367	34.5	25.97
+374	35.02	25.95
+381	35.54	25.62
+387	35.99	25.72
+394	36.51	25.92
+401	37.03	25.97
+407	37.47	26.11
+414	37.99	26.19
+421	38.51	25.93
+427	38.96	25.8
+434	39.48	25.61
+441	40	25.87
+447	40.6	25.77
+454	41.3	25.79
+461	42	25.9
+467	42.6	25.63
+474	43.3	25.37
+481	44	25.07
+486	44.4	25.38
+494	45.04	25.07
+501	45.6	25.26
+507	46.08	25.33
+514	46.64	25.1
+521	47.2	26.23
+527	47.68	26.16
+534	48.13	25.47
+541	48.43	25.75
+547	48.7	25.88
+554	49	25.55
+561	49.3	25.91
+567	49.57	25.85
+574	49.87	25.73
+581	50.17	26.11
+587	50.43	26.13
+594	50.74	25.65
+601	51.04	25.87
+607	51.3	25.96
+614	51.61	26.21
+621	51.91	25.96
+627	52.17	26.06
+634	52.48	25.84
+642	52.83	25.71
+647	53.1	25.98
+654	53.8	25.92
+661	54.5	26.21
+667	55.1	26.36
+674	55.8	26.23
+681	56.5	26.45
+687	57.1	26.57
+694	57.8	26.41
+701	58.5	26.66
+707	59.1	26.33
+714	59.8	26.21
+721	61	25.86
+727	62.1	25.77
+734	62.8	26.19
+741	63.5	26.39
+747	64.1	26.04
+754	64.8	25.77
+761	65.5	26.61
+767	66.08	26.37
+774	66.6	26.1
+781	67.13	26.3
+787	67.58	26.09
+794	68.1	25.92
+801	68.63	26.22
+807	69.1	26.31
+814	69.8	26.57
+821	70.5	26.44
+827	71.1	26.35
+834	71.8	26.12
+841	72.5	26.21
+847	73.1	26.52
+854	73.8	26.43
+861	74.5	26.66
+867	75.1	26.38
+874	75.8	26.3
+881	76.5	26.2
+887	77.1	26.5
+894	77.8	26.64
+901	78.5	26.68
+907	79.1	26.65
+914	79.8	26.89
+921	80.5	27.01
+927	81.1	27.11
+934	81.8	27.06
+941	82.5	27.25
+947	83.1	27.12
+954	83.8	27.21
+967	85.1	27.27
+974	85.8	27.26
+981	86.5	27.2
+987	87.1	27.2
+994	87.8	27.49
+1001	88.5	27.37
+1007	89.1	27.33
+1014	89.8	27.58
+1021	90.5	27.64
+1027	91.1	27.53
+1034	91.8	27.45
+1041	92.5	27.42
+1047	93.1	27.4
+1054	93.8	27.26
+1061	94.5	27.24
+1067	95.1	27.29
+1074	95.8	27.26
+1081	96.5	27.39
+1087	97.1	27.41
+1094	97.8	27.19
+1101	98.5	27.22
+1107	99.1	27.03
+1114	99.8	27.07
+1121	100.5	26.84

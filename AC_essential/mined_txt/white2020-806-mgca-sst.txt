@@ -1,0 +1,204 @@
+# West Pacific Warm Pool B/Ca, Mg/Ca Data and SST Reconstructions since the Pliocene
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/31032
+#      Description: NOAA Landing Page
+# Online_Resource: https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/white2020-pp/white2020-806-mgca-sst.txt
+#      Description: NOAA location of the template
+#
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: geochemistry, trace metals in carbonates
+#---------------------------------------
+# Contribution_Date
+#    Date: 2020-08-31
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2020-08-31
+#---------------------------------------
+# Title
+#    Study_Name: West Pacific Warm Pool B/Ca, Mg/Ca Data and SST Reconstructions since the Pliocene
+#---------------------------------------
+# Investigators
+#      Investigators: White, Sarah M.; Ravelo, A. Christina
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: 
+#         Provided Keywords: SST, foraminifera, Mg/Ca, dissolution
+#---------------------------------------
+# Publication
+# Authors: White, Sarah M.; Ravelo, A. Christina
+# Published_Date_or_Year: 2020
+# Published_Title: The benthic B/Ca record at Site 806: new constraints on the temperature of the West Pacific Warm Pool and the "El Padre" state in the Pliocene
+# Journal_Name: Paleoceanography and paleoclimatology
+# Volume: 
+# Edition: 
+# Issue: 
+# Pages: 
+# Report_Number: 
+# DOI: 
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: NSF
+#    Grant: OCE-1658553
+#---------------------------------------
+# Site_Information
+# Site_Name: ODP 806
+# Location: Western Pacific Ocean
+# Northernmost_Latitude: 0
+# Southernmost_Latitude: 0
+# Easternmost_Longitude: 160
+# Westernmost_Longitude: 160
+# Elevation: -2520
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: ODP806 Mg/Ca, SST White2020
+#   First_Year: 5441000
+#   Last_Year: 0
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# Age model 0-4 Ma from McClymont et al 2020, age model >4 Ma based on biostratigraphic tie points
+# LO	Ceratolithus acutus	806B 16H-7 40 cm	5.04	Mayer et al. 1993 	
+# LO	Triquetrorhabdulus rugosus	806B 17H-4 26 cm	5.279	Takayama 1993	
+# LO	Discoaster quinqueramus	806B 18H-3 100 cm	5.59	Mayer et al. 1993 	
+# Ages of events taken from Raffi et al 2006 instead of original sources. LO = last occurrence.	NaN  NaN	NaN	NaN	
+# 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## sample_name	Sample identification,,,unspecified unit,,paleoceanography;climate reconstructions,,,C,ODP Site-Hole-Core-Type-Subsection-top(cm)
+## age	Age,,,million years ago,,paleoceanography;climate reconstructions,,,N,
+## Mg/Ca	magnesium/calcium,Trilobatus sacculifer without sac,,millimole per mole,,paleoceanography,,inductively-coupled plasma mass spectrometry,N,
+## temp_modern[CO32-]	sea surface temperature,magnesium/calcium;Trilobatus sacculifer without sac,,degree Celsius,,paleoceanography;climate reconstructions,,,N,calibration: Dekens et al 2002 for G. sacculifer [CO32-]-based using modern value of [CO32-] (10.5 umol/kg)
+## temp_B/Ca[CO32-]	sea surface temperature,magnesium/calcium;Trilobatus sacculifer without sac,,degree Celsius,,paleoceanography;climate reconstructions,,,N,calibration: Dekens et al 2002 for G. sacculifer [CO32-]-based using B/Ca-derived value of [CO32-] from each sample
+## temp_B/Ca[CO32-]_swCorr	sea surface temperature,magnesium/calcium;Trilobatus sacculifer without sac,,degree Celsius,,paleoceanography;climate reconstructions,,,N,calibration: Evans et al 2016 with dissolution correction from Dekens et al 2002 (using B/Ca-based value of [CO32-]) and Mg/Ca(seawater) reconstruction from Tierney et al 2019
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: 
+sample_name	age	Mg/Ca	temp_modern[CO32-]	temp_B/Ca[CO32-]	temp_B/Ca[CO32-]_swCorr	
+806-C-1-H-1-1	0.000	3.832	29.4	29.3	29.3	
+806-C-1-H-1-101	0.071	3.624	28.8	29.3	29.3	
+806-C-1-H-2-51	0.111	3.478	28.3	28.3	28.3	
+806-C-1-H-3-1	0.174	3.559	28.6	28.6	28.7	
+806-C-1-H-3-101	0.217	3.606	28.7	29.0	29.1	
+806-C-1-H-4-51	0.247	4.095	30.2	30.2	30.2	
+806-C-2-H-1-7	0.287	3.728	29.1	29.2	29.3	
+806-C-2-H-1-101	0.334	3.844	29.5	29.7	29.8	
+806-C-2-H-2-51	0.389	3.425	28.1	28.6	28.7	
+806-C-2-H-3-5	0.441	3.709	29.0	29.4	29.5	
+806-C-2-H-3-101	0.479	3.730	29.1	30.2	30.3	
+806-C-2-H-4-51	0.522	3.930	29.7	29.9	29.9	
+806-C-2-H-5-1	0.571	3.835	29.4	30.5	30.6	
+806-C-2-H-5-101	0.602	3.910	29.7	29.9	30.0	
+806-C-2-H-6-51	0.654	4.013	30.0	30.0	30.1	
+806-C-2-H-7-75	0.716	3.933	29.7	30.2	30.4	
+806-C-3-H-1-51	0.755	3.814	29.4	29.9	30.0	
+806-C-3-H-2-7	0.831	3.620	28.8	28.6	28.8	
+806-C-3-H-2-101	0.869	4.261	30.7	30.9	31.0	
+806-C-3-H-4-5	0.955	4.390	31.1	30.8	30.9	
+806-C-3-H-4-101	0.984	4.020	30.0	30.3	30.4	
+806-C-3-H-5-51	1.019	3.903	29.6	30.2	30.3	
+806-C-3-H-6-1	1.065	3.797	29.3	29.7	29.9	
+806-C-3-H-6-101	1.115	3.731	29.1	29.6	29.8	
+806-C-3-H-7-51	1.173	3.968	29.8	30.2	30.4	
+806-C-4-H-1-3	1.180	3.305	27.7	27.6	27.9	
+806-C-4-H-1-101	1.247	3.872	29.6	29.6	29.9	
+806-C-4-H-2-51	1.323	3.892	29.6	30.1	30.4	
+806-C-4-H-3-1	1.365	3.887	29.6	29.4	29.7	
+806-C-4-H-3-101	1.420	3.819	29.4	29.4	29.7	
+806-C-4-H-4-51	1.458	4.392	31.1	31.6	31.8	
+806-C-4-H-5-3	1.496	4.153	30.4	30.9	31.1	
+806-C-4-H-5-101	1.538	3.584	28.6	29.1	29.4	
+806-C-4-H-6-51	1.586	3.928	29.7	29.8	30.0	
+806-C-4-H-7-3	1.632	3.529	28.5	28.6	28.9	
+806-C-4-H-7-77	1.646	4.194	30.5	31.0	31.3	
+806-C-5-H-1-51	1.705	3.426	28.1	28.6	29.0	
+806-C-5-H-2-2	1.735	3.204	27.3	27.8	28.2	
+806-C-5-H-2-101	1.789	2.920	26.2	26.4	26.9	
+806-C-5-H-3-51	1.842	3.229	27.4	27.9	28.3	
+806-C-5-H-4-101	1.912	2.910	26.2	26.0	26.4	
+806-C-5-H-5-53	1.947	2.912	26.2	26.0	26.5	
+806-C-5-H-6-1	1.990	3.595	28.7	29.2	29.6	
+806-C-5-H-6-101	2.025	3.014	26.6	26.9	27.3	
+806-C-6-H-1-1	2.089	3.087	26.9	27.4	27.8	
+806-C-6-H-1-101	2.117	2.905	26.1	26.6	27.1	
+806-C-6-H-2-51	2.162	3.274	27.6	28.1	28.5	
+806-C-6-H-3-2	2.187	3.601	28.7	29.2	29.6	
+806-C-6-H-3-101	2.223	3.522	28.4	28.5	28.9	
+806-C-6-H-4-53	2.258	3.334	27.8	28.3	28.7	
+806-C-6-H-5-3	2.291	3.128	27.0	27.5	28.0	
+806-C-6-H-5-101	2.374	3.154	27.1	27.6	28.1	
+806-C-6-H-6-51	2.404	3.222	27.4	27.4	27.9	
+806-C-6-H-7-1	2.426	3.271	27.5	28.1	28.5	
+806-C-6-H-7-30	2.431	3.509	28.4	28.9	29.3	
+806-C-7-H-1-51	2.463	3.469	28.2	28.0	28.5	
+806-C-7-H-2-2	2.495	3.319	27.7	28.2	28.6	
+806-C-7-H-3-111	2.618	3.338	27.8	28.3	28.8	
+806-C-7-H-4-91	2.676	3.424	28.1	28.6	29.1	
+806-C-7-H-5-71	2.729	2.875	26.0	26.4	27.0	
+806-C-8-H-1-141	2.882	3.391	28.0	28.0	28.5	
+806-C-8-H-2-121	2.927	3.231	27.4	27.7	28.3	
+806-C-8-H-4-86	3.006	3.259	27.5	27.4	28.0	
+806-C-8-H-6-43	3.090	3.429	28.1	28.0	28.6	
+806-C-8-H-7-21	3.129	3.623	28.8	29.3	29.8	
+806-C-9-H-1-1	3.159	3.506	28.4	28.3	28.8	
+806-C-9-H-1-129	3.197	3.764	29.2	29.9	30.4	
+806-C-9-H-5-81	3.349	3.742	29.1	29.0	29.5	
+806-C-9-H-6-85	3.379	3.650	28.9	28.8	29.3	
+806-C-10-H-1-91	3.439	3.677	28.9	29.4	30.0	
+806-C-10-H-3-91	3.517	3.473	28.3	28.6	29.2	
+806-C-11-H-5-91	3.951	3.751	29.2	30.2	30.7	
+806-C-11-H-6-91	3.986	3.312	27.7	29.2	29.8	
+806-C-12-H-1-91	4.056	3.376	27.9	28.1	28.7	
+806-C-12-H-2-91	4.079	3.937	29.8	29.9	30.4	
+806-C-12-H-2-141	4.089	3.629	28.8	29.4	29.9	
+806-C-12-H-4-41	4.128	3.576	28.6	28.7	29.2	
+806-C-12-H-5-91	4.168	3.397	28.0	28.5	29.1	
+806-C-12-H-6-141	4.207	3.531	28.5	29.0	29.5	
+806-C-13-H-1-41	4.241	3.725	29.1	29.2	29.8	
+806-C-13-H-3-141	4.320	3.312	27.7	27.8	28.4	
+806-C-13-H-5-41	4.359	3.319	27.7	28.4	29.0	
+806-C-13-H-6-91	4.399	2.970	26.4	26.5	27.2	
+806-C-13-H-7-67	4.424	3.255	27.5	27.9	28.5	
+806-C-14-H-2-41	4.472	3.378	27.9	28.0	28.7	
+806-C-14-H-4-141	4.551	2.988	26.5	26.7	27.4	
+806-C-14-H-6-41	4.591	3.416	28.1	28.6	29.2	
+806-C-14-H-7-54	4.623	3.168	27.2	27.7	28.3	
+806-C-15-H-2-90	4.680	3.482	28.3	28.5	29.1	
+806-C-15-H-3-135	4.718	3.729	29.1	29.6	30.2	
+806-C-15-H-5-45	4.760	3.239	27.4	27.9	28.6	
+806-C-15-H-6-90	4.798	3.691	29.0	29.5	30.1	
+806-C-16-H-1-90	4.848	3.819	29.4	29.9	30.5	
+806-C-16-H-4-45	4.928	3.622	28.8	29.3	29.9	
+806-C-16-H-5-90	4.967	3.499	28.3	29.2	29.8	
+806-C-17-H-1-75	5.049	3.148	27.1	27.7	28.4	
+806-C-17-H-3-75	5.181	3.484	28.3	28.8	29.4	
+806-C-17-H-4-75	5.247	3.299	27.6	28.5	29.2	
+806-C-17-H-5-75	5.305	3.248	27.5	28.0	28.6	
+806-C-17-H-6-75	5.355	3.466	28.2	28.7	29.4	
+806-C-17-H-7-75	5.404	3.425	28.1	28.6	29.2	
+806-C-18-H-1-75	5.441	3.838	29.4	30.0	30.6	

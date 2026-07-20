@@ -1,0 +1,266 @@
+# Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data.
+# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with '#' followed by a space
+# Data lines have no '#'
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/36513
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-recon-36513.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Climate Reconstructions
+#
+# Dataset_DOI: 10.25921/n8zs-6f90
+#
+# Science_Keywords: Sea Surface Temperature Reconstruction
+#---------------------------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp475.txt
+#   Data_Download_Description: NOAA Template File; SST Reconstruction Data
+#
+#---------------------------------------
+# Contribution_Date
+#   Date: 2022-05-31
+#---------------------------------------
+# File_Last_Modified_Date
+#   Date: 2025-05-19
+#---------------------------------------
+# Title
+#   Study_Name: Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene
+#---------------------------------------
+# Investigators
+#   Investigators: Brennan, Peter; Bhattacharya, Tripti; Feng, R.; Tierney, J. E.; Jorgensen, E.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#   Description: Alkenone-based SST reconstructions (unsaturation index) from sediment-derived organics from coastal California
+#         Provided Keywords: Pliocene, sea surface temperature, California margin
+#---------------------------------------
+# Publication
+#   Authors: Brennan, P. R.; Bhattacharya, T.; Feng, R.; Tierney, J. E.; Jorgensen, E.
+#   Published_Date_or_Year: 2022-07-01
+#   Published_Title: Patterns and mechanisms of northeast Pacific temperature response to Pliocene boundary conditions
+#   Journal_Name: Paleoceanography and Paleoclimatology
+#   Volume: 37
+#   Edition: 
+#   Issue: 7
+#   Pages: 
+#   Report_Number: e2021PA004370
+#   DOI: 10.1029/2021PA004370
+#   Online_Resource: 
+#   Full_Citation: 
+#   Abstract: Ocean-atmosphere dynamics in the north Pacific play an important role in the global climate system and influence hydroclimate in western North America. However, changes to this region’s mean climate under increased atmospheric greenhouse gas (GHG) concentrations are not well understood. Here we present new alkenone-based records of sea surface temperature (SST) from the northeast Pacific from the mid-Piacenzian warm period (MPWP; approximately 3.3 – 3.0 Ma), an interval considered to be an analogue for near-future climate under middle-of-the-road anthropogenic emissions. We compare these and other alkenone-based SST records from the north Pacific to fully-coupled climate model simulations to examine the impact of mid-Pliocene CO2 and other boundary conditions on regional climate dynamics and to explore factors governing model disagreement about regional temperature patterns. Model performance varies regionally, with CESM1.2 and CESM2 performing best in regions with greater warming like the California Margin, though these models underestimate the warming evidenced in our new proxy record and others from the region. Single forcing simulations reveal a strong influence for prescribed land surface changes and higher CO2 levels on coastal warming patterns along the California Margin in CESM2. Furthermore, differences in shortwave and longwave radiation and circulation between the models, likely related to changes in the atmospheric component of the model, may play a key role in the ability of models to capture regionally-varying patterns of Pliocene warmth. Regional patterns of temperature change inferred from geochemical records could therefore help to understand the impacts of different model parameterization schemes on regional climate patterns.
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: DGE-1449617, OCE-1903148, OCE-2029680, OCE-1903171, OCE-1903650,OCE-2103055
+#---------------------------------------
+# Site_Information
+#   Site_Name: Deep Sea Drilling Project Site 475
+#   Location: North Pacific
+#   Northernmost_Latitude: 23.03
+#   Southernmost_Latitude: 23.03
+#   Easternmost_Longitude: -109.03
+#   Westernmost_Longitude: -109.03
+#   Elevation_m: -2631
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: DSDP475-alkenones
+#   First_Year: 3880000
+#   Last_Year: 0
+#   Time_Unit: calendar year before present
+#   Core_Length_m: 
+#   Parameter_Keywords: biomarkers, geochemistry
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# age (ma)	age of biostratigraphic marker (Ma)
+# composite depth (cm)	composite depth of sample (cm)
+# age marker	biostratigraphic specimen
+# notes	Notes
+# 
+# age (ma)	composite depth (cm)	age marker	notes
+# 0.4	1436	Axoprunum angelinum, LAD	
+# 0.48	1793	Pseudoemiliana lacunosa, LAD	
+# 0.8-1.0	3291	Mesocena quadrangula, T	
+# 1.45	5403	Change in radiolarian abundance	
+# 1.8-1.9	6321	Discoaster brouweri, LAD	
+# 2.3-2.4	6811	Discoaster pentaradiatus, LAD	
+# 2.4-2.5	7621	Discoaster surculus, LAD	
+# 2.5-2.6	9481	Discoaster tamalis, Stichocorys pereegrina, LAD	
+# 3.2	13031	Reticulofenestra psuedoumbilica LAD, Didymocyrtis avita (Panartatus avita) LAD	
+# 4.6	13327	Ceratolithus rugosus, LAD	
+#---------------------------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## depth_cm	depth,,,centimeter,,paleoceanography; Climate Reconstructions,,,N,
+## age_ma	age,,,million years ago,,paleoceanography; Climate Reconstructions,,,N,
+## Uk37	alkenone unsaturation index Uk37 prime,,,dimensionless,,paleoceanography,raw,gas chromatography - flame ionization detection,N,
+## Uk37_err	alkenone unsaturation index Uk37 prime,,unspecified margin of error,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,alkenone unsaturation index error based on repeat measurements of internal standard
+## sst_median	sea surface temperature,,,degree Celsius,annual,paleoceanography; Climate Reconstructions,,gas chromatography - flame ionization detection,N,median SST; calibrated SST with bayspline
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: -999
+depth_cm	age_ma	Uk37	Uk37_err	sst_median
+48	0	0.769208771	0.005	21.31360723
+111	0.01143695	0.8343838	0.005	23.30649719
+646	0.168328446	0.772536341	0.005	21.40701981
+806	0.215249267	0.807743839	0.005	22.48376102
+976	0.265102639	0.856648362	0.005	24.04553122
+1162	0.319648094	0.852700928	0.005	23.88842166
+1221	0.336950147	0.80628002	0.005	22.45361283
+1436	0.4	0.848489377	0.005	23.75711945
+1621	0.430056022	0.810957422	0.005	22.58158868
+1721	0.446302521	0.842861951	0.005	23.56027649
+1751	0.451176471	0.841758679	0.005	23.51454555
+1771	0.45442577	0.78316751	0.005	21.71936207
+1793	0.458	0.777618445	0.005	21.58666417
+1841	0.468638184	0.784485982	0.005	21.76783067
+1911	0.484152203	0.772574698	0.005	21.41689387
+1981	0.499666222	0.81981389	0.005	22.86061477
+2091	0.524045394	0.852994771	0.005	23.91947578
+2216	0.551748999	0.854806924	0.005	23.96749643
+2406	0.593858478	0.866025988	0.005	24.33771613
+2581	0.632643525	0.836725748	0.005	23.36243117
+2741	0.668104139	0.8408055	0.005	23.52164155
+2901	0.703564753	0.786576154	0.005	21.8300185
+3001	0.725727637	0.801850057	0.005	22.29892035
+3056	0.737917223	0.850713131	0.005	23.82188421
+3151	0.758971963	0.793027981	0.005	22.02879129
+3211	0.772269693	0.829762334	0.005	23.15925431
+3291	0.79	0.773210416	0.005	21.43207311
+3472	0.8465625	0.824956876	0.005	23.0206431
+3521	0.861875	0.769932123	0.005	21.35055982
+3637	0.898125	0.840003227	0.005	23.48312796
+3792	0.9465625	0.78581701	0.005	21.80908842
+3942	0.9934375	0.865342331	0.005	24.32318443
+4022	1.0184375	0.812811315	0.005	22.64650315
+4092	1.0403125	0.818388486	0.005	22.78847228
+4262	1.0934375	0.79532493	0.005	22.11182542
+4472	1.1590625	0.82490815	0.005	22.9959391
+4601	1.199375	0.845552406	0.005	23.6633623
+4672	1.2215625	0.890613979	0.005	25.16536567
+4782	1.2559375	0.835328161	0.005	23.31135284
+4967	1.31375	0.875594863	0.005	24.65196568
+5057	1.341875	0.845266348	0.005	23.63718717
+5242	1.3996875	0.840254939	0.005	23.49912812
+5403	1.45	0.894241552	0.005	25.28697779
+5471	1.468518519	0.80386799	0.005	22.36795622
+5547	1.489215686	0.822655215	0.005	22.93143154
+5599	1.503376906	0.873135738	0.005	24.55543975
+5757	1.546405229	0.930122454	0.005	26.53233655
+5899	1.585076253	0.875549437	0.005	24.63222675
+5987	1.609041394	0.867147653	0.005	24.34456577
+6062	1.629466231	0.843864116	0.005	23.61352357
+6321	1.7	0.824883881	0.005	23.00341218
+6372	1.752040816	0.846813592	0.005	23.70204754
+6427	1.808163265	0.89839534	0.005	25.40389603
+6521	1.904081633	0.941933175	0.005	26.99408635
+6567	1.951020408	0.894464006	0.005	25.28341806
+6622	2.007142857	0.892242206	0.005	25.21006481
+6642	2.02755102	0.898302895	0.005	25.42493653
+6682	2.068367347	0.892938845	0.005	25.22819652
+6732	2.119387755	0.828237997	0.005	23.10349384
+6811	2.2	0.941933175	0.005	26.95297542
+6942	2.21617284	0.95084306	0.005	27.27274485
+7032	2.227283951	0.936372343	0.005	26.78507796
+7061	2.230864198	0.944864596	0.005	27.07748673
+7266	2.25617284	0.891381429	0.005	25.17295697
+7327	2.263703704	0.891666769	0.005	25.1995344
+7389	2.271358025	0.875965458	0.005	24.65980418
+7451	2.279012346	0.837641282	0.005	23.38997721
+7508	2.286049383	0.820938568	0.005	22.87534454
+7564	2.292962963	0.869353196	0.005	24.45246126
+7621	2.3	0.878339098	0.005	24.7431487
+7811	2.320430108	0.891244098	0.005	25.15940323
+8251	2.367741935	0.888897299	0.005	25.09061058
+9226	2.472580645	0.945961624	0.005	27.09068084
+9296	2.480107527	0.948212598	0.005	27.16863807
+9311	2.48172043	0.930870637	0.005	26.57754322
+9341	2.484946237	0.953575054	0.005	27.38700497
+9391	2.490322581	0.944850394	0.005	27.08671991
+9481	2.5	0.948227648	0.005	27.19150458
+9516	2.506901408	0.944701278	0.005	27.08003093
+9576	2.518732394	0.94575224	0.005	27.10054584
+9643	2.531943662	0.94647886	0.005	27.12931815
+9691	2.541408451	0.940256317	0.005	26.89726633
+9736	2.55028169	0.928638105	0.005	26.49179479
+9761	2.555211268	0.929651861	0.005	26.5515147
+9811	2.565070423	0.926797743	0.005	26.418832
+9876	2.577887324	0.943759009	0.005	27.05218442
+9951	2.592676056	0.943759009	0.005	27.03483576
+9972	2.596816901	0.943697465	0.005	27.01355705
+10012	2.604704225	0.922445992	0.005	26.27349971
+10121	2.626197183	0.94341304	0.005	26.99035343
+10326	2.666619718	0.936585517	0.005	26.78135065
+10466	2.694225352	0.947526317	0.005	27.17527153
+10571	2.714929577	0.937464621	0.005	26.81212661
+10661	2.732676056	0.94510663	0.005	27.08167771
+10741	2.748450704	0.93318866	0.005	26.65465599
+11091	2.817464789	0.928713846	0.005	26.47418199
+11442	2.886676056	0.950114312	0.005	27.24375879
+11601	2.918028169	0.957337502	0.005	27.51841996
+12041	3.004788732	0.979186662	0.005	28.29418127
+12182	3.032591549	0.970203195	0.005	27.95741363
+12242	3.044422535	0.978187367	0.005	28.30006924
+12352	3.066112676	0.97506424	0.005	28.15025933
+12377	3.071042254	0.979566928	0.005	28.31374844
+12482	3.091746479	0.983011593	0.005	28.4602843
+12532	3.101605634	0.990525781	0.005	28.71142633
+12542	3.103577465	0.98520754	0.005	28.51508093
+12672	3.129211268	0.965953307	0.005	27.8424851
+12682	3.131183099	0.973104635	0.005	28.10541133
+12692	3.13315493	0.976879451	0.005	28.22774462
+12851	3.164507042	0.969120148	0.005	27.95788098
+12877	3.169633803	0.980632232	0.005	28.36547264
+12903	3.174760563	0.980273105	0.005	28.33702731
+12928	3.185408451	0.991872783	0.005	28.79144195
+12987	3.191323944	0.994634411	0.005	28.86041661
+13022	3.198225352	0.992498251	0.005	28.78593938
+13036	3.223648649	0.98253531	0.005	28.42823449
+13039	3.237837838	0.983282714	0.005	28.45367014
+13042	3.252027027	0.984448325	0.005	28.51892107
+13044	3.261486486	0.98689112	0.005	28.58195032
+13049	3.285135135	0.992447318	0.005	28.75723307
+13052	3.299324324	0.992854423	0.005	28.79610241
+13058	3.327702703	0.983746569	0.005	28.48370445
+13061	3.341891892	0.985274667	0.005	28.49906386
+13064	3.356081081	0.992180829	0.005	28.75416549
+13067	3.37027027	0.989052658	0.005	28.66022234
+13070	3.384459459	0.988973134	0.005	28.65880209
+13073	3.398648649	0.983712932	0.005	28.46803394
+13076	3.412837838	0.989355279	0.005	28.66510458
+13082	3.441216216	0.990067079	0.005	28.69506148
+13085	3.455405405	0.980725007	0.005	28.35441682
+13088	3.469594595	0.986751952	0.005	28.59207687
+13091	3.483783784	0.990572354	0.005	28.7038336
+13094	3.497972973	0.993719836	0.005	28.83971812
+13097	3.512162162	0.99234059	0.005	28.74443422
+13106	3.55472973	0.966074677	0.005	27.84608346
+13117	3.606756757	0.978652431	0.005	28.2934064
+13131	3.672972973	0.972176387	0.005	28.07651612
+13132	3.677702703	0.97798896	0.005	28.25473687
+13142	3.725	0.978737953	0.005	28.2838477
+13152	3.772297297	0.991816927	0.005	28.75436557
+13154	3.781756757	0.98905155	0.005	28.63680188
+13159	3.805405405	0.99433677	0.005	28.84871063
+13161	3.814864865	0.98479906	0.005	28.50961713
+13173	3.876351351	0.97	0.005	27.99864972

@@ -1,0 +1,98 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# 147-gc31-tab.txt
+# Complete Data
+# File Created: 02-Feb-2010
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Elisabeth L. Sikes
+# Core/Site:      RS147-GC31
+# Latitude:       44.32.00S	( -44.53333)
+# Longitude:      149.03.00E	( 149.05)
+# Water Depth(m): 3405
+#
+# Publications:
+#   Sikes, E.L., W.R. Howard, C.R. Samson, T.S. Mahan, L.G. Robertson, and J.K. Volkman.
+#     2009. Southern Ocean seasonal temperature and Subtropical Front movement on the
+#     South Tasman Rise in the late Quaternary.  Paleoceanography, 24, PA2201.
+#------------------
+#
+# Description & Notes:
+#   South Tasman Rise Late Quaternary SST Reconstructions
+#   Conventional radiocarbon ages for GC07 were converted to calendar ages using
+#   the marine CALIB 5.0 program. Radiocarbon ages older than 20 ka were calibrated
+#   to calendar ages using an oceanic 14C reservoir correction of 350 years [Druffel
+#   and Griffin, 1999] and a polynomial fit [Bard et al., 1998]. MIS3-5 d18O tuned
+#   to Lieseki and Raymo 2005 / Marinson et al 1987. In GC07 the SST-MAT warm season
+#   errors range from 2.0°-4.0°C for warm-season estimates, larger than the 1°-1.5°C
+#   generally associated with modern analog estimates, in the deglaciation [Samson,
+#   1998]. This is ascribed to the fact that GC07 lies in a zone of frontal movement
+#   where SST changes rapidly over small distances. SSTs from Uk'37 have an error
+#   of +/- 1.5 degC.
+#
+# Variables:
+#             depth         Depth (cm)
+#             calyrBP       calendar years B.P. (B.P. = 1950)
+#             carb%         Calcium Carbonate percent
+#             d18Og.bull300-355           delta O18 PDB (Globigerina bulloides 300-355 micron)
+#             sst-MAT.w     sea surface temperature- warm season, modern analog technique, degC
+#
+# CORE: RS147-GC31
+depth	calyrBP 	carb%	d18Og.bull300-355	sst-MAT.w	notes
+1.5	1000	83.4	1.21	-999	1k
+6.5	2674	84.9	-999	-999	
+9	3511	77.3	1.709	13.4	
+11.5	4348	77.2	-999	-999	
+14	5186	77.8	1.528	16.1	
+16.5	6023	76.8	-999	-999	
+19	6860	75.3	1.399	16	
+21.5	7697	75.9	-999	-999	
+24	8534	74.1	1.673	16.8	
+26.5	9371	75.1	-999	-999	
+29	10208	74.3	2.132	17.4	
+31.5	11045	72.7	-999	-999	
+34	12050	73.2	2.237	-999	stage 2.0
+36.5	12911	69.4	-999	-999	
+39	13773	71.8	-999	-999	
+41.5	14634	69.2	-999	16	
+44	15496	66	2.959	-999	
+46.5	16357	64.8	-999	-999	
+49	17219	62.3	3.265	12.4	
+56.5	19803	62.3	-999	-999	
+59	20664	62.9	3.318	11.4	
+66.5	23249	64.6	-999	-999	
+69	24110	59.5	3.076	11.3	stage 3.0
+76.5	27240	74.4	-999	-999	
+79	28284	75.8	2.883	11.2	
+86.5	31414	70.3	-999	-999	
+89	32458	56.8	3.181	12.4	
+96.5	35588	70.7	-999	-999	
+99	36631	73	3.248	12.4	
+106.5	39762	81	-999	16.5	
+109	40805	79.9	3.047	-999	
+116.5	43935	76.5	-999	-999	
+119	44979	79.5	3.196	-999	
+126.5	48109	80.2	-999	-999	
+129	49153	76.9	2.949	-999	
+136.5	52283	78	-999	-999	
+140.5	53952	78.9	2.82	-999	
+146.5	56457	80.2	-999	-999	
+149	57500	-999	2.973	-999	stage 4.0
+166.5	62491	61.4	-999	-999	
+169	63204	65.5	3.29	-999	
+186.5	68196	66.1	-999	-999	
+189	68909	70	3.315	-999	
+206.5	73900	84	-999	-999	stage 5.0
+209	74613	83.1	2.61	-999	
+226.5	79604	84	-999	-999	
+229	80317	78.1	2.427	-999	
+246.5	85309	84.6	-999	-999	
+249	86022	83.1	2.145	-999	
+266.5	91013	87.6	-999	-999	
+269	91726	85	2.194	-999	
+286.5	96717	91.4	-999	-999	
+289	97430	89.9	2.252	-999	

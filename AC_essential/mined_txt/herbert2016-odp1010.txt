@@ -1,0 +1,324 @@
+# Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/25390
+#      Description: NOAA Landing Page
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1010.txt
+#      Description: NOAA location of the template
+#
+# Archive: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: biomarkers
+#---------------------------------------
+# Contribution_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# Title
+#    Study_Name: Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#---------------------------------------
+# Investigators
+#      Investigators: Herbert, T.D.; Lawrence, K.T.; Tzanova, A.; Peterson, L.C.; Caballero-Gill, R.; Kelly, C.S.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Note: age models for Sites 907 and 982 refined following publication of Herbert et al., 2016 NGS
+#         Provided Keywords: Global ocean cooling, mid-Miocene to Present
+#---------------------------------------
+# Publication
+# Authors: Herbert, T.D., K.T. Lawrence, A. Tzanova, L.C. Peterson, R. Caballero-Gill, and C.S. Kelly
+# Published_Date_or_Year: 2016
+# Published_Title: Late Miocene Global Cooling and the Rise of Modern Ecosystems
+# Journal_Name: Nature Geoscience
+# Volume: 9
+# Edition: 
+# Issue: 
+# Pages: 843-847
+# Report_Number: 
+# DOI: 10.1038/ngeo2813
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: During the late Miocene epoch, about seven million years ago, large areas of the continents experienced drying, enhanced seasonality, and a restructuring of terrestrial plant and animal communities. These changes are seen throughout the subtropics, but have typically been attributed to regional tectonic forcing. Here we present a set of globally distributed sea surface temperature records spanning the past 12 million years based on the alkenone unsaturation method. We find that a sustained late Miocene cooling occurred synchronously in both hemispheres, and culminated with ocean temperatures dipping to near-modern values between about 7 and 5.4 million years ago. The period of maximum cooling coincides with evidence for transient glaciations in the Northern Hemisphere and with a steepening of the pole-to-equator temperature gradient, as well. We thus infer that late Miocene aridity and terrestrial ecosystem changes occurred in a global context of increasing meridional temperature gradients. We conclude that a global forcing mechanism, such as the previously hypothesized decline in atmospheric CO2 levels between eight and six million years ago, is required to explain the late Miocene changes in temperature, climate and ecosystems. 
+#---------------------------------------
+# Publication
+# Authors: LaRiviere, J.P., A.C. Ravelo, A. Crimmins, P.S. Dekens, H.L. Ford, M. Lyle, and M.W. Wara
+# Published_Date_or_Year: 2012
+# Published_Title: Late Miocene decoupling of oceanic warmth and atmospheric carbon dioxide forcing
+# Journal_Name: Nature
+# Volume: 486
+# Edition: 
+# Issue: 
+# Pages: 97-100
+# Report_Number: 
+# DOI: 10.1038/nature11200
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Deep-time palaeoclimate studies are vitally important for developing a complete understanding of climate responses to changes in the atmospheric carbon dioxide concentration (that is, the atmospheric partial pressure of CO2, pCO2)1. Although past studies have explored these responses during portions of the Cenozoic era (the most recent 65.5 million years (Myr) of Earth history), comparatively little is known about the climate of the late Miocene (~12–5 Myr ago), an interval with pCO2 values of only 200–350?parts per million by volume but nearly ice-free conditions in the Northern Hemisphere2,3 and warmer-than-modern temperatures on the continents4. Here we present quantitative geochemical sea surface temperature estimates from the Miocene mid-latitude North Pacific Ocean, and show that oceanic warmth persisted throughout the interval of low pCO2~12–5 Myr ago. We also present new stable isotope measurements from the western equatorial Pacific that, in conjunction with previously published data5,6,7,8,9,10, reveal a long-term trend of thermocline shoaling in the equatorial Pacific since ~13?Myr ago. We propose that a relatively deep global thermocline, reductions in low-latitude gradients in sea surface temperature, and cloud and water vapour feedbacks may help to explain the warmth of the late Miocene. Additional shoaling of the thermocline after 5?Myr ago probably explains the stronger coupling between pCO2, sea surface temperatures and climate that is characteristic of the more recent Pliocene and Pleistocene epochs.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Science Foundation Ocean Sciences
+#    Grant:  1459280, 1545859
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Evolving Earth Foundation
+#    Grant: 
+#---------------------------------------
+# Site_Information
+# Site_Name: ODP 1010
+# Location: Eastern Pacific Ocean
+# Country: 
+# Northernmost_Latitude: 29.798
+# Southernmost_Latitude: 29.798
+# Easternmost_Longitude: -118.107
+# Westernmost_Longitude: -118.107
+# Elevation: -3464
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: ODP1010-2016alkenones Herbert
+#   First_Year: 13526890
+#   Last_Year: 38750
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: alkenone data reported from LaRiviere et al., interpreted in anomaly framework by Herbert et al., 2016. Chronology taken from LaRiviere et al., 2012
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## sitename	sample identification,,,,,paleoceanography,,,C,Site
+## Hole	notes,,,,,paleoceanography,,,C,hole name
+## core	notes,,,,,paleoceanography,,,C,core
+## section	notes,,,,,paleoceanography,,,C,section
+## cm_top	depth at sample end,,,centimeter,,paleoceanography,,,N,
+## cm_base	depth at sample start,,,centimeter,,paleoceanography,,,N,
+## depth_mbsf	depth,,,meter,,paleoceanography,,,N,shipboard meters below sea floor
+## depth_mcd	depth,,,meter,,paleoceanography,,,N,composite depth 
+## age_kaBP	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## age_uncert_ka	age,,90% confidence interval margin of error,calendar kiloyear before present,,paleoceanography,,,N,
+## Uk'37	alkenone unsaturation index,sediment,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,GC-FID
+## SST_P	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following F.G. Prahl et al., 1988; estimated
+## SST_M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following P.J. Muller et al. 1998; estimated
+## SST_anom-M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; Muller calibration
+## SST_anom_back	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; backtraced for paleolatitude/longitude
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NaN
+sitename	Hole	core	section	cm_top	cm_base	depth_mbsf	depth_mcd	age_kaBP	age_uncert_ka	Uk'37	SST_P	SST_M	SST_anom-M	SST_anom_back	
+1010	C	1	1	46	48	0.47	0.47	38.75	NaN	0.478	12.91	13.15	-4.2	-4.2	
+1010	C	1	1	97	99	0.98	0.98	80.80	NaN	0.557	15.24	15.55	-1.7	-1.8	
+1010	C	1	1	145	147	1.46	1.46	120.38	NaN	0.645	17.83	18.22	0.9	0.9	
+1010	C	1	2	44	46	1.95	1.95	160.78	NaN	0.523	14.23	14.51	-2.8	-2.8	
+1010	C	1	2	92	94	2.43	2.43	200.36	NaN	0.615	16.95	17.31	0.0	0.0	
+1010	C	1	2	140	142	2.91	2.91	239.94	NaN	0.612	16.86	17.22	-0.1	-0.1	
+1010	C	1	3	38	40	3.39	3.39	279.51	NaN	0.559	15.31	15.62	-1.7	-1.7	
+1010	C	1	3	87	89	3.88	3.88	319.92	NaN	0.655	18.11	18.51	1.2	1.2	
+1010	C	1	3	136	138	4.37	4.37	360.32	NaN	0.510	13.86	14.13	-3.2	-3.2	
+1010	C	1	4	34	36	4.85	4.85	399.89	NaN	0.689	19.11	19.54	2.2	2.2	
+1010	C	1	4	83	85	5.34	5.34	440.30	NaN	0.488	13.21	13.46	-3.8	-3.9	
+1010	C	2	1	35	37	5.86	6.72	554.08	NaN	0.603	16.57	16.93	-0.4	-0.4	
+1010	E	1	5	128	130	7.29	7.29	601.08	NaN	0.639	17.64	18.02	0.7	0.7	
+1010	E	1	6	26	28	7.77	7.77	640.66	NaN	0.548	14.97	15.27	-2.0	-2.1	
+1010	E	1	6	77	79	8.28	8.28	682.71	NaN	0.617	17.00	17.37	0.1	0.0	
+1010	E	1	CC	6	8	8.77	8.77	723.11	NaN	0.543	14.82	15.12	-2.2	-2.2	
+1010	C	2	2	140	142	8.41	9.27	764.33	NaN	0.591	16.24	16.58	-0.7	-0.8	
+1010	C	2	3	38	40	8.89	9.75	802.56	NaN	0.465	12.52	12.74	-4.6	-4.6	
+1010	E	2	1	20	22	9.21	10.21	838.33	NaN	0.544	14.84	15.14	-2.2	-2.2	
+1010	E	2	1	73	75	9.74	10.74	879.56	NaN	0.537	14.64	14.93	-2.4	-2.4	
+1010	E	2	1	122	124	10.23	11.23	917.67	NaN	0.550	15.04	15.34	-2.0	-2.0	
+1010	E	2	2	22	24	10.73	11.73	956.56	NaN	0.570	15.61	15.93	-1.4	-1.4	
+1010	E	2	2	48	50	10.99	11.99	976.78	NaN	0.579	15.89	16.22	-1.1	-1.1	
+1010	E	2	2	74	76	11.25	12.25	996.55	NaN	0.552	15.09	15.40	-1.9	-2.0	
+1010	E	2	2	102	104	11.53	12.53	1016.91	NaN	0.585	16.07	16.41	-0.9	-0.9	
+1010	E	2	2	128	130	11.79	12.79	1035.82	NaN	0.560	15.33	15.64	-1.7	-1.7	
+1010	E	2	3	5	7	12.06	13.06	1055.45	NaN	0.673	18.63	19.05	1.7	1.7	
+1010	E	2	3	32	34	12.33	13.33	1075.69	NaN	0.639	17.63	18.02	0.7	0.7	
+1010	E	2	3	59	61	12.60	13.60	1097.63	NaN	0.649	17.95	18.35	1.0	1.0	
+1010	E	2	3	86	88	12.87	13.87	1119.56	NaN	0.528	14.39	14.67	-2.6	-2.7	
+1010	E	2	3	112	114	13.13	14.13	1140.69	NaN	0.621	17.10	17.47	0.2	0.1	
+1010	E	2	3	139	141	13.40	14.40	1162.63	NaN	0.689	19.11	19.54	2.2	2.2	
+1010	E	2	4	16	18	13.67	14.67	1184.56	NaN	0.645	17.83	18.22	0.9	0.9	
+1010	E	2	4	43	45	13.94	14.94	1217.95	NaN	0.593	16.30	16.64	-0.7	-0.7	
+1010	C	2	6	133	135	14.34	15.20	1276.30	NaN	0.576	15.81	16.13	-1.2	-1.2	
+1010	C	2	7	4	6	14.55	15.41	1323.43	NaN	0.541	14.77	15.07	-2.2	-2.3	
+1010	C	2	7	27	29	14.78	15.64	1375.04	NaN	0.662	18.34	18.74	1.4	1.4	
+1010	C	2	7	45	47	14.96	15.82	1415.43	NaN	0.496	13.43	13.68	-3.6	-3.7	
+1010	C	2	7	65	67	15.16	16.02	1460.31	NaN	0.603	16.59	16.94	-0.4	-0.4	
+1010	E	2	5	22	24	15.23	16.23	1507.44	NaN	0.555	15.18	15.49	-1.8	-1.9	
+1010	E	2	5	42	44	15.43	16.43	1552.32	NaN	0.510	13.87	14.13	-3.2	-3.2	
+1010	E	2	5	82	84	15.83	16.83	1642.09	NaN	0.619	17.06	17.42	0.1	0.1	
+1010	E	2	5	102	104	16.03	17.03	1686.97	NaN	0.636	17.56	17.94	0.6	0.6	
+1010	C	3	1	14	16	15.15	17.45	1779.00	NaN	0.608	16.74	17.09	-0.2	-0.3	
+1010	C	3	1	59	61	15.60	17.90	1860.00	NaN	0.638	17.60	17.99	0.7	0.6	
+1010	C	3	1	74	76	15.75	18.05	1887.00	NaN	0.697	19.36	19.79	2.5	2.4	
+1010	E	2	6	77	79	17.28	18.28	1928.40	NaN	0.639	17.65	18.03	0.7	0.6	
+1010	E	2	6	118	120	17.69	18.69	2073.91	NaN	0.630	17.40	17.77	0.5	0.4	
+1010	E	2	6	139	141	17.90	18.90	2163.64	NaN	0.634	17.51	17.89	0.6	0.5	
+1010	E	2	7	10	12	18.11	19.11	2253.36	NaN	0.605	16.64	16.99	-0.3	-0.4	
+1010	E	2	7	32	34	18.33	19.33	2347.36	NaN	0.668	18.51	18.92	1.6	1.5	
+1010	E	2	cc	5	7	18.53	19.53	2422.00	NaN	0.640	17.68	18.07	0.8	0.7	
+1010	C	3	2	92	94	17.43	19.73	2435.33	NaN	0.656	18.15	18.55	1.2	1.1	
+1010	C	3	2	114	116	17.65	19.95	2449.55	NaN	0.651	18.01	18.41	1.1	1.0	
+1010	E	3	1	14	16	18.65	20.15	2462.27	NaN	0.606	16.66	17.02	-0.3	-0.4	
+1010	E	3	1	35	37	18.86	20.36	2475.64	NaN	0.627	17.30	17.67	0.4	0.3	
+1010	E	3	1	73	75	19.24	20.74	2499.82	NaN	0.629	17.35	17.73	0.4	0.3	
+1010	E	3	1	111	113	19.62	21.12	2524.00	NaN	0.635	17.54	17.92	0.6	0.5	
+1010	E	3	1	147	149	19.98	21.48	2546.91	NaN	0.606	16.68	17.04	-0.3	-0.4	
+1010	E	3	2	37	39	20.38	21.88	2572.36	NaN	0.632	17.43	17.81	0.5	0.4	
+1010	E	3	2	75	77	20.76	22.26	2611.32	NaN	0.589	16.17	16.51	-0.8	-0.9	
+1010	E	3	2	113	115	21.14	22.64	2657.09	NaN	0.654	18.08	18.48	1.2	1.1	
+1010	E	3	3	1	3	21.52	23.02	2702.86	NaN	0.671	18.60	19.01	1.7	1.6	
+1010	E	3	3	39	41	21.90	23.40	2748.64	NaN	0.661	18.28	18.68	1.4	1.3	
+1010	E	3	3	77	79	22.28	23.78	2794.41	NaN	0.576	15.79	16.11	-1.2	-1.3	
+1010	E	3	3	115	117	22.66	24.16	2840.18	NaN	0.629	17.34	17.71	0.4	0.3	
+1010	E	3	4	3	5	23.04	24.54	2885.95	NaN	0.609	16.76	17.12	-0.2	-0.3	
+1010	C	3	6	11	13	22.62	24.92	2931.73	NaN	0.558	15.27	15.59	-1.7	-1.8	
+1010	E	3	4	42	44	23.43	24.93	2932.93	NaN	0.565	15.48	15.80	-1.5	-1.6	
+1010	C	3	6	101	103	23.52	25.82	3040.14	NaN	0.608	16.75	17.10	-0.2	-0.3	
+1010	C	3	7	40	42	24.41	26.71	3118.30	NaN	0.624	17.20	17.57	0.3	0.1	
+1010	C	4	1	65	67	25.16	28.52	3166.74	NaN	0.673	18.66	19.07	1.8	1.6	
+1010	E	3	7	41	43	27.92	29.42	3190.83	NaN	0.580	15.92	16.25	-1.0	-1.2	
+1010	C	4	2	94	96	26.95	30.31	3214.65	NaN	0.657	18.17	18.57	1.3	1.1	
+1010	C	4	3	32	34	27.83	31.19	3242.33	NaN	0.667	18.46	18.87	1.6	1.4	
+1010	C	4	3	128	130	28.79	32.15	3273.85	NaN	0.700	19.45	19.89	2.6	2.4	
+1010	C	4	4	65	67	29.66	33.02	3302.42	NaN	0.554	15.15	15.45	-1.8	-2.0	
+1010	E	4	2	16	18	29.67	33.91	3332.94	NaN	0.700	19.45	19.89	2.6	2.4	
+1010	E	4	2	107	109	30.58	34.82	3386.47	NaN	0.660	18.25	18.65	1.4	1.2	
+1010	E	4	3	47	49	31.48	35.72	3439.41	NaN	0.719	19.99	20.45	3.1	3.0	
+1010	E	4	3	137	139	32.38	36.62	3492.35	NaN	0.703	19.52	19.96	2.7	2.5	
+1010	C	4	7	65	67	34.16	37.52	3545.29	NaN	0.742	20.66	21.14	3.8	3.7	
+1010	E	4	4	124	126	33.75	37.99	3572.94	NaN	0.693	19.22	19.66	2.4	2.2	
+1010	E	4	5	41	43	34.42	38.66	3612.35	NaN	0.704	19.56	20.00	2.7	2.5	
+1010	E	4	5	109	111	35.10	39.34	3652.35	NaN	0.724	20.15	20.61	3.3	3.1	
+1010	E	4	6	27	29	35.78	40.02	3692.35	NaN	0.752	20.96	21.45	4.1	4.0	
+1010	E	4	6	95	97	36.46	40.70	3732.35	NaN	0.720	20.04	20.50	3.2	3.0	
+1010	E	4	7	13	15	37.14	41.38	3772.35	NaN	0.666	18.43	18.84	1.5	1.4	
+1010	E	5	1	55	57	38.06	42.74	3852.35	NaN	0.750	20.91	21.39	4.1	3.9	
+1010	E	5	1	123	125	38.74	43.42	3892.35	NaN	0.761	21.24	21.73	4.4	4.3	
+1010	E	5	2	43	45	39.44	44.12	3933.53	NaN	0.749	20.88	21.36	4.1	3.9	
+1010	E	5	2	110	112	40.11	44.79	3972.94	NaN	0.739	20.58	21.06	3.8	3.6	
+1010	E	5	3	15	17	40.66	45.34	4005.29	NaN	0.710	19.75	20.20	2.9	2.7	
+1010	E	5	3	72	74	41.23	45.91	4038.82	NaN	0.758	21.15	21.64	4.3	4.2	
+1010	C	5	6	10	12	41.61	46.47	4071.76	NaN	0.806	22.56	23.09	5.8	5.6	
+1010	C	5	6	66	68	42.17	47.03	4104.71	NaN	0.780	21.79	22.30	5.0	4.8	
+1010	C	5	6	122	124	42.73	47.59	4137.65	NaN	0.785	21.94	22.45	5.2	5.0	
+1010	C	5	7	29	31	43.30	48.16	4171.18	NaN	0.819	22.94	23.49	6.2	6.0	
+1010	C	5	cc	8	10	43.86	48.72	4193.26	NaN	0.769	21.48	21.98	4.7	4.5	
+1010	C	6	1	1	3	43.52	49.30	4212.03	NaN	0.691	19.17	19.60	2.3	2.1	
+1010	C	6	1	57	59	44.08	49.86	4230.15	NaN	0.709	19.70	20.14	2.8	2.7	
+1010	C	6	1	113	115	44.64	50.42	4248.26	NaN	0.796	22.28	22.80	5.5	5.3	
+1010	C	6	2	16	18	45.17	50.98	4266.38	NaN	0.822	23.04	23.59	6.3	6.1	
+1010	C	6	2	68	70	45.69	51.50	4283.21	NaN	0.810	22.69	23.22	5.9	5.7	
+1010	E	5	cc	20	22	47.43	52.11	4480.00	NaN	0.749	20.88	21.36	4.1	3.9	
+1010	E	6	1	57	59	47.58	52.53	4522.00	NaN	0.726	20.22	20.68	3.4	3.2	
+1010	E	6	1	100	102	48.01	52.96	4565.00	NaN	0.739	20.59	21.07	3.8	3.6	
+1010	E	6	1	142	144	48.43	53.38	4607.00	NaN	0.724	20.16	20.62	3.3	3.1	
+1010	C	6	4	2	4	51.53	53.84	4658.32	NaN	0.751	20.93	21.42	4.1	3.9	
+1010	C	6	4	41	43	51.92	54.23	4703.61	NaN	0.760	21.19	21.68	4.4	4.2	
+1010	C	6	4	82	84	52.33	54.64	4751.23	NaN	0.735	20.48	20.95	3.7	3.4	
+1010	C	6	4	127	129	52.78	55.09	4802.35	NaN	0.753	20.99	21.48	4.2	4.0	
+1010	C	6	5	17	19	53.18	55.49	4833.65	NaN	0.746	20.79	21.27	4.0	3.8	
+1010	C	6	5	64	66	53.65	55.96	4870.43	NaN	0.683	18.95	19.37	2.1	1.9	
+1010	C	6	5	102	104	54.03	56.34	4900.17	NaN	0.739	20.60	21.08	3.8	3.6	
+1010	C	6	5	145	147	54.46	56.77	4933.83	NaN	0.719	20.01	20.47	3.2	3.0	
+1010	C	6	6	40	42	54.91	57.22	4969.04	NaN	0.758	21.15	21.64	4.3	4.1	
+1010	C	6	6	88	90	55.39	57.70	4997.45	NaN	0.797	22.30	22.82	5.5	5.3	
+1010	C	6	6	139	141	55.90	58.21	5023.63	NaN	0.764	21.32	21.81	4.5	4.3	
+1010	C	6	7	39	41	56.40	58.71	5049.30	NaN	0.770	21.50	22.00	4.7	4.5	
+1010	C	6	cc	16	18	56.84	59.15	5071.89	NaN	0.798	22.33	22.86	5.6	5.3	
+1010	E	6	6	76	78	55.27	60.22	5126.82	NaN	0.765	21.35	21.84	4.5	4.3	
+1010	C	7	1	93	95	53.94	60.37	5134.52	NaN	0.684	18.98	19.41	2.1	1.9	
+1010	C	7	2	130	132	55.81	62.24	5231.18	NaN	0.748	20.87	21.35	4.0	3.8	
+1010	C	7	4	0	2	57.51	63.94	5431.54	NaN	0.759	21.17	21.66	4.4	4.1	
+1010	E	7	2	100	102	59.01	65.16	5575.32	NaN	0.809	22.65	23.18	5.9	5.6	
+1010	E	7	3	100	102	60.51	66.66	5752.11	NaN	0.679	18.82	19.23	1.9	1.7	
+1010	E	7	4	100	102	62.01	68.16	5901.07	NaN	0.754	21.03	21.51	4.2	4.0	
+1010	E	7	5	100	102	63.51	69.66	5951.41	NaN	0.787	22.01	22.53	5.2	5.0	
+1010	C	8	1	116	118	67.17	71.16	6001.74	NaN	0.778	21.73	22.24	4.9	4.7	
+1010	C	8	3	116	118	70.17	74.16	6102.42	NaN	0.793	22.18	22.70	5.4	5.1	
+1010	C	8	4	116	118	71.67	75.66	6198.12	NaN	0.778	21.74	22.25	5.0	4.7	
+1010	C	8	5	116	118	73.17	77.16	6372.24	NaN	0.803	22.47	23.00	5.7	5.4	
+1010	E	8	5	34	36	72.35	78.66	6521.13	NaN	0.859	24.11	24.69	7.4	7.1	
+1010	E	8	6	34	36	73.85	80.16	6670.01	NaN	0.807	22.59	23.12	5.8	5.5	
+1010	C	9	3	42	44	75.43	83.16	6966.40	NaN	0.822	23.03	23.57	6.3	6.0	
+1010	C	9	4	42	44	76.93	84.66	7107.80	NaN	0.844	23.66	24.23	6.9	6.6	
+1010	E	9	3	0	2	78.51	85.90	7224.70	NaN	0.932	26.28	26.92	9.6	9.3	
+1010	C	9	5	42	44	78.43	86.16	7249.21	NaN	0.874	24.57	25.16	7.9	7.5	
+1010	C	9	6	42	44	79.93	87.66	7390.61	NaN	0.860	24.16	24.74	7.4	7.1	
+1010	E	9	5	26	28	81.77	89.16	7532.01	NaN	0.787	21.99	22.51	5.2	4.9	
+1010	C	10	3	62	64	75.63	93.66	7956.23	NaN	0.871	24.48	25.07	7.8	7.4	
+1010	E	10	2	56	58	87.07	95.16	8097.63	NaN	0.830	23.27	23.82	6.5	6.2	
+1010	E	10	3	56	58	88.57	96.66	8239.04	NaN	0.828	23.22	23.77	6.5	6.1	
+1010	E	10	4	56	58	90.07	98.16	8380.44	NaN	0.878	24.66	25.26	8.0	7.6	
+1010	E	10	5	56	58	91.57	99.66	8521.85	NaN	0.913	25.71	26.33	9.0	8.7	
+1010	E	10	6	56	58	93.07	101.16	8663.25	NaN	0.896	25.20	25.82	8.5	8.1	
+1010	C	11	2	72	74	93.23	102.66	8804.66	NaN	0.913	25.71	26.34	9.0	8.7	
+1010	E	11	2	84	86	96.85	105.66	9087.47	NaN	0.884	24.86	25.47	8.2	7.8	
+1010	E	11	3	84	86	98.35	107.16	9228.87	NaN	0.865	24.30	24.89	7.6	7.2	
+1010	E	11	4	84	86	99.85	108.66	9370.28	NaN	0.888	24.96	25.57	8.3	7.9	
+1010	E	11	5	84	86	101.35	110.16	9498.49	NaN	0.903	25.41	26.03	8.7	8.3	
+1010	E	11	6	84	86	102.85	111.66	9553.84	NaN	0.926	26.10	26.74	9.4	9.0	
+1010	C	12	2	64	66	102.65	113.16	9609.19	NaN	0.917	25.82	26.46	9.2	8.7	
+1010	C	12	3	64	66	104.15	114.66	9664.55	NaN	0.896	25.22	25.83	8.5	8.1	
+1010	E	12	3	112	114	104.63	117.66	9775.25	NaN	0.911	25.64	26.27	9.0	8.6	
+1010	E	12	4	112	114	106.13	119.16	9830.60	NaN	0.872	24.49	25.08	7.8	7.4	
+1010	E	12	5	112	114	107.63	120.66	9885.96	NaN	0.909	25.60	26.23	8.9	8.5	
+1010	E	12	6	98	100	108.99	122.02	9936.14	NaN	0.932	26.26	26.91	9.6	9.2	
+1010	C	13	1	140	142	111.41	123.48	9990.02	NaN	0.847	23.76	24.33	7.0	6.6	
+1010	C	13	2	140	142	112.91	124.98	10045.37	NaN	0.906	25.50	26.12	8.8	8.4	
+1010	E	13	4	136	138	119.37	130.98	10266.78	NaN	0.883	24.84	25.44	8.1	7.7	
+1010	C	14	2	0	2	121.01	134.06	10380.44	NaN	0.920	25.92	26.55	9.3	8.8	
+1010	C	14	4	0	2	124.01	137.06	10491.14	NaN	0.897	25.25	25.86	8.6	8.1	
+1010	C	14	5	0	2	125.51	138.56	11014.96	NaN	0.907	25.54	26.16	8.9	8.4	
+1010	E	14	4	70	72	128.21	140.06	11452.88	NaN	0.944	26.62	27.27	10.0	9.5	
+1010	E	14	5	70	72	129.71	141.56	11494.89	NaN	0.939	26.46	27.11	9.8	9.4	
+1010	C	15	1	74	76	129.75	142.96	11534.10	NaN	0.931	26.23	26.88	9.6	9.1	
+1010	C	15	3	74	76	132.75	145.96	11618.13	NaN	0.928	26.16	26.80	9.5	9.1	
+1010	C	15	4	74	76	134.25	147.46	11660.14	NaN	0.940	26.50	27.15	9.9	9.4	
+1010	C	15	5	74	76	135.75	148.96	11702.15	NaN	0.937	26.42	27.07	9.8	9.3	
+1010	C	15	6	74	76	137.25	150.46	11744.16	NaN	0.932	26.26	26.91	9.6	9.2	
+1010	C	15	7	69	71	138.70	151.91	11784.77	NaN	0.932	26.26	26.91	9.6	9.2	
+1010	E	15	5	110	112	139.61	151.96	11786.17	NaN	0.933	26.29	26.93	9.6	9.2	
+1010	C	16	1	131	133	139.82	153.46	11828.18	NaN	0.949	26.77	27.43	10.1	9.7	
+1010	C	16	4	131	133	144.32	157.96	11954.21	NaN	0.951	26.81	27.48	10.2	9.7	
+1010	C	16	5	131	133	145.82	159.46	11996.22	NaN	0.942	26.56	27.22	9.9	9.5	
+1010	C	17	1	0	2	148.01	160.77	12032.91	NaN	0.935	26.35	26.99	9.7	9.2	
+1010	C	17	2	0	2	149.51	162.27	12074.92	NaN	0.943	26.60	27.25	10.0	9.5	
+1010	C	17	3	0	2	151.01	163.77	12116.93	NaN	0.943	26.58	27.24	9.9	9.5	
+1010	C	17	4	0	2	152.51	165.27	12158.94	NaN	0.947	26.72	27.37	10.1	9.6	
+1010	C	17	5	0	2	154.01	166.77	12200.96	NaN	0.948	26.74	27.40	10.1	9.7	
+1010	E	17	4	70	72	156.71	168.27	12259.32	NaN	0.935	26.35	27.00	9.7	9.3	
+1010	E	17	5	70	72	158.21	169.77	12331.26	NaN	0.945	26.64	27.29	10.0	9.6	
+1010	E	17	6	70	72	159.71	171.27	12403.19	NaN	0.940	26.51	27.16	9.9	9.4	
+1010	C	18	2	0	2	159.01	172.77	12475.13	NaN	0.934	26.33	26.97	9.7	9.2	
+1010	C	18	3	0	2	160.51	174.27	12547.06	NaN	0.941	26.52	27.17	9.9	9.4	
+1010	C	18	4	0	2	162.01	175.77	12619.00	NaN	0.938	26.44	27.09	9.8	9.4	
+1010	E	18	5	6	8	163.57	178.77	12762.87	NaN	0.949	26.75	27.41	10.1	9.7	
+1010	E	18	6	6	8	165.07	180.27	12834.80	NaN	0.945	26.64	27.30	10.0	9.6	
+1010	C	19	1	0	2	165.21	180.96	12867.89	NaN	0.948	26.74	27.40	10.1	9.7	
+1010	C	19	2	81	83	167.52	183.27	12978.67	NaN	0.931	26.23	26.88	9.6	9.2	
+1010	C	21	1	10	12	184.71	184.71	13047.73	NaN	0.938	26.44	27.09	9.8	9.4	
+1010	C	19	3	81	83	169.02	184.77	13050.60	NaN	0.947	26.69	27.35	10.1	9.6	
+1010	C	19	4	81	83	170.52	186.27	13113.17	NaN	0.938	26.44	27.09	9.8	9.4	
+1010	E	19	4	0	2	175.11	189.26	13196.92	NaN	0.932	26.28	26.92	9.6	9.2	
+1010	C	20	2	52	54	176.93	193.26	13308.96	NaN	0.950	26.78	27.45	10.1	9.7	
+1010	C	20	3	52	54	178.43	194.76	13350.98	NaN	0.945	26.65	27.31	10.0	9.6	
+1010	C	20	4	52	54	179.93	196.26	13393.00	NaN	0.936	26.40	27.04	9.7	9.3	
+1010	C	21	1	10	12	184.71	201.04	13526.89	NaN	0.938	26.44	27.09	9.8	9.4	

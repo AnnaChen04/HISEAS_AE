@@ -1,0 +1,365 @@
+# Bay of Bengal, Northeast Indian Margin Stable Isotope, Biomarker and SST Reconstructions since the Mid-Pleistocene
+#----------------------------------------------------
+#                World Data Service for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/33213
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-ocean-33213.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI: 10.25921/mzh5-p372
+#
+# Science_Keywords: 
+#--------------------
+# Resource_Links
+#
+# Data_Download_Resource:  https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2021/clemens2021-u1446-mgca-noaa.txt
+#   Data_Download_Description: NOAA Template File; U1446 Mg/Ca and SST Data
+#
+#--------------------
+# Contribution_Date
+#   Date: 2021-04-08
+#--------------------
+# File_Last_Modified_Date
+#   Date: 2024-08-18
+#--------------------
+# Title
+#   Study_Name: Bay of Bengal, Northeast Indian Margin Stable Isotope, Biomarker and SST Reconstructions since the Mid-Pleistocene
+#--------------------
+# Investigators
+#   Investigators: Clemens, S.C.(https://orcid.org/0000-0002-1136-7815); Yamamoto, M.(https://orcid.org/0000-0003-1312-825X); Thirumalai, K.(https://orcid.org/0000-0002-7875-4182); Giosan, L.; Richey, J.N.(https://orcid.org/0000-0002-2319-7980); Nilsson-Kerr, K.(https://orcid.org/0000-0001-7379-2684); Rosenthal, Y.(https://orcid.org/0000-0002-7546-6011); Anand, P.(https://orcid.org/0000-0002-3159-0096); McGrath, S.M.(https://orcid.org/0000-0003-3372-1894)
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: Provided Keywords: Indian monsoon, South Asian monsoon, precipitation, precipitation isotopes, paleoclimate, paleoceanography, carbon dioxide, ice volume
+#--------------------
+# Publication
+#   Authors: Clemens, Steven; Yamamoto, Masanobu; Thirumalai, Kaustubh; Giosan, Liviu; Richey, Julie N.; Nilsson-Kerr, Katrina; Rosenthal, Yair; Anand, Pallavi; McGrath, Sarah M.
+#   Journal_Name: Science Advances
+#   Published_Title: Remote and Local Drivers of Pleistocene South Asian Summer Monsoon Precipitation: A Test for Future Predictions
+#   Published_Date_or_Year: 2021
+#   Volume: 7
+#   Pages: 
+#   Issue: 23
+#   Report_Number: eabg3848
+#   DOI: 10.1126/sciadv.abg3848
+#   Full_Citation:
+#   Abstract: South Asian precipitation amount and extreme variability are predicted to increase due to thermodynamic effects of increased 21st-century greenhouse gases, accompanied by an increased supply of moisture from the southern hemisphere Indian Ocean. We reconstructed South Asian summer monsoon precipitation and runoff into the Bay of Bengal to assess the extent to which these factors also operated in the Pleistocene, a time of large-scale natural changes in carbon dioxide and ice volume. South Asian precipitation and runoff are strongly coherent with, and lag, atmospheric carbon dioxide changes at Earth’s orbital eccentricity, obliquity, and precession bands and are closely tied to cross-equatorial wind strength at the precession band. We find that the projected monsoon response to ongoing, rapid high-latitude ice melt and rising carbon dioxide levels is fully consistent with dynamics of the past 0.9 million years.
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name: Natural Environment Research Council (NERC)
+#   Grant: JPMXS05R2900001, 19H05595
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: OCE1634774
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name: US Geological Survey
+#   Grant: NE/L002493/1
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name: Japan Society for the Promotion of Science (JSPS)
+#   Grant: JPMXS05R2900001
+#--------------------
+# Site_Information
+#   Site_Name: IODP U1446
+#   Location: Indian Ocean
+#   Northernmost_Latitude: 19.083
+#   Southernmost_Latitude: 19.083
+#   Easternmost_Longitude: 85.733
+#   Westernmost_Longitude: 85.733
+#   Elevation_m: -1440
+#--------------------
+# Data_Collection
+#   Collection_Name: U1446 Mg/Ca Clemens2021
+#   First_Year: 677070
+#   Last_Year: 320
+#   Time_Unit: cal yr BP
+#   Core_Length_m:
+#   Parameter_Keywords: geochemistry, reconstruction
+#   Notes: http://publications.iodp.org/proceedings/353/353title.html; 204 m composite depth.
+#--------------------
+# Chronology_Information
+# Chronology:
+# 
+#--------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by '##' in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## Site	sample identification,,,,,paleoceanography,,,C,Site identification
+## Hole	sample identification,,,,,paleoceanography,,,C,Hole drilled at  Site U1446
+## Core	sample identification,,,,,paleoceanography,,,N,Core number
+## Type	sample identification,,,,,paleoceanography,,,C,H (9 m hydraulic piston core)  F (4.5 m hydraulic piston core)
+## Section	sample identification,,,,,paleoceanography,,,N,Section number ( 1 through 7 and core catcher (CC))
+## Section_Depth	sample identification,,,centimeter,,paleoceanography,,,N,Mid-depth of sample within section
+## Sample_Depth	depth,,,meter,,paleoceanography,,,N,Spliced  core composite depth below sea floor (CCSF-D)
+## Age	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## Mg/Ca	magnesium/calcium,Globigerinoides ruber,,dimensionless,,paleoceanography,,inductively-coupled plasma mass spectrometry,N,
+## Analytical_Facility	notes,,,,,paleoceanography,,,C,Laboratory where analyses were conducted
+## Mg/Ca_SST	sea surface temperature,magnesium/calcium,,degree Celsius,,climate reconstructions;paleoceanography,,,N,Tierney et al. 2015
+#--------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: nan
+Site	Hole	Core	Type	Section	Section_Depth	Sample_Depth	Age	Mg/Ca	Analytical_Facility	Mg/Ca_SST
+U1446	C	1	H	1	5	0.05	0.32	4.63	Rosenthal (Rutgers)	28.41
+U1446	C	1	H	1	32	0.32	0.66	4.62	Rosenthal (Rutgers)	28.46
+U1446	C	1	H	1	62	0.62	1.05	4.72	Rosenthal (Rutgers)	28.43
+U1446	C	1	H	1	91	0.91	1.42	4.58	Rosenthal (Rutgers)	28.63
+U1446	C	1	H	1	122	1.22	1.81	4.70	Rosenthal (Rutgers)	28.61
+U1446	C	1	H	1	148	1.48	2.14	4.54	Rosenthal (Rutgers)	28.52
+U1446	C	1	H	2	31	1.81	2.61	4.69	Rosenthal (Rutgers)	28.39
+U1446	C	1	H	2	61	2.11	3.15	4.55	Rosenthal (Rutgers)	28.25
+U1446	C	1	H	2	91	2.41	3.69	4.43	Rosenthal (Rutgers)	29.05
+U1446	C	1	H	2	121	2.71	4.23	4.93	Rosenthal (Rutgers)	29.19
+U1446	C	1	H	2	147.5	2.975	4.70	4.73	Rosenthal (Rutgers)	28.99
+U1446	C	1	H	3	33	3.33	5.34	4.75	Rosenthal (Rutgers)	28.64
+U1446	C	1	H	3	63	3.63	5.88	4.59	Rosenthal (Rutgers)	29.11
+U1446	C	1	H	3	93	3.93	6.48	4.82	Rosenthal (Rutgers)	29.42
+U1446	C	1	H	3	123	4.23	7.08	4.91	Rosenthal (Rutgers)	29.58
+U1446	C	1	H	3	144	4.44	7.50	4.95	Rosenthal (Rutgers)	29.21
+U1446	C	1	H	4	32	4.82	8.27	4.89	Rosenthal (Rutgers)	28.68
+U1446	C	1	H	4	63	5.13	8.90	4.72	Rosenthal (Rutgers)	28.85
+U1446	C	1	H	4	92	5.42	9.48	4.66	Rosenthal (Rutgers)	28.78
+U1446	C	1	H	4	122	5.72	10.19	4.79	Rosenthal (Rutgers)	28.19
+U1446	C	1	H	4	148	5.98	11.42	4.87	Rosenthal (Rutgers)	27.79
+U1446	C	1	H	5	34	6.34	14.13	4.58	Rosenthal (Rutgers)	26.79
+U1446	C	1	H	5	64	6.64	16.87	4.87	Rosenthal (Rutgers)	26.86
+U1446	C	1	H	5	94	6.94	19.61	4.53	Rosenthal (Rutgers)	26.76
+U1446	C	1	H	6	23	7.24	22.36	4.40	Rosenthal (Rutgers)	26.27
+U1446	A	2	H	3	59.5	7.54	24.05	4.01	Richey (USGS)	26.74
+U1446	A	2	H	3	89.5	7.84	25.46	4.36	Richey (USGS)	25.70
+U1446	A	2	H	3	119.5	8.14	27.25	3.97	Richey (USGS)	26.10
+U1446	A	2	H	3	148.5	8.43	29.15	4.04	Richey (USGS)	26.06
+U1446	A	2	H	4	31.5	8.76	31.31	3.78	Richey (USGS)	25.65
+U1446	A	2	H	4	61.5	9.06	33.28	3.62	Richey (USGS)	26.81
+U1446	A	2	H	4	91.5	9.36	35.25	4.28	Richey (USGS)	26.15
+U1446	A	2	H	4	121.5	9.66	37.21	3.88	Richey (USGS)	26.06
+U1446	A	2	H	4	148	9.925	38.95	3.86	Richey (USGS)	25.85
+U1446	A	2	H	5	34	10.285	41.31	3.68	Richey (USGS)	25.78
+U1446	A	2	H	5	64	10.585	43.28	3.66	Richey (USGS)	25.63
+U1446	A	2	H	5	94	10.885	45.25	3.85	Richey (USGS)	26.33
+U1446	A	2	H	5	124	11.185	46.76	4.13	Richey (USGS)	26.28
+U1446	A	2	H	6	5.5	11.5	48.31	3.62	Richey (USGS)	25.89
+U1446	A	2	H	6	36.5	11.81	49.83	3.56	Richey (USGS)	25.63
+U1446	A	2	H	6	65.5	12.1	51.26	3.51	Richey (USGS)	25.51
+U1446	C	2	H	4	30	13.03	55.83	3.83	Richey (USGS)	25.55
+U1446	C	2	H	4	60	13.33	57.31	3.82	Richey (USGS)	25.49
+U1446	C	2	H	4	90	13.63	58.78	3.76	Richey (USGS)	25.51
+U1446	C	2	H	4	120	13.93	60.26	3.70	Richey (USGS)	25.81
+U1446	C	2	H	5	8	14.23	62.72	3.82	Richey (USGS)	27.04
+U1446	C	2	H	5	38	14.53	65.23	4.35	Richey (USGS)	26.50
+U1446	C	2	H	5	98	15.13	70.25	3.88	Richey (USGS)	26.29
+U1446	C	2	H	5	128	15.43	72.76	4.10	Richey (USGS)	26.48
+U1446	C	2	H	6	16.5	15.725	74.68	3.73	Richey (USGS)	27.16
+U1446	C	2	H	6	45.5	16.015	75.28	4.34	Richey (USGS)	27.01
+U1446	C	2	H	6	75.5	16.315	75.91	4.15	Kerr (Open Univ.)	26.26
+U1446	C	2	H	6	105.5	16.615	76.54	3.71	Kerr (Open Univ.)	26.17
+U1446	C	2	H	6	135.5	16.915	77.17	3.75	Kerr (Open Univ.)	27.41
+U1446	C	2	H	7	17.5	17.235	77.84	4.41	Kerr (Open Univ.)	27.55
+U1446	A	3	H	3	30	17.858	79.14	4.10	Kerr (Open Univ.)	27.31
+U1446	A	3	H	3	60	18.158	79.77	3.98	Kerr (Open Univ.)	27.23
+U1446	A	3	H	3	90.5	18.463	80.41	3.91	Kerr (Open Univ.)	27.58
+U1446	A	3	H	3	119.5	18.753	81.02	4.17	Kerr (Open Univ.)	27.95
+U1446	A	3	H	3	147.5	19.033	81.61	4.57	Kerr (Open Univ.)	27.00
+U1446	A	3	H	4	32	19.378	82.33	4.04	Kerr (Open Univ.)	26.40
+U1446	A	3	H	4	61	19.668	82.94	3.94	Kerr (Open Univ.)	26.57
+U1446	A	3	H	4	92	19.978	84.01	4.33	Kerr (Open Univ.)	26.67
+U1446	A	3	H	4	122	20.278	85.14	4.21	Kerr (Open Univ.)	26.76
+U1446	A	3	H	5	32.5	20.883	87.36	3.89	Kerr (Open Univ.)	26.66
+U1446	A	3	H	5	62.5	21.183	88.39	3.89	Kerr (Open Univ.)	26.56
+U1446	A	3	H	5	92.5	21.483	89.42	3.94	Kerr (Open Univ.)	26.74
+U1446	A	3	H	5	122.5	21.783	90.45	4.12	Kerr (Open Univ.)	26.70
+U1446	A	3	H	5	148.5	22.043	91.34	4.06	Kerr (Open Univ.)	26.95
+U1446	A	3	H	6	31.5	22.373	92.47	3.95	Kerr (Open Univ.)	27.65
+U1446	A	3	H	6	61.5	22.673	93.49	4.28	Kerr (Open Univ.)	27.84
+U1446	A	3	H	6	91.5	22.973	94.52	4.33	Kerr (Open Univ.)	27.93
+U1446	C	3	H	4	64	23.273	95.55	4.32	Kerr (Open Univ.)	28.18
+U1446	C	3	H	4	94	23.573	96.57	4.31	Kerr (Open Univ.)	28.52
+U1446	C	3	H	4	124	23.873	97.60	4.30	Kerr (Open Univ.)	28.57
+U1446	C	3	H	5	11	24.193	98.70	4.51	Kerr (Open Univ.)	28.45
+U1446	C	3	H	5	41	24.493	99.72	4.68	Kerr (Open Univ.)	27.98
+U1446	C	3	H	5	71	24.793	100.75	4.49	Kerr (Open Univ.)	28.01
+U1446	C	3	H	5	101	25.093	101.78	4.27	Kerr (Open Univ.)	28.65
+U1446	C	3	H	5	131	25.393	102.80	4.47	Kerr (Open Univ.)	29.04
+U1446	C	3	H	6	15	25.693	103.83	4.77	Kerr (Open Univ.)	29.44
+U1446	C	3	H	6	45	25.993	104.86	5.06	Kerr (Open Univ.)	28.68
+U1446	C	3	H	6	75	26.293	105.88	4.77	Kerr (Open Univ.)	27.77
+U1446	A	4	H	2	87	26.592	106.91	4.48	Kerr (Open Univ.)	27.48
+U1446	A	4	H	2	117	26.892	107.94	4.44	Kerr (Open Univ.)	28.00
+U1446	A	4	H	2	147	27.192	108.98	4.38	Kerr (Open Univ.)	27.92
+U1446	A	4	H	3	29	27.512	110.23	4.28	Kerr (Open Univ.)	28.32
+U1446	A	4	H	3	59	27.812	111.40	4.70	Kerr (Open Univ.)	27.18
+U1446	A	4	H	3	89	28.112	112.56	4.07	Kerr (Open Univ.)	26.85
+U1446	A	4	H	3	119	28.412	113.73	4.04	Kerr (Open Univ.)	27.02
+U1446	A	4	H	3	149	28.712	114.90	4.21	Kerr (Open Univ.)	28.02
+U1446	A	4	H	4	31	29.032	116.14	4.75	Kerr (Open Univ.)	28.23
+U1446	A	4	H	4	61	29.332	117.31	4.58	Kerr (Open Univ.)	28.30
+U1446	A	4	H	4	91	29.632	118.48	4.55	Kerr (Open Univ.)	28.56
+U1446	A	4	H	4	121	29.932	119.65	4.61	Kerr (Open Univ.)	28.90
+U1446	A	4	H	4	148	30.202	120.70	4.68	Kerr (Open Univ.)	29.08
+U1446	A	4	H	5	33	30.552	122.06	4.73	Kerr (Open Univ.)	28.74
+U1446	A	4	H	5	63	30.852	123.23	4.45	Kerr (Open Univ.)	28.89
+U1446	A	4	H	5	93	31.152	124.39	4.55	Kerr (Open Univ.)	26.75
+U1446	C	4	H	3	77	32.327	128.97	4.47	Kerr (Open Univ.)	26.34
+U1446	C	4	H	3	107	32.627	131.72	4.22	Kerr (Open Univ.)	26.29
+U1446	C	4	H	3	137	32.927	134.46	4.04	Kerr (Open Univ.)	25.99
+U1446	C	4	H	4	22	33.237	137.30	4.04	Kerr (Open Univ.)	26.05
+U1446	C	4	H	4	52	33.537	140.05	3.83	Kerr (Open Univ.)	26.08
+U1446	C	4	H	4	82	33.837	142.79	3.93	Richey (USGS)	25.10
+U1446	C	4	H	4	111.5	34.132	145.49	3.66	Richey (USGS)	25.21
+U1446	C	4	H	4	142	34.437	148.28	3.96	Richey (USGS)	25.10
+U1446	C	4	H	5	25.5	34.732	150.98	3.92	Richey (USGS)	25.63
+U1446	C	4	H	5	55.5	35.032	153.72	4.14	Richey (USGS)	25.98
+U1446	C	4	H	5	85.5	35.332	156.47	3.94	Richey (USGS)	25.88
+U1446	C	4	H	5	115.5	35.632	159.21	3.85	Richey (USGS)	26.18
+U1446	C	4	H	6	26.5	36.212	164.52	3.50	Richey (USGS)	27.55
+U1446	C	4	H	6	56.5	36.512	167.27	4.67	Richey (USGS)	27.81
+U1446	C	4	H	6	86.5	36.812	170.01	4.43	Richey (USGS)	26.06
+U1446	C	4	H	6	116.5	37.112	172.76	3.55	Richey (USGS)	25.68
+U1446	C	4	H	6	145.5	37.402	175.41	3.62	Richey (USGS)	25.88
+U1446	C	4	H	7	30.5	37.712	178.25	3.83	Richey (USGS)	26.14
+U1446	A	5	H	3	84.5	38.014	181.01	3.98	Richey (USGS)	26.87
+U1446	A	5	H	3	114.5	38.314	183.75	4.45	Richey (USGS)	26.13
+U1446	A	5	H	4	31.5	38.924	189.34	4.01	Richey (USGS)	25.57
+U1446	A	5	H	4	61.5	39.224	192.08	3.85	Richey (USGS)	25.94
+U1446	A	5	H	5	7.5	40.114	194.56	3.92	Richey (USGS)	27.30
+U1446	A	5	H	6	126.5	42.804	202.04	4.53	Richey (USGS)	28.01
+U1446	A	5	H	7	9.5	43.104	202.87	5.28	Richey (USGS)	27.08
+U1446	C	5	H	4	45.5	43.401	203.70	4.24	Richey (USGS)	26.75
+U1446	A	6	H	3	30.5	48.204	218.76	3.97	Richey (USGS)	26.42
+U1446	A	6	H	3	60.5	48.504	219.71	3.93	Richey (USGS)	26.83
+U1446	A	6	H	4	9.5	48.814	220.69	4.33	Richey (USGS)	26.95
+U1446	A	6	H	4	72.5	49.444	223.35	3.76	Richey (USGS)	27.65
+U1446	A	6	H	4	99.5	49.714	224.59	4.67	Richey (USGS)	27.22
+U1446	A	6	H	4	129.5	50.014	225.96	4.56	Richey (USGS)	29.32
+U1446	C	6	H	2	72.5	51.234	231.40	5.28	Richey (USGS)	29.64
+U1446	C	6	H	3	22.5	52.144	235.21	5.02	Richey (USGS)	29.92
+U1446	C	6	H	3	52.5	52.444	236.47	5.19	Richey (USGS)	27.51
+U1446	C	6	H	4	6.5	53.344	240.24	4.19	Richey (USGS)	26.48
+U1446	C	6	H	4	36.5	53.644	241.49	4.16	Richey (USGS)	26.02
+U1446	C	6	H	4	66.5	53.944	242.75	4.12	Richey (USGS)	25.95
+U1446	C	6	H	4	96.5	54.244	244.50	3.77	Richey (USGS)	25.91
+U1446	C	6	H	4	126.5	54.544	246.75	3.91	Richey (USGS)	25.52
+U1446	C	6	H	5	13.5	54.844	248.99	3.55	Richey (USGS)	25.04
+U1446	C	6	H	5	43.5	55.144	251.23	3.32	Richey (USGS)	24.93
+U1446	C	6	H	5	73.5	55.444	253.48	3.26	Richey (USGS)	25.18
+U1446	C	6	H	5	103.5	55.744	255.72	3.60	Richey (USGS)	25.32
+U1446	C	6	H	5	133.5	56.044	257.97	3.65	Richey (USGS)	25.28
+U1446	C	6	H	6	20.5	56.354	260.29	3.68	Richey (USGS)	25.89
+U1446	C	6	H	6	50.5	56.654	262.53	4.08	Richey (USGS)	25.69
+U1446	C	6	H	6	80.5	56.954	264.78	3.63	Richey (USGS)	26.27
+U1446	C	6	H	6	110.5	57.254	267.02	3.99	Richey (USGS)	25.97
+U1446	A	7	H	1	60.5	57.548	269.22	3.73	Richey (USGS)	26.18
+U1446	A	7	H	2	94.5	59.348	282.68	3.54	Richey (USGS)	26.81
+U1446	A	7	H	2	124.5	59.648	284.93	4.26	Richey (USGS)	25.92
+U1446	A	7	H	3	22.5	59.938	286.93	3.57	Richey (USGS)	26.12
+U1446	A	7	H	3	52.5	60.238	289.00	3.75	Richey (USGS)	26.53
+U1446	A	7	H	4	66.5	61.138	295.21	3.73	Richey (USGS)	26.65
+U1446	A	7	H	4	96.5	61.438	297.28	4.03	Richey (USGS)	27.31
+U1446	C	7	H	3	83.5	63.532	311.73	4.01	Richey (USGS)	28.02
+U1446	C	7	H	3	113.5	63.832	313.80	4.69	Richey (USGS)	27.89
+U1446	C	7	H	4	92.5	65.042	322.15	4.56	Richey (USGS)	27.86
+U1446	C	7	H	4	122.5	65.342	324.22	4.30	Richey (USGS)	27.49
+U1446	C	7	H	5	10.5	65.632	326.22	4.04	Richey (USGS)	26.28
+U1446	C	7	H	5	130.5	66.832	334.50	4.15	Richey (USGS)	26.25
+U1446	C	7	H	6	18.5	67.132	336.57	4.48	Richey (USGS)	25.88
+U1446	C	7	H	6	48.5	67.432	338.70	3.97	Richey (USGS)	25.66
+U1446	C	7	H	6	78.5	67.732	340.88	3.77	Richey (USGS)	26.78
+U1446	C	7	H	6	108.5	68.032	343.06	4.38	Richey (USGS)	25.36
+U1446	C	7	H	6	138.5	68.332	345.24	3.55	Richey (USGS)	24.54
+U1446	A	8	H	3	24.5	68.624	347.36	3.35	Richey (USGS)	24.68
+U1446	A	8	H	3	54.5	68.924	349.54	3.64	Richey (USGS)	24.58
+U1446	A	8	H	3	84.5	69.224	351.72	3.26	Richey (USGS)	24.53
+U1446	A	8	H	4	35.5	69.834	356.15	3.26	Richey (USGS)	24.63
+U1446	A	8	H	4	69.5	70.174	358.63	3.41	Richey (USGS)	24.92
+U1446	A	8	H	4	95.5	70.434	360.51	3.51	Richey (USGS)	25.04
+U1446	A	8	H	4	124.5	70.724	362.62	3.68	Richey (USGS)	25.73
+U1446	A	8	H	5	27.5	71.034	364.87	3.65	Richey (USGS)	25.20
+U1446	A	8	H	5	57.5	71.334	367.06	3.24	Richey (USGS)	25.57
+U1446	A	8	H	5	87.5	71.634	369.24	3.36	Richey (USGS)	26.26
+U1446	A	8	H	5	117.5	71.934	371.42	3.56	Richey (USGS)	25.21
+U1446	A	8	H	5	145.5	72.214	373.45	3.42	Richey (USGS)	27.87
+U1446	A	8	H	6	29.5	72.534	375.78	4.52	Richey (USGS)	25.84
+U1446	A	8	H	6	57.5	72.814	377.81	3.60	Richey (USGS)	26.46
+U1446	A	8	H	6	119.5	73.434	382.31	3.91	Richey (USGS)	27.40
+U1446	A	8	H	7	33.5	74.034	385.81	4.13	Richey (USGS)	25.74
+U1446	A	9	H	3	47.5	80.976	426.36	3.89	Richey (USGS)	25.78
+U1446	A	9	H	4	6.5	81.306	428.34	3.96	Richey (USGS)	25.33
+U1446	A	9	H	4	34.5	81.586	431.43	3.59	Richey (USGS)	25.61
+U1446	A	9	H	4	66.5	81.906	434.97	3.75	Richey (USGS)	25.41
+U1446	A	9	H	4	92.5	82.166	437.49	3.55	Richey (USGS)	26.41
+U1446	A	9	H	5	30.5	82.496	439.93	4.15	Richey (USGS)	25.83
+U1446	A	9	H	5	59.5	82.786	442.08	3.50	Richey (USGS)	25.43
+U1446	A	9	H	6	14.5	83.106	444.44	3.61	Richey (USGS)	25.78
+U1446	A	9	H	6	44.5	83.406	446.66	4.06	Richey (USGS)	25.83
+U1446	C	9	H	1	143.5	83.78	449.43	3.79	Richey (USGS)	25.17
+U1446	C	9	H	2	32.5	84.12	451.94	3.31	Richey (USGS)	24.62
+U1446	C	9	H	2	62.5	84.42	454.16	3.28	Richey (USGS)	25.08
+U1446	C	9	H	3	13.5	85.33	460.89	3.66	Richey (USGS)	27.88
+U1446	C	9	H	3	103.5	86.23	467.55	4.68	Richey (USGS)	27.52
+U1446	C	9	H	5	53.5	88.31	482.94	4.02	Richey (USGS)	26.97
+U1446	A	10	H	3	92.5	90.6	497.32	4.03	Richey (USGS)	29.15
+U1446	A	10	H	5	73.5	92.71	508.47	5.32	Richey (USGS)	28.16
+U1446	A	10	H	6	99.5	94.23	518.09	4.67	Richey (USGS)	28.00
+U1446	A	10	H	6	129.5	94.53	520.40	4.49	Richey (USGS)	28.12
+U1446	C	10	H	2	124.5	95.334	526.58	4.35	Richey (USGS)	26.40
+U1446	C	10	H	3	51.5	95.944	531.27	3.74	Richey (USGS)	26.22
+U1446	C	10	H	3	81.5	96.244	533.58	4.24	Richey (USGS)	26.09
+U1446	C	10	H	3	111.5	96.544	536.00	3.85	Richey (USGS)	25.88
+U1446	C	10	H	3	141.5	96.844	538.67	3.72	Richey (USGS)	26.66
+U1446	C	10	H	4	28.5	97.154	541.43	4.00	Richey (USGS)	27.23
+U1446	C	10	H	4	58.5	97.454	544.10	4.35	Richey (USGS)	27.09
+U1446	C	10	H	4	118.5	98.054	549.45	4.00	Richey (USGS)	28.38
+U1446	C	10	H	5	8.5	98.374	552.30	4.94	Richey (USGS)	27.20
+U1446	C	10	H	5	38.5	98.674	554.49	4.00	Richey (USGS)	28.69
+U1446	C	10	H	5	68.5	98.974	556.32	4.91	Richey (USGS)	27.34
+U1446	A	11	H	2	15.5	99.909	562.03	4.57	Richey (USGS)	26.87
+U1446	A	11	H	2	45.5	100.209	563.86	3.96	Richey (USGS)	28.89
+U1446	A	11	H	3	18.5	100.509	565.69	5.39	Richey (USGS)	27.19
+U1446	A	11	H	3	48.5	100.809	567.52	4.07	Richey (USGS)	27.02
+U1446	A	11	H	4	87.5	102.599	578.45	4.57	Richey (USGS)	26.14
+U1446	A	11	H	4	119.5	102.919	580.40	3.81	Richey (USGS)	26.66
+U1446	A	11	H	5	5.5	103.219	582.29	3.92	Richey (USGS)	27.91
+U1446	A	11	H	5	35.5	103.519	584.19	4.72	Richey (USGS)	27.71
+U1446	A	11	H	5	65.5	103.819	586.08	4.31	Richey (USGS)	27.51
+U1446	A	11	H	5	95.5	104.119	587.98	4.33	Richey (USGS)	27.62
+U1446	A	11	H	5	125.5	104.419	589.87	4.49	Richey (USGS)	28.27
+U1446	C	11	H	4	57.5	106.754	604.62	4.94	Richey (USGS)	28.42
+U1446	C	11	H	6	15.5	107.964	612.26	4.32	Richey (USGS)	30.30
+U1446	C	11	H	6	75.5	108.564	616.05	5.34	Richey (USGS)	26.83
+U1446	C	11	H	6	135.5	109.164	619.84	3.98	Richey (USGS)	26.11
+U1446	C	11	H	7	55.5	109.784	625.19	3.83	Richey (USGS)	26.04
+U1446	C	11	H	7	63.5	109.864	625.92	3.92	Richey (USGS)	25.88
+U1446	C	11	H	7	115.5	110.384	631.33	3.77	Richey (USGS)	25.91
+U1446	A	12	H	1	54.5	110.763	635.28	3.88	Richey (USGS)	26.06
+U1446	A	12	H	2	26.5	111.083	638.61	3.70	Richey (USGS)	25.18
+U1446	A	12	H	2	56.5	111.383	641.74	3.27	Richey (USGS)	25.56
+U1446	A	12	H	2	86.5	111.683	644.86	3.78	Richey (USGS)	25.75
+U1446	A	12	H	2	116.5	111.983	647.99	3.86	Richey (USGS)	25.70
+U1446	A	12	H	3	6.5	112.303	651.32	3.91	Richey (USGS)	26.60
+U1446	A	12	H	3	37.5	112.613	654.55	4.27	Richey (USGS)	26.79
+U1446	A	12	H	3	77.5	113.013	658.71	4.43	Richey (USGS)	26.96
+U1446	A	12	H	3	115.5	113.393	662.69	4.03	Richey (USGS)	25.88
+U1446	A	12	H	4	20.5	113.813	667.26	3.53	Richey (USGS)	25.60
+U1446	A	12	H	4	50.5	114.113	670.53	3.62	Richey (USGS)	26.48
+U1446	A	12	H	4	80.5	114.413	673.80	4.08	Richey (USGS)	27.10
+U1446	A	12	H	4	110.5	114.713	677.07	4.25	Richey (USGS)	27.24

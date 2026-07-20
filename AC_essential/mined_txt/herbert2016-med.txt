@@ -1,0 +1,1962 @@
+# Late Miocene Global Ocean Alkenone and SST Reconstruction Data
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/25390
+#      Description: NOAA Landing Page
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-med.txt
+#      Description: NOAA location of the template
+#
+# Archive: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: biomarkers
+#---------------------------------------
+# Contribution_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# Title
+#    Study_Name: Late Miocene Global Ocean Alkenone and SST Reconstruction Data
+#---------------------------------------
+# Investigators
+#      Investigators: Herbert, T.D.; Lawrence, K.T.; Tzanova, A.; Peterson, L.C.; Caballero-Gill, R.; Kelly, C.S.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Note: age models for Sites 907 and 982 refined following publication of Herbert et al., 2016 NGS
+#         Provided Keywords: Global ocean cooling, mid-Miocene to Present
+#---------------------------------------
+# Publication
+# Authors: Herbert, T.D., K.T. Lawrence, A. Tzanova, L.C. Peterson, R. Caballero-Gill, and C.S. Kelly
+# Published_Date_or_Year: 2016
+# Published_Title: Late Miocene Global Cooling and the Rise of Modern Ecosystems
+# Journal_Name: Nature Geoscience
+# Volume: 9
+# Edition: 
+# Issue: 
+# Pages: 843-847
+# Report_Number: 
+# DOI: 10.1038/ngeo2813
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: During the late Miocene epoch, about seven million years ago, large areas of the continents experienced drying, enhanced seasonality, and a restructuring of terrestrial plant and animal communities. These changes are seen throughout the subtropics, but have typically been attributed to regional tectonic forcing. Here we present a set of globally distributed sea surface temperature records spanning the past 12 million years based on the alkenone unsaturation method. We find that a sustained late Miocene cooling occurred synchronously in both hemispheres, and culminated with ocean temperatures dipping to near-modern values between about 7 and 5.4 million years ago. The period of maximum cooling coincides with evidence for transient glaciations in the Northern Hemisphere and with a steepening of the pole-to-equator temperature gradient, as well. We thus infer that late Miocene aridity and terrestrial ecosystem changes occurred in a global context of increasing meridional temperature gradients. We conclude that a global forcing mechanism, such as the previously hypothesized decline in atmospheric CO2 levels between eight and six million years ago, is required to explain the late Miocene changes in temperature, climate and ecosystems. 
+#---------------------------------------
+# Publication
+# Authors: Tzanova, A., T.D. Herbert, and L.C. Peterson
+# Published_Date_or_Year: 2015
+# Published_Title: Cooling Mediterranean Sea Surface Temperatures during the Late Miocene provide a climate context for evolutionary transitions in Africa and Eurasian flora and fauna
+# Journal_Name: Earth and Planetary Science Letters
+# Volume: 419
+# Edition: 
+# Issue: 
+# Pages: 71-80
+# Report_Number: 
+# DOI: 10.1016/j.epsl.2015.03.016
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: In the Late Miocene, grasslands proliferated, succulent plants diversified in the mid-latitudes, and the desert-like conditions appeared in the Sahara. Despite this major environmental change on land, the coeval deep-sea oxygen isotope record does not provide evidence for significant high latitude cooling or continental ice growth, making it difficult to relate widespread terrestrial environmental change to global climatic changes. A U37K‧ -derived sea surface temperature (SST) reconstruction spanning 13 to 6 Ma from uplifted hemipelagic sediments in Northern Italy provides the first continuous mid-latitude temperature record with which to compare the evolution of aridity and biotic events at similar latitudes in Northern Africa and Pakistan. Between 13 and 8.8 Ma, Mediterranean SST lay near the upper limit of the alkenone temperature proxy (∼28 °C), exceeding modern SST at the site by as much as 10 °C. Throughout the record, sapropel layers correspond to local SST maxima, suggesting that Late Miocene hydrological conditions in the Mediterranean responded to insolation forcing via mechanisms similar to those documented for the Plio-Pleistocene. Mediterranean SST cooled rapidly beginning at ∼8 Ma, with an episode of intense cooling to ∼19 °C between 7.2 Ma and 6.6 Ma, followed by a rebound to ∼25 °C preceding the Messinian Salinity Crisis at 5.9 Ma. These observations establish, for the first time, a direct relationship between increasing aridity in the Northern hemisphere mid-latitudes and significant cooling. Evidently, this cooling was not accompanied by significant growth in continental ice volume. The extreme warmth and subsequent cooling of the Mediterranean Sea are not well-represented in current Late Miocene climate models, which our results suggest underestimate regional warmth prior to the Late Miocene cooling. Evidence of secular cooling during the Late Miocene gives new support to the much-debated link between a possible decline in atmospheric CO2 levels and Late Miocene changes in vegetation on land.
+#---------------------------------------
+# Publication
+# Authors: Cleaveland, L.C. and T.D. Herbert
+# Published_Date_or_Year: 2009
+# Published_Title: Preservation of the alkenone paleotemperature proxy in uplifted marine sequences: a test from the Vrica outcrop, Crotone, Italy
+# Journal_Name: Geology
+# Volume: 37
+# Edition: 
+# Issue: 
+# Pages: 179-182
+# Report_Number: 
+# DOI: 10.1130/G25148A.1
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: The alkenone organic paleotemperature proxy has been used with great success to generate sea-surface temperature (SST) records from diverse areas of the world ocean. To date, however, this methodology has been applied almost exclusively to unconsolidated marine sedi- ments; the fidelity of alkenone preservation in lithified, uplifted marine sequences exposed on land has not been explicitly investigated. Such sedimentary sequences have been buried at depths of hundreds of meters to kilometers before uplift, and in addition have been exposed to oxic pore fluids and subaerial weathering upon ascent to the surface, any of which may cause alteration of biomarker compounds. In this study, we compare alkenone SST estimates from the Vrica land section in Crotone, Italy, with alkenone SST estimates derived from coeval marine sediments retrieved at Ocean Drilling Program Site 964, which is ~300 km offshore of the Vrica location. We find that SST records from the land and marine sections are well correlated, showing similar mean values, cyclicity, and amplitudes. Although results from dif- ferent sedimentary sequences might depend on the lithologies, burial depths, and weathering histories of individual outcrops, this study suggests that it will be possible to reconstruct quan- titative SST histories from marine strata exposed on land. 
+#---------------------------------------
+# Publication
+# Authors: Herbert, T.D., G. Ng, and L.C. Peterson
+# Published_Date_or_Year: 2014
+# Published_Title: Evolution of Mediterranean sea surface temperatures 3.5-1.5 ma: regional and hemispheric influences
+# Journal_Name: Earth and Planetary Science Letters
+# Volume: 409
+# Edition: 
+# Issue: 
+# Pages: 307-318
+# Report_Number: 
+# DOI: 10.1016/j.epsl.2014.10.006
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: We present a composite time series of Mediterranean sea surface temperature (SST) and marine biomarker accumulation for the time span from 3.5 to 1.525 Ma, based on alkenone unsaturation and concentration from hemipelagic sediments outcropping in southern Italy and Sicily. Paleotemperature data define three regimes: a late Pliocene climate on average 4- 5 °C warmer than modern, a latest Pliocene to early Pleistocene onset of 41 kyr cycles, and a major increase in the range of glacial-interglacial temperature change at ∼ 1.84 Ma that shortly precedes the former definition of the Plio-Pleistocene boundary in the Crotone sequence. Pliocene sea surface temperature (SST) cycles are dominated by precession, with a ∼ 1.5 °C range. Obliquity-related rhythms influence SST significantly shortly after ∼ 2.8 Ma (equivalent to MIS G10) and dominate after ∼ 2.51 Ma (equivalent to MIS 100). However, little, if any, long-term cooling occurred on an interglacial basis until after ∼ 1.85 Ma. Alkenone concentrations provide a good proxy for the accumulation of marine organic matter, and primarily reflect regional hydrology. Organic sedimentation, including the formation of layers highly enriched in organic matter ("sapropels") was paced throughout by precessional variations despite changes in both average regional temperature, and the shift in temperature variance to the 41 kyr obliquity cycle in the latest Pliocene and early Pleistocene. Our reconstruction therefore highlights the intermingling of both hemispheric-wide changes in temperature and regional variations in the hydrological cycle that combined to force major evolutionary changes in the fauna and flora of northern Africa and the southern Mediterranean in late Pliocene to mid-Pleistocene time.
+#---------------------------------------
+# Publication
+# Authors: Emeis, K.-C., H. Schulz, U. Struck, M. Rossignol-Strick, H. Erlenkeuser, M.W. Howell, D. Kroon, A. Mackensen, S. Ishizuka, T. Oba, T. Sakamoto, and I. Koizumi 
+# Published_Date_or_Year: 2003
+# Published_Title: Eastern Mediterranean surface water temperatures and d18O composition during deposition of sapropels in the late Quaternary. 
+# Journal_Name: Paleoceanography
+# Volume: 18
+# Edition: 
+# Issue: 
+# Pages: 
+# Report_Number: 1005
+# DOI: 10.1029/2000PA000617
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Water column stratification increased at climatic transitions from cold to warm periods during the late Quaternary and led to anoxic conditions and sapropel formation in the deep eastern Mediterranean basins. High‐resolution data sets on sea‐surface temperatures (SST) (estimated from U37k′ indices) and δ18O of planktonic foraminifer calcite (δ18Ofc) across late Pleistocene sapropel intervals show that δ18Ofc decreased (between 1 and 4.6‰) and SST increased (between 0.7° and 6.7°C). Maximal δ18Oseawater depletion of eastern Mediterranean surface waters at the transition is between 0.5 and 3.0‰, and in all but one case exceeded the depletion seen in a western Mediterranean core. The depletion in δ18Oseawater is most pronounced at sapropel bases, in agreement with an initial sudden input of monsoon‐derived freshwater. Most sapropels coincide with warming trends of SST. The density decrease by initial freshwater input and continued warming of the sea surface pooled fresh water in the surface layer and prohibited deep convection down to ageing deep water emplaced during cold and arid glacial conditions. An exception to this pattern is “glacial” sapropel S6; its largest δ18Oseawater depletion (3‰) is almost matched by the depletion in the western Mediterranean Sea, and it is accompanied by surface water cooling following an initially rapid warming phase. A second period of significant isotopic depletion is in isotope stage 6 at the 150 kyr insolation maximum. While not expressed as a sapropel due to cold SST, it is in accord with a strengthened monsoon in the southern catchment.
+#---------------------------------------
+# Publication
+# Authors: Emeis, K.-C., Sakamoto, T., Wehausen, R., and Brumsack, H.-J. 
+# Published_Date_or_Year: 2000
+# Published_Title: The sapropel record of the eastern Mediterranean Sea - results of Ocean Drilling Program Leg 160
+# Journal_Name: Palaeogeography, Palaeoclimatology, Palaeoecology
+# Volume: 158
+# Edition: 
+# Issue: 
+# Pages: 371-395
+# Report_Number: 
+# DOI: 10.1016/S0031-0182(00)00059-6
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Research on sediments recovered during Ocean Drilling Leg 160 has concentrated on two issues: the first concerned the stratigraphy of sapropel formation, the second was oriented to clarify specific processes that explain sapropel origin. Progress has been made in the construction of stratigraphic composites out of sedimentary sequences from individual holes at each of the palaeoceanographic sites. On the composites, initial work has resulted in the establishment of high-resolution and intermediate-resolution stratigraphies for three sites (963, 964, 967); correlation of sedimentary cycles to astronomical (insolation) cycles extends the stratigraphies to Sites 969 and 966. The sapropel occurrences in the marine and land sequences over the entire Eastern Mediterranean are correlated; with the resolution that can be obtained from isotope studies, groups of sapropels occurred simultaneously over the entire basin. In detail, however, the temporal and facies patterns of sapropel sequences differ between individual sites and depositional basins. The differences may be related to effects of water depth, diagenesis, and post-depositional tectonic attenuation of sequences. Studies on the geochemistry and facies of sapropels agree that anoxic conditions favoured preservation of organic matter in sapropels, caused the enrichment of trace metals associated with sapropels, and helped to preserve primary sedimentary structures. Besides, all evidence is consistent with elevated fluxes of organic matter and associated elements during sapropel events.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Science Foundation Ocean Sciences
+#    Grant:  1459280, 1545859
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Evolving Earth Foundation
+#    Grant: 
+#---------------------------------------
+# Site_Information
+# Site_Name: Central/Southern Italy
+# Location: Mediterranean Sea
+# Country: 
+# Northernmost_Latitude: 43.6158
+# Southernmost_Latitude: 37.2882
+# Easternmost_Longitude: 13.589
+# Westernmost_Longitude: 13.5272
+# Elevation: 
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: Mediterranean-2016alkenones Herbert
+#   First_Year: 11122500
+#   Last_Year: 3150
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: chronology follows Tzanova et al., 2015, Herbert et al., 2014, and Emeis et al. (2000, 2003)
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## sitename	sample identification,,,,,paleoceanography,,,C,Site
+## Hole	notes,,,,,paleoceanography,,,C,hole name
+## core	notes,,,,,paleoceanography,,,C,core
+## section	notes,,,,,paleoceanography,,,C,section
+## cm_top	depth at sample end,,,centimeter,,paleoceanography,,,N,
+## cm_base	depth at sample start,,,centimeter,,paleoceanography,,,N,
+## depth_mbsf	depth,,,meter,,paleoceanography,,,N,shipboard meters below sea floor
+## depth_mcd	depth,,,meter,,paleoceanography,,,N,composite depth 
+## age_kaBP	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## age_uncert_ka	age,,90% confidence interval margin of error,calendar kiloyear before present,,paleoceanography,,,N,
+## Uk'37	alkenone unsaturation index,sediment,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,GC-FID
+## SST_P	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following F.G. Prahl et al., 1988; estimated
+## SST_M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following P.J. Muller et al. 1998; estimated
+## SST_anom-M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; Muller calibration
+## SST_anom_back	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; backtraced for paleolatitude/longitude
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NaN
+sitename	Hole	core	section	cm_top	cm_base	depth_mbsf	depth_mcd	age_kaBP	age_uncert_ka	Uk'37	SST_P	SST_M	SST_anom-M	SST_anom_back	
+967	D	NaN	NaN	NaN	NaN	0.04	NaN	0.3	1.00	0.772	21.56	22.06	2.86	2.86	
+967	D	NaN	NaN	NaN	NaN	0.09	NaN	0.7	1.00	0.846	23.74	24.30	5.10	5.10	
+967	D	NaN	NaN	NaN	NaN	0.24	NaN	1.8	1.00	0.735	20.47	20.94	1.74	1.74	
+967	D	NaN	NaN	NaN	NaN	0.29	NaN	2.2	1.00	0.693	19.24	19.67	0.47	0.47	
+967	D	NaN	NaN	NaN	NaN	0.34	NaN	2.6	1.00	0.804	22.50	23.03	3.83	3.83	
+967	D	NaN	NaN	NaN	NaN	0.39	NaN	3.0	1.00	0.765	21.35	21.85	2.65	2.65	
+967	D	NaN	NaN	NaN	NaN	0.44	NaN	3.4	1.00	0.676	18.74	19.15	-0.05	-0.05	
+967	D	NaN	NaN	NaN	NaN	0.49	NaN	3.8	1.00	0.684	18.97	19.39	0.19	0.19	
+967	D	NaN	NaN	NaN	NaN	0.59	NaN	4.5	1.00	0.628	17.32	17.70	-1.50	-1.50	
+967	D	NaN	NaN	NaN	NaN	0.64	NaN	4.9	1.00	0.474	12.79	13.03	-6.17	-6.17	
+967	D	NaN	NaN	NaN	NaN	0.69	NaN	5.3	1.00	0.673	18.65	19.06	-0.14	-0.14	
+967	D	NaN	NaN	NaN	NaN	0.74	NaN	5.7	1.00	0.517	14.06	14.33	-4.87	-4.87	
+967	D	NaN	NaN	NaN	NaN	0.79	NaN	6.1	1.00	0.671	18.59	19.00	-0.20	-0.20	
+967	D	NaN	NaN	NaN	NaN	0.84	NaN	6.5	1.00	0.681	18.88	19.30	0.10	0.10	
+967	D	NaN	NaN	NaN	NaN	0.89	NaN	6.8	1.00	0.705	19.59	20.03	0.83	0.83	
+967	D	NaN	NaN	NaN	NaN	0.94	NaN	7.2	1.00	0.708	19.68	20.12	0.92	0.92	
+967	D	NaN	NaN	NaN	NaN	0.99	NaN	7.6	1.00	0.759	21.18	21.67	2.47	2.47	
+967	D	NaN	NaN	NaN	NaN	1	NaN	7.7	1.00	0.722	20.08	20.54	1.34	1.34	
+967	D	NaN	NaN	NaN	NaN	1.01	NaN	7.8	1.00	0.765	21.35	21.85	2.65	2.65	
+967	D	NaN	NaN	NaN	NaN	1.02	NaN	7.9	1.00	0.699	19.40	19.84	0.64	0.64	
+967	D	NaN	NaN	NaN	NaN	1.03	NaN	7.9	1.00	0.595	16.35	16.70	-2.50	-2.51	
+967	D	NaN	NaN	NaN	NaN	1.04	NaN	8.0	1.00	0.468	12.62	12.85	-6.35	-6.35	
+967	D	NaN	NaN	NaN	NaN	1.04	NaN	8.0	1.00	0.691	19.18	19.61	0.41	0.41	
+967	D	NaN	NaN	NaN	NaN	1.05	NaN	8.1	1.00	0.616	16.96	17.32	-1.88	-1.88	
+967	D	NaN	NaN	NaN	NaN	1.06	NaN	8.2	1.00	0.556	15.21	15.52	-3.68	-3.68	
+967	D	NaN	NaN	NaN	NaN	1.07	NaN	8.3	1.00	0.653	18.07	18.46	-0.74	-0.74	
+967	D	NaN	NaN	NaN	NaN	1.08	NaN	8.4	1.00	0.604	16.63	16.98	-2.22	-2.22	
+967	D	NaN	NaN	NaN	NaN	1.09	NaN	8.5	1.00	0.573	15.69	16.02	-3.18	-3.18	
+967	D	NaN	NaN	NaN	NaN	1.09	NaN	8.5	1.00	0.674	18.68	19.09	-0.11	-0.11	
+967	D	NaN	NaN	NaN	NaN	1.1	NaN	8.5	1.00	0.644	17.80	18.19	-1.01	-1.01	
+967	D	NaN	NaN	NaN	NaN	1.11	NaN	8.6	1.00	0.650	17.98	18.38	-0.82	-0.82	
+967	D	NaN	NaN	NaN	NaN	1.12	NaN	8.7	1.00	0.650	17.96	18.35	-0.85	-0.85	
+967	D	NaN	NaN	NaN	NaN	1.13	NaN	8.8	1.00	0.647	17.87	18.26	-0.94	-0.94	
+967	D	NaN	NaN	NaN	NaN	1.14	NaN	8.9	1.00	0.681	18.88	19.30	0.10	0.10	
+967	D	NaN	NaN	NaN	NaN	1.14	NaN	8.9	1.00	0.708	19.68	20.12	0.92	0.92	
+967	D	NaN	NaN	NaN	NaN	1.15	NaN	9.0	1.00	0.677	18.78	19.19	-0.01	-0.01	
+967	D	NaN	NaN	NaN	NaN	1.16	NaN	9.0	1.00	0.681	18.88	19.30	0.10	0.10	
+967	D	NaN	NaN	NaN	NaN	1.17	NaN	9.1	1.00	0.703	19.53	19.97	0.77	0.77	
+967	D	NaN	NaN	NaN	NaN	1.18	NaN	9.2	1.00	0.657	18.19	18.59	-0.61	-0.61	
+967	D	NaN	NaN	NaN	NaN	1.19	NaN	9.3	1.00	0.660	18.26	18.67	-0.53	-0.53	
+967	D	NaN	NaN	NaN	NaN	1.19	NaN	9.3	1.00	0.670	18.56	18.97	-0.23	-0.23	
+967	D	NaN	NaN	NaN	NaN	1.2	NaN	9.4	1.00	0.670	18.55	18.96	-0.24	-0.24	
+967	D	NaN	NaN	NaN	NaN	1.21	NaN	9.5	1.00	0.668	18.51	18.92	-0.28	-0.29	
+967	D	NaN	NaN	NaN	NaN	1.22	NaN	9.6	1.00	0.663	18.35	18.75	-0.45	-0.45	
+967	D	NaN	NaN	NaN	NaN	1.23	NaN	9.6	1.00	0.664	18.39	18.80	-0.40	-0.41	
+967	D	NaN	NaN	NaN	NaN	1.24	NaN	9.7	1.00	0.687	19.06	19.48	0.28	0.28	
+967	D	NaN	NaN	NaN	NaN	1.25	NaN	9.8	1.00	0.660	18.26	18.66	-0.54	-0.54	
+967	D	NaN	NaN	NaN	NaN	1.27	NaN	10.0	1.00	0.674	18.67	19.08	-0.12	-0.12	
+967	D	NaN	NaN	NaN	NaN	1.29	NaN	10.1	1.00	0.639	17.65	18.03	-1.17	-1.17	
+967	D	NaN	NaN	NaN	NaN	1.29	NaN	10.1	1.00	0.657	18.18	18.58	-0.62	-0.62	
+967	D	NaN	NaN	NaN	NaN	1.31	NaN	10.3	1.00	0.599	16.47	16.82	-2.38	-2.39	
+967	D	NaN	NaN	NaN	NaN	1.33	NaN	10.5	1.00	0.616	16.98	17.34	-1.86	-1.86	
+967	D	NaN	NaN	NaN	NaN	1.34	NaN	10.6	1.00	0.542	14.79	15.09	-4.11	-4.11	
+967	D	NaN	NaN	NaN	NaN	1.35	NaN	10.7	1.00	0.487	13.17	13.42	-5.78	-5.78	
+967	D	NaN	NaN	NaN	NaN	1.39	NaN	12.2	1.00	0.517	14.06	14.33	-4.87	-4.87	
+967	D	NaN	NaN	NaN	NaN	1.64	NaN	15.8	1.00	0.650	17.97	18.36	-0.84	-0.84	
+967	D	NaN	NaN	NaN	NaN	1.69	NaN	16.5	1.00	0.464	12.50	12.73	-6.47	-6.47	
+967	D	NaN	NaN	NaN	NaN	1.74	NaN	17.2	1.00	0.418	11.15	11.33	-7.87	-7.87	
+967	D	NaN	NaN	NaN	NaN	2.39	NaN	26.5	5.00	0.396	10.50	10.67	-8.53	-8.54	
+967	D	NaN	NaN	NaN	NaN	2.59	NaN	29.4	5.00	0.394	10.44	10.61	-8.59	-8.60	
+967	D	NaN	NaN	NaN	NaN	4.16	NaN	58.0	5.00	0.587	16.11	16.45	-2.75	-2.76	
+967	D	NaN	NaN	NaN	NaN	4.18	NaN	58.4	5.00	0.643	17.75	18.14	-1.06	-1.07	
+967	D	NaN	NaN	NaN	NaN	4.2	NaN	58.8	5.00	0.610	16.81	17.16	-2.04	-2.04	
+967	D	NaN	NaN	NaN	NaN	4.22	NaN	59.2	5.00	0.621	17.11	17.48	-1.72	-1.73	
+967	D	NaN	NaN	NaN	NaN	4.24	NaN	59.5	5.00	0.608	16.73	17.08	-2.12	-2.13	
+967	D	NaN	NaN	NaN	NaN	4.26	NaN	59.9	5.00	0.615	16.95	17.32	-1.88	-1.89	
+967	D	NaN	NaN	NaN	NaN	4.28	NaN	60.3	5.00	0.657	18.17	18.57	-0.63	-0.63	
+967	D	NaN	NaN	NaN	NaN	4.3	NaN	60.7	5.00	0.680	18.84	19.26	0.06	0.05	
+967	D	NaN	NaN	NaN	NaN	4.32	NaN	61.1	5.00	0.641	17.71	18.09	-1.11	-1.11	
+967	D	NaN	NaN	NaN	NaN	4.34	NaN	61.4	5.00	0.664	18.38	18.78	-0.42	-0.42	
+967	D	NaN	NaN	NaN	NaN	4.36	NaN	61.8	5.00	0.579	15.89	16.22	-2.98	-2.99	
+967	D	NaN	NaN	NaN	NaN	4.38	NaN	62.1	5.00	0.623	17.19	17.56	-1.64	-1.65	
+967	D	NaN	NaN	NaN	NaN	4.4	NaN	62.5	5.00	0.643	17.77	18.15	-1.05	-1.05	
+967	D	NaN	NaN	NaN	NaN	4.42	NaN	62.8	5.00	0.579	15.90	16.23	-2.97	-2.98	
+967	D	NaN	NaN	NaN	NaN	4.43	NaN	63.0	5.00	0.628	17.32	17.69	-1.51	-1.52	
+967	D	NaN	NaN	NaN	NaN	4.45	NaN	63.4	5.00	0.644	17.80	18.19	-1.01	-1.02	
+967	D	NaN	NaN	NaN	NaN	5.24	NaN	77.5	5.00	0.735	20.48	20.95	1.75	1.74	
+967	D	NaN	NaN	NaN	NaN	5.26	NaN	77.8	5.00	0.744	20.72	21.20	2.00	1.99	
+967	D	NaN	NaN	NaN	NaN	5.28	NaN	78.2	5.00	0.707	19.63	20.08	0.88	0.87	
+967	D	NaN	NaN	NaN	NaN	5.3	NaN	78.5	5.00	0.717	19.95	20.40	1.20	1.19	
+967	D	NaN	NaN	NaN	NaN	5.32	NaN	78.9	5.00	0.691	19.18	19.61	0.41	0.40	
+967	D	NaN	NaN	NaN	NaN	5.34	NaN	79.2	5.00	0.704	19.55	19.99	0.79	0.78	
+967	D	NaN	NaN	NaN	NaN	5.36	NaN	79.6	5.00	0.696	19.33	19.77	0.57	0.56	
+967	D	NaN	NaN	NaN	NaN	5.38	NaN	80.0	5.00	0.709	19.70	20.14	0.94	0.93	
+967	D	NaN	NaN	NaN	NaN	5.4	NaN	80.3	5.00	0.758	21.14	21.63	2.43	2.42	
+967	D	NaN	NaN	NaN	NaN	5.42	NaN	80.7	5.00	0.627	17.29	17.66	-1.54	-1.55	
+967	D	NaN	NaN	NaN	NaN	5.44	NaN	81.0	5.00	0.645	17.83	18.22	-0.98	-0.99	
+967	D	NaN	NaN	NaN	NaN	5.46	NaN	81.4	5.00	0.634	17.51	17.89	-1.31	-1.32	
+967	D	NaN	NaN	NaN	NaN	5.48	NaN	81.7	5.00	0.600	16.50	16.85	-2.35	-2.36	
+967	D	NaN	NaN	NaN	NaN	5.5	NaN	82.1	5.00	0.631	17.41	17.78	-1.42	-1.43	
+967	D	NaN	NaN	NaN	NaN	5.52	NaN	82.5	5.00	0.614	16.92	17.28	-1.92	-1.93	
+967	D	NaN	NaN	NaN	NaN	5.54	NaN	82.8	5.00	0.721	20.05	20.51	1.31	1.30	
+967	D	NaN	NaN	NaN	NaN	5.56	NaN	83.2	5.00	0.561	15.34	15.66	-3.54	-3.55	
+967	D	NaN	NaN	NaN	NaN	5.58	NaN	83.5	5.00	0.648	17.90	18.29	-0.91	-0.92	
+967	D	NaN	NaN	NaN	NaN	5.6	NaN	83.9	5.00	0.698	19.38	19.82	0.62	0.61	
+967	D	NaN	NaN	NaN	NaN	5.62	NaN	84.2	5.00	0.658	18.22	18.62	-0.58	-0.59	
+967	D	NaN	NaN	NaN	NaN	5.64	NaN	84.6	5.00	0.634	17.49	17.87	-1.33	-1.34	
+967	D	NaN	NaN	NaN	NaN	5.66	NaN	84.9	5.00	0.718	19.96	20.41	1.21	1.20	
+967	D	NaN	NaN	NaN	NaN	5.68	NaN	85.3	5.00	0.716	19.90	20.35	1.15	1.14	
+967	D	NaN	NaN	NaN	NaN	7.36	NaN	117.1	5.00	0.760	21.22	21.71	2.51	2.49	
+967	D	NaN	NaN	NaN	NaN	7.39	NaN	117.8	5.00	0.733	20.42	20.89	1.69	1.68	
+967	D	NaN	NaN	NaN	NaN	7.41	NaN	118.3	5.00	0.811	22.71	23.25	4.05	4.03	
+967	D	NaN	NaN	NaN	NaN	7.43	NaN	118.7	5.00	0.818	22.92	23.46	4.26	4.24	
+967	D	NaN	NaN	NaN	NaN	7.45	NaN	119.2	5.00	0.811	22.71	23.25	4.05	4.03	
+967	D	NaN	NaN	NaN	NaN	7.47	NaN	119.6	5.00	0.790	22.08	22.60	3.40	3.39	
+967	D	NaN	NaN	NaN	NaN	7.49	NaN	120.1	5.00	0.773	21.60	22.10	2.90	2.89	
+967	D	NaN	NaN	NaN	NaN	7.51	NaN	120.5	5.00	0.785	21.96	22.47	3.27	3.25	
+967	D	NaN	NaN	NaN	NaN	7.53	NaN	121.0	5.00	0.765	21.36	21.86	2.66	2.64	
+967	D	NaN	NaN	NaN	NaN	7.55	NaN	121.4	5.00	0.764	21.34	21.83	2.63	2.62	
+967	D	NaN	NaN	NaN	NaN	7.57	NaN	121.9	5.00	0.769	21.46	21.96	2.76	2.74	
+967	D	NaN	NaN	NaN	NaN	7.59	NaN	122.3	5.00	0.771	21.52	22.02	2.82	2.81	
+967	D	NaN	NaN	NaN	NaN	7.61	NaN	122.8	5.00	0.772	21.57	22.07	2.87	2.85	
+967	D	NaN	NaN	NaN	NaN	7.63	NaN	123.2	5.00	0.728	20.26	20.72	1.52	1.50	
+967	D	NaN	NaN	NaN	NaN	7.65	NaN	123.7	5.00	0.720	20.03	20.48	1.28	1.27	
+967	D	NaN	NaN	NaN	NaN	7.67	NaN	124.2	5.00	0.687	19.07	19.49	0.29	0.28	
+967	D	NaN	NaN	NaN	NaN	7.69	NaN	124.8	5.00	0.684	18.99	19.41	0.21	0.19	
+967	D	NaN	NaN	NaN	NaN	7.71	NaN	125.3	5.00	0.644	17.81	18.19	-1.01	-1.02	
+967	D	NaN	NaN	NaN	NaN	7.73	NaN	125.8	5.00	0.588	16.14	16.47	-2.73	-2.74	
+967	D	NaN	NaN	NaN	NaN	7.75	NaN	126.4	5.00	0.645	17.81	18.20	-1.00	-1.02	
+967	D	NaN	NaN	NaN	NaN	7.77	NaN	126.9	5.00	0.670	18.56	18.97	-0.23	-0.24	
+967	D	NaN	NaN	NaN	NaN	9.2968	NaN	164.9	5.00	0.575	15.77	16.09	-3.11	-3.13	
+967	D	NaN	NaN	NaN	NaN	9.3191	NaN	165.4	5.00	0.644	17.79	18.18	-1.02	-1.04	
+967	D	NaN	NaN	NaN	NaN	9.3413	NaN	166.0	5.00	0.673	18.64	19.05	-0.15	-0.17	
+967	D	NaN	NaN	NaN	NaN	9.3634	NaN	166.5	5.00	0.601	16.52	16.87	-2.33	-2.35	
+967	D	NaN	NaN	NaN	NaN	9.3856	NaN	167.1	5.00	0.584	16.04	16.37	-2.83	-2.85	
+967	D	NaN	NaN	NaN	NaN	9.4078	NaN	167.6	5.00	0.585	16.07	16.40	-2.80	-2.82	
+967	D	NaN	NaN	NaN	NaN	9.4273	NaN	168.1	5.00	0.594	16.33	16.67	-2.53	-2.55	
+967	D	NaN	NaN	NaN	NaN	9.4468	NaN	168.6	5.00	0.601	16.52	16.86	-2.34	-2.36	
+967	D	NaN	NaN	NaN	NaN	9.4662	NaN	169.1	5.00	0.550	15.02	15.32	-3.88	-3.90	
+967	D	NaN	NaN	NaN	NaN	9.4856	NaN	169.5	5.00	0.533	14.52	14.81	-4.39	-4.41	
+967	D	NaN	NaN	NaN	NaN	9.5148	NaN	170.3	5.00	0.513	13.94	14.21	-4.99	-5.01	
+967	D	NaN	NaN	NaN	NaN	9.5342	NaN	170.8	5.00	0.521	14.19	14.47	-4.73	-4.75	
+967	D	NaN	NaN	NaN	NaN	9.5536	NaN	171.3	5.00	0.481	13.01	13.25	-5.95	-5.97	
+967	D	NaN	NaN	NaN	NaN	9.5731	NaN	171.7	5.00	0.498	13.49	13.74	-5.46	-5.48	
+967	D	NaN	NaN	NaN	NaN	9.5925	NaN	172.2	5.00	0.531	14.47	14.75	-4.45	-4.47	
+967	D	NaN	NaN	NaN	NaN	9.6119	NaN	172.7	5.00	0.501	13.59	13.85	-5.35	-5.37	
+967	D	NaN	NaN	NaN	NaN	9.6313	NaN	173.2	5.00	0.575	15.76	16.08	-3.12	-3.14	
+967	D	NaN	NaN	NaN	NaN	9.6508	NaN	173.7	5.00	0.490	13.28	13.53	-5.67	-5.69	
+967	D	NaN	NaN	NaN	NaN	9.6702	NaN	174.2	5.00	0.474	12.79	13.02	-6.18	-6.20	
+967	D	NaN	NaN	NaN	NaN	9.6896	NaN	174.7	5.00	0.458	12.32	12.54	-6.66	-6.68	
+967	D	NaN	NaN	NaN	NaN	9.7091	NaN	175.2	5.00	0.490	13.26	13.51	-5.69	-5.71	
+967	D	NaN	NaN	NaN	NaN	9.7285	NaN	175.7	5.00	0.551	15.07	15.38	-3.82	-3.84	
+967	D	NaN	NaN	NaN	NaN	9.7479	NaN	176.1	5.00	0.532	14.51	14.80	-4.40	-4.42	
+967	D	NaN	NaN	NaN	NaN	9.7674	NaN	176.6	5.00	0.614	16.92	17.28	-1.92	-1.94	
+967	D	NaN	NaN	NaN	NaN	9.7868	NaN	177.1	5.00	0.511	13.88	14.15	-5.05	-5.07	
+967	D	NaN	NaN	NaN	NaN	9.8062	NaN	177.6	5.00	0.582	15.96	16.29	-2.91	-2.93	
+967	D	NaN	NaN	NaN	NaN	9.8256	NaN	178.1	5.00	0.629	17.36	17.74	-1.46	-1.48	
+967	D	NaN	NaN	NaN	NaN	9.8451	NaN	178.6	5.00	0.550	15.02	15.33	-3.87	-3.89	
+967	D	NaN	NaN	NaN	NaN	9.8645	NaN	179.1	5.00	0.629	17.36	17.73	-1.47	-1.49	
+967	D	NaN	NaN	NaN	NaN	9.8839	NaN	179.6	5.00	0.632	17.45	17.83	-1.37	-1.39	
+967	D	NaN	NaN	NaN	NaN	9.9041	NaN	180.1	5.00	0.576	15.78	16.11	-3.09	-3.11	
+967	D	NaN	NaN	NaN	NaN	10.689	NaN	199.8	5.00	0.587	16.12	16.46	-2.74	-2.76	
+967	D	NaN	NaN	NaN	NaN	10.709	NaN	200.5	5.00	0.668	18.51	18.92	-0.28	-0.31	
+967	D	NaN	NaN	NaN	NaN	10.729	NaN	201.2	5.00	0.686	19.03	19.46	0.26	0.23	
+967	D	NaN	NaN	NaN	NaN	10.749	NaN	201.8	5.00	0.691	19.17	19.60	0.40	0.37	
+967	D	NaN	NaN	NaN	NaN	10.769	NaN	202.5	5.00	0.707	19.63	20.08	0.88	0.85	
+967	D	NaN	NaN	NaN	NaN	10.79	NaN	203.2	5.00	0.703	19.53	19.97	0.77	0.75	
+967	D	NaN	NaN	NaN	NaN	10.821	NaN	204.3	5.00	0.688	19.10	19.52	0.32	0.30	
+967	D	NaN	NaN	NaN	NaN	10.841	NaN	204.9	5.00	0.695	19.29	19.72	0.52	0.49	
+967	D	NaN	NaN	NaN	NaN	10.862	NaN	205.6	5.00	0.694	19.27	19.70	0.50	0.48	
+967	D	NaN	NaN	NaN	NaN	10.883	NaN	206.3	5.00	0.724	20.15	20.61	1.41	1.38	
+967	D	NaN	NaN	NaN	NaN	10.895	NaN	206.7	5.00	0.754	21.03	21.52	2.32	2.29	
+967	D	NaN	NaN	NaN	NaN	10.905	NaN	207.1	5.00	0.751	20.93	21.41	2.21	2.19	
+967	D	NaN	NaN	NaN	NaN	10.915	NaN	207.4	5.00	0.726	20.22	20.68	1.48	1.46	
+967	D	NaN	NaN	NaN	NaN	10.925	NaN	207.7	5.00	0.702	19.51	19.95	0.75	0.72	
+964	E	NaN	NaN	NaN	NaN	12.56	NaN	210.2	5.00	0.685	18.99	19.41	0.21	0.19	
+964	E	NaN	NaN	NaN	NaN	12.59	NaN	210.8	5.00	0.657	18.17	18.57	-0.63	-0.66	
+964	E	NaN	NaN	NaN	NaN	12.61	NaN	211.4	5.00	0.615	16.94	17.30	-1.90	-1.93	
+964	E	NaN	NaN	NaN	NaN	12.64	NaN	212.1	5.00	0.604	16.62	16.97	-2.23	-2.26	
+964	E	NaN	NaN	NaN	NaN	12.67	NaN	212.7	5.00	0.580	15.91	16.24	-2.96	-2.98	
+964	E	NaN	NaN	NaN	NaN	12.7	NaN	213.3	5.00	0.547	14.93	15.23	-3.97	-4.00	
+964	E	NaN	NaN	NaN	NaN	12.73	NaN	213.9	5.00	0.536	14.63	14.92	-4.28	-4.31	
+964	E	NaN	NaN	NaN	NaN	12.76	NaN	214.5	5.00	0.573	15.71	16.03	-3.17	-3.20	
+964	E	NaN	NaN	NaN	NaN	12.78	NaN	215.2	5.00	0.591	16.23	16.57	-2.63	-2.66	
+964	E	NaN	NaN	NaN	NaN	12.8	NaN	215.8	5.00	0.527	14.35	14.63	-4.57	-4.59	
+964	E	NaN	NaN	NaN	NaN	12.83	NaN	216.4	5.00	0.502	13.62	13.88	-5.32	-5.35	
+964	E	NaN	NaN	NaN	NaN	12.85	NaN	217.0	5.00	0.454	12.19	12.41	-6.79	-6.82	
+964	E	NaN	NaN	NaN	NaN	12.88	NaN	217.6	5.00	0.473	12.77	13.00	-6.20	-6.23	
+964	E	NaN	NaN	NaN	NaN	12.9	NaN	218.3	5.00	0.486	13.14	13.38	-5.82	-5.85	
+964	E	NaN	NaN	NaN	NaN	12.93	NaN	218.9	5.00	0.430	11.50	11.70	-7.50	-7.53	
+964	E	NaN	NaN	NaN	NaN	12.95	NaN	219.5	5.00	0.444	11.91	12.12	-7.08	-7.11	
+964	E	NaN	NaN	NaN	NaN	12.97	NaN	220.1	5.00	0.442	11.86	12.07	-7.13	-7.16	
+964	E	NaN	NaN	NaN	NaN	13	NaN	220.7	5.00	0.496	13.43	13.69	-5.51	-5.54	
+967	D	NaN	NaN	NaN	NaN	11.502	NaN	234.4	5.00	0.704	19.56	20.00	0.80	0.77	
+967	D	NaN	NaN	NaN	NaN	11.515	NaN	235.0	5.00	0.744	20.73	21.21	2.01	1.98	
+967	D	NaN	NaN	NaN	NaN	11.528	NaN	235.6	5.00	0.759	21.18	21.67	2.47	2.44	
+967	D	NaN	NaN	NaN	NaN	11.541	NaN	236.2	5.00	0.755	21.07	21.55	2.35	2.32	
+967	D	NaN	NaN	NaN	NaN	11.567	NaN	237.5	5.00	0.691	19.18	19.61	0.41	0.38	
+967	D	NaN	NaN	NaN	NaN	11.58	NaN	238.0	5.00	0.650	17.97	18.36	-0.84	-0.87	
+967	D	NaN	NaN	NaN	NaN	11.593	NaN	238.3	5.00	0.602	16.55	16.90	-2.30	-2.33	
+967	D	NaN	NaN	NaN	NaN	11.606	NaN	238.7	5.00	0.610	16.79	17.14	-2.06	-2.08	
+967	D	NaN	NaN	NaN	NaN	11.619	NaN	239.0	5.00	0.614	16.92	17.28	-1.92	-1.95	
+967	D	NaN	NaN	NaN	NaN	11.633	NaN	239.4	5.00	0.604	16.63	16.98	-2.22	-2.25	
+967	D	NaN	NaN	NaN	NaN	11.639	NaN	239.5	5.00	0.607	16.70	17.05	-2.15	-2.18	
+967	D	NaN	NaN	NaN	NaN	11.652	NaN	239.8	5.00	0.628	17.31	17.69	-1.51	-1.54	
+967	D	NaN	NaN	NaN	NaN	11.665	NaN	240.2	5.00	0.643	17.76	18.15	-1.05	-1.08	
+967	D	NaN	NaN	NaN	NaN	11.678	NaN	240.5	5.00	0.633	17.47	17.85	-1.35	-1.38	
+967	D	NaN	NaN	NaN	NaN	11.691	NaN	240.8	5.00	0.609	16.77	17.13	-2.07	-2.10	
+967	D	NaN	NaN	NaN	NaN	11.705	NaN	241.2	5.00	0.638	17.61	17.99	-1.21	-1.24	
+967	D	NaN	NaN	NaN	NaN	11.718	NaN	241.5	5.00	0.547	14.94	15.24	-3.96	-3.99	
+967	D	NaN	NaN	NaN	NaN	11.731	NaN	241.9	5.00	0.554	15.13	15.44	-3.76	-3.79	
+967	D	NaN	NaN	NaN	NaN	11.744	NaN	242.2	5.00	0.528	14.37	14.65	-4.55	-4.58	
+967	D	NaN	NaN	NaN	NaN	11.757	NaN	242.5	5.00	0.513	13.94	14.21	-4.99	-5.02	
+967	D	NaN	NaN	NaN	NaN	11.77	NaN	242.8	5.00	0.528	14.39	14.67	-4.53	-4.56	
+967	D	NaN	NaN	NaN	NaN	11.783	NaN	243.2	5.00	0.479	12.93	13.17	-6.03	-6.06	
+967	D	NaN	NaN	NaN	NaN	11.796	NaN	243.5	5.00	0.525	14.30	14.58	-4.62	-4.65	
+967	D	NaN	NaN	NaN	NaN	11.809	NaN	243.8	5.00	0.641	17.72	18.10	-1.10	-1.13	
+967	D	NaN	NaN	NaN	NaN	11.822	NaN	244.2	5.00	0.613	16.88	17.24	-1.96	-1.99	
+967	D	NaN	NaN	NaN	NaN	12.093	NaN	250.2	5.00	0.665	18.40	18.81	-0.39	-0.42	
+967	D	NaN	NaN	NaN	NaN	12.104	NaN	250.4	5.00	0.662	18.32	18.73	-0.47	-0.50	
+967	D	NaN	NaN	NaN	NaN	12.114	NaN	250.6	5.00	0.730	20.32	20.78	1.58	1.55	
+967	D	NaN	NaN	NaN	NaN	12.125	NaN	250.9	5.00	0.730	20.33	20.80	1.60	1.57	
+967	D	NaN	NaN	NaN	NaN	12.135	NaN	251.1	5.00	0.768	21.45	21.95	2.75	2.71	
+967	D	NaN	NaN	NaN	NaN	12.146	NaN	251.3	5.00	0.760	21.21	21.70	2.50	2.47	
+967	D	NaN	NaN	NaN	NaN	12.156	NaN	251.5	5.00	0.768	21.45	21.94	2.74	2.71	
+967	D	NaN	NaN	NaN	NaN	12.166	NaN	251.7	5.00	0.761	21.24	21.73	2.53	2.50	
+967	D	NaN	NaN	NaN	NaN	12.177	NaN	252.0	5.00	0.739	20.60	21.07	1.87	1.84	
+967	D	NaN	NaN	NaN	NaN	12.187	NaN	252.2	5.00	0.761	21.22	21.72	2.52	2.48	
+967	D	NaN	NaN	NaN	NaN	12.198	NaN	252.4	5.00	0.755	21.07	21.55	2.35	2.32	
+967	D	NaN	NaN	NaN	NaN	12.208	NaN	252.6	5.00	0.732	20.38	20.85	1.65	1.62	
+967	D	NaN	NaN	NaN	NaN	12.219	NaN	252.9	5.00	0.736	20.50	20.97	1.77	1.74	
+967	D	NaN	NaN	NaN	NaN	12.229	NaN	253.1	5.00	0.734	20.43	20.89	1.69	1.66	
+967	D	NaN	NaN	NaN	NaN	12.24	NaN	253.3	5.00	0.749	20.88	21.36	2.16	2.13	
+967	D	NaN	NaN	NaN	NaN	12.251	NaN	253.5	5.00	0.689	19.12	19.55	0.35	0.31	
+967	D	NaN	NaN	NaN	NaN	12.261	NaN	253.8	5.00	0.644	17.79	18.17	-1.03	-1.06	
+967	D	NaN	NaN	NaN	NaN	12.272	NaN	254.0	5.00	0.687	19.05	19.48	0.28	0.24	
+967	D	NaN	NaN	NaN	NaN	12.293	NaN	254.4	5.00	0.611	16.83	17.19	-2.01	-2.04	
+967	D	NaN	NaN	NaN	NaN	14.96	NaN	320.6	5.00	0.701	19.48	19.92	0.72	0.68	
+967	D	NaN	NaN	NaN	NaN	14.969	NaN	320.8	5.00	0.729	20.30	20.77	1.57	1.53	
+967	D	NaN	NaN	NaN	NaN	14.988	NaN	321.3	5.00	0.826	23.13	23.68	4.48	4.44	
+967	D	NaN	NaN	NaN	NaN	15.017	NaN	322.1	5.00	0.807	22.59	23.12	3.92	3.88	
+967	D	NaN	NaN	NaN	NaN	15.026	NaN	322.3	5.00	0.784	21.92	22.43	3.23	3.19	
+967	D	NaN	NaN	NaN	NaN	15.036	NaN	322.6	5.00	0.779	21.77	22.27	3.07	3.03	
+967	D	NaN	NaN	NaN	NaN	15.045	NaN	322.8	5.00	0.774	21.61	22.11	2.91	2.87	
+967	D	NaN	NaN	NaN	NaN	15.055	NaN	323.1	5.00	0.777	21.71	22.21	3.01	2.97	
+967	D	NaN	NaN	NaN	NaN	15.064	NaN	323.3	5.00	0.776	21.68	22.19	2.99	2.95	
+967	D	NaN	NaN	NaN	NaN	15.074	NaN	323.6	5.00	0.780	21.79	22.30	3.10	3.06	
+967	D	NaN	NaN	NaN	NaN	15.083	NaN	323.8	5.00	0.757	21.12	21.61	2.41	2.37	
+967	D	NaN	NaN	NaN	NaN	15.093	NaN	324.1	5.00	0.769	21.48	21.98	2.78	2.74	
+967	D	NaN	NaN	NaN	NaN	15.102	NaN	324.3	5.00	0.742	20.69	21.16	1.96	1.92	
+967	D	NaN	NaN	NaN	NaN	15.111	NaN	324.6	5.00	0.759	21.19	21.68	2.48	2.44	
+967	D	NaN	NaN	NaN	NaN	15.12	NaN	324.8	5.00	0.775	21.65	22.16	2.96	2.91	
+967	D	NaN	NaN	NaN	NaN	15.129	NaN	325.1	5.00	0.691	19.16	19.59	0.39	0.35	
+967	D	NaN	NaN	NaN	NaN	15.139	NaN	325.3	5.00	0.673	18.64	19.06	-0.14	-0.18	
+964	E	NaN	NaN	NaN	NaN	22.5	NaN	458.6	5.00	0.643	17.77	18.16	-1.04	-1.10	
+964	E	NaN	NaN	NaN	NaN	22.52	NaN	459.0	5.00	0.637	17.59	17.97	-1.23	-1.28	
+964	E	NaN	NaN	NaN	NaN	22.54	NaN	459.3	5.00	0.774	21.63	22.13	2.93	2.87	
+964	E	NaN	NaN	NaN	NaN	22.56	NaN	459.6	5.00	0.738	20.56	21.03	1.83	1.77	
+964	E	NaN	NaN	NaN	NaN	22.58	NaN	460.2	5.00	0.713	19.83	20.28	1.08	1.03	
+964	E	NaN	NaN	NaN	NaN	22.6	NaN	460.5	5.00	0.673	18.64	19.05	-0.15	-0.21	
+964	E	NaN	NaN	NaN	NaN	22.62	NaN	460.8	5.00	0.717	19.95	20.41	1.21	1.15	
+964	E	NaN	NaN	NaN	NaN	22.66	NaN	461.5	5.00	0.579	15.89	16.22	-2.98	-3.03	
+964	E	NaN	NaN	NaN	NaN	22.68	NaN	461.9	5.00	0.594	16.31	16.65	-2.55	-2.60	
+964	E	NaN	NaN	NaN	NaN	23.85	NaN	523.8	5.00	0.598	16.44	16.79	-2.41	-2.48	
+964	E	NaN	NaN	NaN	NaN	23.87	NaN	524.2	5.00	0.574	15.74	16.06	-3.14	-3.20	
+964	E	NaN	NaN	NaN	NaN	23.9	NaN	524.5	5.00	0.561	15.36	15.68	-3.52	-3.59	
+964	E	NaN	NaN	NaN	NaN	23.92	NaN	524.9	5.00	0.526	14.31	14.59	-4.61	-4.67	
+964	E	NaN	NaN	NaN	NaN	23.94	NaN	525.3	5.00	0.521	14.18	14.45	-4.75	-4.81	
+964	E	NaN	NaN	NaN	NaN	23.96	NaN	525.6	5.00	0.520	14.15	14.43	-4.77	-4.83	
+964	E	NaN	NaN	NaN	NaN	23.98	NaN	526.0	5.00	0.527	14.34	14.62	-4.58	-4.64	
+964	E	NaN	NaN	NaN	NaN	24.01	NaN	526.3	5.00	0.532	14.51	14.80	-4.40	-4.46	
+964	E	NaN	NaN	NaN	NaN	24.03	NaN	526.7	5.00	0.567	15.52	15.84	-3.36	-3.43	
+964	E	NaN	NaN	NaN	NaN	24.05	NaN	527.1	5.00	0.572	15.67	16.00	-3.20	-3.27	
+964	E	NaN	NaN	NaN	NaN	24.07	NaN	527.4	5.00	0.498	13.51	13.77	-5.43	-5.50	
+964	E	NaN	NaN	NaN	NaN	24.09	NaN	527.8	5.00	0.438	11.74	11.95	-7.25	-7.32	
+964	E	NaN	NaN	NaN	NaN	24.11	NaN	528.1	5.00	0.485	13.12	13.37	-5.83	-5.90	
+964	E	NaN	NaN	NaN	NaN	25.21	NaN	599.7	5.00	0.553	15.12	15.42	-3.78	-3.85	
+964	E	NaN	NaN	NaN	NaN	25.23	NaN	600.6	5.00	0.670	18.57	18.98	-0.22	-0.30	
+964	E	NaN	NaN	NaN	NaN	25.25	NaN	601.4	5.00	0.691	19.18	19.61	0.41	0.33	
+964	E	NaN	NaN	NaN	NaN	25.31	NaN	604.1	5.00	0.635	17.54	17.92	-1.28	-1.35	
+964	E	NaN	NaN	NaN	NaN	25.34	NaN	604.9	5.00	0.595	16.36	16.71	-2.49	-2.57	
+964	E	NaN	NaN	NaN	NaN	25.57	NaN	614.7	5.00	0.624	17.22	17.59	-1.61	-1.69	
+964	E	NaN	NaN	NaN	NaN	25.59	NaN	615.7	5.00	0.434	11.63	11.83	-7.37	-7.45	
+964	E	NaN	NaN	NaN	NaN	25.65	NaN	618.4	5.00	0.713	19.82	20.27	1.07	1.00	
+964	E	NaN	NaN	NaN	NaN	25.75	NaN	622.0	5.00	0.605	16.64	17.00	-2.20	-2.28	
+967	D	NaN	NaN	NaN	NaN	32.375	NaN	939.2	5.00	0.857	24.10	24.68	5.48	5.36	
+967	D	NaN	NaN	NaN	NaN	32.3981	NaN	940.0	5.00	0.618	17.00	17.36	-1.84	-1.95	
+967	D	NaN	NaN	NaN	NaN	32.42119	NaN	940.8	5.00	0.675	18.70	19.12	-0.08	-0.20	
+967	D	NaN	NaN	NaN	NaN	32.44429	NaN	941.6	5.00	0.814	22.80	23.34	4.14	4.02	
+967	D	NaN	NaN	NaN	NaN	32.48	NaN	942.8	5.00	0.747	20.80	21.28	2.08	1.96	
+967	D	NaN	NaN	NaN	NaN	32.5	NaN	943.5	5.00	0.668	18.50	18.91	-0.29	-0.41	
+967	D	NaN	NaN	NaN	NaN	32.52	NaN	944.2	5.00	0.659	18.20	18.60	-0.60	-0.72	
+967	D	NaN	NaN	NaN	NaN	32.54	NaN	944.9	5.00	0.655	18.10	18.50	-0.70	-0.82	
+967	D	NaN	NaN	NaN	NaN	32.56	NaN	945.6	5.00	0.640	17.70	18.08	-1.12	-1.23	
+967	D	NaN	NaN	NaN	NaN	32.58	NaN	946.3	5.00	0.634	17.50	17.88	-1.32	-1.44	
+967	D	NaN	NaN	NaN	NaN	32.6	NaN	947.0	5.00	0.681	18.90	19.32	0.12	0.00	
+967	D	NaN	NaN	NaN	NaN	32.62	NaN	947.4	5.00	0.660	18.30	18.70	-0.50	-0.62	
+967	D	NaN	NaN	NaN	NaN	32.64	NaN	948.3	5.00	0.697	19.40	19.84	0.64	0.52	
+967	D	NaN	NaN	NaN	NaN	32.67	NaN	949.7	5.00	0.719	20.00	20.45	1.25	1.14	
+967	D	NaN	NaN	NaN	NaN	32.69	NaN	950.6	5.00	0.711	19.80	20.25	1.05	0.93	
+967	D	NaN	NaN	NaN	NaN	32.71	NaN	951.5	5.00	0.671	18.60	19.01	-0.19	-0.31	
+967	D	NaN	NaN	NaN	NaN	32.73	NaN	952.4	5.00	0.688	19.10	19.53	0.33	0.21	
+967	D	NaN	NaN	NaN	NaN	32.74	NaN	952.9	5.00	0.658	18.20	18.60	-0.60	-0.72	
+967	D	NaN	NaN	NaN	NaN	32.76	NaN	953.8	5.00	0.656	18.10	18.50	-0.70	-0.82	
+967	D	NaN	NaN	NaN	NaN	32.77	NaN	954.3	5.00	0.681	18.90	19.32	0.12	0.00	
+967	D	NaN	NaN	NaN	NaN	32.8	NaN	955.6	5.00	0.668	18.50	18.91	-0.29	-0.41	
+967	D	NaN	NaN	NaN	NaN	32.81	NaN	956.1	5.00	0.693	19.20	19.63	0.43	0.31	
+967	D	NaN	NaN	NaN	NaN	32.98	NaN	963.9	5.00	0.816	22.90	23.44	4.24	4.12	
+967	D	NaN	NaN	NaN	NaN	33	NaN	964.8	5.00	0.811	22.70	23.24	4.04	3.92	
+967	D	NaN	NaN	NaN	NaN	33.02	NaN	965.7	5.00	0.858	24.10	24.68	5.48	5.36	
+967	D	NaN	NaN	NaN	NaN	33.04	NaN	966.6	5.00	0.924	26.00	26.64	7.44	7.32	
+967	D	NaN	NaN	NaN	NaN	33.08	NaN	968.5	5.00	0.762	21.30	21.79	2.59	2.47	
+967	D	NaN	NaN	NaN	NaN	33.1	NaN	969.4	5.00	0.738	20.60	21.07	1.87	1.75	
+967	D	NaN	NaN	NaN	NaN	33.12	NaN	970.3	5.00	0.710	19.70	20.15	0.95	0.82	
+967	D	NaN	NaN	NaN	NaN	33.14	NaN	971.2	5.00	0.749	20.90	21.38	2.18	2.06	
+967	D	NaN	NaN	NaN	NaN	33.16	NaN	972.2	5.00	0.770	21.50	22.00	2.80	2.68	
+964	D	NaN	NaN	NaN	NaN	34.11	NaN	973.2	5.00	0.698	19.39	19.83	0.63	0.51	
+967	D	NaN	NaN	NaN	NaN	33.18	NaN	973.5	5.00	0.759	21.20	21.69	2.49	2.37	
+967	D	NaN	NaN	NaN	NaN	33.2	NaN	974.5	5.00	0.762	21.30	21.79	2.59	2.47	
+964	D	NaN	NaN	NaN	NaN	34.16	NaN	975.2	5.00	0.712	19.78	20.23	1.03	0.91	
+967	D	NaN	NaN	NaN	NaN	33.22	NaN	975.5	5.00	0.676	18.70	19.12	-0.08	-0.21	
+967	D	NaN	NaN	NaN	NaN	33.24	NaN	976.5	5.00	0.616	17.00	17.36	-1.84	-1.96	
+964	D	NaN	NaN	NaN	NaN	34.2	NaN	976.9	5.00	0.638	17.63	18.01	-1.19	-1.31	
+964	D	NaN	NaN	NaN	NaN	34.21	NaN	977.3	5.00	0.659	18.23	18.63	-0.57	-0.69	
+967	D	NaN	NaN	NaN	NaN	33.26	NaN	977.5	5.00	0.606	16.70	17.05	-2.15	-2.27	
+964	D	NaN	NaN	NaN	NaN	34.22	NaN	977.7	5.00	0.635	17.53	17.91	-1.29	-1.41	
+964	D	NaN	NaN	NaN	NaN	34.23	NaN	978.1	5.00	0.557	15.25	15.56	-3.64	-3.76	
+967	D	NaN	NaN	NaN	NaN	33.28	NaN	978.5	5.00	0.563	15.40	15.72	-3.48	-3.61	
+964	D	NaN	NaN	NaN	NaN	34.25	NaN	979.0	5.00	0.622	17.15	17.52	-1.68	-1.80	
+967	D	NaN	NaN	NaN	NaN	33.3	NaN	979.5	5.00	0.707	19.60	20.04	0.84	0.72	
+964	D	NaN	NaN	NaN	NaN	34.27	NaN	979.8	5.00	0.513	13.93	14.20	-5.00	-5.12	
+967	D	NaN	NaN	NaN	NaN	33.32	NaN	980.5	5.00	0.705	19.60	20.04	0.84	0.72	
+964	D	NaN	NaN	NaN	NaN	34.29	NaN	980.6	5.00	0.594	16.33	16.67	-2.53	-2.65	
+967	D	NaN	NaN	NaN	NaN	33.34	NaN	981.5	5.00	0.637	17.60	17.98	-1.22	-1.34	
+964	D	NaN	NaN	NaN	NaN	34.33	NaN	982.3	5.00	0.655	18.12	18.52	-0.68	-0.81	
+967	D	NaN	NaN	NaN	NaN	33.36	NaN	982.5	5.00	0.630	17.40	17.78	-1.42	-1.55	
+964	D	NaN	NaN	NaN	NaN	34.35	NaN	983.1	5.00	0.479	12.95	13.19	-6.01	-6.13	
+967	D	NaN	NaN	NaN	NaN	33.6	NaN	994.5	5.00	0.632	17.40	17.78	-1.42	-1.55	
+964	D	NaN	NaN	NaN	NaN	34.64	NaN	995.4	5.00	0.644	17.80	18.19	-1.01	-1.14	
+967	D	NaN	NaN	NaN	NaN	33.62	NaN	995.5	5.00	0.680	18.90	19.32	0.12	0.00	
+964	D	NaN	NaN	NaN	NaN	34.66	NaN	996.2	5.00	0.624	17.21	17.58	-1.62	-1.74	
+967	D	NaN	NaN	NaN	NaN	33.64	NaN	996.5	5.00	0.723	20.10	20.56	1.36	1.23	
+964	D	NaN	NaN	NaN	NaN	34.68	NaN	997.0	5.00	0.724	20.15	20.61	1.41	1.28	
+967	D	NaN	NaN	NaN	NaN	33.66	NaN	997.5	5.00	0.711	19.80	20.25	1.05	0.92	
+967	D	NaN	NaN	NaN	NaN	33.68	NaN	998.5	5.00	0.700	19.40	19.84	0.64	0.51	
+964	D	NaN	NaN	NaN	NaN	34.74	NaN	999.4	5.00	0.720	20.02	20.47	1.27	1.15	
+964	D	NaN	NaN	NaN	NaN	34.76	NaN	1000.2	5.00	0.610	16.78	17.14	-2.06	-2.19	
+964	D	NaN	NaN	NaN	NaN	34.77	NaN	1000.6	5.00	0.647	17.89	18.29	-0.91	-1.04	
+964	D	NaN	NaN	NaN	NaN	34.78	NaN	1001.0	5.00	0.610	16.80	17.16	-2.04	-2.17	
+964	D	NaN	NaN	NaN	NaN	34.8	NaN	1001.8	5.00	0.707	19.64	20.08	0.88	0.75	
+964	D	NaN	NaN	NaN	NaN	34.84	NaN	1003.4	5.00	0.356	9.34	9.47	-9.73	-9.86	
+964	D	NaN	NaN	NaN	NaN	34.86	NaN	1004.2	5.00	0.504	13.68	13.94	-5.26	-5.38	
+964	D	NaN	NaN	NaN	NaN	34.88	NaN	1005.0	5.00	0.527	14.34	14.63	-4.57	-4.70	
+964	D	NaN	NaN	NaN	NaN	35.15	NaN	1016.4	5.00	0.749	20.87	21.35	2.15	2.02	
+964	D	NaN	NaN	NaN	NaN	35.17	NaN	1017.3	5.00	0.813	22.77	23.31	4.11	3.99	
+964	D	NaN	NaN	NaN	NaN	35.19	NaN	1018.2	5.00	0.746	20.81	21.29	2.09	1.96	
+964	D	NaN	NaN	NaN	NaN	35.21	NaN	1018.7	5.00	0.692	19.20	19.63	0.43	0.30	
+964	D	NaN	NaN	NaN	NaN	35.22	NaN	1019.1	5.00	0.715	19.87	20.32	1.12	1.00	
+964	D	NaN	NaN	NaN	NaN	35.24	NaN	1020.0	5.00	0.609	16.77	17.12	-2.08	-2.20	
+964	D	NaN	NaN	NaN	NaN	35.28	NaN	1021.8	5.00	0.735	20.48	20.95	1.75	1.62	
+964	D	NaN	NaN	NaN	NaN	35.3	NaN	1022.7	5.00	0.539	14.72	15.01	-4.19	-4.32	
+964	D	NaN	NaN	NaN	NaN	35.32	NaN	1023.6	5.00	0.498	13.50	13.76	-5.44	-5.57	
+967	D	NaN	NaN	NaN	NaN	35.2	NaN	1038.7	5.00	0.676	18.70	19.12	-0.08	-0.21	
+967	D	NaN	NaN	NaN	NaN	35.22	NaN	1039.2	5.00	0.729	20.30	20.76	1.56	1.43	
+967	D	NaN	NaN	NaN	NaN	35.24	NaN	1039.6	5.00	0.836	23.40	23.96	4.76	4.63	
+967	D	NaN	NaN	NaN	NaN	35.28	NaN	1040.6	5.00	0.640	17.70	18.08	-1.12	-1.25	
+967	D	NaN	NaN	NaN	NaN	35.32	NaN	1041.6	5.00	0.803	22.50	23.03	3.83	3.70	
+967	D	NaN	NaN	NaN	NaN	35.34	NaN	1042.0	5.00	0.599	16.50	16.85	-2.35	-2.48	
+964	D	NaN	NaN	NaN	NaN	35.88	NaN	1047.1	5.00	0.700	19.44	19.88	0.68	0.55	
+964	D	NaN	NaN	NaN	NaN	35.9	NaN	1048.0	5.00	0.632	17.44	17.81	-1.39	-1.52	
+964	D	NaN	NaN	NaN	NaN	35.92	NaN	1048.8	5.00	0.627	17.28	17.65	-1.55	-1.68	
+964	D	NaN	NaN	NaN	NaN	35.94	NaN	1049.7	5.00	0.726	20.22	20.68	1.48	1.35	
+964	D	NaN	NaN	NaN	NaN	35.96	NaN	1050.5	5.00	0.738	20.55	21.02	1.82	1.69	
+964	D	NaN	NaN	NaN	NaN	35.98	NaN	1051.4	5.00	0.676	18.72	19.14	-0.06	-0.19	
+964	D	NaN	NaN	NaN	NaN	36	NaN	1052.2	5.00	0.579	15.88	16.21	-2.99	-3.12	
+964	D	NaN	NaN	NaN	NaN	36.02	NaN	1053.0	5.00	0.587	16.11	16.45	-2.75	-2.88	
+964	D	NaN	NaN	NaN	NaN	36.04	NaN	1053.9	5.00	0.569	15.58	15.90	-3.30	-3.43	
+964	D	NaN	NaN	NaN	NaN	36.84	NaN	1087.5	5.00	0.725	20.16	20.62	1.42	1.29	
+964	D	NaN	NaN	NaN	NaN	36.86	NaN	1088.3	5.00	0.675	18.69	19.11	-0.09	-0.23	
+964	D	NaN	NaN	NaN	NaN	36.88	NaN	1089.2	5.00	0.695	19.29	19.72	0.52	0.39	
+964	D	NaN	NaN	NaN	NaN	36.9	NaN	1090.0	5.00	0.676	18.74	19.16	-0.04	-0.18	
+964	D	NaN	NaN	NaN	NaN	36.92	NaN	1090.8	5.00	0.724	20.13	20.59	1.39	1.26	
+964	D	NaN	NaN	NaN	NaN	36.94	NaN	1091.7	5.00	0.822	23.02	23.56	4.36	4.23	
+964	D	NaN	NaN	NaN	NaN	36.96	NaN	1092.5	5.00	0.752	20.96	21.44	2.24	2.11	
+964	D	NaN	NaN	NaN	NaN	36.98	NaN	1093.4	5.00	0.687	19.06	19.49	0.29	0.15	
+964	D	NaN	NaN	NaN	NaN	37	NaN	1094.2	5.00	0.679	18.83	19.25	0.05	-0.09	
+964	D	NaN	NaN	NaN	NaN	37.02	NaN	1095.0	5.00	0.671	18.59	19.00	-0.20	-0.33	
+964	D	NaN	NaN	NaN	NaN	37.04	NaN	1095.9	5.00	0.678	18.80	19.22	0.02	-0.12	
+964	D	NaN	NaN	NaN	NaN	37.08	NaN	1097.6	5.00	0.734	20.45	20.92	1.72	1.58	
+964	D	NaN	NaN	NaN	NaN	37.84	NaN	1129.5	5.00	0.692	19.21	19.64	0.44	0.30	
+964	D	NaN	NaN	NaN	NaN	37.86	NaN	1130.3	5.00	0.706	19.62	20.06	0.86	0.72	
+964	D	NaN	NaN	NaN	NaN	37.88	NaN	1131.1	5.00	0.754	21.03	21.52	2.32	2.17	
+964	D	NaN	NaN	NaN	NaN	37.9	NaN	1132.0	5.00	0.569	15.59	15.91	-3.29	-3.43	
+964	D	NaN	NaN	NaN	NaN	37.91	NaN	1132.4	5.00	0.638	17.62	18.00	-1.20	-1.34	
+964	D	NaN	NaN	NaN	NaN	37.92	NaN	1132.8	5.00	0.586	16.09	16.42	-2.78	-2.92	
+964	D	NaN	NaN	NaN	NaN	37.93	NaN	1133.2	5.00	0.548	14.97	15.27	-3.93	-4.07	
+964	D	NaN	NaN	NaN	NaN	41.67	NaN	1279.1	5.00	0.648	17.91	18.30	-0.90	-1.06	
+964	D	NaN	NaN	NaN	NaN	41.69	NaN	1279.7	5.00	0.752	20.97	21.45	2.25	2.09	
+964	D	NaN	NaN	NaN	NaN	41.71	NaN	1280.3	5.00	0.679	18.82	19.24	0.04	-0.12	
+964	D	NaN	NaN	NaN	NaN	41.73	NaN	1280.9	5.00	0.690	19.15	19.58	0.38	0.22	
+964	D	NaN	NaN	NaN	NaN	41.75	NaN	1281.5	5.00	0.611	16.82	17.18	-2.02	-2.18	
+964	D	NaN	NaN	NaN	NaN	41.77	NaN	1282.2	5.00	0.628	17.32	17.70	-1.50	-1.66	
+964	D	NaN	NaN	NaN	NaN	41.79	NaN	1282.8	5.00	0.690	19.15	19.58	0.38	0.21	
+964	D	NaN	NaN	NaN	NaN	41.81	NaN	1283.4	5.00	0.625	17.24	17.61	-1.59	-1.75	
+964	D	NaN	NaN	NaN	NaN	41.83	NaN	1284.0	5.00	0.569	15.59	15.91	-3.29	-3.45	
+964	D	NaN	NaN	NaN	NaN	41.85	NaN	1284.6	5.00	0.586	16.09	16.42	-2.78	-2.94	
+964	D	NaN	NaN	NaN	NaN	41.87	NaN	1285.2	5.00	0.491	13.29	13.55	-5.65	-5.82	
+964	D	NaN	NaN	NaN	NaN	41.89	NaN	1285.8	5.00	0.553	15.12	15.42	-3.78	-3.94	
+964	D	NaN	NaN	NaN	NaN	46.08	NaN	1367.2	5.00	0.659	18.25	18.65	-0.55	-0.72	
+964	D	NaN	NaN	NaN	NaN	46.1	NaN	1367.8	5.00	0.701	19.46	19.90	0.70	0.53	
+964	D	NaN	NaN	NaN	NaN	46.12	NaN	1368.3	5.00	0.746	20.79	21.26	2.06	1.89	
+964	D	NaN	NaN	NaN	NaN	46.14	NaN	1368.9	5.00	0.732	20.39	20.85	1.65	1.48	
+964	D	NaN	NaN	NaN	NaN	46.15	NaN	1372.7	5.00	0.809	22.64	23.18	3.98	3.81	
+964	D	NaN	NaN	NaN	NaN	46.16	NaN	1372.9	5.00	0.665	18.41	18.81	-0.39	-0.56	
+964	D	NaN	NaN	NaN	NaN	46.17	NaN	1373.2	5.00	0.676	18.74	19.15	-0.05	-0.22	
+964	D	NaN	NaN	NaN	NaN	46.18	NaN	1373.4	5.00	0.689	19.13	19.56	0.36	0.19	
+964	D	NaN	NaN	NaN	NaN	46.2	NaN	1373.9	5.00	0.677	18.75	19.17	-0.03	-0.20	
+964	D	NaN	NaN	NaN	NaN	46.22	NaN	1374.4	5.00	0.728	20.26	20.72	1.52	1.35	
+964	D	NaN	NaN	NaN	NaN	46.95	NaN	1392.5	5.00	0.705	19.58	20.02	0.82	0.65	
+964	D	NaN	NaN	NaN	NaN	46.97	NaN	1393.0	5.00	0.674	18.67	19.08	-0.12	-0.30	
+964	D	NaN	NaN	NaN	NaN	46.99	NaN	1393.5	5.00	0.658	18.22	18.62	-0.58	-0.76	
+964	D	NaN	NaN	NaN	NaN	47.01	NaN	1394.0	5.00	0.853	23.93	24.50	5.30	5.13	
+964	D	NaN	NaN	NaN	NaN	47.02	NaN	1394.2	5.00	0.652	18.02	18.41	-0.79	-0.96	
+964	D	NaN	NaN	NaN	NaN	47.03	NaN	1394.5	5.00	0.618	17.03	17.39	-1.81	-1.98	
+964	D	NaN	NaN	NaN	NaN	47.04	NaN	1394.7	5.00	0.602	16.56	16.91	-2.29	-2.46	
+964	D	NaN	NaN	NaN	NaN	47.05	NaN	1395.0	5.00	0.617	17.00	17.36	-1.84	-2.01	
+964	D	NaN	NaN	NaN	NaN	47.06	NaN	1395.2	5.00	0.613	16.88	17.24	-1.96	-2.14	
+964	D	NaN	NaN	NaN	NaN	47.07	NaN	1395.5	5.00	0.582	15.98	16.31	-2.89	-3.06	
+964	D	NaN	NaN	NaN	NaN	47.09	NaN	1396.1	5.00	0.558	15.27	15.58	-3.62	-3.79	
+964	D	NaN	NaN	NaN	NaN	47.11	NaN	1396.5	5.00	0.537	14.63	14.93	-4.27	-4.45	
+964	D	NaN	NaN	NaN	NaN	47.12	NaN	1396.7	5.00	0.499	13.52	13.78	-5.42	-5.59	
+964	D	NaN	NaN	NaN	NaN	47.12	NaN	1396.7	5.00	0.513	13.93	14.20	-5.00	-5.18	
+964	D	NaN	NaN	NaN	NaN	47.13	NaN	1397.0	5.00	0.442	11.86	12.07	-7.13	-7.30	
+964	D	NaN	NaN	NaN	NaN	47.14	NaN	1397.2	5.00	0.444	11.92	12.13	-7.07	-7.24	
+964	D	NaN	NaN	NaN	NaN	47.15	NaN	1397.5	5.00	0.542	14.78	15.08	-4.12	-4.30	
+964	D	NaN	NaN	NaN	NaN	47.16	NaN	1397.7	5.00	0.465	12.52	12.75	-6.45	-6.62	
+964	D	NaN	NaN	NaN	NaN	47.17	NaN	1398.0	5.00	0.432	11.57	11.77	-7.43	-7.61	
+964	D	NaN	NaN	NaN	NaN	47.18	NaN	1398.2	5.00	0.436	11.67	11.87	-7.33	-7.51	
+964	D	NaN	NaN	NaN	NaN	47.19	NaN	1398.5	5.00	0.442	11.84	12.05	-7.15	-7.33	
+964	D	NaN	NaN	NaN	NaN	47.21	NaN	1399.0	5.00	0.455	12.24	12.46	-6.74	-6.91	
+964	D	NaN	NaN	NaN	NaN	47.51	NaN	1406.4	5.00	0.673	18.63	19.05	-0.15	-0.33	
+964	D	NaN	NaN	NaN	NaN	47.55	NaN	1407.4	5.00	0.659	18.23	18.63	-0.57	-0.75	
+964	D	NaN	NaN	NaN	NaN	47.59	NaN	1408.4	5.00	0.680	18.84	19.26	0.06	-0.11	
+964	D	NaN	NaN	NaN	NaN	47.6	NaN	1408.6	5.00	0.689	19.12	19.55	0.35	0.17	
+964	D	NaN	NaN	NaN	NaN	47.61	NaN	1408.9	5.00	0.744	20.75	21.22	2.02	1.85	
+964	D	NaN	NaN	NaN	NaN	47.62	NaN	1409.1	5.00	0.738	20.55	21.02	1.82	1.65	
+964	D	NaN	NaN	NaN	NaN	47.63	NaN	1409.4	5.00	0.718	19.96	20.42	1.22	1.04	
+964	D	NaN	NaN	NaN	NaN	47.65	NaN	1409.9	5.00	0.720	20.04	20.49	1.29	1.11	
+964	D	NaN	NaN	NaN	NaN	47.66	NaN	1410.1	5.00	0.726	20.21	20.67	1.47	1.29	
+Vrica	NaN	NaN	NaN	NaN	NaN	0	NaN	1521.5	5.00	0.647	17.89	18.28	-0.92	-1.11	
+Vrica	NaN	NaN	NaN	NaN	NaN	0.5	NaN	1525.5	5.00	0.862	24.21	24.79	5.59	5.40	
+Vrica	NaN	NaN	NaN	NaN	NaN	1	NaN	1529.3	5.00	0.828	23.21	23.76	4.56	4.37	
+Vrica	NaN	NaN	NaN	NaN	NaN	1.5	NaN	1533.0	5.00	0.768	21.43	21.93	2.73	2.53	
+Vrica	NaN	NaN	NaN	NaN	NaN	2	NaN	1536.8	5.00	0.769	21.48	21.98	2.78	2.59	
+Vrica	NaN	NaN	NaN	NaN	NaN	2.5	NaN	1540.5	5.00	0.760	21.20	21.69	2.49	2.30	
+Vrica	NaN	NaN	NaN	NaN	NaN	3	NaN	1544.3	5.00	0.760	21.20	21.69	2.49	2.30	
+Vrica	NaN	NaN	NaN	NaN	NaN	3	NaN	1544.3	5.00	0.767	21.41	21.91	2.71	2.51	
+Vrica	NaN	NaN	NaN	NaN	NaN	3.5	NaN	1548.0	5.00	0.714	19.85	20.30	1.10	0.91	
+Vrica	NaN	NaN	NaN	NaN	NaN	4	NaN	1550.7	5.00	0.776	21.69	22.20	3.00	2.80	
+Vrica	NaN	NaN	NaN	NaN	NaN	4.5	NaN	1553.4	5.00	0.600	16.49	16.84	-2.36	-2.56	
+Vrica	NaN	NaN	NaN	NaN	NaN	5	NaN	1556.1	5.00	0.743	20.70	21.18	1.98	1.78	
+Vrica	NaN	NaN	NaN	NaN	NaN	5.5	NaN	1558.9	5.00	0.769	21.47	21.97	2.77	2.57	
+Vrica	NaN	NaN	NaN	NaN	NaN	6	NaN	1561.6	5.00	0.800	22.38	22.91	3.71	3.51	
+Vrica	NaN	NaN	NaN	NaN	NaN	6.5	NaN	1564.3	5.00	0.846	23.73	24.30	5.10	4.90	
+Vrica	NaN	NaN	NaN	NaN	NaN	7	NaN	1567.0	5.00	0.904	25.45	26.07	6.87	6.67	
+Vrica	NaN	NaN	NaN	NaN	NaN	8	NaN	1572.5	5.00	0.875	24.59	25.18	5.98	5.79	
+Vrica	NaN	NaN	NaN	NaN	NaN	8.5	NaN	1575.3	5.00	0.788	22.02	22.54	3.34	3.14	
+Vrica	NaN	NaN	NaN	NaN	NaN	8.5	NaN	1575.3	5.00	0.787	21.99	22.50	3.30	3.11	
+Vrica	NaN	NaN	NaN	NaN	NaN	9	NaN	1578.0	5.00	0.779	21.77	22.28	3.08	2.88	
+Vrica	NaN	NaN	NaN	NaN	NaN	9.5	NaN	1580.8	5.00	0.723	20.12	20.58	1.38	1.18	
+Vrica	NaN	NaN	NaN	NaN	NaN	10	NaN	1583.5	5.00	0.745	20.77	21.25	2.05	1.85	
+Vrica	NaN	NaN	NaN	NaN	NaN	10.5	NaN	1586.3	5.00	0.777	21.72	22.23	3.03	2.83	
+Vrica	NaN	NaN	NaN	NaN	NaN	11	NaN	1589.0	5.00	0.730	20.32	20.78	1.58	1.38	
+Vrica	NaN	NaN	NaN	NaN	NaN	11.5	NaN	1591.0	5.00	0.613	16.88	17.24	-1.96	-2.16	
+Vrica	NaN	NaN	NaN	NaN	NaN	12	NaN	1593.0	5.00	0.753	21.00	21.48	2.28	2.08	
+Vrica	NaN	NaN	NaN	NaN	NaN	12.5	NaN	1595.0	5.00	0.766	21.37	21.87	2.67	2.47	
+Vrica	NaN	NaN	NaN	NaN	NaN	13	NaN	1597.0	5.00	0.787	22.01	22.53	3.33	3.12	
+Vrica	NaN	NaN	NaN	NaN	NaN	13.5	NaN	1599.0	5.00	0.771	21.53	22.03	2.83	2.63	
+Vrica	NaN	NaN	NaN	NaN	NaN	14	NaN	1601.0	5.00	0.811	22.72	23.26	4.06	3.86	
+Vrica	NaN	NaN	NaN	NaN	NaN	14.5	NaN	1603.0	5.00	0.856	24.03	24.61	5.41	5.20	
+Vrica	NaN	NaN	NaN	NaN	NaN	15	NaN	1605.0	5.00	0.864	24.25	24.83	5.63	5.43	
+Vrica	NaN	NaN	NaN	NaN	NaN	15.5	NaN	1607.0	5.00	0.813	22.75	23.29	4.09	3.89	
+Vrica	NaN	NaN	NaN	NaN	NaN	16.5	NaN	1610.8	5.00	0.755	21.06	21.55	2.35	2.14	
+Vrica	NaN	NaN	NaN	NaN	NaN	17.5	NaN	1614.6	5.00	0.763	21.29	21.78	2.58	2.38	
+Vrica	NaN	NaN	NaN	NaN	NaN	18.5	NaN	1618.4	5.00	0.763	21.28	21.77	2.57	2.37	
+Vrica	NaN	NaN	NaN	NaN	NaN	19.5	NaN	1622.2	5.00	0.788	22.04	22.56	3.36	3.15	
+Vrica	NaN	NaN	NaN	NaN	NaN	20.5	NaN	1626.0	5.00	0.740	20.63	21.10	1.90	1.70	
+Vrica	NaN	NaN	NaN	NaN	NaN	21.5	NaN	1628.4	5.00	0.735	20.48	20.95	1.75	1.54	
+Vrica	NaN	NaN	NaN	NaN	NaN	22.5	NaN	1630.8	5.00	0.710	19.73	20.18	0.98	0.77	
+Vrica	NaN	NaN	NaN	NaN	NaN	23.5	NaN	1633.1	5.00	0.728	20.25	20.71	1.51	1.31	
+Vrica	NaN	NaN	NaN	NaN	NaN	24.5	NaN	1635.5	5.00	0.567	15.54	15.86	-3.34	-3.55	
+Vrica	NaN	NaN	NaN	NaN	NaN	25.5	NaN	1637.9	5.00	0.593	16.29	16.63	-2.57	-2.77	
+Vrica	NaN	NaN	NaN	NaN	NaN	26.5	NaN	1640.3	5.00	0.717	19.95	20.40	1.20	1.00	
+Vrica	NaN	NaN	NaN	NaN	NaN	27.5	NaN	1642.6	5.00	0.789	22.06	22.58	3.38	3.17	
+Vrica	NaN	NaN	NaN	NaN	NaN	28.5	NaN	1645.0	5.00	0.767	21.40	21.90	2.70	2.49	
+Vrica	NaN	NaN	NaN	NaN	NaN	29.5	NaN	1646.7	5.00	0.832	23.32	23.88	4.68	4.47	
+Vrica	NaN	NaN	NaN	NaN	NaN	31.5	NaN	1650.2	5.00	0.840	23.55	24.11	4.91	4.70	
+Vrica	NaN	NaN	NaN	NaN	NaN	32.5	NaN	1652.0	5.00	0.830	23.27	23.82	4.62	4.42	
+Vrica	NaN	NaN	NaN	NaN	NaN	33.5	NaN	1653.7	5.00	0.826	23.15	23.70	4.50	4.29	
+Vrica	NaN	NaN	NaN	NaN	NaN	34.5	NaN	1655.5	5.00	0.853	23.94	24.51	5.31	5.11	
+Vrica	NaN	NaN	NaN	NaN	NaN	35.5	NaN	1657.2	5.00	0.854	23.98	24.56	5.36	5.15	
+Vrica	NaN	NaN	NaN	NaN	NaN	36.5	NaN	1658.9	5.00	0.757	21.12	21.61	2.41	2.20	
+Vrica	NaN	NaN	NaN	NaN	NaN	37.5	NaN	1660.7	5.00	0.635	17.53	17.91	-1.29	-1.50	
+Vrica	NaN	NaN	NaN	NaN	NaN	38	NaN	1661.6	5.00	0.647	17.89	18.28	-0.92	-1.13	
+Vrica	NaN	NaN	NaN	NaN	NaN	38.5	NaN	1662.4	5.00	0.630	17.37	17.74	-1.46	-1.66	
+Vrica	NaN	NaN	NaN	NaN	NaN	39	NaN	1663.3	5.00	0.595	16.35	16.69	-2.51	-2.72	
+Vrica	NaN	NaN	NaN	NaN	NaN	39.5	NaN	1664.2	5.00	0.608	16.73	17.09	-2.11	-2.32	
+Vrica	NaN	NaN	NaN	NaN	NaN	40	NaN	1665.0	5.00	0.597	16.42	16.77	-2.43	-2.64	
+Vrica	NaN	NaN	NaN	NaN	NaN	40.25	NaN	1665.5	5.00	0.609	16.76	17.12	-2.08	-2.29	
+Vrica	NaN	NaN	NaN	NaN	NaN	40.35	NaN	1665.7	5.00	0.742	20.68	21.16	1.96	1.75	
+Vrica	NaN	NaN	NaN	NaN	NaN	40.55	NaN	1666.0	5.00	0.672	18.62	19.03	-0.17	-0.38	
+Vrica	NaN	NaN	NaN	NaN	NaN	40.75	NaN	1668.7	5.00	0.733	20.41	20.88	1.68	1.47	
+Vrica	NaN	NaN	NaN	NaN	NaN	41	NaN	1672.1	5.00	0.531	14.48	14.77	-4.43	-4.64	
+Vrica	NaN	NaN	NaN	NaN	NaN	41.5	NaN	1678.8	5.00	0.757	21.11	21.60	2.40	2.19	
+Vrica	NaN	NaN	NaN	NaN	NaN	42	NaN	1685.5	5.00	0.650	17.97	18.36	-0.84	-1.05	
+Vrica	NaN	NaN	NaN	NaN	NaN	42.5	NaN	1692.3	5.00	0.742	20.69	21.17	1.97	1.75	
+Vrica	NaN	NaN	NaN	NaN	NaN	43	NaN	1699.0	5.00	0.745	20.75	21.23	2.03	1.81	
+Vrica	NaN	NaN	NaN	NaN	NaN	43.5	NaN	1703.0	5.00	0.582	15.96	16.29	-2.91	-3.12	
+Vrica	NaN	NaN	NaN	NaN	NaN	44	NaN	1707.0	5.00	0.714	19.85	20.30	1.10	0.88	
+Vrica	NaN	NaN	NaN	NaN	NaN	44.5	NaN	1711.0	5.00	0.746	20.79	21.27	2.07	1.85	
+Vrica	NaN	NaN	NaN	NaN	NaN	45	NaN	1715.0	5.00	0.811	22.71	23.25	4.05	3.83	
+Vrica	NaN	NaN	NaN	NaN	NaN	45.5	NaN	1719.0	5.00	0.837	23.48	24.04	4.84	4.62	
+Vrica	NaN	NaN	NaN	NaN	NaN	46	NaN	1720.9	5.00	0.651	17.99	18.38	-0.82	-1.03	
+Vrica	NaN	NaN	NaN	NaN	NaN	46.5	NaN	1722.8	5.00	0.562	15.39	15.70	-3.50	-3.72	
+Vrica	NaN	NaN	NaN	NaN	NaN	47	NaN	1724.7	5.00	0.702	19.49	19.93	0.73	0.52	
+Vrica	NaN	NaN	NaN	NaN	NaN	47.5	NaN	1726.6	5.00	0.694	19.25	19.68	0.48	0.26	
+Vrica	NaN	NaN	NaN	NaN	NaN	48	NaN	1728.5	5.00	0.727	20.24	20.70	1.50	1.28	
+Vrica	NaN	NaN	NaN	NaN	NaN	48.5	NaN	1730.5	5.00	0.746	20.78	21.26	2.06	1.84	
+Vrica	NaN	NaN	NaN	NaN	NaN	49	NaN	1732.4	5.00	0.773	21.60	22.10	2.90	2.68	
+Vrica	NaN	NaN	NaN	NaN	NaN	49.5	NaN	1734.3	5.00	0.771	21.54	22.04	2.84	2.62	
+Vrica	NaN	NaN	NaN	NaN	NaN	50	NaN	1736.2	5.00	0.793	22.17	22.69	3.49	3.27	
+Vrica	NaN	NaN	NaN	NaN	NaN	50.5	NaN	1738.1	5.00	0.787	21.99	22.50	3.30	3.09	
+Vrica	NaN	NaN	NaN	NaN	NaN	51	NaN	1740.0	5.00	0.858	24.08	24.66	5.46	5.24	
+Vrica	NaN	NaN	NaN	NaN	NaN	51.5	NaN	1741.8	5.00	0.812	22.73	23.27	4.07	3.85	
+Vrica	NaN	NaN	NaN	NaN	NaN	52.5	NaN	1745.5	5.00	0.687	19.06	19.48	0.28	0.06	
+Vrica	NaN	NaN	NaN	NaN	NaN	53	NaN	1747.3	5.00	0.604	16.61	16.96	-2.24	-2.46	
+Vrica	NaN	NaN	NaN	NaN	NaN	53.5	NaN	1749.1	5.00	0.635	17.54	17.92	-1.28	-1.50	
+Vrica	NaN	NaN	NaN	NaN	NaN	54	NaN	1750.9	5.00	0.733	20.41	20.88	1.68	1.46	
+Vrica	NaN	NaN	NaN	NaN	NaN	54.5	NaN	1752.7	5.00	0.760	21.22	21.71	2.51	2.29	
+Vrica	NaN	NaN	NaN	NaN	NaN	55	NaN	1754.5	5.00	0.556	15.21	15.52	-3.68	-3.90	
+Vrica	NaN	NaN	NaN	NaN	NaN	55.5	NaN	1756.4	5.00	0.720	20.03	20.49	1.29	1.06	
+Vrica	NaN	NaN	NaN	NaN	NaN	56	NaN	1758.2	5.00	0.783	21.89	22.40	3.20	2.98	
+Vrica	NaN	NaN	NaN	NaN	NaN	56.5	NaN	1760.0	5.00	0.840	23.56	24.12	4.92	4.70	
+Vrica	NaN	NaN	NaN	NaN	NaN	57.1	NaN	1762.0	5.00	0.715	19.88	20.33	1.13	0.91	
+Vrica	NaN	NaN	NaN	NaN	NaN	57.5	NaN	1763.3	5.00	0.753	21.00	21.48	2.28	2.06	
+Vrica	NaN	NaN	NaN	NaN	NaN	58.5	NaN	1766.6	5.00	0.785	21.94	22.45	3.25	3.03	
+Vrica	NaN	NaN	NaN	NaN	NaN	60.5	NaN	1773.1	5.00	0.831	23.29	23.84	4.64	4.42	
+Vrica	NaN	NaN	NaN	NaN	NaN	62.5	NaN	1779.7	5.00	0.799	22.34	22.87	3.67	3.44	
+Vrica	NaN	NaN	NaN	NaN	NaN	63.5	NaN	1783.0	5.00	0.790	22.09	22.61	3.41	3.18	
+Vrica	NaN	NaN	NaN	NaN	NaN	64.5	NaN	1786.1	5.00	0.786	21.96	22.47	3.27	3.05	
+Vrica	NaN	NaN	NaN	NaN	NaN	65.5	NaN	1789.3	5.00	0.660	18.27	18.67	-0.53	-0.75	
+Vrica	NaN	NaN	NaN	NaN	NaN	66.5	NaN	1792.4	5.00	0.537	14.65	14.94	-4.26	-4.48	
+Vrica	NaN	NaN	NaN	NaN	NaN	67.5	NaN	1795.5	5.00	0.664	18.39	18.80	-0.40	-0.63	
+Vrica	NaN	NaN	NaN	NaN	NaN	68.5	NaN	1798.7	5.00	0.526	14.32	14.60	-4.60	-4.82	
+Vrica	NaN	NaN	NaN	NaN	NaN	69.5	NaN	1801.8	5.00	0.749	20.89	21.37	2.17	1.94	
+Vrica	NaN	NaN	NaN	NaN	NaN	70.5	NaN	1804.9	5.00	0.747	20.83	21.31	2.11	1.88	
+Vrica	NaN	NaN	NaN	NaN	NaN	71.5	NaN	1808.1	5.00	0.861	24.18	24.76	5.56	5.33	
+Vrica	NaN	NaN	NaN	NaN	NaN	72.25	NaN	1810.4	5.00	0.910	25.62	26.24	7.04	6.82	
+Vrica	NaN	NaN	NaN	NaN	NaN	72.75	NaN	1812.0	5.00	0.867	24.36	24.95	5.75	5.52	
+Vrica	NaN	NaN	NaN	NaN	NaN	73.5	NaN	1813.5	5.00	0.895	25.18	25.79	6.59	6.36	
+Vrica	NaN	NaN	NaN	NaN	NaN	74.5	NaN	1815.6	5.00	0.891	25.06	25.67	6.47	6.24	
+Vrica	NaN	NaN	NaN	NaN	NaN	75.5	NaN	1817.6	5.00	0.645	17.81	18.20	-1.00	-1.23	
+Vrica	NaN	NaN	NaN	NaN	NaN	76.5	NaN	1819.7	5.00	0.810	22.66	23.20	4.00	3.77	
+Vrica	NaN	NaN	NaN	NaN	NaN	77.5	NaN	1821.7	5.00	0.924	26.02	26.65	7.45	7.22	
+Vrica	NaN	NaN	NaN	NaN	NaN	78.5	NaN	1823.8	5.00	0.913	25.70	26.33	7.13	6.90	
+Vrica	NaN	NaN	NaN	NaN	NaN	79.5	NaN	1825.8	5.00	0.888	24.98	25.59	6.39	6.15	
+Vrica	NaN	NaN	NaN	NaN	NaN	80.5	NaN	1827.9	5.00	0.834	23.37	23.93	4.73	4.50	
+Vrica	NaN	NaN	NaN	NaN	NaN	81.5	NaN	1829.9	5.00	0.925	26.07	26.71	7.51	7.28	
+Vrica	NaN	NaN	NaN	NaN	NaN	82.25	NaN	1831.4	5.00	0.900	25.31	25.93	6.73	6.49	
+Vrica	NaN	NaN	NaN	NaN	NaN	82.75	NaN	1832.5	5.00	0.875	24.59	25.18	5.98	5.75	
+Vrica	NaN	NaN	NaN	NaN	NaN	83.5	NaN	1834.0	5.00	0.892	25.09	25.70	6.50	6.26	
+Vrica	NaN	NaN	NaN	NaN	NaN	84.5	NaN	1836.0	5.00	0.701	19.48	19.92	0.72	0.49	
+Vrica	NaN	NaN	NaN	NaN	NaN	85.5	NaN	1838.0	5.00	0.651	18.01	18.40	-0.80	-1.03	
+Vrica	NaN	NaN	NaN	NaN	NaN	86.5	NaN	1840.0	5.00	0.595	16.34	16.68	-2.52	-2.75	
+Vrica	NaN	NaN	NaN	NaN	NaN	87.5	NaN	1842.0	5.00	0.581	15.93	16.26	-2.94	-3.17	
+Vrica	NaN	NaN	NaN	NaN	NaN	88.5	NaN	1844.0	5.00	0.772	21.56	22.06	2.86	2.63	
+Vrica	NaN	NaN	NaN	NaN	NaN	89.5	NaN	1846.0	5.00	0.782	21.86	22.37	3.17	2.94	
+Vrica	NaN	NaN	NaN	NaN	NaN	90.5	NaN	1848.0	5.00	0.791	22.13	22.64	3.44	3.21	
+Vrica	NaN	NaN	NaN	NaN	NaN	91.5	NaN	1850.0	5.00	0.850	23.84	24.41	5.21	4.98	
+Vrica	NaN	NaN	NaN	NaN	NaN	92.5	NaN	1852.0	5.00	0.858	24.08	24.66	5.46	5.22	
+Vrica	NaN	NaN	NaN	NaN	NaN	93.5	NaN	1854.0	5.00	0.918	25.85	26.48	7.28	7.05	
+Vrica	NaN	NaN	NaN	NaN	NaN	94.5	NaN	1855.7	5.00	0.809	22.64	23.17	3.97	3.74	
+Vrica	NaN	NaN	NaN	NaN	NaN	95.5	NaN	1857.4	5.00	0.771	21.52	22.02	2.82	2.58	
+Vrica	NaN	NaN	NaN	NaN	NaN	95.5	NaN	1857.4	5.00	0.773	21.58	22.08	2.88	2.65	
+Vrica	NaN	NaN	NaN	NaN	NaN	96.5	NaN	1859.1	5.00	0.820	22.96	23.50	4.30	4.07	
+Vrica	NaN	NaN	NaN	NaN	NaN	97.5	NaN	1860.8	5.00	0.813	22.77	23.31	4.11	3.87	
+Vrica	NaN	NaN	NaN	NaN	NaN	100.5	NaN	1865.8	5.00	0.869	24.41	25.00	5.80	5.56	
+Vrica	NaN	NaN	NaN	NaN	NaN	101.5	NaN	1867.5	5.00	0.771	21.53	22.03	2.83	2.59	
+Vrica	NaN	NaN	NaN	NaN	NaN	102.5	NaN	1869.2	5.00	0.783	21.89	22.40	3.20	2.97	
+Vrica	NaN	NaN	NaN	NaN	NaN	103.5	NaN	1870.9	5.00	0.801	22.40	22.93	3.73	3.49	
+Vrica	NaN	NaN	NaN	NaN	NaN	104.5	NaN	1872.6	5.00	0.837	23.48	24.04	4.84	4.61	
+Vrica	NaN	NaN	NaN	NaN	NaN	105.5	NaN	1874.3	5.00	0.854	23.96	24.54	5.34	5.10	
+Vrica	NaN	NaN	NaN	NaN	NaN	106.5	NaN	1876.0	5.00	0.870	24.43	25.02	5.82	5.58	
+Vrica	NaN	NaN	NaN	NaN	NaN	107.5	NaN	1877.7	5.00	0.808	22.60	23.14	3.94	3.70	
+Vrica	NaN	NaN	NaN	NaN	NaN	108.5	NaN	1879.3	5.00	0.823	23.06	23.61	4.41	4.17	
+Vrica	NaN	NaN	NaN	NaN	NaN	109.5	NaN	1881.0	5.00	0.861	24.16	24.75	5.55	5.31	
+SN	NaN	NaN	NaN	NaN	NaN	0	NaN	1909.5	5.00	0.930	26.21	26.85	7.65	7.41	
+SN	NaN	NaN	NaN	NaN	NaN	0.33	NaN	1911.3	5.00	0.879	24.71	25.31	6.11	5.87	
+SN	NaN	NaN	NaN	NaN	NaN	0.67	NaN	1913.2	5.00	0.872	24.49	25.08	5.88	5.64	
+SN	NaN	NaN	NaN	NaN	NaN	1	NaN	1915.0	5.00	0.868	24.38	24.97	5.77	5.52	
+SN	NaN	NaN	NaN	NaN	NaN	1.33	NaN	1916.8	5.00	0.856	24.02	24.60	5.40	5.15	
+SN	NaN	NaN	NaN	NaN	NaN	1.67	NaN	1918.7	5.00	0.869	24.42	25.01	5.81	5.57	
+SN	NaN	NaN	NaN	NaN	NaN	2	NaN	1920.5	5.00	0.874	24.55	25.14	5.94	5.70	
+SN	NaN	NaN	NaN	NaN	NaN	2.33	NaN	1922.3	5.00	0.899	25.28	25.89	6.69	6.45	
+SN	NaN	NaN	NaN	NaN	NaN	2.67	NaN	1924.2	5.00	0.919	25.89	26.52	7.32	7.08	
+SN	NaN	NaN	NaN	NaN	NaN	3	NaN	1926.0	5.00	0.878	24.67	25.27	6.07	5.82	
+SN	NaN	NaN	NaN	NaN	NaN	3.33	NaN	1927.8	5.00	0.916	25.79	26.42	7.22	6.98	
+SN	NaN	NaN	NaN	NaN	NaN	3.67	NaN	1929.7	5.00	0.881	24.75	25.35	6.15	5.90	
+SN	NaN	NaN	NaN	NaN	NaN	4	NaN	1931.5	5.00	0.884	24.86	25.46	6.26	6.02	
+SN	NaN	NaN	NaN	NaN	NaN	4.33	NaN	1933.3	5.00	0.892	25.10	25.71	6.51	6.26	
+SN	NaN	NaN	NaN	NaN	NaN	4.67	NaN	1935.2	5.00	0.899	25.29	25.90	6.70	6.46	
+SN	NaN	NaN	NaN	NaN	NaN	5	NaN	1937.0	5.00	0.906	25.49	26.11	6.91	6.67	
+SN	NaN	NaN	NaN	NaN	NaN	5.33	NaN	1938.8	5.00	0.926	26.08	26.72	7.52	7.27	
+SN	NaN	NaN	NaN	NaN	NaN	5.67	NaN	1940.7	5.00	0.922	25.97	26.61	7.41	7.16	
+SN	NaN	NaN	NaN	NaN	NaN	6	NaN	1942.5	5.00	0.927	26.11	26.75	7.55	7.30	
+SN	NaN	NaN	NaN	NaN	NaN	6.33	NaN	1944.3	5.00	0.921	25.94	26.57	7.37	7.13	
+SN	NaN	NaN	NaN	NaN	NaN	6.67	NaN	1946.2	5.00	0.925	26.05	26.69	7.49	7.24	
+SN	NaN	NaN	NaN	NaN	NaN	7	NaN	1948.0	5.00	0.917	25.83	26.46	7.26	7.01	
+SN	NaN	NaN	NaN	NaN	NaN	7.33	NaN	1949.7	5.00	0.899	25.28	25.89	6.69	6.45	
+SN	NaN	NaN	NaN	NaN	NaN	7.67	NaN	1951.5	5.00	0.839	23.52	24.08	4.88	4.63	
+SN	NaN	NaN	NaN	NaN	NaN	8	NaN	1953.3	5.00	0.872	24.51	25.10	5.90	5.65	
+SN	NaN	NaN	NaN	NaN	NaN	8.33	NaN	1955.0	5.00	0.872	24.49	25.08	5.88	5.63	
+SN	NaN	NaN	NaN	NaN	NaN	8.67	NaN	1956.8	5.00	0.828	23.21	23.76	4.56	4.31	
+SN	NaN	NaN	NaN	NaN	NaN	9	NaN	1958.5	5.00	0.839	23.52	24.08	4.88	4.63	
+SN	NaN	NaN	NaN	NaN	NaN	9.33	NaN	1960.3	5.00	0.857	24.06	24.64	5.44	5.19	
+SN	NaN	NaN	NaN	NaN	NaN	9.7	NaN	1962.2	5.00	0.882	24.80	25.40	6.20	5.95	
+SN	NaN	NaN	NaN	NaN	NaN	10	NaN	1963.8	5.00	0.889	24.99	25.60	6.40	6.15	
+SN	NaN	NaN	NaN	NaN	NaN	10.33	NaN	1965.5	5.00	0.847	23.76	24.33	5.13	4.88	
+SN	NaN	NaN	NaN	NaN	NaN	10.67	NaN	1967.3	5.00	0.907	25.53	26.15	6.95	6.70	
+SN	NaN	NaN	NaN	NaN	NaN	11	NaN	1969.8	5.00	0.927	26.13	26.77	7.57	7.32	
+SN	NaN	NaN	NaN	NaN	NaN	11.33	NaN	1972.8	5.00	0.850	23.86	24.43	5.23	4.98	
+SN	NaN	NaN	NaN	NaN	NaN	11.67	NaN	1975.9	5.00	0.882	24.78	25.38	6.18	5.93	
+SN	NaN	NaN	NaN	NaN	NaN	12	NaN	1978.9	5.00	0.883	24.83	25.43	6.23	5.98	
+SN	NaN	NaN	NaN	NaN	NaN	12.33	NaN	1981.9	5.00	0.907	25.52	26.14	6.94	6.69	
+SN	NaN	NaN	NaN	NaN	NaN	12.67	NaN	1985.0	5.00	0.904	25.44	26.06	6.86	6.61	
+SN	NaN	NaN	NaN	NaN	NaN	13	NaN	1988.0	5.00	0.868	24.39	24.98	5.78	5.53	
+SN	NaN	NaN	NaN	NaN	NaN	13.33	NaN	1991.0	5.00	0.835	23.42	23.98	4.78	4.53	
+SN	NaN	NaN	NaN	NaN	NaN	13.67	NaN	1994.1	5.00	0.844	23.69	24.26	5.06	4.80	
+SN	NaN	NaN	NaN	NaN	NaN	14	NaN	1997.1	5.00	0.780	21.79	22.30	3.10	2.85	
+SN	NaN	NaN	NaN	NaN	NaN	14.33	NaN	2000.1	5.00	0.793	22.18	22.70	3.50	3.25	
+SN	NaN	NaN	NaN	NaN	NaN	14.67	NaN	2003.1	5.00	0.848	23.79	24.36	5.16	4.91	
+SN	NaN	NaN	NaN	NaN	NaN	15	NaN	2006.1	5.00	0.798	22.33	22.86	3.66	3.40	
+SN	NaN	NaN	NaN	NaN	NaN	15.33	NaN	2009.1	5.00	0.803	22.47	23.00	3.80	3.54	
+SN	NaN	NaN	NaN	NaN	NaN	15.67	NaN	2012.2	5.00	0.847	23.75	24.32	5.12	4.86	
+SN	NaN	NaN	NaN	NaN	NaN	16	NaN	2015.2	5.00	0.883	24.82	25.42	6.22	5.97	
+SN	NaN	NaN	NaN	NaN	NaN	16.33	NaN	2018.2	5.00	0.908	25.56	26.18	6.98	6.73	
+SN	NaN	NaN	NaN	NaN	NaN	16.67	NaN	2021.3	5.00	0.901	25.36	25.98	6.78	6.52	
+SN	NaN	NaN	NaN	NaN	NaN	17	NaN	2024.3	5.00	0.876	24.61	25.20	6.00	5.75	
+SN	NaN	NaN	NaN	NaN	NaN	17.33	NaN	2027.3	5.00	0.877	24.66	25.26	6.06	5.80	
+SN	NaN	NaN	NaN	NaN	NaN	17.67	NaN	2030.4	5.00	0.879	24.70	25.30	6.10	5.84	
+SN	NaN	NaN	NaN	NaN	NaN	18	NaN	2033.4	5.00	0.868	24.38	24.97	5.77	5.51	
+SN	NaN	NaN	NaN	NaN	NaN	18.33	NaN	2036.4	5.00	0.871	24.46	25.05	5.85	5.59	
+SN	NaN	NaN	NaN	NaN	NaN	18.67	NaN	2039.5	5.00	0.883	24.82	25.42	6.22	5.96	
+SN	NaN	NaN	NaN	NaN	NaN	19	NaN	2042.7	5.00	0.872	24.49	25.08	5.88	5.62	
+SN	NaN	NaN	NaN	NaN	NaN	19.33	NaN	2047.4	5.00	0.883	24.81	25.41	6.21	5.95	
+SN	NaN	NaN	NaN	NaN	NaN	19.67	NaN	2052.2	5.00	0.844	23.68	24.25	5.05	4.79	
+SN	NaN	NaN	NaN	NaN	NaN	20	NaN	2056.3	5.00	0.719	20.01	20.46	1.26	1.00	
+SN	NaN	NaN	NaN	NaN	NaN	20.33	NaN	2060.1	5.00	0.702	19.49	19.93	0.73	0.47	
+SN	NaN	NaN	NaN	NaN	NaN	20.67	NaN	2064.1	5.00	0.716	19.92	20.37	1.17	0.91	
+SN	NaN	NaN	NaN	NaN	NaN	21	NaN	2067.9	5.00	0.716	19.91	20.36	1.16	0.90	
+SN	NaN	NaN	NaN	NaN	NaN	21.33	NaN	2071.7	5.00	0.704	19.57	20.01	0.81	0.55	
+SN	NaN	NaN	NaN	NaN	NaN	21.67	NaN	2075.7	5.00	0.726	20.21	20.67	1.47	1.21	
+SN	NaN	NaN	NaN	NaN	NaN	22	NaN	2079.9	5.00	0.722	20.08	20.54	1.34	1.07	
+SN	NaN	NaN	NaN	NaN	NaN	22.33	NaN	2084.1	5.00	0.701	19.47	19.91	0.71	0.44	
+SN	NaN	NaN	NaN	NaN	NaN	22.67	NaN	2088.5	5.00	0.723	20.13	20.59	1.39	1.12	
+SN	NaN	NaN	NaN	NaN	NaN	23	NaN	2092.7	5.00	0.835	23.41	23.97	4.77	4.50	
+SN	NaN	NaN	NaN	NaN	NaN	23.33	NaN	2097.0	5.00	0.890	25.02	25.63	6.43	6.16	
+SN	NaN	NaN	NaN	NaN	NaN	23.67	NaN	2099.5	5.00	0.848	23.79	24.36	5.16	4.89	
+SN	NaN	NaN	NaN	NaN	NaN	24	NaN	2102.0	5.00	0.860	24.16	24.74	5.54	5.27	
+SN	NaN	NaN	NaN	NaN	NaN	24.33	NaN	2104.4	5.00	0.872	24.49	25.08	5.88	5.61	
+SN	NaN	NaN	NaN	NaN	NaN	24.67	NaN	2107.0	5.00	0.826	23.15	23.70	4.50	4.23	
+SN	NaN	NaN	NaN	NaN	NaN	25	NaN	2109.4	5.00	0.875	24.60	25.19	5.99	5.73	
+SN	NaN	NaN	NaN	NaN	NaN	25.5	NaN	2113.2	5.00	0.847	23.77	24.34	5.14	4.87	
+SN	NaN	NaN	NaN	NaN	NaN	26	NaN	2116.9	5.00	0.924	26.02	26.66	7.46	7.19	
+SN	NaN	NaN	NaN	NaN	NaN	26.33	NaN	2121.2	5.00	0.925	26.07	26.71	7.51	7.24	
+SN	NaN	NaN	NaN	NaN	NaN	26.67	NaN	2127.3	5.00	0.870	24.45	25.04	5.84	5.57	
+SN	NaN	NaN	NaN	NaN	NaN	27	NaN	2133.1	5.00	0.907	25.53	26.15	6.95	6.68	
+SN	NaN	NaN	NaN	NaN	NaN	27.33	NaN	2139.0	5.00	0.914	25.74	26.37	7.17	6.90	
+SN	NaN	NaN	NaN	NaN	NaN	27.67	NaN	2145.3	5.00	0.866	24.31	24.90	5.70	5.42	
+SN	NaN	NaN	NaN	NaN	NaN	28	NaN	2151.5	5.00	0.770	21.51	22.01	2.81	2.54	
+SN	NaN	NaN	NaN	NaN	NaN	28.33	NaN	2157.7	5.00	0.806	22.55	23.08	3.88	3.61	
+SN	NaN	NaN	NaN	NaN	NaN	28.67	NaN	2164.0	5.00	0.848	23.78	24.35	5.15	4.87	
+SN	NaN	NaN	NaN	NaN	NaN	29	NaN	2166.2	5.00	0.831	23.28	23.83	4.63	4.36	
+SN	NaN	NaN	NaN	NaN	NaN	29.33	NaN	2168.5	5.00	0.775	21.64	22.14	2.94	2.67	
+SN	NaN	NaN	NaN	NaN	NaN	29.67	NaN	2170.8	5.00	0.774	21.63	22.13	2.93	2.66	
+SN	NaN	NaN	NaN	NaN	NaN	30	NaN	2173.0	5.00	0.814	22.79	23.33	4.13	3.85	
+SN	NaN	NaN	NaN	NaN	NaN	30.33	NaN	2175.2	5.00	0.815	22.83	23.37	4.17	3.89	
+SN	NaN	NaN	NaN	NaN	NaN	30.67	NaN	2177.5	5.00	0.836	23.45	24.01	4.81	4.53	
+SN	NaN	NaN	NaN	NaN	NaN	31	NaN	2179.7	5.00	0.835	23.40	23.96	4.76	4.48	
+SN	NaN	NaN	NaN	NaN	NaN	31.33	NaN	2182.0	5.00	0.881	24.75	25.35	6.15	5.87	
+SN	NaN	NaN	NaN	NaN	NaN	31.67	NaN	2184.3	5.00	0.889	25.00	25.61	6.41	6.13	
+SN	NaN	NaN	NaN	NaN	NaN	32	NaN	2186.5	5.00	0.902	25.38	26.00	6.80	6.52	
+SN	NaN	NaN	NaN	NaN	NaN	32.33	NaN	2188.7	5.00	0.881	24.76	25.36	6.16	5.88	
+SN	NaN	NaN	NaN	NaN	NaN	32.67	NaN	2191.0	5.00	0.876	24.61	25.20	6.00	5.73	
+SN	NaN	NaN	NaN	NaN	NaN	33	NaN	2194.3	5.00	0.875	24.58	25.17	5.97	5.69	
+SN	NaN	NaN	NaN	NaN	NaN	33.33	NaN	2197.6	5.00	0.853	23.94	24.51	5.31	5.03	
+SN	NaN	NaN	NaN	NaN	NaN	33.67	NaN	2201.0	5.00	0.881	24.77	25.37	6.17	5.89	
+SN	NaN	NaN	NaN	NaN	NaN	34	NaN	2204.3	5.00	0.879	24.71	25.31	6.11	5.83	
+SN	NaN	NaN	NaN	NaN	NaN	34.33	NaN	2207.6	5.00	0.893	25.12	25.73	6.53	6.25	
+SN	NaN	NaN	NaN	NaN	NaN	34.67	NaN	2211.0	5.00	0.846	23.74	24.31	5.11	4.83	
+SN	NaN	NaN	NaN	NaN	NaN	35	NaN	2213.6	5.00	0.876	24.62	25.21	6.01	5.73	
+SN	NaN	NaN	NaN	NaN	NaN	35.33	NaN	2216.3	5.00	0.826	23.15	23.70	4.50	4.22	
+SN	NaN	NaN	NaN	NaN	NaN	35.67	NaN	2219.0	5.00	0.906	25.51	26.13	6.93	6.65	
+SN	NaN	NaN	NaN	NaN	NaN	36	NaN	2221.6	5.00	0.919	25.87	26.50	7.30	7.02	
+SN	NaN	NaN	NaN	NaN	NaN	36.33	NaN	2224.3	5.00	0.922	25.97	26.61	7.41	7.12	
+SN	NaN	NaN	NaN	NaN	NaN	36.67	NaN	2227.0	5.00	0.908	25.57	26.19	6.99	6.71	
+SN	NaN	NaN	NaN	NaN	NaN	37	NaN	2229.6	5.00	0.923	26.01	26.65	7.45	7.16	
+SN	NaN	NaN	NaN	NaN	NaN	37.33	NaN	2232.3	5.00	0.895	25.19	25.80	6.60	6.32	
+SN	NaN	NaN	NaN	NaN	NaN	37.67	NaN	2235.5	5.00	0.918	25.84	26.47	7.27	6.99	
+SN	NaN	NaN	NaN	NaN	NaN	38	NaN	2238.7	5.00	0.772	21.57	22.07	2.87	2.59	
+SN	NaN	NaN	NaN	NaN	NaN	38.33	NaN	2241.9	5.00	0.819	22.93	23.47	4.27	3.99	
+SN	NaN	NaN	NaN	NaN	NaN	38.67	NaN	2245.1	5.00	0.853	23.94	24.51	5.31	5.03	
+SN	NaN	NaN	NaN	NaN	NaN	39	NaN	2248.3	5.00	0.861	24.18	24.76	5.56	5.28	
+SN	NaN	NaN	NaN	NaN	NaN	39.33	NaN	2251.4	5.00	0.889	24.99	25.60	6.40	6.11	
+SN	NaN	NaN	NaN	NaN	NaN	39.67	NaN	2254.7	5.00	0.906	25.49	26.11	6.91	6.62	
+SN	NaN	NaN	NaN	NaN	NaN	40	NaN	2258.0	5.00	0.902	25.37	25.99	6.79	6.50	
+SN	NaN	NaN	NaN	NaN	NaN	40.33	NaN	2261.4	5.00	0.900	25.33	25.95	6.75	6.46	
+SN	NaN	NaN	NaN	NaN	NaN	40.67	NaN	2264.8	5.00	0.914	25.73	26.36	7.16	6.87	
+SN	NaN	NaN	NaN	NaN	NaN	41	NaN	2268.2	5.00	0.911	25.65	26.28	7.08	6.79	
+SN	NaN	NaN	NaN	NaN	NaN	41.33	NaN	2271.5	5.00	0.872	24.49	25.08	5.88	5.59	
+SN	NaN	NaN	NaN	NaN	NaN	41.67	NaN	2274.9	5.00	0.886	24.92	25.52	6.32	6.03	
+SN	NaN	NaN	NaN	NaN	NaN	42.17	NaN	2280.0	5.00	0.884	24.86	25.46	6.26	5.97	
+SN	NaN	NaN	NaN	NaN	NaN	42.67	NaN	2284.8	5.00	0.810	22.68	23.22	4.02	3.72	
+SN	NaN	NaN	NaN	NaN	NaN	43	NaN	2288.0	5.00	0.837	23.48	24.04	4.84	4.55	
+SN	NaN	NaN	NaN	NaN	NaN	43.34	NaN	2291.2	5.00	0.848	23.78	24.35	5.15	4.86	
+SN	NaN	NaN	NaN	NaN	NaN	43.67	NaN	2294.4	5.00	0.861	24.18	24.76	5.56	5.27	
+SN	NaN	NaN	NaN	NaN	NaN	44	NaN	2297.6	5.00	0.810	22.69	23.23	4.03	3.73	
+SN	NaN	NaN	NaN	NaN	NaN	44.34	NaN	2300.8	5.00	0.871	24.47	25.06	5.86	5.57	
+SN	NaN	NaN	NaN	NaN	NaN	44.67	NaN	2304.0	5.00	0.881	24.77	25.37	6.17	5.88	
+SN	NaN	NaN	NaN	NaN	NaN	45	NaN	2310.8	5.00	0.823	23.06	23.61	4.41	4.11	
+SN	NaN	NaN	NaN	NaN	NaN	45.34	NaN	2317.7	5.00	0.868	24.38	24.97	5.77	5.47	
+SN	NaN	NaN	NaN	NaN	NaN	45.67	NaN	2324.5	5.00	0.875	24.60	25.19	5.99	5.70	
+SN	NaN	NaN	NaN	NaN	NaN	46	NaN	2331.3	5.00	0.883	24.82	25.42	6.22	5.92	
+SN	NaN	NaN	NaN	NaN	NaN	46.34	NaN	2338.2	5.00	0.875	24.58	25.17	5.97	5.68	
+SN	NaN	NaN	NaN	NaN	NaN	46.67	NaN	2345.0	5.00	0.881	24.75	25.35	6.15	5.85	
+SN	NaN	NaN	NaN	NaN	NaN	47	NaN	2350.2	5.00	0.884	24.86	25.46	6.26	5.96	
+SN	NaN	NaN	NaN	NaN	NaN	47.34	NaN	2355.5	5.00	0.853	23.93	24.50	5.30	5.00	
+SN	NaN	NaN	NaN	NaN	NaN	47.67	NaN	2360.7	5.00	0.768	21.44	21.94	2.74	2.44	
+SN	NaN	NaN	NaN	NaN	NaN	48	NaN	2365.9	5.00	0.791	22.13	22.65	3.45	3.15	
+SN	NaN	NaN	NaN	NaN	NaN	48.34	NaN	2371.3	5.00	0.862	24.20	24.78	5.58	5.28	
+SN	NaN	NaN	NaN	NaN	NaN	48.67	NaN	2376.5	5.00	0.873	24.54	25.13	5.93	5.63	
+SN	NaN	NaN	NaN	NaN	NaN	49	NaN	2381.7	5.00	0.891	25.06	25.67	6.47	6.16	
+SN	NaN	NaN	NaN	NaN	NaN	49.34	NaN	2387.0	5.00	0.900	25.33	25.95	6.75	6.44	
+SN	NaN	NaN	NaN	NaN	NaN	49.67	NaN	2392.3	5.00	0.903	25.41	26.03	6.83	6.52	
+SN	NaN	NaN	NaN	NaN	NaN	50	NaN	2397.6	5.00	0.834	23.39	23.95	4.75	4.44	
+SN	NaN	NaN	NaN	NaN	NaN	50.34	NaN	2403.0	5.00	0.863	24.24	24.82	5.62	5.32	
+SN	NaN	NaN	NaN	NaN	NaN	50.67	NaN	2408.3	5.00	0.879	24.70	25.30	6.10	5.79	
+SN	NaN	NaN	NaN	NaN	NaN	51	NaN	2413.6	5.00	0.813	22.77	23.31	4.11	3.80	
+SN	NaN	NaN	NaN	NaN	NaN	51.34	NaN	2419.0	5.00	0.804	22.49	23.02	3.82	3.51	
+SN	NaN	NaN	NaN	NaN	NaN	51.67	NaN	2423.2	5.00	0.900	25.32	25.94	6.74	6.43	
+SN	NaN	NaN	NaN	NaN	NaN	52	NaN	2427.4	5.00	0.900	25.33	25.95	6.75	6.44	
+SN	NaN	NaN	NaN	NaN	NaN	52.34	NaN	2431.9	5.00	0.921	25.94	26.57	7.37	7.06	
+SN	NaN	NaN	NaN	NaN	NaN	52.67	NaN	2436.3	5.00	0.789	22.06	22.58	3.38	3.07	
+SN	NaN	NaN	NaN	NaN	NaN	53	NaN	2440.7	5.00	0.838	23.50	24.06	4.86	4.55	
+SN	NaN	NaN	NaN	NaN	NaN	53.34	NaN	2445.2	5.00	0.864	24.25	24.83	5.63	5.32	
+SN	NaN	NaN	NaN	NaN	NaN	53.67	NaN	2449.6	5.00	0.867	24.34	24.93	5.73	5.41	
+SN	NaN	NaN	NaN	NaN	NaN	54	NaN	2454.0	5.00	0.899	25.29	25.90	6.70	6.39	
+SN	NaN	NaN	NaN	NaN	NaN	54.34	NaN	2458.4	5.00	0.885	24.89	25.49	6.29	5.98	
+SN	NaN	NaN	NaN	NaN	NaN	54.67	NaN	2462.1	5.00	0.880	24.74	25.34	6.14	5.82	
+SN	NaN	NaN	NaN	NaN	NaN	55	NaN	2465.8	5.00	0.877	24.65	25.25	6.05	5.73	
+SN	NaN	NaN	NaN	NaN	NaN	55.34	NaN	2469.6	5.00	0.890	25.02	25.63	6.43	6.11	
+SN	NaN	NaN	NaN	NaN	NaN	55.67	NaN	2473.3	5.00	0.887	24.94	25.54	6.34	6.03	
+SN	NaN	NaN	NaN	NaN	NaN	56	NaN	2477.0	5.00	0.889	25.01	25.62	6.42	6.10	
+SN	NaN	NaN	NaN	NaN	NaN	56.34	NaN	2480.4	5.00	0.738	20.55	21.02	1.82	1.50	
+SN	NaN	NaN	NaN	NaN	NaN	56.67	NaN	2483.7	5.00	0.833	23.36	23.92	4.72	4.40	
+SN	NaN	NaN	NaN	NaN	NaN	57	NaN	2487.0	5.00	0.836	23.44	24.00	4.80	4.48	
+SN	NaN	NaN	NaN	NaN	NaN	57.34	NaN	2490.4	5.00	0.846	23.74	24.31	5.11	4.79	
+SN	NaN	NaN	NaN	NaN	NaN	57.67	NaN	2493.7	5.00	0.828	23.21	23.76	4.56	4.24	
+SN	NaN	NaN	NaN	NaN	NaN	58	NaN	2497.0	5.00	0.864	24.26	24.84	5.64	5.32	
+SN	NaN	NaN	NaN	NaN	NaN	58.34	NaN	2500.0	5.00	0.879	24.71	25.31	6.11	5.79	
+SN	NaN	NaN	NaN	NaN	NaN	58.67	NaN	2502.2	5.00	0.886	24.90	25.50	6.30	5.98	
+SN	NaN	NaN	NaN	NaN	NaN	59	NaN	2504.4	5.00	0.882	24.79	25.39	6.19	5.87	
+SN	NaN	NaN	NaN	NaN	NaN	59.34	NaN	2506.8	5.00	0.808	22.62	23.15	3.95	3.63	
+SN13A	NaN	NaN	NaN	NaN	NaN	59.61667	NaN	2508.6	5.00	0.746	20.80	21.28	2.08	1.76	
+SN	NaN	NaN	NaN	NaN	NaN	59.67	NaN	2509.0	5.00	0.760	21.20	21.69	2.49	2.17	
+SN13A	NaN	NaN	NaN	NaN	NaN	59.76	NaN	2509.8	5.00	0.724	20.14	20.60	1.40	1.08	
+SN13A	NaN	NaN	NaN	NaN	NaN	59.83167	NaN	2510.4	5.00	0.672	18.61	19.02	-0.18	-0.50	
+SN13A	NaN	NaN	NaN	NaN	NaN	59.90333	NaN	2511.1	5.00	0.712	19.78	20.23	1.03	0.71	
+SN	NaN	NaN	NaN	NaN	NaN	59.975	NaN	2511.7	5.00	0.782	21.85	22.36	3.16	2.84	
+SN	NaN	NaN	NaN	NaN	NaN	60	NaN	2512.0	5.00	0.779	21.75	22.26	3.06	2.74	
+SN13A	NaN	NaN	NaN	NaN	NaN	60.04667	NaN	2512.4	5.00	0.744	20.73	21.21	2.01	1.69	
+SN	NaN	NaN	NaN	NaN	NaN	60.34	NaN	2515.0	5.00	0.752	20.97	21.45	2.25	1.93	
+SN	NaN	NaN	NaN	NaN	NaN	60.67	NaN	2517.9	5.00	0.826	23.16	23.71	4.51	4.19	
+SN	NaN	NaN	NaN	NaN	NaN	61	NaN	2521.2	5.00	0.790	22.09	22.61	3.41	3.09	
+SN	NaN	NaN	NaN	NaN	NaN	61.34	NaN	2525.2	5.00	0.861	24.17	24.75	5.55	5.23	
+SN	NaN	NaN	NaN	NaN	NaN	61.67	NaN	2529.2	5.00	0.834	23.38	23.94	4.74	4.41	
+SN	NaN	NaN	NaN	NaN	NaN	62	NaN	2533.1	5.00	0.857	24.07	24.65	5.45	5.12	
+SN	NaN	NaN	NaN	NaN	NaN	62.34	NaN	2537.2	5.00	0.860	24.16	24.74	5.54	5.22	
+SN	NaN	NaN	NaN	NaN	NaN	62.67	NaN	2541.1	5.00	0.883	24.81	25.41	6.21	5.89	
+SN	NaN	NaN	NaN	NaN	NaN	63	NaN	2545.0	5.00	0.892	25.09	25.70	6.50	6.17	
+SN	NaN	NaN	NaN	NaN	NaN	63.34	NaN	2549.1	5.00	0.899	25.29	25.90	6.70	6.38	
+SN	NaN	NaN	NaN	NaN	NaN	63.67	NaN	2553.3	5.00	0.891	25.05	25.66	6.46	6.13	
+SN	NaN	NaN	NaN	NaN	NaN	64	NaN	2557.5	5.00	0.884	24.84	25.44	6.24	5.91	
+SN	NaN	NaN	NaN	NaN	NaN	64.34	NaN	2561.8	5.00	0.898	25.25	25.86	6.66	6.34	
+SN	NaN	NaN	NaN	NaN	NaN	64.67	NaN	2566.0	5.00	0.903	25.42	26.04	6.84	6.51	
+SN	NaN	NaN	NaN	NaN	NaN	65	NaN	2571.5	5.00	0.908	25.56	26.18	6.98	6.65	
+SN	NaN	NaN	NaN	NaN	NaN	65.34	NaN	2577.1	5.00	0.898	25.27	25.88	6.68	6.35	
+SN	NaN	NaN	NaN	NaN	NaN	65.67	NaN	2582.5	5.00	0.909	25.60	26.22	7.02	6.69	
+SN	NaN	NaN	NaN	NaN	NaN	66	NaN	2588.0	5.00	0.936	26.38	27.03	7.83	7.50	
+PP 1	NaN	NaN	NaN	NaN	NaN	0	NaN	2590.0	5.00	0.915	25.77	26.40	7.20	6.87	
+PP 1	NaN	NaN	NaN	NaN	NaN	0.34	NaN	2592.5	5.00	0.900	25.32	25.94	6.74	6.41	
+SN	NaN	NaN	NaN	NaN	NaN	66.34	NaN	2593.1	5.00	0.918	25.85	26.48	7.28	6.95	
+PP 1	NaN	NaN	NaN	NaN	NaN	0.67	NaN	2594.9	5.00	0.877	24.64	25.24	6.04	5.71	
+PP 1	NaN	NaN	NaN	NaN	NaN	1	NaN	2597.3	5.00	0.879	24.71	25.30	6.10	5.77	
+SN	NaN	NaN	NaN	NaN	NaN	66.67	NaN	2598.0	5.00	0.871	24.48	25.07	5.87	5.54	
+PP 1	NaN	NaN	NaN	NaN	NaN	1.34	NaN	2599.8	5.00	0.822	23.02	23.57	4.37	4.04	
+PP 1	NaN	NaN	NaN	NaN	NaN	1.67	NaN	2602.2	5.00	0.836	23.45	24.01	4.81	4.48	
+SN	NaN	NaN	NaN	NaN	NaN	67	NaN	2603.0	5.00	0.814	22.78	23.32	4.12	3.79	
+PP 1	NaN	NaN	NaN	NaN	NaN	2	NaN	2604.7	5.00	0.831	23.31	23.86	4.66	4.33	
+PP 1	NaN	NaN	NaN	NaN	NaN	2.34	NaN	2607.2	5.00	0.870	24.44	25.03	5.83	5.50	
+SN	NaN	NaN	NaN	NaN	NaN	67.34	NaN	2608.1	5.00	0.875	24.59	25.18	5.98	5.65	
+PP 1	NaN	NaN	NaN	NaN	NaN	2.67	NaN	2609.6	5.00	0.907	25.52	26.14	6.94	6.61	
+PP 1	NaN	NaN	NaN	NaN	NaN	3	NaN	2612.0	5.00	0.908	25.56	26.18	6.98	6.65	
+SN	NaN	NaN	NaN	NaN	NaN	67.67	NaN	2613.0	5.00	0.899	25.30	25.92	6.72	6.38	
+PP 1	NaN	NaN	NaN	NaN	NaN	3.34	NaN	2614.5	5.00	0.886	24.92	25.53	6.33	5.99	
+PP 1	NaN	NaN	NaN	NaN	NaN	3.67	NaN	2616.9	5.00	0.879	24.72	25.32	6.12	5.78	
+SN	NaN	NaN	NaN	NaN	NaN	68	NaN	2618.5	5.00	0.873	24.53	25.12	5.92	5.59	
+PP 1	NaN	NaN	NaN	NaN	NaN	4	NaN	2619.3	5.00	0.874	24.57	25.16	5.96	5.63	
+PP 1	NaN	NaN	NaN	NaN	NaN	4.34	NaN	2621.7	5.00	0.891	25.05	25.66	6.46	6.12	
+PP 1	NaN	NaN	NaN	NaN	NaN	4.67	NaN	2624.1	5.00	0.889	24.99	25.59	6.39	6.06	
+PP 1	NaN	NaN	NaN	NaN	NaN	5	NaN	2626.5	5.00	0.889	25.00	25.60	6.40	6.07	
+PP 1	NaN	NaN	NaN	NaN	NaN	5.34	NaN	2629.0	5.00	0.902	25.38	25.99	6.79	6.46	
+PP 1	NaN	NaN	NaN	NaN	NaN	5.67	NaN	2631.4	5.00	0.906	25.50	26.12	6.92	6.58	
+PP 1	NaN	NaN	NaN	NaN	NaN	6	NaN	2633.8	5.00	0.898	25.28	25.89	6.69	6.35	
+PP 1	NaN	NaN	NaN	NaN	NaN	6.34	NaN	2636.3	5.00	0.910	25.61	26.23	7.03	6.69	
+PP 1	NaN	NaN	NaN	NaN	NaN	6.67	NaN	2638.9	5.00	0.862	24.22	24.80	5.60	5.26	
+PP 1	NaN	NaN	NaN	NaN	NaN	7	NaN	2641.5	5.00	0.872	24.50	25.09	5.89	5.56	
+PP 1	NaN	NaN	NaN	NaN	NaN	7.34	NaN	2644.2	5.00	0.871	24.47	25.06	5.86	5.52	
+PP 1	NaN	NaN	NaN	NaN	NaN	7.67	NaN	2646.8	5.00	0.879	24.70	25.30	6.10	5.76	
+PP 1	NaN	NaN	NaN	NaN	NaN	8	NaN	2649.4	5.00	0.889	24.99	25.60	6.40	6.06	
+PP 1	NaN	NaN	NaN	NaN	NaN	8.34	NaN	2652.1	5.00	0.892	25.09	25.70	6.50	6.16	
+PP 1	NaN	NaN	NaN	NaN	NaN	8.67	NaN	2654.6	5.00	0.875	24.59	25.18	5.98	5.64	
+PP 1	NaN	NaN	NaN	NaN	NaN	9	NaN	2657.2	5.00	0.905	25.47	26.09	6.89	6.55	
+PP 1	NaN	NaN	NaN	NaN	NaN	9.34	NaN	2659.9	5.00	0.938	26.44	27.09	7.89	7.55	
+PP 1	NaN	NaN	NaN	NaN	NaN	9.67	NaN	2664.9	5.00	0.901	25.37	25.98	6.78	6.44	
+PP 1	NaN	NaN	NaN	NaN	NaN	10	NaN	2669.9	5.00	0.911	25.65	26.28	7.08	6.74	
+PP 1	NaN	NaN	NaN	NaN	NaN	10.34	NaN	2675.0	5.00	0.911	25.64	26.26	7.06	6.72	
+PP 1	NaN	NaN	NaN	NaN	NaN	10.67	NaN	2680.0	5.00	0.912	25.68	26.31	7.11	6.77	
+PP 1	NaN	NaN	NaN	NaN	NaN	11	NaN	2683.6	5.00	0.911	25.66	26.28	7.08	6.74	
+PP 1	NaN	NaN	NaN	NaN	NaN	11.34	NaN	2686.3	5.00	0.867	24.35	24.94	5.74	5.40	
+PP 1	NaN	NaN	NaN	NaN	NaN	11.67	NaN	2689.0	5.00	0.854	23.98	24.55	5.35	5.01	
+PP 1	NaN	NaN	NaN	NaN	NaN	12	NaN	2691.6	5.00	0.861	24.16	24.74	5.54	5.20	
+PP 1	NaN	NaN	NaN	NaN	NaN	12.34	NaN	2694.3	5.00	0.899	25.28	25.90	6.70	6.35	
+PP 1	NaN	NaN	NaN	NaN	NaN	12.67	NaN	2697.0	5.00	0.897	25.24	25.85	6.65	6.31	
+PP 1	NaN	NaN	NaN	NaN	NaN	13	NaN	2699.6	5.00	0.903	25.41	26.03	6.83	6.48	
+PP 1	NaN	NaN	NaN	NaN	NaN	13.34	NaN	2702.4	5.00	0.912	25.69	26.31	7.11	6.77	
+PP 1	NaN	NaN	NaN	NaN	NaN	13.84	NaN	2706.4	5.00	0.905	25.46	26.08	6.88	6.53	
+PP 1	NaN	NaN	NaN	NaN	NaN	14.17	NaN	2709.0	5.00	0.910	25.61	26.24	7.04	6.69	
+PP 1	NaN	NaN	NaN	NaN	NaN	14.5	NaN	2711.7	5.00	0.839	23.53	24.09	4.89	4.55	
+PP 1	NaN	NaN	NaN	NaN	NaN	14.84	NaN	2714.5	5.00	0.835	23.40	23.96	4.76	4.41	
+PP 1	NaN	NaN	NaN	NaN	NaN	15.17	NaN	2717.2	5.00	0.824	23.08	23.63	4.43	4.08	
+PP 1	NaN	NaN	NaN	NaN	NaN	15.5	NaN	2719.8	5.00	0.858	24.08	24.66	5.46	5.11	
+PP 1	NaN	NaN	NaN	NaN	NaN	16.17	NaN	2725.3	5.00	0.913	25.72	26.34	7.14	6.79	
+PP 1	NaN	NaN	NaN	NaN	NaN	16.5	NaN	2728.0	5.00	0.930	26.21	26.86	7.66	7.31	
+PP 1	NaN	NaN	NaN	NaN	NaN	16.84	NaN	2730.6	5.00	0.897	25.24	25.86	6.66	6.31	
+PP 1	NaN	NaN	NaN	NaN	NaN	17.17	NaN	2733.2	5.00	0.892	25.09	25.69	6.49	6.14	
+PP 1	NaN	NaN	NaN	NaN	NaN	17.5	NaN	2735.8	5.00	0.910	25.62	26.24	7.04	6.69	
+PP 1	NaN	NaN	NaN	NaN	NaN	17.84	NaN	2738.4	5.00	0.896	25.22	25.83	6.63	6.28	
+PP 1	NaN	NaN	NaN	NaN	NaN	18.17	NaN	2741.0	5.00	0.907	25.53	26.15	6.95	6.60	
+PP 1	NaN	NaN	NaN	NaN	NaN	18.5	NaN	2743.6	5.00	0.914	25.74	26.37	7.17	6.82	
+PP 1	NaN	NaN	NaN	NaN	NaN	18.84	NaN	2746.2	5.00	0.905	25.46	26.08	6.88	6.53	
+PP 1	NaN	NaN	NaN	NaN	NaN	19.17	NaN	2748.8	5.00	0.915	25.78	26.40	7.20	6.85	
+PP 1	NaN	NaN	NaN	NaN	NaN	19.5	NaN	2751.4	5.00	0.908	25.56	26.19	6.99	6.64	
+PP 1	NaN	NaN	NaN	NaN	NaN	19.84	NaN	2754.0	5.00	0.893	25.11	25.72	6.52	6.17	
+PP 1	NaN	NaN	NaN	NaN	NaN	20.17	NaN	2757.7	5.00	0.856	24.03	24.60	5.40	5.05	
+PP 1	NaN	NaN	NaN	NaN	NaN	20.5	NaN	2761.4	5.00	0.888	24.98	25.59	6.39	6.04	
+PP 1	NaN	NaN	NaN	NaN	NaN	20.84	NaN	2765.2	5.00	0.879	24.72	25.32	6.12	5.76	
+PP 1	NaN	NaN	NaN	NaN	NaN	21.5	NaN	2772.5	5.00	0.924	26.03	26.67	7.47	7.11	
+PP 1	NaN	NaN	NaN	NaN	NaN	21.84	NaN	2776.3	5.00	0.922	25.96	26.60	7.40	7.04	
+PP 1	NaN	NaN	NaN	NaN	NaN	22.17	NaN	2780.0	5.00	0.907	25.54	26.16	6.96	6.61	
+PP 1	NaN	NaN	NaN	NaN	NaN	22.5	NaN	2782.0	5.00	0.906	25.51	26.13	6.93	6.57	
+PP 1	NaN	NaN	NaN	NaN	NaN	22.84	NaN	2784.0	5.00	0.905	25.46	26.08	6.88	6.52	
+PP 1	NaN	NaN	NaN	NaN	NaN	23.17	NaN	2786.0	5.00	0.894	25.13	25.74	6.54	6.19	
+PP 1	NaN	NaN	NaN	NaN	NaN	23.5	NaN	2788.0	5.00	0.879	24.72	25.31	6.11	5.76	
+PP 1	NaN	NaN	NaN	NaN	NaN	23.84	NaN	2790.0	5.00	0.904	25.44	26.06	6.86	6.51	
+PP 1	NaN	NaN	NaN	NaN	NaN	24.17	NaN	2792.0	5.00	0.920	25.91	26.55	7.35	6.99	
+PP 1	NaN	NaN	NaN	NaN	NaN	24.5	NaN	2794.0	5.00	0.897	25.22	25.84	6.64	6.28	
+PP 1	NaN	NaN	NaN	NaN	NaN	24.84	NaN	2796.0	5.00	0.910	25.63	26.25	7.05	6.70	
+PP 1	NaN	NaN	NaN	NaN	NaN	25.17	NaN	2802.3	5.00	0.894	25.15	25.76	6.56	6.20	
+PP 1	NaN	NaN	NaN	NaN	NaN	25.5	NaN	2808.5	5.00	0.889	25.00	25.60	6.40	6.04	
+PP 1	NaN	NaN	NaN	NaN	NaN	25.84	NaN	2815.0	5.00	0.887	24.93	25.53	6.33	5.97	
+PP 1	NaN	NaN	NaN	NaN	NaN	26	NaN	2818.0	5.00	0.902	25.38	26.00	6.80	6.44	
+PP 1	NaN	NaN	NaN	NaN	NaN	26.17	NaN	2819.3	5.00	0.929	26.18	26.82	7.62	7.26	
+PP 1	NaN	NaN	NaN	NaN	NaN	26.34	NaN	2820.6	5.00	0.911	25.63	26.26	7.06	6.70	
+PP 1	NaN	NaN	NaN	NaN	NaN	26.67	NaN	2823.2	5.00	0.894	25.16	25.77	6.57	6.21	
+PP 1	NaN	NaN	NaN	NaN	NaN	27	NaN	2825.8	5.00	0.881	24.76	25.36	6.16	5.80	
+PP 1	NaN	NaN	NaN	NaN	NaN	27.34	NaN	2828.4	5.00	0.898	25.27	25.89	6.69	6.32	
+PP 1	NaN	NaN	NaN	NaN	NaN	27.67	NaN	2831.0	5.00	0.895	25.18	25.79	6.59	6.23	
+PP 1	NaN	NaN	NaN	NaN	NaN	28	NaN	2835.3	5.00	0.900	25.32	25.93	6.73	6.37	
+PP 1	NaN	NaN	NaN	NaN	NaN	28.34	NaN	2839.8	5.00	0.919	25.87	26.51	7.31	6.94	
+PP 1	NaN	NaN	NaN	NaN	NaN	28.67	NaN	2844.2	5.00	0.934	26.33	26.98	7.78	7.41	
+PP 1	NaN	NaN	NaN	NaN	NaN	29	NaN	2848.5	5.00	0.936	26.39	27.04	7.84	7.47	
+PP 1	NaN	NaN	NaN	NaN	NaN	29.34	NaN	2853.0	5.00	0.927	26.12	26.76	7.56	7.19	
+PP 1	NaN	NaN	NaN	NaN	NaN	29.67	NaN	2855.3	5.00	0.910	25.62	26.25	7.05	6.68	
+PP 1	NaN	NaN	NaN	NaN	NaN	30	NaN	2857.6	5.00	0.913	25.69	26.32	7.12	6.75	
+PP 1	NaN	NaN	NaN	NaN	NaN	30.34	NaN	2860.0	5.00	0.913	25.69	26.32	7.12	6.75	
+PP 1	NaN	NaN	NaN	NaN	NaN	30.67	NaN	2862.3	5.00	0.905	25.47	26.09	6.89	6.52	
+PP 1	NaN	NaN	NaN	NaN	NaN	31	NaN	2864.6	5.00	0.906	25.49	26.11	6.91	6.54	
+PP 1	NaN	NaN	NaN	NaN	NaN	31.34	NaN	2867.0	5.00	0.897	25.23	25.84	6.64	6.27	
+PP 1	NaN	NaN	NaN	NaN	NaN	31.67	NaN	2869.3	5.00	0.907	25.53	26.16	6.96	6.59	
+PP 1	NaN	NaN	NaN	NaN	NaN	32	NaN	2871.6	5.00	0.913	25.69	26.32	7.12	6.75	
+PP 1	NaN	NaN	NaN	NaN	NaN	32.34	NaN	2874.0	5.00	0.911	25.65	26.28	7.08	6.71	
+PP 1	NaN	NaN	NaN	NaN	NaN	32.67	NaN	2879.6	5.00	0.910	25.61	26.23	7.03	6.66	
+PP 1	NaN	NaN	NaN	NaN	NaN	33	NaN	2885.1	5.00	0.884	24.85	25.45	6.25	5.88	
+PP 1	NaN	NaN	NaN	NaN	NaN	33.34	NaN	2890.9	5.00	0.882	24.81	25.41	6.21	5.83	
+PP 1	NaN	NaN	NaN	NaN	NaN	33.67	NaN	2896.4	5.00	0.885	24.87	25.47	6.27	5.90	
+PP 1	NaN	NaN	NaN	NaN	NaN	34	NaN	2902.0	5.00	0.911	25.64	26.27	7.07	6.69	
+PP 1	NaN	NaN	NaN	NaN	NaN	34.34	NaN	2906.1	5.00	0.905	25.46	26.08	6.88	6.50	
+PP 1	NaN	NaN	NaN	NaN	NaN	34.67	NaN	2910.0	5.00	0.895	25.19	25.80	6.60	6.23	
+PP 1	NaN	NaN	NaN	NaN	NaN	35	NaN	2913.0	5.00	0.899	25.29	25.90	6.70	6.33	
+PP 1	NaN	NaN	NaN	NaN	NaN	35	NaN	2914.0	5.00	0.899	25.29	25.90	6.70	6.33	
+PP 1	NaN	NaN	NaN	NaN	NaN	35.34	NaN	2918.1	5.00	0.908	25.55	26.18	6.98	6.60	
+PP 1	NaN	NaN	NaN	NaN	NaN	35.67	NaN	2922.0	5.00	0.920	25.91	26.54	7.34	6.97	
+PP 1	NaN	NaN	NaN	NaN	NaN	36	NaN	2926.0	5.00	0.937	26.43	27.08	7.88	7.50	
+PP 1	NaN	NaN	NaN	NaN	NaN	36.34	NaN	2928.9	5.00	0.865	24.29	24.87	5.67	5.29	
+PP 1	NaN	NaN	NaN	NaN	NaN	36.67	NaN	2931.7	5.00	0.851	23.88	24.45	5.25	4.87	
+PP 1	NaN	NaN	NaN	NaN	NaN	37	NaN	2934.5	5.00	0.873	24.52	25.11	5.91	5.53	
+PP 1	NaN	NaN	NaN	NaN	NaN	37.34	NaN	2937.5	5.00	0.899	25.29	25.90	6.70	6.32	
+PP 1	NaN	NaN	NaN	NaN	NaN	37.67	NaN	2940.3	5.00	0.902	25.39	26.01	6.81	6.43	
+PP13A	NaN	NaN	NaN	NaN	NaN	37.9	NaN	2941.8	5.00	0.941	26.52	27.18	7.98	7.60	
+PP13A	NaN	NaN	NaN	NaN	NaN	37.95349	NaN	2942.9	5.00	0.945	26.64	27.30	8.10	7.72	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.00699	NaN	2943.9	5.00	0.948	26.73	27.39	8.19	7.81	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.11398	NaN	2946.0	5.00	0.955	26.95	27.62	8.42	8.04	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.16747	NaN	2947.0	5.00	0.950	26.81	27.47	8.27	7.89	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.16747	NaN	2947.0	5.00	0.950	26.79	27.45	8.25	7.87	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.22097	NaN	2948.1	5.00	0.963	27.19	27.86	8.66	8.28	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.27446	NaN	2949.1	5.00	0.951	26.82	27.48	8.28	7.90	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.32796	NaN	2950.2	5.00	0.932	26.25	26.89	7.69	7.32	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.43495	NaN	2952.3	5.00	0.912	25.69	26.32	7.12	6.74	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.43495	NaN	2952.3	5.00	0.905	25.47	26.09	6.89	6.51	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.54194	NaN	2954.4	5.00	0.927	26.11	26.75	7.55	7.17	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.64892	NaN	2956.5	5.00	0.927	26.13	26.77	7.57	7.19	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.75591	NaN	2958.6	5.00	0.925	26.05	26.69	7.49	7.11	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.8629	NaN	2960.7	5.00	0.934	26.34	26.98	7.78	7.40	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.96989	NaN	2962.8	5.00	0.928	26.13	26.78	7.58	7.19	
+PP13A	NaN	NaN	NaN	NaN	NaN	38.96989	NaN	2962.8	5.00	0.926	26.10	26.74	7.54	7.16	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.07688	NaN	2964.9	5.00	0.926	26.09	26.73	7.53	7.14	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.18387	NaN	2967.0	5.00	0.927	26.10	26.74	7.54	7.16	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.18387	NaN	2967.0	5.00	0.929	26.17	26.81	7.61	7.23	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.29086	NaN	2968.8	5.00	0.931	26.24	26.88	7.68	7.30	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.39785	NaN	2970.5	5.00	0.937	26.40	27.05	7.85	7.46	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.50484	NaN	2972.1	5.00	0.911	25.64	26.27	7.07	6.68	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.61183	NaN	2973.8	5.00	0.891	25.06	25.67	6.47	6.08	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.61183	NaN	2973.8	5.00	0.887	24.94	25.55	6.35	5.97	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.71882	NaN	2975.4	5.00	0.881	24.77	25.37	6.17	5.79	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.82581	NaN	2977.0	5.00	0.881	24.78	25.38	6.18	5.79	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.9328	NaN	2978.7	5.00	0.878	24.67	25.27	6.07	5.68	
+PP13A	NaN	NaN	NaN	NaN	NaN	39.9328	NaN	2978.7	5.00	0.877	24.66	25.25	6.05	5.67	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.03978	NaN	2980.3	5.00	0.879	24.72	25.32	6.12	5.73	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.14677	NaN	2982.0	5.00	0.898	25.28	25.89	6.69	6.31	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.25376	NaN	2983.6	5.00	0.904	25.43	26.05	6.85	6.46	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.25376	NaN	2983.6	5.00	0.900	25.34	25.95	6.75	6.37	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.36075	NaN	2985.3	5.00	0.912	25.68	26.30	7.10	6.72	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.46774	NaN	2986.9	5.00	0.918	25.87	26.50	7.30	6.91	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.46774	NaN	2986.9	5.00	0.920	25.92	26.55	7.35	6.97	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.57473	NaN	2988.5	5.00	0.910	25.60	26.23	7.03	6.64	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.68172	NaN	2990.2	5.00	0.935	26.36	27.01	7.81	7.42	
+PP!	NaN	NaN	NaN	NaN	NaN	40.84	NaN	2991.0	5.00	0.944	26.62	27.28	8.08	7.69	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.78871	NaN	2991.9	5.00	0.944	26.63	27.28	8.08	7.70	
+PP13A	NaN	NaN	NaN	NaN	NaN	40.8957	NaN	2993.6	5.00	0.940	26.50	27.16	7.96	7.57	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.00269	NaN	2995.3	5.00	0.926	26.08	26.72	7.52	7.13	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.00269	NaN	2995.3	5.00	0.927	26.11	26.75	7.55	7.17	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.10968	NaN	2997.1	5.00	0.919	25.88	26.51	7.31	6.93	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.21667	NaN	2998.8	5.00	0.900	25.33	25.94	6.74	6.36	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.32366	NaN	3000.5	5.00	0.874	24.56	25.15	5.95	5.57	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.43065	NaN	3002.3	5.00	0.877	24.65	25.25	6.05	5.66	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.53763	NaN	3004.0	5.00	0.887	24.94	25.55	6.35	5.96	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.64462	NaN	3005.7	5.00	0.868	24.38	24.97	5.77	5.38	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.75161	NaN	3007.5	5.00	0.881	24.76	25.36	6.16	5.77	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.75161	NaN	3007.5	5.00	0.883	24.83	25.43	6.23	5.84	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.8586	NaN	3009.2	5.00	0.884	24.86	25.46	6.26	5.87	
+PP13A	NaN	NaN	NaN	NaN	NaN	41.96559	NaN	3010.9	5.00	0.885	24.88	25.48	6.28	5.90	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.07258	NaN	3012.7	5.00	0.903	25.42	26.04	6.84	6.46	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.17957	NaN	3014.4	5.00	0.931	26.22	26.87	7.67	7.28	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.17957	NaN	3014.4	5.00	0.931	26.22	26.87	7.67	7.28	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.28656	NaN	3016.1	5.00	0.930	26.21	26.85	7.65	7.26	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.39355	NaN	3017.7	5.00	0.931	26.23	26.88	7.68	7.29	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.50054	NaN	3019.1	5.00	0.934	26.32	26.97	7.77	7.38	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.50054	NaN	3019.1	5.00	0.936	26.39	27.04	7.84	7.45	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.60753	NaN	3020.5	5.00	0.916	25.80	26.44	7.24	6.85	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.71452	NaN	3022.0	5.00	0.868	24.37	24.96	5.76	5.37	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.71452	NaN	3022.0	5.00	0.867	24.34	24.92	5.72	5.34	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.71452	NaN	3022.0	5.00	0.863	24.24	24.82	5.62	5.24	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.82151	NaN	3023.4	5.00	0.867	24.34	24.93	5.73	5.34	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.82151	NaN	3023.4	5.00	0.863	24.24	24.82	5.62	5.23	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.92849	NaN	3024.8	5.00	0.855	23.99	24.57	5.37	4.98	
+PP13A	NaN	NaN	NaN	NaN	NaN	42.92849	NaN	3024.8	5.00	0.857	24.05	24.63	5.43	5.04	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.03548	NaN	3026.2	5.00	0.880	24.74	25.34	6.14	5.75	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.14247	NaN	3027.6	5.00	0.867	24.34	24.93	5.73	5.34	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.24946	NaN	3029.1	5.00	0.881	24.77	25.36	6.16	5.77	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.24946	NaN	3029.1	5.00	0.879	24.71	25.30	6.10	5.71	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.24946	NaN	3029.1	5.00	0.884	24.84	25.44	6.24	5.85	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.35645	NaN	3030.5	5.00	0.880	24.73	25.32	6.12	5.73	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.35645	NaN	3030.5	5.00	0.881	24.76	25.36	6.16	5.77	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.46344	NaN	3031.9	5.00	0.885	24.89	25.49	6.29	5.90	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.57043	NaN	3033.3	5.00	0.901	25.37	25.98	6.78	6.39	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.67742	NaN	3034.7	5.00	0.895	25.16	25.78	6.58	6.19	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.78441	NaN	3036.2	5.00	0.917	25.84	26.47	7.27	6.88	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.78441	NaN	3036.2	5.00	0.917	25.83	26.46	7.26	6.87	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.78441	NaN	3036.2	5.00	0.917	25.83	26.46	7.26	6.87	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.8914	NaN	3037.6	5.00	0.918	25.85	26.48	7.28	6.89	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.8914	NaN	3037.6	5.00	0.903	25.42	26.04	6.84	6.44	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.99839	NaN	3039.0	5.00	0.923	26.01	26.65	7.45	7.06	
+PP13A	NaN	NaN	NaN	NaN	NaN	43.99839	NaN	3039.0	5.00	0.927	26.11	26.74	7.54	7.15	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.10538	NaN	3041.0	5.00	0.945	26.64	27.30	8.10	7.71	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.21237	NaN	3043.0	5.00	0.923	25.99	26.63	7.43	7.03	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.21237	NaN	3043.0	5.00	0.925	26.07	26.70	7.50	7.11	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.31935	NaN	3045.0	5.00	0.907	25.53	26.16	6.96	6.56	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.42634	NaN	3047.0	5.00	0.893	25.13	25.74	6.54	6.15	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.42634	NaN	3047.0	5.00	0.894	25.14	25.75	6.55	6.16	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.53333	NaN	3049.0	5.00	0.887	24.95	25.55	6.35	5.96	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.64032	NaN	3051.0	5.00	0.882	24.79	25.38	6.18	5.79	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.64032	NaN	3051.0	5.00	0.883	24.83	25.43	6.23	5.84	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.74731	NaN	3053.0	5.00	0.888	24.98	25.59	6.39	6.00	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.74731	NaN	3053.0	5.00	0.891	25.07	25.68	6.48	6.09	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.8543	NaN	3055.0	5.00	0.892	25.09	25.69	6.49	6.10	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.96129	NaN	3057.0	5.00	0.909	25.60	26.22	7.02	6.63	
+PP13A	NaN	NaN	NaN	NaN	NaN	44.96129	NaN	3057.0	5.00	0.911	25.65	26.28	7.08	6.68	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.06828	NaN	3059.0	5.00	0.917	25.81	26.44	7.24	6.85	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.17527	NaN	3061.0	5.00	0.921	25.93	26.56	7.36	6.97	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.17527	NaN	3061.0	5.00	0.919	25.87	26.50	7.30	6.91	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.28226	NaN	3063.0	5.00	0.918	25.84	26.47	7.27	6.88	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.38925	NaN	3065.0	5.00	0.916	25.79	26.42	7.22	6.83	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.49624	NaN	3067.0	5.00	0.898	25.27	25.88	6.68	6.29	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.49624	NaN	3067.0	5.00	0.895	25.17	25.78	6.58	6.19	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.49624	NaN	3067.0	5.00	0.892	25.08	25.68	6.48	6.09	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.60323	NaN	3069.0	5.00	0.920	25.90	26.53	7.33	6.94	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.71022	NaN	3071.0	5.00	0.907	25.54	26.17	6.97	6.57	
+PP 1	NaN	NaN	NaN	NaN	NaN	46	NaN	3071.9	5.00	0.880	24.74	25.34	6.14	5.74	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.8172	NaN	3073.0	5.00	0.914	25.72	26.35	7.15	6.76	
+PP13A	NaN	NaN	NaN	NaN	NaN	45.92419	NaN	3075.0	5.00	0.926	26.08	26.72	7.52	7.12	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.03118	NaN	3077.0	5.00	0.917	25.81	26.44	7.24	6.85	
+PP 1	NaN	NaN	NaN	NaN	NaN	46.34	NaN	3077.5	5.00	0.922	25.97	26.60	7.40	7.00	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.13817	NaN	3079.0	5.00	0.919	25.88	26.51	7.31	6.91	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.13817	NaN	3079.0	5.00	0.917	25.83	26.46	7.26	6.86	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.24516	NaN	3081.0	5.00	0.923	26.01	26.65	7.45	7.05	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.24516	NaN	3081.0	5.00	0.920	25.91	26.55	7.35	6.95	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.35215	NaN	3083.0	5.00	0.924	26.02	26.65	7.45	7.05	
+PP 1	NaN	NaN	NaN	NaN	NaN	46.67	NaN	3083.0	5.00	0.924	26.02	26.66	7.46	7.06	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.45914	NaN	3084.9	5.00	0.920	25.91	26.55	7.35	6.95	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.56613	NaN	3086.8	5.00	0.927	26.12	26.76	7.56	7.16	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.67312	NaN	3088.8	5.00	0.910	25.60	26.23	7.03	6.63	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.78011	NaN	3090.7	5.00	0.908	25.57	26.19	6.99	6.59	
+PP 1	NaN	NaN	NaN	NaN	NaN	47	NaN	3090.9	5.00	0.902	25.39	26.01	6.81	6.41	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.8871	NaN	3092.6	5.00	0.917	25.82	26.45	7.25	6.85	
+PP13A	NaN	NaN	NaN	NaN	NaN	46.99409	NaN	3094.5	5.00	0.913	25.72	26.35	7.15	6.75	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.10108	NaN	3096.4	5.00	0.910	25.63	26.25	7.05	6.65	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.10108	NaN	3096.4	5.00	0.907	25.54	26.16	6.96	6.56	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.20806	NaN	3098.4	5.00	0.915	25.78	26.41	7.21	6.81	
+PP 1	NaN	NaN	NaN	NaN	NaN	47.34	NaN	3099.1	5.00	0.910	25.62	26.25	7.05	6.65	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.31505	NaN	3100.3	5.00	0.916	25.80	26.43	7.23	6.83	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.42204	NaN	3102.2	5.00	0.918	25.86	26.49	7.29	6.89	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.52903	NaN	3104.1	5.00	0.909	25.59	26.22	7.02	6.62	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.63602	NaN	3106.0	5.00	0.897	25.22	25.84	6.64	6.24	
+PP 1	NaN	NaN	NaN	NaN	NaN	47.67	NaN	3107.0	5.00	0.909	25.57	26.20	7.00	6.60	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.74301	NaN	3108.0	5.00	0.903	25.43	26.05	6.85	6.44	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.74301	NaN	3108.0	5.00	0.902	25.40	26.01	6.81	6.41	
+PP13A	NaN	NaN	NaN	NaN	NaN	47.85	NaN	3109.9	5.00	0.911	25.65	26.28	7.08	6.68	
+PP 1	NaN	NaN	NaN	NaN	NaN	48	NaN	3112.1	5.00	0.913	25.70	26.32	7.12	6.72	
+PP 1	NaN	NaN	NaN	NaN	NaN	48.34	NaN	3117.4	5.00	0.898	25.25	25.87	6.67	6.26	
+PP 1	NaN	NaN	NaN	NaN	NaN	48.67	NaN	3122.6	5.00	0.902	25.38	26.00	6.80	6.40	
+PP 1	NaN	NaN	NaN	NaN	NaN	49	NaN	3127.7	5.00	0.914	25.74	26.37	7.17	6.76	
+PP 1	NaN	NaN	NaN	NaN	NaN	49.34	NaN	3133.0	5.00	0.913	25.71	26.33	7.13	6.73	
+PP 1	NaN	NaN	NaN	NaN	NaN	49.67	NaN	3138.2	5.00	0.879	24.70	25.30	6.10	5.69	
+PP 1	NaN	NaN	NaN	NaN	NaN	50	NaN	3143.4	5.00	0.889	24.99	25.59	6.39	5.99	
+PP 1	NaN	NaN	NaN	NaN	NaN	50.34	NaN	3148.8	5.00	0.902	25.39	26.01	6.81	6.40	
+PP 1	NaN	NaN	NaN	NaN	NaN	50.67	NaN	3154.0	5.00	0.935	26.37	27.01	7.81	7.41	
+PP 1	NaN	NaN	NaN	NaN	NaN	51	NaN	3160.6	5.00	0.884	24.84	25.44	6.24	5.83	
+PP 1	NaN	NaN	NaN	NaN	NaN	51.34	NaN	3167.4	5.00	0.911	25.65	26.27	7.07	6.66	
+PP 1	NaN	NaN	NaN	NaN	NaN	51.67	NaN	3174.0	5.00	0.923	26.00	26.64	7.44	7.03	
+PP 1	NaN	NaN	NaN	NaN	NaN	52	NaN	3179.0	5.00	0.901	25.35	25.97	6.77	6.36	
+PP 1	NaN	NaN	NaN	NaN	NaN	52.34	NaN	3184.1	5.00	0.899	25.30	25.91	6.71	6.30	
+PP 1	NaN	NaN	NaN	NaN	NaN	52.67	NaN	3189.0	5.00	0.893	25.13	25.74	6.54	6.13	
+PP 1	NaN	NaN	NaN	NaN	NaN	53	NaN	3194.0	5.00	0.907	25.51	26.14	6.94	6.52	
+PP 1	NaN	NaN	NaN	NaN	NaN	53.34	NaN	3198.8	5.00	0.897	25.23	25.84	6.64	6.23	
+PP 1	NaN	NaN	NaN	NaN	NaN	53.67	NaN	3203.5	5.00	0.900	25.33	25.95	6.75	6.33	
+PP 1	NaN	NaN	NaN	NaN	NaN	54	NaN	3208.2	5.00	0.887	24.93	25.53	6.33	5.92	
+PP 1	NaN	NaN	NaN	NaN	NaN	54.34	NaN	3213.0	5.00	0.896	25.21	25.82	6.62	6.20	
+PP 1	NaN	NaN	NaN	NaN	NaN	54.67	NaN	3218.8	5.00	0.887	24.93	25.53	6.33	5.92	
+PP 1	NaN	NaN	NaN	NaN	NaN	55	NaN	3224.6	5.00	0.909	25.59	26.22	7.02	6.60	
+PP 1	NaN	NaN	NaN	NaN	NaN	55.34	NaN	3230.6	5.00	0.905	25.46	26.08	6.88	6.46	
+PP13C	NaN	NaN	NaN	NaN	NaN	55.65	NaN	3242.4	5.00	0.913	25.72	26.34	7.14	6.73	
+PP13C	NaN	NaN	NaN	NaN	NaN	55.65	NaN	3242.4	5.00	0.909	25.59	26.22	7.02	6.60	
+PP13C	NaN	NaN	NaN	NaN	NaN	55.75	NaN	3245.2	5.00	0.920	25.90	26.54	7.34	6.92	
+PP13C	NaN	NaN	NaN	NaN	NaN	55.85	NaN	3248.0	5.00	0.921	25.93	26.57	7.37	6.95	
+PP13C	NaN	NaN	NaN	NaN	NaN	55.85	NaN	3248.0	5.00	0.920	25.92	26.55	7.35	6.94	
+PP13C	NaN	NaN	NaN	NaN	NaN	55.95	NaN	3252.4	5.00	0.916	25.78	26.41	7.21	6.79	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.05	NaN	3256.8	5.00	0.925	26.05	26.69	7.49	7.07	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.05	NaN	3256.8	5.00	0.924	26.04	26.68	7.48	7.06	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.15	NaN	3260.3	5.00	0.913	25.69	26.32	7.12	6.70	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.25	NaN	3262.8	5.00	0.920	25.90	26.53	7.33	6.91	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.35	NaN	3265.3	5.00	0.930	26.19	26.84	7.64	7.21	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.45	NaN	3267.8	5.00	0.927	26.11	26.75	7.55	7.13	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.45	NaN	3267.8	5.00	0.928	26.15	26.79	7.59	7.17	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.55	NaN	3269.8	5.00	0.920	25.90	26.54	7.34	6.91	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.65	NaN	3271.5	5.00	0.909	25.58	26.20	7.00	6.58	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.75	NaN	3273.1	5.00	0.904	25.44	26.06	6.86	6.44	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.85	NaN	3274.7	5.00	0.892	25.09	25.70	6.50	6.07	
+PP13C	NaN	NaN	NaN	NaN	NaN	56.95	NaN	3276.4	5.00	0.901	25.35	25.97	6.77	6.35	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.05	NaN	3278.0	5.00	0.919	25.87	26.51	7.31	6.88	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.05	NaN	3278.0	5.00	0.915	25.76	26.39	7.19	6.77	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.15	NaN	3280.0	5.00	0.921	25.95	26.59	7.39	6.96	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.25	NaN	3282.0	5.00	0.927	26.12	26.76	7.56	7.14	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.25	NaN	3282.0	5.00	0.923	26.00	26.64	7.44	7.02	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.35	NaN	3284.0	5.00	0.930	26.21	26.85	7.65	7.23	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.45	NaN	3286.0	5.00	0.928	26.15	26.79	7.59	7.16	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.55	NaN	3288.0	5.00	0.923	25.99	26.62	7.42	7.00	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.65	NaN	3290.0	5.00	0.916	25.81	26.44	7.24	6.81	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.65	NaN	3290.0	5.00	0.912	25.68	26.31	7.11	6.69	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.75	NaN	3292.0	5.00	0.909	25.58	26.20	7.00	6.58	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.75	NaN	3292.0	5.00	0.910	25.62	26.24	7.04	6.61	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.85	NaN	3294.0	5.00	0.893	25.12	25.73	6.53	6.10	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.95	NaN	3296.0	5.00	0.910	25.61	26.23	7.03	6.61	
+PP13C	NaN	NaN	NaN	NaN	NaN	57.95	NaN	3296.0	5.00	0.915	25.76	26.39	7.19	6.76	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.05	NaN	3298.0	5.00	0.914	25.74	26.37	7.17	6.74	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.15	NaN	3300.0	5.00	0.918	25.84	26.47	7.27	6.84	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.25	NaN	3302.0	5.00	0.917	25.83	26.46	7.26	6.84	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.25	NaN	3302.0	5.00	0.919	25.87	26.51	7.31	6.88	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.35	NaN	3304.0	5.00	0.917	25.83	26.46	7.26	6.83	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.35	NaN	3304.0	5.00	0.915	25.77	26.40	7.20	6.77	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.45	NaN	3305.9	5.00	0.904	25.43	26.05	6.85	6.42	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.55	NaN	3307.7	5.00	0.899	25.28	25.90	6.70	6.27	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.65	NaN	3309.5	5.00	0.845	23.70	24.26	5.06	4.64	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.75	NaN	3311.4	5.00	0.866	24.32	24.91	5.71	5.28	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.85	NaN	3313.2	5.00	0.855	24.01	24.59	5.39	4.96	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.85	NaN	3313.2	5.00	0.858	24.08	24.66	5.46	5.03	
+PP13C	NaN	NaN	NaN	NaN	NaN	58.95	NaN	3315.0	5.00	0.845	23.70	24.27	5.07	4.64	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.05	NaN	3316.1	5.00	0.855	23.99	24.56	5.36	4.94	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.05	NaN	3316.1	5.00	0.861	24.17	24.75	5.55	5.12	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.15	NaN	3317.2	5.00	0.854	23.97	24.54	5.34	4.91	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.25	NaN	3318.3	5.00	0.854	23.98	24.55	5.35	4.92	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.35	NaN	3319.4	5.00	0.859	24.10	24.68	5.48	5.05	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.45	NaN	3320.6	5.00	0.875	24.59	25.19	5.99	5.56	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.45	NaN	3320.6	5.00	0.874	24.56	25.15	5.95	5.52	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.55	NaN	3321.7	5.00	0.875	24.60	25.19	5.99	5.56	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.65	NaN	3322.8	5.00	0.896	25.20	25.81	6.61	6.18	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.65	NaN	3322.8	5.00	0.898	25.26	25.87	6.67	6.24	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.75	NaN	3323.9	5.00	0.897	25.23	25.84	6.64	6.21	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.85	NaN	3325.0	5.00	0.893	25.11	25.72	6.52	6.09	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.85	NaN	3325.0	5.00	0.892	25.09	25.70	6.50	6.07	
+PP13C	NaN	NaN	NaN	NaN	NaN	59.95	NaN	3326.8	5.00	0.893	25.12	25.73	6.53	6.10	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.05	NaN	3328.7	5.00	0.893	25.12	25.73	6.53	6.10	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.05	NaN	3328.7	5.00	0.892	25.08	25.69	6.49	6.06	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.15	NaN	3330.5	5.00	0.884	24.86	25.46	6.26	5.83	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.25	NaN	3332.3	5.00	0.854	23.98	24.55	5.35	4.92	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.35	NaN	3334.2	5.00	0.834	23.39	23.95	4.75	4.31	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.35	NaN	3334.2	5.00	0.831	23.29	23.85	4.65	4.21	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.45	NaN	3336.0	5.00	0.822	23.04	23.59	4.39	3.96	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.55	NaN	3337.1	5.00	0.837	23.47	24.03	4.83	4.39	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.65	NaN	3338.2	5.00	0.858	24.10	24.67	5.47	5.04	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.75	NaN	3339.3	5.00	0.850	23.87	24.44	5.24	4.81	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.75	NaN	3339.3	5.00	0.848	23.79	24.36	5.16	4.73	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.85	NaN	3340.4	5.00	0.883	24.83	25.43	6.23	5.80	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.95	NaN	3341.6	5.00	0.887	24.94	25.55	6.35	5.91	
+PP13C	NaN	NaN	NaN	NaN	NaN	60.95	NaN	3341.6	5.00	0.888	24.97	25.57	6.37	5.94	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.05	NaN	3342.7	5.00	0.914	25.74	26.36	7.16	6.73	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.15	NaN	3343.8	5.00	0.912	25.68	26.31	7.11	6.67	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.15	NaN	3343.8	5.00	0.912	25.68	26.30	7.10	6.67	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.25	NaN	3344.9	5.00	0.911	25.63	26.26	7.06	6.63	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.35	NaN	3346.0	5.00	0.908	25.56	26.18	6.98	6.55	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.35	NaN	3346.0	5.00	0.910	25.62	26.24	7.04	6.61	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.45	NaN	3346.9	5.00	0.908	25.55	26.18	6.98	6.54	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.55	NaN	3347.8	5.00	0.917	25.81	26.45	7.25	6.81	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.65	NaN	3348.7	5.00	0.917	25.81	26.44	7.24	6.81	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.65	NaN	3348.7	5.00	0.914	25.74	26.37	7.17	6.73	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.75	NaN	3349.6	5.00	0.918	25.84	26.47	7.27	6.84	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.85	NaN	3350.5	5.00	0.907	25.54	26.16	6.96	6.53	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.85	NaN	3350.5	5.00	0.906	25.51	26.14	6.94	6.50	
+PP13C	NaN	NaN	NaN	NaN	NaN	61.95	NaN	3351.5	5.00	0.908	25.57	26.19	6.99	6.56	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.05	NaN	3352.4	5.00	0.889	24.99	25.60	6.40	5.96	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.15	NaN	3353.3	5.00	0.878	24.68	25.28	6.08	5.64	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.15	NaN	3353.3	5.00	0.879	24.72	25.31	6.11	5.68	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.25	NaN	3354.2	5.00	0.869	24.41	25.00	5.80	5.37	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.35	NaN	3355.1	5.00	0.882	24.79	25.39	6.19	5.75	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.35	NaN	3355.1	5.00	0.883	24.81	25.41	6.21	5.78	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.45	NaN	3356.0	5.00	0.882	24.81	25.41	6.21	5.77	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.55	NaN	3357.2	5.00	0.883	24.81	25.41	6.21	5.78	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.65	NaN	3358.4	5.00	0.888	24.98	25.58	6.38	5.95	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.65	NaN	3358.4	5.00	0.888	24.98	25.59	6.39	5.95	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.75	NaN	3359.7	5.00	0.896	25.19	25.81	6.61	6.17	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.85	NaN	3360.9	5.00	0.901	25.36	25.98	6.78	6.35	
+PP13C	NaN	NaN	NaN	NaN	NaN	62.95	NaN	3362.1	5.00	0.909	25.60	26.22	7.02	6.58	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.05	NaN	3363.3	5.00	0.917	25.84	26.47	7.27	6.83	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.15	NaN	3364.6	5.00	0.914	25.75	26.38	7.18	6.74	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.25	NaN	3365.8	5.00	0.910	25.63	26.25	7.05	6.62	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.35	NaN	3367.0	5.00	0.908	25.56	26.19	6.99	6.55	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.35	NaN	3367.0	5.00	0.907	25.52	26.14	6.94	6.50	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.45	NaN	3369.8	5.00	0.905	25.46	26.08	6.88	6.44	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.45	NaN	3369.8	5.00	0.906	25.51	26.13	6.93	6.49	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.45	NaN	3369.8	5.00	0.906	25.50	26.12	6.92	6.48	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.55	NaN	3372.5	5.00	0.902	25.40	26.01	6.81	6.38	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.65	NaN	3375.3	5.00	0.891	25.07	25.68	6.48	6.04	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.65	NaN	3375.3	5.00	0.890	25.03	25.63	6.43	6.00	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.75	NaN	3378.0	5.00	0.914	25.74	26.36	7.16	6.73	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.85	NaN	3383.7	5.00	0.926	26.08	26.72	7.52	7.08	
+PP13C	NaN	NaN	NaN	NaN	NaN	63.95	NaN	3389.4	5.00	0.928	26.16	26.80	7.60	7.16	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.05	NaN	3395.1	5.00	0.910	25.61	26.24	7.04	6.60	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.05	NaN	3395.1	5.00	0.907	25.52	26.14	6.94	6.50	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.15	NaN	3398.7	5.00	0.911	25.64	26.27	7.07	6.63	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.15	NaN	3398.7	5.00	0.910	25.62	26.24	7.04	6.60	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.25	NaN	3400.1	5.00	0.902	25.37	25.99	6.79	6.35	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.35	NaN	3401.5	5.00	0.895	25.16	25.78	6.58	6.14	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.45	NaN	3402.9	5.00	0.904	25.44	26.05	6.85	6.41	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.55	NaN	3404.3	5.00	0.878	24.68	25.27	6.07	5.63	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.55	NaN	3404.3	5.00	0.907	25.54	26.16	6.96	6.52	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.65	NaN	3405.7	5.00	0.909	25.58	26.21	7.01	6.57	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.75	NaN	3407.1	5.00	0.901	25.35	25.97	6.77	6.33	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.85	NaN	3408.5	5.00	0.894	25.15	25.76	6.56	6.11	
+PP13C	NaN	NaN	NaN	NaN	NaN	64.95	NaN	3410.0	5.00	0.905	25.47	26.09	6.89	6.45	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.05	NaN	3411.5	5.00	0.909	25.59	26.21	7.01	6.57	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.15	NaN	3413.0	5.00	0.910	25.61	26.24	7.04	6.60	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.25	NaN	3414.5	5.00	0.929	26.16	26.80	7.60	7.16	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.25	NaN	3414.5	5.00	0.927	26.12	26.76	7.56	7.12	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.35	NaN	3416.0	5.00	0.922	25.96	26.60	7.40	6.96	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.45	NaN	3417.5	5.00	0.921	25.93	26.56	7.36	6.92	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.55	NaN	3419.0	5.00	0.916	25.78	26.41	7.21	6.77	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.65	NaN	3419.9	5.00	0.917	25.84	26.47	7.27	6.83	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.75	NaN	3420.8	5.00	0.918	25.87	26.50	7.30	6.86	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.85	NaN	3421.7	5.00	0.885	24.89	25.50	6.30	5.85	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.85	NaN	3421.7	5.00	0.885	24.88	25.48	6.28	5.84	
+PP13C	NaN	NaN	NaN	NaN	NaN	65.95	NaN	3422.6	5.00	0.879	24.70	25.30	6.10	5.66	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.05	NaN	3423.5	5.00	0.877	24.65	25.24	6.04	5.60	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.05	NaN	3423.5	5.00	0.874	24.55	25.14	5.94	5.50	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.15	NaN	3424.5	5.00	0.875	24.59	25.19	5.99	5.54	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.25	NaN	3425.4	5.00	0.875	24.60	25.20	6.00	5.55	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.35	NaN	3426.3	5.00	0.863	24.24	24.83	5.63	5.18	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.45	NaN	3427.2	5.00	0.865	24.29	24.88	5.68	5.23	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.55	NaN	3428.1	5.00	0.877	24.63	25.23	6.03	5.58	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.55	NaN	3428.1	5.00	0.875	24.57	25.17	5.97	5.52	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.65	NaN	3429.0	5.00	0.853	23.94	24.52	5.32	4.87	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.75	NaN	3430.4	5.00	0.865	24.28	24.87	5.67	5.22	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.85	NaN	3431.8	5.00	0.884	24.84	25.44	6.24	5.80	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.85	NaN	3431.8	5.00	0.870	24.44	25.03	5.83	5.38	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.95	NaN	3433.1	5.00	0.858	24.08	24.66	5.46	5.02	
+PP13C	NaN	NaN	NaN	NaN	NaN	66.95	NaN	3433.1	5.00	0.847	23.76	24.33	5.13	4.68	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.05	NaN	3434.5	5.00	0.881	24.77	25.37	6.17	5.72	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.15	NaN	3435.9	5.00	0.897	25.22	25.84	6.64	6.19	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.25	NaN	3437.3	5.00	0.909	25.57	26.20	7.00	6.55	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.35	NaN	3438.6	5.00	0.904	25.43	26.05	6.85	6.40	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.45	NaN	3440.0	5.00	0.909	25.58	26.20	7.00	6.56	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.55	NaN	3443.3	5.00	0.914	25.74	26.37	7.17	6.72	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.65	NaN	3446.7	5.00	0.915	25.78	26.41	7.21	6.76	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.65	NaN	3446.7	5.00	0.916	25.79	26.43	7.23	6.78	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.75	NaN	3450.0	5.00	0.859	24.13	24.71	5.51	5.06	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.75	NaN	3450.0	5.00	0.879	24.69	25.29	6.09	5.64	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.75	NaN	3450.0	5.00	0.898	25.27	25.88	6.68	6.24	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.85	NaN	3455.5	5.00	0.895	25.17	25.79	6.59	6.14	
+PP13C	NaN	NaN	NaN	NaN	NaN	67.95	NaN	3461.0	5.00	0.902	25.37	25.99	6.79	6.34	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.05	NaN	3462.5	5.00	0.902	25.37	25.99	6.79	6.34	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.15	NaN	3464.0	5.00	0.900	25.32	25.94	6.74	6.29	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.25	NaN	3465.5	5.00	0.883	24.83	25.43	6.23	5.78	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.35	NaN	3467.0	5.00	0.860	24.14	24.72	5.52	5.07	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.45	NaN	3468.5	5.00	0.880	24.72	25.32	6.12	5.67	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.55	NaN	3470.0	5.00	0.879	24.69	25.29	6.09	5.64	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.65	NaN	3471.5	5.00	0.890	25.03	25.64	6.44	5.99	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.75	NaN	3472.8	5.00	0.897	25.24	25.85	6.65	6.20	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.75	NaN	3472.8	5.00	0.908	25.55	26.17	6.97	6.52	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.85	NaN	3474.1	5.00	0.867	24.36	24.95	5.75	5.30	
+PP13C	NaN	NaN	NaN	NaN	NaN	68.95	NaN	3475.4	5.00	0.905	25.46	26.08	6.88	6.43	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.05	NaN	3476.8	5.00	0.915	25.76	26.39	7.19	6.74	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.15	NaN	3478.1	5.00	0.923	26.00	26.63	7.43	6.98	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.25	NaN	3479.4	5.00	0.911	25.63	26.26	7.06	6.61	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.35	NaN	3480.7	5.00	0.917	25.83	26.46	7.26	6.81	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.35	NaN	3480.7	5.00	0.921	25.93	26.56	7.36	6.91	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.45	NaN	3482.0	5.00	0.908	25.55	26.18	6.98	6.52	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.45	NaN	3482.0	5.00	0.907	25.52	26.15	6.95	6.50	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.55	NaN	3486.2	5.00	0.908	25.57	26.19	6.99	6.54	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.55	NaN	3486.2	5.00	0.911	25.66	26.29	7.09	6.63	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.65	NaN	3490.4	5.00	0.916	25.79	26.42	7.22	6.77	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.65	NaN	3490.4	5.00	0.916	25.80	26.43	7.23	6.78	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.85	NaN	3498.8	5.00	0.903	25.42	26.04	6.84	6.39	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.85	NaN	3498.8	5.00	0.904	25.45	26.07	6.87	6.41	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.85	NaN	3498.8	5.00	0.912	25.67	26.29	7.09	6.64	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.95	NaN	3503.0	5.00	0.903	25.42	26.04	6.84	6.39	
+PP13C	NaN	NaN	NaN	NaN	NaN	69.95	NaN	3503.0	5.00	0.885	24.88	25.48	6.28	5.82	
+EM11	NaN	NaN	NaN	NaN	NaN	14.4	NaN	5007.9	5.00	0.819	22.95	23.49	4.29	3.63	
+EM11	NaN	NaN	NaN	NaN	NaN	14.2	NaN	5012.4	5.00	0.810	22.69	23.22	4.02	3.36	
+EM11	NaN	NaN	NaN	NaN	NaN	14	NaN	5016.9	5.00	0.829	23.24	23.80	4.60	3.93	
+EM11	NaN	NaN	NaN	NaN	NaN	13.8	NaN	5021.4	5.00	0.882	24.79	25.39	6.19	5.52	
+EM11	NaN	NaN	NaN	NaN	NaN	13.6	NaN	5026.0	5.00	0.842	23.63	24.20	5.00	4.33	
+EM11	NaN	NaN	NaN	NaN	NaN	13.4	NaN	5030.7	5.00	0.812	22.73	23.27	4.07	3.40	
+EM11	NaN	NaN	NaN	NaN	NaN	13.2	NaN	5035.4	5.00	0.745	20.76	21.24	2.04	1.37	
+EM11	NaN	NaN	NaN	NaN	NaN	13	NaN	5040.2	5.00	0.756	21.07	21.56	2.36	1.69	
+EM11	NaN	NaN	NaN	NaN	NaN	12.8	NaN	5045.2	5.00	0.873	24.52	25.11	5.91	5.24	
+EM11	NaN	NaN	NaN	NaN	NaN	12.6	NaN	5050.3	5.00	0.835	23.42	23.97	4.77	4.10	
+EM11	NaN	NaN	NaN	NaN	NaN	12.4	NaN	5055.4	5.00	0.757	21.12	21.60	2.40	1.73	
+EM11	NaN	NaN	NaN	NaN	NaN	12.2	NaN	5059.9	5.00	0.793	22.17	22.69	3.49	2.82	
+EM11	NaN	NaN	NaN	NaN	NaN	12	NaN	5064.3	5.00	0.888	24.96	25.57	6.37	5.69	
+EM11	NaN	NaN	NaN	NaN	NaN	11.8	NaN	5068.6	5.00	0.877	24.65	25.24	6.04	5.37	
+EM11	NaN	NaN	NaN	NaN	NaN	11.6	NaN	5072.6	5.00	0.876	24.63	25.22	6.02	5.35	
+EM11	NaN	NaN	NaN	NaN	NaN	11.4	NaN	5076.5	5.00	0.832	23.34	23.89	4.69	4.02	
+EM11	NaN	NaN	NaN	NaN	NaN	11.2	NaN	5080.5	5.00	0.835	23.40	23.96	4.76	4.08	
+EM11	NaN	NaN	NaN	NaN	NaN	11	NaN	5084.4	5.00	0.825	23.10	23.65	4.45	3.78	
+EM11	NaN	NaN	NaN	NaN	NaN	10.8	NaN	5088.7	5.00	0.865	24.30	24.88	5.68	5.01	
+EM11	NaN	NaN	NaN	NaN	NaN	10.6	NaN	5093.4	5.00	0.860	24.13	24.71	5.51	4.84	
+EM11	NaN	NaN	NaN	NaN	NaN	10.4	NaN	5098.1	5.00	0.811	22.72	23.25	4.05	3.38	
+EM11	NaN	NaN	NaN	NaN	NaN	10.2	NaN	5103.7	5.00	0.828	23.20	23.75	4.55	3.87	
+EM11	NaN	NaN	NaN	NaN	NaN	10	NaN	5109.4	5.00	0.831	23.30	23.85	4.65	3.97	
+EM11	NaN	NaN	NaN	NaN	NaN	9.8	NaN	5115.3	5.00	0.871	24.46	25.05	5.85	5.17	
+EM11	NaN	NaN	NaN	NaN	NaN	9.6	NaN	5121.5	5.00	0.830	23.27	23.82	4.62	3.94	
+EM11	NaN	NaN	NaN	NaN	NaN	9.4	NaN	5127.7	5.00	0.771	21.54	22.05	2.85	2.17	
+EM11	NaN	NaN	NaN	NaN	NaN	9.2	NaN	5132.4	5.00	0.853	23.93	24.51	5.31	4.63	
+EM11	NaN	NaN	NaN	NaN	NaN	9	NaN	5137.1	5.00	0.821	22.99	23.53	4.33	3.65	
+EM11	NaN	NaN	NaN	NaN	NaN	8.8	NaN	5141.8	5.00	0.908	25.55	26.18	6.98	6.29	
+EM11	NaN	NaN	NaN	NaN	NaN	8.6	NaN	5146.5	5.00	0.819	22.93	23.47	4.27	3.59	
+EM11	NaN	NaN	NaN	NaN	NaN	8.4	NaN	5151.1	5.00	0.797	22.30	22.83	3.63	2.95	
+EM11	NaN	NaN	NaN	NaN	NaN	8.2	NaN	5155.8	5.00	0.863	24.23	24.81	5.61	4.93	
+EM11	NaN	NaN	NaN	NaN	NaN	8	NaN	5160.5	5.00	0.870	24.45	25.04	5.84	5.16	
+EM11	NaN	NaN	NaN	NaN	NaN	7.8	NaN	5165.0	5.00	0.888	24.98	25.58	6.38	5.70	
+EM11	NaN	NaN	NaN	NaN	NaN	7.6	NaN	5169.2	5.00	0.847	23.76	24.33	5.13	4.45	
+EM11	NaN	NaN	NaN	NaN	NaN	7.4	NaN	5173.4	5.00	0.763	21.28	21.78	2.58	1.89	
+EM11	NaN	NaN	NaN	NaN	NaN	7.2	NaN	5177.9	5.00	0.799	22.36	22.89	3.69	3.00	
+EM11	NaN	NaN	NaN	NaN	NaN	6.8	NaN	5182.4	5.00	0.849	23.84	24.41	5.21	4.52	
+EM11	NaN	NaN	NaN	NaN	NaN	6.6	NaN	5187.1	5.00	0.853	23.94	24.52	5.32	4.63	
+EM11	NaN	NaN	NaN	NaN	NaN	6.4	NaN	5191.9	5.00	0.839	23.52	24.08	4.88	4.19	
+EM11	NaN	NaN	NaN	NaN	NaN	6.2	NaN	5204.3	5.00	0.894	25.16	25.77	6.57	5.88	
+EM11	NaN	NaN	NaN	NaN	NaN	6	NaN	5209.8	5.00	0.837	23.47	24.02	4.82	4.13	
+EM11	NaN	NaN	NaN	NaN	NaN	5.8	NaN	5215.4	5.00	0.870	24.44	25.03	5.83	5.13	
+EM11	NaN	NaN	NaN	NaN	NaN	5.6	NaN	5221.1	5.00	0.869	24.40	24.99	5.79	5.09	
+EM11	NaN	NaN	NaN	NaN	NaN	5.4	NaN	5226.8	5.00	0.840	23.56	24.13	4.93	4.23	
+EM11	NaN	NaN	NaN	NaN	NaN	5.2	NaN	5232.3	5.00	0.916	25.78	26.41	7.21	6.52	
+EM11	NaN	NaN	NaN	NaN	NaN	5	NaN	5237.9	5.00	0.891	25.05	25.66	6.46	5.77	
+EM11	NaN	NaN	NaN	NaN	NaN	4.8	NaN	5243.0	5.00	0.863	24.24	24.82	5.62	4.92	
+EM11	NaN	NaN	NaN	NaN	NaN	4.6	NaN	5247.8	5.00	0.838	23.49	24.05	4.85	4.15	
+EM11	NaN	NaN	NaN	NaN	NaN	4.4	NaN	5252.5	5.00	0.808	22.61	23.15	3.95	3.25	
+EM11	NaN	NaN	NaN	NaN	NaN	4.2	NaN	5256.9	5.00	0.841	23.58	24.14	4.94	4.24	
+EM11	NaN	NaN	NaN	NaN	NaN	4	NaN	5261.3	5.00	0.827	23.19	23.74	4.54	3.84	
+EM11	NaN	NaN	NaN	NaN	NaN	3.8	NaN	5265.5	5.00	0.803	22.46	22.99	3.79	3.09	
+EM11	NaN	NaN	NaN	NaN	NaN	3.6	NaN	5269.5	5.00	0.780	21.80	22.30	3.10	2.40	
+EM11	NaN	NaN	NaN	NaN	NaN	3.4	NaN	5273.4	5.00	0.847	23.78	24.35	5.15	4.44	
+EM11	NaN	NaN	NaN	NaN	NaN	3.2	NaN	5277.6	5.00	0.862	24.22	24.80	5.60	4.90	
+EM11	NaN	NaN	NaN	NaN	NaN	3	NaN	5281.7	5.00	0.852	23.91	24.48	5.28	4.58	
+EM11	NaN	NaN	NaN	NaN	NaN	2.8	NaN	5285.6	5.00	0.860	24.14	24.72	5.52	4.82	
+EM11	NaN	NaN	NaN	NaN	NaN	2.6	NaN	5289.2	5.00	0.835	23.42	23.98	4.78	4.07	
+EM11	NaN	NaN	NaN	NaN	NaN	2.4	NaN	5292.8	5.00	0.834	23.39	23.95	4.75	4.05	
+EM11	NaN	NaN	NaN	NaN	NaN	2.2	NaN	5296.2	5.00	0.862	24.21	24.79	5.59	4.88	
+EM11	NaN	NaN	NaN	NaN	NaN	2	NaN	5299.6	5.00	0.848	23.79	24.36	5.16	4.46	
+EM11	NaN	NaN	NaN	NaN	NaN	1.8	NaN	5302.9	5.00	0.878	24.69	25.29	6.09	5.38	
+EM11	NaN	NaN	NaN	NaN	NaN	1.6	NaN	5306.3	5.00	0.865	24.31	24.89	5.69	4.98	
+EM11	NaN	NaN	NaN	NaN	NaN	1.4	NaN	5309.7	5.00	0.888	24.98	25.59	6.39	5.68	
+EM11	NaN	NaN	NaN	NaN	NaN	1.2	NaN	5313.0	5.00	0.863	24.23	24.82	5.62	4.91	
+EM11	NaN	NaN	NaN	NaN	NaN	1	NaN	5316.3	5.00	0.888	24.96	25.56	6.36	5.65	
+EM11	NaN	NaN	NaN	NaN	NaN	0.8	NaN	5319.5	5.00	0.880	24.74	25.34	6.14	5.43	
+EM11	NaN	NaN	NaN	NaN	NaN	0.6	NaN	5322.7	5.00	0.856	24.02	24.59	5.39	4.68	
+EM11	NaN	NaN	NaN	NaN	NaN	0.4	NaN	5325.9	5.00	0.869	24.43	25.01	5.81	5.11	
+EM11	NaN	NaN	NaN	NaN	NaN	0.2	NaN	5328.4	5.00	0.873	24.53	25.12	5.92	5.21	
+EM11	NaN	NaN	NaN	NaN	NaN	0	NaN	5330.8	5.00	0.877	24.63	25.23	6.03	5.32	
+MDC	NaN	NaN	NaN	NaN	NaN	143	NaN	6407.4	20.00	0.862	24.20	24.78	5.58	4.71	
+MDC	NaN	NaN	NaN	NaN	NaN	142	NaN	6465.2	20.00	0.931	26.24	26.88	7.68	6.81	
+MDC	NaN	NaN	NaN	NaN	NaN	141.9	NaN	6471.0	20.00	0.919	25.89	26.53	7.33	6.45	
+MDC	NaN	NaN	NaN	NaN	NaN	141.8	NaN	6476.7	20.00	0.897	25.22	25.84	6.64	5.76	
+MDC	NaN	NaN	NaN	NaN	NaN	141.7	NaN	6482.5	20.00	0.919	25.89	26.53	7.33	6.45	
+MDC	NaN	NaN	NaN	NaN	NaN	141.6	NaN	6488.3	20.00	0.874	24.56	25.15	5.95	5.07	
+MDC	NaN	NaN	NaN	NaN	NaN	141.6	NaN	6488.3	20.00	0.866	24.34	24.92	5.72	4.84	
+MDC	NaN	NaN	NaN	NaN	NaN	141.5	NaN	6494.1	20.00	0.901	25.34	25.96	6.76	5.88	
+MDC	NaN	NaN	NaN	NaN	NaN	141.4	NaN	6499.9	20.00	0.930	26.20	26.85	7.65	6.77	
+MDC	NaN	NaN	NaN	NaN	NaN	141.2	NaN	6511.4	20.00	0.889	24.99	25.60	6.40	5.52	
+MDC	NaN	NaN	NaN	NaN	NaN	141.2	NaN	6511.4	20.00	0.890	25.03	25.63	6.43	5.55	
+MDC	NaN	NaN	NaN	NaN	NaN	141.1	NaN	6517.2	20.00	0.908	25.57	26.19	6.99	6.11	
+MDC	NaN	NaN	NaN	NaN	NaN	141.1	NaN	6517.2	20.00	0.906	25.50	26.12	6.92	6.04	
+MDC	NaN	NaN	NaN	NaN	NaN	141	NaN	6523.0	20.00	0.930	26.20	26.84	7.64	6.76	
+MDC	NaN	NaN	NaN	NaN	NaN	140.9	NaN	6528.8	20.00	0.930	26.20	26.84	7.64	6.76	
+MDC	NaN	NaN	NaN	NaN	NaN	140.8	NaN	6534.5	20.00	0.876	24.61	25.21	6.01	5.12	
+MDC	NaN	NaN	NaN	NaN	NaN	140.75	NaN	6537.4	20.00	0.894	25.15	25.76	6.56	5.68	
+MDC	NaN	NaN	NaN	NaN	NaN	140.7	NaN	6540.3	20.00	0.900	25.33	25.95	6.75	5.86	
+MDC	NaN	NaN	NaN	NaN	NaN	140.65	NaN	6543.2	20.00	0.921	25.94	26.58	7.38	6.49	
+MDC	NaN	NaN	NaN	NaN	NaN	140.6	NaN	6546.1	20.00	0.884	24.86	25.47	6.27	5.38	
+MDC	NaN	NaN	NaN	NaN	NaN	140.55	NaN	6549.0	20.00	0.892	25.09	25.70	6.50	5.61	
+MDC	NaN	NaN	NaN	NaN	NaN	140.5	NaN	6551.9	20.00	0.916	25.80	26.43	7.23	6.34	
+MDC	NaN	NaN	NaN	NaN	NaN	140.45	NaN	6554.8	20.00	0.868	24.38	24.97	5.77	4.88	
+MDC	NaN	NaN	NaN	NaN	NaN	140.4	NaN	6557.6	20.00	0.898	25.26	25.88	6.68	5.79	
+MDC	NaN	NaN	NaN	NaN	NaN	140.35	NaN	6560.5	20.00	0.882	24.78	25.38	6.18	5.30	
+MDC	NaN	NaN	NaN	NaN	NaN	140.3	NaN	6563.4	20.00	0.893	25.11	25.72	6.52	5.63	
+MDC 	NaN	NaN	NaN	NaN	NaN	140.25	NaN	6566.3	20.00	0.859	24.11	24.69	5.49	4.61	
+MDC	NaN	NaN	NaN	NaN	NaN	140.2	NaN	6569.2	20.00	0.910	25.63	26.25	7.05	6.16	
+MDC	NaN	NaN	NaN	NaN	NaN	140.15	NaN	6572.1	20.00	0.887	24.93	25.53	6.33	5.44	
+MDC	NaN	NaN	NaN	NaN	NaN	140.1	NaN	6575.0	20.00	0.925	26.06	26.70	7.50	6.61	
+MDC 	NaN	NaN	NaN	NaN	NaN	140.05	NaN	6577.9	20.00	0.932	26.27	26.91	7.71	6.82	
+MDC	NaN	NaN	NaN	NaN	NaN	140	NaN	6580.8	20.00	0.928	26.15	26.79	7.59	6.70	
+MDC	NaN	NaN	NaN	NaN	NaN	139.95	NaN	6583.7	20.00	0.911	25.66	26.29	7.09	6.19	
+MDC	NaN	NaN	NaN	NaN	NaN	139.85	NaN	6589.4	20.00	0.920	25.91	26.55	7.35	6.45	
+MDC	NaN	NaN	NaN	NaN	NaN	139.75	NaN	6595.2	20.00	0.923	26.01	26.65	7.45	6.56	
+MDC	NaN	NaN	NaN	NaN	NaN	139.7	NaN	6598.1	20.00	0.937	26.42	27.07	7.87	6.97	
+MDC	NaN	NaN	NaN	NaN	NaN	139.65	NaN	6601.0	20.00	0.924	26.03	26.66	7.46	6.57	
+MDC	NaN	NaN	NaN	NaN	NaN	139.6	NaN	6603.9	20.00	0.921	25.95	26.58	7.38	6.49	
+MDC 	NaN	NaN	NaN	NaN	NaN	139.55	NaN	6606.8	20.00	0.925	26.05	26.69	7.49	6.59	
+MDC	NaN	NaN	NaN	NaN	NaN	139.5	NaN	6609.7	20.00	0.911	25.63	26.26	7.06	6.16	
+MDC	NaN	NaN	NaN	NaN	NaN	139.45	NaN	6612.5	20.00	0.911	25.65	26.28	7.08	6.18	
+MDC 	NaN	NaN	NaN	NaN	NaN	139.4	NaN	6615.4	20.00	0.911	25.64	26.27	7.07	6.17	
+MDC	NaN	NaN	NaN	NaN	NaN	139.35	NaN	6618.3	20.00	0.901	25.35	25.97	6.77	5.87	
+MDC	NaN	NaN	NaN	NaN	NaN	139.3	NaN	6621.2	20.00	0.905	25.47	26.09	6.89	6.00	
+MDC	NaN	NaN	NaN	NaN	NaN	139.25	NaN	6624.1	20.00	0.896	25.20	25.81	6.61	5.71	
+MDC	NaN	NaN	NaN	NaN	NaN	139.1	NaN	6632.8	20.00	0.908	25.57	26.20	7.00	6.10	
+MDC	NaN	NaN	NaN	NaN	NaN	139.05	NaN	6635.7	20.00	0.933	26.30	26.95	7.75	6.85	
+MDC	NaN	NaN	NaN	NaN	NaN	139	NaN	6638.5	20.00	0.908	25.55	26.17	6.97	6.07	
+MDC	NaN	NaN	NaN	NaN	NaN	139	NaN	6638.5	20.00	0.948	26.75	27.41	8.21	7.31	
+MDC	NaN	NaN	NaN	NaN	NaN	139	NaN	6638.5	20.00	0.943	26.60	27.26	8.06	7.16	
+MDC	NaN	NaN	NaN	NaN	NaN	138.9	NaN	6644.3	20.00	0.915	25.78	26.41	7.21	6.31	
+MDC	NaN	NaN	NaN	NaN	NaN	138.8	NaN	6650.1	20.00	0.943	26.59	27.24	8.04	7.14	
+MDC	NaN	NaN	NaN	NaN	NaN	138.7	NaN	6655.9	20.00	0.910	25.62	26.24	7.04	6.14	
+MDC	NaN	NaN	NaN	NaN	NaN	138.6	NaN	6661.7	20.00	0.934	26.32	26.96	7.76	6.86	
+MDC	NaN	NaN	NaN	NaN	NaN	138.5	NaN	6667.4	20.00	0.924	26.02	26.66	7.46	6.56	
+MDC	NaN	NaN	NaN	NaN	NaN	138.4	NaN	6673.2	20.00	0.924	26.02	26.66	7.46	6.55	
+MDC	NaN	NaN	NaN	NaN	NaN	138.4	NaN	6673.2	20.00	0.919	25.89	26.52	7.32	6.41	
+MDC 11	NaN	NaN	NaN	NaN	NaN	138.3	NaN	6679.0	20.00	0.813	22.77	23.31	4.11	3.20	
+MDC 11	NaN	NaN	NaN	NaN	NaN	138.2	NaN	6684.8	20.00	0.924	26.03	26.67	7.47	6.56	
+MDC 11	NaN	NaN	NaN	NaN	NaN	138.1	NaN	6690.6	20.00	0.862	24.21	24.79	5.59	4.68	
+MDC	NaN	NaN	NaN	NaN	NaN	138	NaN	6696.3	20.00	0.912	25.67	26.30	7.10	6.19	
+MDC 11	NaN	NaN	NaN	NaN	NaN	138	NaN	6696.3	20.00	0.839	23.52	24.09	4.89	3.98	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.9	NaN	6702.1	20.00	0.914	25.72	26.35	7.15	6.24	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.8	NaN	6708.9	20.00	0.856	24.02	24.59	5.39	4.48	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.7	NaN	6716.7	20.00	0.829	23.24	23.79	4.59	3.68	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.6	NaN	6724.6	20.00	0.912	25.68	26.31	7.11	6.20	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.5	NaN	6732.4	20.00	0.919	25.88	26.51	7.31	6.40	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.4	NaN	6740.2	20.00	0.932	26.26	26.91	7.71	6.79	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.4	NaN	6740.2	20.00	0.935	26.35	26.99	7.79	6.88	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.3	NaN	6748.1	20.00	0.893	25.11	25.72	6.52	5.61	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.2	NaN	6755.9	20.00	0.920	25.92	26.56	7.36	6.44	
+MDC 11	NaN	NaN	NaN	NaN	NaN	137.1	NaN	6763.7	20.00	0.929	26.18	26.82	7.62	6.71	
+MDC 	NaN	NaN	NaN	NaN	NaN	137	NaN	6771.6	20.00	0.919	25.87	26.50	7.30	6.38	
+MDC-11	NaN	NaN	NaN	NaN	NaN	137	NaN	6771.6	20.00	0.864	24.28	24.86	5.66	4.74	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.9	NaN	6779.4	20.00	0.812	22.75	23.29	4.09	3.17	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.7	NaN	6795.1	20.00	0.807	22.59	23.13	3.93	3.00	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.6	NaN	6802.9	20.00	0.791	22.12	22.64	3.44	2.52	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.5	NaN	6810.7	20.00	0.821	23.00	23.55	4.35	3.42	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.3	NaN	6826.4	20.00	0.850	23.84	24.41	5.21	4.29	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.3	NaN	6826.4	20.00	0.839	23.54	24.10	4.90	3.97	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.2	NaN	6834.2	20.00	0.870	24.43	25.02	5.82	4.89	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136.1	NaN	6840.6	20.00	0.716	19.91	20.36	1.16	0.23	
+MDC 	NaN	NaN	NaN	NaN	NaN	136	NaN	6846.9	20.00	0.740	20.61	21.08	1.88	0.95	
+MDC-11	NaN	NaN	NaN	NaN	NaN	136	NaN	6846.9	20.00	0.711	19.76	20.21	1.01	0.08	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.9	NaN	6853.1	20.00	0.791	22.11	22.63	3.43	2.50	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.8	NaN	6859.4	20.00	0.916	25.81	26.44	7.24	6.30	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.7	NaN	6865.6	20.00	0.845	23.70	24.27	5.07	4.13	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.6	NaN	6872.7	20.00	0.914	25.74	26.36	7.16	6.23	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.5	NaN	6881.9	20.00	0.953	26.89	27.56	8.36	7.42	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.4	NaN	6891.1	20.00	0.894	25.13	25.74	6.54	5.61	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.3	NaN	6900.2	20.00	0.772	21.55	22.05	2.85	1.92	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135.1	NaN	6918.5	20.00	0.702	19.49	19.93	0.73	-0.21	
+MDC	NaN	NaN	NaN	NaN	NaN	135	NaN	6927.7	20.00	0.885	24.87	25.47	6.27	5.33	
+MDC-11	NaN	NaN	NaN	NaN	NaN	135	NaN	6927.7	20.00	0.875	24.57	25.17	5.97	5.02	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.9	NaN	6936.8	20.00	0.843	23.65	24.21	5.01	4.07	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.7	NaN	6955.1	20.00	0.886	24.91	25.51	6.31	5.37	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.6	NaN	6964.3	20.00	0.893	25.11	25.72	6.52	5.58	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.5	NaN	6973.4	20.00	0.956	26.98	27.65	8.45	7.50	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.4	NaN	6982.6	20.00	0.850	23.87	24.44	5.24	4.29	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.3	NaN	6991.5	20.00	0.835	23.42	23.98	4.78	3.83	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.2	NaN	6999.7	20.00	0.859	24.12	24.70	5.50	4.54	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134.1	NaN	7007.9	20.00	0.820	22.98	23.52	4.32	3.37	
+MDC	NaN	NaN	NaN	NaN	NaN	134	NaN	7016.1	20.00	0.832	23.32	23.87	4.67	3.72	
+MDC-11	NaN	NaN	NaN	NaN	NaN	134	NaN	7016.1	20.00	0.790	22.08	22.60	3.40	2.45	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.9	NaN	7024.3	20.00	0.801	22.42	22.94	3.74	2.79	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.7	NaN	7046.1	20.00	0.777	21.70	22.21	3.01	2.05	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.7	NaN	7046.1	20.00	0.784	21.91	22.42	3.22	2.26	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.6	NaN	7062.0	20.00	0.818	22.92	23.46	4.26	3.30	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.5	NaN	7077.9	20.00	0.809	22.65	23.18	3.98	3.02	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.4	NaN	7093.7	20.00	0.850	23.86	24.43	5.23	4.27	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.3	NaN	7109.6	20.00	0.772	21.55	22.05	2.85	1.88	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.2	NaN	7125.5	20.00	0.859	24.11	24.69	5.49	4.52	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.2	NaN	7125.5	20.00	0.855	24.01	24.59	5.39	4.41	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133.1	NaN	7141.4	20.00	0.687	19.07	19.49	0.29	-0.68	
+MDC	NaN	NaN	NaN	NaN	NaN	133	NaN	7157.3	20.00	0.785	21.95	22.46	3.26	2.29	
+MDC-11	NaN	NaN	NaN	NaN	NaN	133	NaN	7157.3	20.00	0.761	21.23	21.72	2.52	1.55	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.9	NaN	7173.1	20.00	0.856	24.04	24.62	5.42	4.44	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.8	NaN	7189.0	20.00	0.693	19.24	19.67	0.47	-0.51	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.7	NaN	7204.9	20.00	0.819	22.93	23.47	4.27	3.29	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.6	NaN	7220.8	20.00	0.748	20.85	21.33	2.13	1.15	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.5	NaN	7236.6	20.00	0.728	20.27	20.73	1.53	0.54	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.4	NaN	7248.0	20.00	0.779	21.75	22.26	3.06	2.07	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.3	NaN	7256.5	20.00	0.778	21.73	22.24	3.04	2.05	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.2	NaN	7264.9	20.00	0.782	21.86	22.37	3.17	2.17	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.1	NaN	7273.3	20.00	0.866	24.32	24.90	5.70	4.71	
+MDC-11	NaN	NaN	NaN	NaN	NaN	132.1	NaN	7273.3	20.00	0.865	24.29	24.88	5.68	4.68	
+MDC	NaN	NaN	NaN	NaN	NaN	132	NaN	7280.6	20.00	0.796	22.26	22.79	3.59	2.59	
+MDC 11	NaN	NaN	NaN	NaN	NaN	132	NaN	7280.6	20.00	0.939	26.48	27.14	7.94	6.94	
+MDC 11	NaN	NaN	NaN	NaN	NaN	132	NaN	7280.6	20.00	0.935	26.34	26.99	7.79	6.79	
+MDC	NaN	NaN	NaN	NaN	NaN	131.5	NaN	7314.1	20.00	0.861	24.18	24.76	5.56	4.56	
+MDC	NaN	NaN	NaN	NaN	NaN	131.4	NaN	7321.3	20.00	0.848	23.81	24.38	5.18	4.18	
+MDC	NaN	NaN	NaN	NaN	NaN	131.3	NaN	7328.8	20.00	0.943	26.60	27.26	8.06	7.05	
+MDC	NaN	NaN	NaN	NaN	NaN	131.2	NaN	7336.4	20.00	0.935	26.35	26.99	7.79	6.79	
+MDC	NaN	NaN	NaN	NaN	NaN	131.1	NaN	7343.9	20.00	0.909	25.57	26.20	7.00	5.99	
+MDC	NaN	NaN	NaN	NaN	NaN	131	NaN	7351.4	20.00	0.898	25.26	25.88	6.68	5.67	
+MDC 	NaN	NaN	NaN	NaN	NaN	130.95	NaN	7355.2	20.00	0.887	24.95	25.56	6.36	5.35	
+MDC	NaN	NaN	NaN	NaN	NaN	130.8	NaN	7365.8	20.00	0.908	25.55	26.18	6.98	5.97	
+MDC	NaN	NaN	NaN	NaN	NaN	130.7	NaN	7372.0	20.00	0.879	24.72	25.32	6.12	5.11	
+MDC	NaN	NaN	NaN	NaN	NaN	130.6	NaN	7380.2	20.00	0.855	23.99	24.56	5.36	4.35	
+MDC	NaN	NaN	NaN	NaN	NaN	130.45	NaN	7392.5	20.00	0.848	23.79	24.36	5.16	4.14	
+MDC	NaN	NaN	NaN	NaN	NaN	130.4	NaN	7396.6	20.00	0.887	24.94	25.55	6.35	5.34	
+MDC	NaN	NaN	NaN	NaN	NaN	130.3	NaN	7404.8	20.00	0.908	25.57	26.19	6.99	5.98	
+MDC	NaN	NaN	NaN	NaN	NaN	130.2	NaN	7413.0	20.00	0.934	26.32	26.97	7.77	6.75	
+MDC	NaN	NaN	NaN	NaN	NaN	130.1	NaN	7421.2	20.00	0.960	27.09	27.75	8.55	7.54	
+MDC	NaN	NaN	NaN	NaN	NaN	130.05	NaN	7425.2	20.00	0.911	25.64	26.26	7.06	6.04	
+MDC	NaN	NaN	NaN	NaN	NaN	129.95	NaN	7433.4	20.00	0.909	25.58	26.20	7.00	5.98	
+MDC	NaN	NaN	NaN	NaN	NaN	129.9	NaN	7437.5	20.00	0.937	26.40	27.05	7.85	6.83	
+MDC	NaN	NaN	NaN	NaN	NaN	129.8	NaN	7445.7	20.00	0.934	26.32	26.97	7.77	6.75	
+MDC 	NaN	NaN	NaN	NaN	NaN	129.75	NaN	7449.8	20.00	0.895	25.17	25.78	6.58	5.56	
+MDC	NaN	NaN	NaN	NaN	NaN	129.7	NaN	7453.8	20.00	0.900	25.32	25.93	6.73	5.71	
+MDC	NaN	NaN	NaN	NaN	NaN	129.6	NaN	7462.0	20.00	0.909	25.59	26.21	7.01	5.99	
+MDC	NaN	NaN	NaN	NaN	NaN	129.5	NaN	7470.2	20.00	0.896	25.19	25.80	6.60	5.58	
+MDC	NaN	NaN	NaN	NaN	NaN	129.4	NaN	7478.9	20.00	0.960	27.09	27.75	8.55	7.53	
+MDC	NaN	NaN	NaN	NaN	NaN	129.3	NaN	7487.6	20.00	0.926	26.08	26.72	7.52	6.49	
+MDC	NaN	NaN	NaN	NaN	NaN	129.2	NaN	7496.4	20.00	0.937	26.41	27.06	7.86	6.83	
+MDC	NaN	NaN	NaN	NaN	NaN	129.2	NaN	7496.4	20.00	0.931	26.24	26.88	7.68	6.66	
+MDC	NaN	NaN	NaN	NaN	NaN	129.1	NaN	7505.3	20.00	0.924	26.04	26.68	7.48	6.45	
+MDC	NaN	NaN	NaN	NaN	NaN	129	NaN	7514.1	20.00	0.928	26.15	26.79	7.59	6.56	
+MDC	NaN	NaN	NaN	NaN	NaN	128.9	NaN	7523.0	20.00	0.962	27.15	27.82	8.62	7.59	
+MDC	NaN	NaN	NaN	NaN	NaN	128.8	NaN	7531.8	20.00	0.953	26.90	27.56	8.36	7.33	
+MDC	NaN	NaN	NaN	NaN	NaN	128	NaN	7595.2	20.00	0.946	26.68	27.34	8.14	7.10	
+MDC	NaN	NaN	NaN	NaN	NaN	127.9	NaN	7595.4	20.00	0.929	26.19	26.83	7.63	6.59	
+MDC	NaN	NaN	NaN	NaN	NaN	127.65	NaN	7596.1	20.00	0.946	26.67	27.32	8.12	7.08	
+MDC	NaN	NaN	NaN	NaN	NaN	127.5	NaN	7596.5	20.00	0.946	26.67	27.32	8.12	7.08	
+MDC	NaN	NaN	NaN	NaN	NaN	127	NaN	7654.4	20.00	0.951	26.82	27.48	8.28	7.23	
+MDC	NaN	NaN	NaN	NaN	NaN	126.5	NaN	7719.7	20.00	0.954	26.91	27.57	8.37	7.31	
+MDC	NaN	NaN	NaN	NaN	NaN	126	NaN	7758.7	20.00	0.955	26.95	27.61	8.41	7.34	
+MDC	NaN	NaN	NaN	NaN	NaN	125	NaN	7840.8	20.00	0.940	26.49	27.14	7.94	6.86	
+MDC	NaN	NaN	NaN	NaN	NaN	124	NaN	7930.5	20.00	0.946	26.68	27.34	8.14	7.05	
+MDC	NaN	NaN	NaN	NaN	NaN	123	NaN	8009.3	20.00	0.956	26.98	27.64	8.44	7.34	
+MDC	NaN	NaN	NaN	NaN	NaN	122	NaN	8086.5	20.00	0.949	26.76	27.42	8.22	7.10	
+MDC	NaN	NaN	NaN	NaN	NaN	121	NaN	8163.2	20.00	0.969	27.34	28.02	8.82	7.69	
+MDC	NaN	NaN	NaN	NaN	NaN	120.95	NaN	8167.0	20.00	0.972	27.44	28.12	8.92	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	120.75	NaN	8182.3	20.00	0.915	25.76	26.39	7.19	6.06	
+MDC	NaN	NaN	NaN	NaN	NaN	120.65	NaN	8189.9	20.00	0.939	26.47	27.12	7.92	6.79	
+MDC	NaN	NaN	NaN	NaN	NaN	120.55	NaN	8197.5	20.00	0.975	27.54	28.22	9.02	7.88	
+MDC	NaN	NaN	NaN	NaN	NaN	120.5	NaN	8201.3	20.00	0.966	27.26	27.94	8.74	7.60	
+MDC	NaN	NaN	NaN	NaN	NaN	120.35	NaN	8212.8	20.00	0.974	27.51	28.19	8.99	7.86	
+MDC	NaN	NaN	NaN	NaN	NaN	120.25	NaN	8220.4	20.00	0.970	27.38	28.06	8.86	7.72	
+MDC	NaN	NaN	NaN	NaN	NaN	120.2	NaN	8224.2	20.00	0.963	27.18	27.85	8.65	7.51	
+MDC	NaN	NaN	NaN	NaN	NaN	120.1	NaN	8231.8	20.00	0.959	27.05	27.72	8.52	7.38	
+MDC	NaN	NaN	NaN	NaN	NaN	120.05	NaN	8235.6	20.00	0.966	27.27	27.94	8.74	7.60	
+MDC	NaN	NaN	NaN	NaN	NaN	120	NaN	8239.4	20.00	0.964	27.22	27.89	8.69	7.55	
+MDC	NaN	NaN	NaN	NaN	NaN	119.95	NaN	8243.2	20.00	0.967	27.29	27.97	8.77	7.63	
+MDC	NaN	NaN	NaN	NaN	NaN	119.9	NaN	8247.0	20.00	0.970	27.40	28.07	8.87	7.73	
+MDC	NaN	NaN	NaN	NaN	NaN	119.9	NaN	8247.0	20.00	0.967	27.29	27.97	8.77	7.63	
+MDC	NaN	NaN	NaN	NaN	NaN	119.85	NaN	8250.9	20.00	0.969	27.36	28.04	8.84	7.70	
+MDC	NaN	NaN	NaN	NaN	NaN	119.8	NaN	8254.7	20.00	0.967	27.29	27.97	8.77	7.62	
+MDC	NaN	NaN	NaN	NaN	NaN	119.7	NaN	8261.8	20.00	0.969	27.36	28.04	8.84	7.69	
+MDC	NaN	NaN	NaN	NaN	NaN	119.65	NaN	8264.7	20.00	0.968	27.31	27.99	8.79	7.64	
+MDC	NaN	NaN	NaN	NaN	NaN	119.6	NaN	8267.6	20.00	0.969	27.36	28.04	8.84	7.69	
+MDC	NaN	NaN	NaN	NaN	NaN	119.5	NaN	8273.4	20.00	0.981	27.70	28.39	9.19	8.05	
+MDC	NaN	NaN	NaN	NaN	NaN	119.4	NaN	8279.3	20.00	0.966	27.25	27.93	8.73	7.58	
+MDC	NaN	NaN	NaN	NaN	NaN	119.3	NaN	8285.1	20.00	0.969	27.35	28.03	8.83	7.68	
+MDC	NaN	NaN	NaN	NaN	NaN	119.25	NaN	8288.0	20.00	0.969	27.34	28.02	8.82	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	119.2	NaN	8290.9	20.00	0.971	27.42	28.10	8.90	7.75	
+MDC	NaN	NaN	NaN	NaN	NaN	119	NaN	8304.8	20.00	0.970	27.38	28.06	8.86	7.71	
+MDC	NaN	NaN	NaN	NaN	NaN	118.95	NaN	8308.6	20.00	0.969	27.34	28.02	8.82	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	118.85	NaN	8316.1	20.00	0.961	27.10	27.77	8.57	7.42	
+MDC	NaN	NaN	NaN	NaN	NaN	118.8	NaN	8319.9	20.00	0.974	27.51	28.19	8.99	7.84	
+MDC	NaN	NaN	NaN	NaN	NaN	118.75	NaN	8323.7	20.00	0.977	27.60	28.28	9.08	7.93	
+MDC	NaN	NaN	NaN	NaN	NaN	118.7	NaN	8327.4	20.00	0.969	27.35	28.03	8.83	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	118.65	NaN	8331.2	20.00	0.975	27.52	28.21	9.01	7.85	
+MDC	NaN	NaN	NaN	NaN	NaN	118.6	NaN	8335.0	20.00	0.977	27.59	28.27	9.07	7.91	
+MDC	NaN	NaN	NaN	NaN	NaN	118.55	NaN	8338.7	20.00	0.985	27.82	28.52	9.32	8.16	
+MDC	NaN	NaN	NaN	NaN	NaN	118.5	NaN	8342.5	20.00	0.984	27.79	28.48	9.28	8.12	
+MDC	NaN	NaN	NaN	NaN	NaN	118.45	NaN	8346.3	20.00	0.973	27.47	28.15	8.95	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	118.4	NaN	8350.0	20.00	0.953	26.88	27.54	8.34	7.18	
+MDC	NaN	NaN	NaN	NaN	NaN	118.35	NaN	8353.8	20.00	0.946	26.67	27.33	8.13	6.97	
+MDC	NaN	NaN	NaN	NaN	NaN	118.3	NaN	8357.6	20.00	0.979	27.65	28.34	9.14	7.98	
+MDC	NaN	NaN	NaN	NaN	NaN	118.25	NaN	8361.4	20.00	0.985	27.82	28.51	9.31	8.15	
+MDC	NaN	NaN	NaN	NaN	NaN	118.2	NaN	8365.1	20.00	0.977	27.58	28.26	9.06	7.90	
+MDC	NaN	NaN	NaN	NaN	NaN	118.15	NaN	8368.9	20.00	0.982	27.73	28.42	9.22	8.06	
+MDC	NaN	NaN	NaN	NaN	NaN	118.1	NaN	8372.7	20.00	0.972	27.45	28.13	8.93	7.77	
+MDC	NaN	NaN	NaN	NaN	NaN	118.05	NaN	8376.4	20.00	0.982	27.73	28.42	9.22	8.06	
+MDC	NaN	NaN	NaN	NaN	NaN	118	NaN	8380.2	20.00	0.972	27.45	28.13	8.93	7.76	
+MDC	NaN	NaN	NaN	NaN	NaN	117.95	NaN	8384.0	20.00	0.962	27.14	27.81	8.61	7.45	
+MDC	NaN	NaN	NaN	NaN	NaN	117.9	NaN	8387.8	20.00	0.977	27.58	28.27	9.07	7.90	
+MDC	NaN	NaN	NaN	NaN	NaN	117.8	NaN	8395.3	20.00	0.964	27.20	27.87	8.67	7.51	
+MDC	NaN	NaN	NaN	NaN	NaN	117.75	NaN	8399.1	20.00	0.979	27.66	28.35	9.15	7.98	
+MDC	NaN	NaN	NaN	NaN	NaN	117.7	NaN	8402.8	20.00	0.985	27.81	28.51	9.31	8.14	
+MDC	NaN	NaN	NaN	NaN	NaN	117.65	NaN	8406.6	20.00	0.961	27.11	27.78	8.58	7.41	
+MDC	NaN	NaN	NaN	NaN	NaN	117.6	NaN	8410.4	20.00	0.955	26.95	27.62	8.42	7.25	
+MDC	NaN	NaN	NaN	NaN	NaN	117.5	NaN	8417.9	20.00	0.974	27.49	28.17	8.97	7.80	
+MDC	NaN	NaN	NaN	NaN	NaN	117.45	NaN	8421.7	20.00	0.983	27.77	28.46	9.26	8.09	
+MDC	NaN	NaN	NaN	NaN	NaN	117.4	NaN	8425.5	20.00	0.970	27.37	28.05	8.85	7.68	
+MDC	NaN	NaN	NaN	NaN	NaN	117.35	NaN	8429.2	20.00	0.962	27.14	27.81	8.61	7.44	
+MDC	NaN	NaN	NaN	NaN	NaN	117.3	NaN	8433.0	20.00	0.966	27.26	27.93	8.73	7.56	
+MDC	NaN	NaN	NaN	NaN	NaN	117.3	NaN	8433.0	20.00	0.969	27.36	28.04	8.84	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	117.25	NaN	8436.8	20.00	0.987	27.87	28.57	9.37	8.20	
+MDC	NaN	NaN	NaN	NaN	NaN	117.25	NaN	8436.8	20.00	0.986	27.84	28.53	9.33	8.16	
+MDC	NaN	NaN	NaN	NaN	NaN	117.2	NaN	8440.5	20.00	0.973	27.47	28.15	8.95	7.78	
+MDC	NaN	NaN	NaN	NaN	NaN	117.15	NaN	8444.3	20.00	0.966	27.26	27.94	8.74	7.56	
+MDC	NaN	NaN	NaN	NaN	NaN	117.1	NaN	8448.1	20.00	0.868	24.38	24.97	5.77	4.60	
+MDC	NaN	NaN	NaN	NaN	NaN	117.05	NaN	8451.8	20.00	0.942	26.54	27.20	8.00	6.82	
+MDC	NaN	NaN	NaN	NaN	NaN	117	NaN	8455.6	20.00	0.974	27.49	28.17	8.97	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	116	NaN	8531.0	20.00	0.979	27.65	28.34	9.14	7.95	
+MDC	NaN	NaN	NaN	NaN	NaN	115	NaN	8606.4	20.00	0.976	27.56	28.24	9.04	7.84	
+MDC	NaN	NaN	NaN	NaN	NaN	114	NaN	8681.5	20.00	0.978	27.61	28.29	9.09	7.88	
+MDC	NaN	NaN	NaN	NaN	NaN	113	NaN	8736.8	20.00	0.983	27.77	28.46	9.26	8.04	
+MDC	NaN	NaN	NaN	NaN	NaN	112	NaN	8785.8	20.00	0.983	27.76	28.45	9.25	8.03	
+MDC-A	NaN	NaN	NaN	NaN	NaN	111	NaN	8840.7	20.00	0.989	27.95	28.65	9.45	8.21	
+MDC -A	NaN	NaN	NaN	NaN	NaN	110	NaN	8895.5	20.00	0.970	27.40	28.07	8.87	7.63	
+MDC	NaN	NaN	NaN	NaN	NaN	109	NaN	8950.3	20.00	0.962	27.14	27.81	8.61	7.36	
+MDC	NaN	NaN	NaN	NaN	NaN	108.45	NaN	8980.5	20.00	0.985	27.82	28.51	9.31	8.05	
+MDC	NaN	NaN	NaN	NaN	NaN	108.4	NaN	8983.2	20.00	0.975	27.52	28.20	9.00	7.74	
+MDC	NaN	NaN	NaN	NaN	NaN	108.35	NaN	8986.0	20.00	0.989	27.94	28.63	9.43	8.18	
+MDC	NaN	NaN	NaN	NaN	NaN	108.3	NaN	8988.7	20.00	0.981	27.69	28.38	9.18	7.92	
+MDC	NaN	NaN	NaN	NaN	NaN	108.2	NaN	8994.2	20.00	0.934	26.31	26.96	7.76	6.50	
+MDC	NaN	NaN	NaN	NaN	NaN	108.2	NaN	8994.2	20.00	0.916	25.80	26.43	7.23	5.97	
+MDC	NaN	NaN	NaN	NaN	NaN	108.15	NaN	8997.0	20.00	0.961	27.11	27.78	8.58	7.32	
+MDC	NaN	NaN	NaN	NaN	NaN	108.1	NaN	8999.7	20.00	0.964	27.21	27.88	8.68	7.42	
+MDC	NaN	NaN	NaN	NaN	NaN	108.05	NaN	9002.4	20.00	0.960	27.09	27.76	8.56	7.30	
+MDC-A	NaN	NaN	NaN	NaN	NaN	108	NaN	9005.2	20.00	0.978	27.63	28.31	9.11	7.85	
+MDC	NaN	NaN	NaN	NaN	NaN	107.95	NaN	9007.9	20.00	0.963	27.18	27.85	8.65	7.39	
+MDC	NaN	NaN	NaN	NaN	NaN	107.9	NaN	9010.7	20.00	0.939	26.47	27.12	7.92	6.66	
+MDC	NaN	NaN	NaN	NaN	NaN	107.85	NaN	9013.4	20.00	0.967	27.28	27.96	8.76	7.50	
+MDC	NaN	NaN	NaN	NaN	NaN	107.8	NaN	9016.2	20.00	0.880	24.73	25.33	6.13	4.86	
+MDC	NaN	NaN	NaN	NaN	NaN	107.75	NaN	9018.9	20.00	0.919	25.89	26.53	7.33	6.06	
+MDC	NaN	NaN	NaN	NaN	NaN	107.65	NaN	9024.4	20.00	0.972	27.44	28.12	8.92	7.66	
+MDC	NaN	NaN	NaN	NaN	NaN	107.6	NaN	9027.1	20.00	0.964	27.21	27.89	8.69	7.42	
+MDC	NaN	NaN	NaN	NaN	NaN	107.55	NaN	9029.9	20.00	0.969	27.36	28.04	8.84	7.58	
+MDC	NaN	NaN	NaN	NaN	NaN	107.5	NaN	9032.6	20.00	0.962	27.13	27.80	8.60	7.34	
+MDC	NaN	NaN	NaN	NaN	NaN	107.45	NaN	9035.3	20.00	0.974	27.50	28.19	8.99	7.72	
+MDC	NaN	NaN	NaN	NaN	NaN	107.4	NaN	9038.1	20.00	0.980	27.67	28.35	9.15	7.89	
+MDC	NaN	NaN	NaN	NaN	NaN	107.35	NaN	9040.8	20.00	0.982	27.73	28.42	9.22	7.95	
+MDC	NaN	NaN	NaN	NaN	NaN	107.3	NaN	9043.6	20.00	0.966	27.26	27.94	8.74	7.47	
+MDC	NaN	NaN	NaN	NaN	NaN	107.25	NaN	9046.3	20.00	0.978	27.61	28.30	9.10	7.83	
+MDC	NaN	NaN	NaN	NaN	NaN	107.2	NaN	9049.1	20.00	0.963	27.16	27.84	8.64	7.37	
+MDC	NaN	NaN	NaN	NaN	NaN	107.15	NaN	9051.8	20.00	0.972	27.46	28.14	8.94	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	107.1	NaN	9054.5	20.00	0.899	25.29	25.91	6.71	5.44	
+MDC	NaN	NaN	NaN	NaN	NaN	107.05	NaN	9057.3	20.00	0.969	27.35	28.02	8.82	7.55	
+MDC- A	NaN	NaN	NaN	NaN	NaN	107	NaN	9060.0	20.00	0.987	27.88	28.57	9.37	8.10	
+MDC	NaN	NaN	NaN	NaN	NaN	106.95	NaN	9062.8	20.00	0.987	27.90	28.59	9.39	8.12	
+MDC	NaN	NaN	NaN	NaN	NaN	106.9	NaN	9065.5	20.00	0.979	27.66	28.34	9.14	7.87	
+MDC	NaN	NaN	NaN	NaN	NaN	106.9	NaN	9065.5	20.00	0.984	27.80	28.49	9.29	8.02	
+MDC	NaN	NaN	NaN	NaN	NaN	106.85	NaN	9068.3	20.00	0.977	27.57	28.26	9.06	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	106.8	NaN	9071.0	20.00	0.963	27.17	27.84	8.64	7.37	
+MDC	NaN	NaN	NaN	NaN	NaN	106.75	NaN	9073.7	20.00	0.990	27.96	28.65	9.45	8.18	
+MDC	NaN	NaN	NaN	NaN	NaN	106.7	NaN	9076.5	20.00	0.972	27.44	28.12	8.92	7.65	
+MDC	NaN	NaN	NaN	NaN	NaN	106.7	NaN	9076.5	20.00	0.983	27.77	28.46	9.26	7.99	
+MDC	NaN	NaN	NaN	NaN	NaN	106.7	NaN	9076.5	20.00	0.991	28.01	28.71	9.51	8.23	
+MDC	NaN	NaN	NaN	NaN	NaN	106.6	NaN	9082.0	20.00	0.988	27.90	28.60	9.40	8.12	
+MDC	NaN	NaN	NaN	NaN	NaN	106.5	NaN	9087.4	20.00	0.986	27.85	28.54	9.34	8.07	
+MDC	NaN	NaN	NaN	NaN	NaN	106.45	NaN	9090.2	20.00	0.984	27.80	28.49	9.29	8.01	
+MDC 	NaN	NaN	NaN	NaN	NaN	106.4	NaN	9092.9	20.00	0.980	27.68	28.37	9.17	7.90	
+MDC	NaN	NaN	NaN	NaN	NaN	106.35	NaN	9095.7	20.00	0.980	27.68	28.37	9.17	7.90	
+MDC	NaN	NaN	NaN	NaN	NaN	106.3	NaN	9098.4	20.00	0.971	27.40	28.08	8.88	7.61	
+MDC	NaN	NaN	NaN	NaN	NaN	106.25	NaN	9101.2	20.00	0.985	27.82	28.51	9.31	8.03	
+MDC	NaN	NaN	NaN	NaN	NaN	106.2	NaN	9103.9	20.00	0.973	27.47	28.15	8.95	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	106.15	NaN	9106.5	20.00	0.989	27.93	28.62	9.42	8.15	
+MDC 	NaN	NaN	NaN	NaN	NaN	106.1	NaN	9109.0	20.00	0.973	27.47	28.15	8.95	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	106.05	NaN	9111.5	20.00	0.984	27.80	28.49	9.29	8.01	
+MDC	NaN	NaN	NaN	NaN	NaN	106	NaN	9114.0	20.00	0.954	26.92	27.59	8.39	7.11	
+MDC	NaN	NaN	NaN	NaN	NaN	105.95	NaN	9116.5	20.00	0.978	27.63	28.32	9.12	7.84	
+MDC 	NaN	NaN	NaN	NaN	NaN	105.9	NaN	9119.0	20.00	0.974	27.51	28.19	8.99	7.72	
+MDC	NaN	NaN	NaN	NaN	NaN	105.85	NaN	9121.5	20.00	0.966	27.28	27.95	8.75	7.48	
+MDC	NaN	NaN	NaN	NaN	NaN	105.8	NaN	9124.0	20.00	0.967	27.29	27.97	8.77	7.49	
+MDC	NaN	NaN	NaN	NaN	NaN	105.75	NaN	9126.4	20.00	0.976	27.55	28.23	9.03	7.75	
+MDC	NaN	NaN	NaN	NaN	NaN	105.7	NaN	9128.9	20.00	0.977	27.58	28.27	9.07	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	105.65	NaN	9131.4	20.00	0.986	27.86	28.55	9.35	8.07	
+MDC	NaN	NaN	NaN	NaN	NaN	105.6	NaN	9133.9	20.00	0.974	27.50	28.19	8.99	7.70	
+MDC	NaN	NaN	NaN	NaN	NaN	105.55	NaN	9136.4	20.00	0.983	27.77	28.46	9.26	7.98	
+MDC	NaN	NaN	NaN	NaN	NaN	105.5	NaN	9138.9	20.00	0.983	27.78	28.47	9.27	7.99	
+MDC	NaN	NaN	NaN	NaN	NaN	105.4	NaN	9143.9	20.00	0.977	27.59	28.27	9.07	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	105.35	NaN	9146.4	20.00	0.987	27.89	28.58	9.38	8.10	
+MDC 	NaN	NaN	NaN	NaN	NaN	105.3	NaN	9148.9	20.00	0.965	27.24	27.92	8.72	7.44	
+MDC	NaN	NaN	NaN	NaN	NaN	105.25	NaN	9151.4	20.00	0.976	27.57	28.25	9.05	7.77	
+MDC	NaN	NaN	NaN	NaN	NaN	105.25	NaN	9151.4	20.00	0.987	27.89	28.58	9.38	8.10	
+MDC	NaN	NaN	NaN	NaN	NaN	105.2	NaN	9153.9	20.00	0.975	27.53	28.21	9.01	7.73	
+MDC	NaN	NaN	NaN	NaN	NaN	105.15	NaN	9156.4	20.00	0.969	27.36	28.04	8.84	7.55	
+MDC	NaN	NaN	NaN	NaN	NaN	105.05	NaN	9161.4	20.00	0.982	27.73	28.42	9.22	7.93	
+MDC	NaN	NaN	NaN	NaN	NaN	105	NaN	9163.9	20.00	0.981	27.71	28.39	9.19	7.91	
+MDC	NaN	NaN	NaN	NaN	NaN	104.95	NaN	9166.4	20.00	0.989	27.93	28.62	9.42	8.14	
+MDC 	NaN	NaN	NaN	NaN	NaN	104.9	NaN	9168.8	20.00	0.970	27.37	28.05	8.85	7.56	
+MDC	NaN	NaN	NaN	NaN	NaN	104.85	NaN	9171.3	20.00	0.978	27.63	28.32	9.12	7.83	
+MDC	NaN	NaN	NaN	NaN	NaN	104.75	NaN	9176.3	20.00	0.985	27.83	28.52	9.32	8.03	
+MDC	NaN	NaN	NaN	NaN	NaN	104.65	NaN	9181.3	20.00	0.985	27.81	28.51	9.31	8.02	
+MDC	NaN	NaN	NaN	NaN	NaN	104.65	NaN	9181.3	20.00	0.982	27.74	28.43	9.23	7.94	
+MDC 	NaN	NaN	NaN	NaN	NaN	104.6	NaN	9183.8	20.00	0.979	27.64	28.33	9.13	7.84	
+MDC	NaN	NaN	NaN	NaN	NaN	104.5	NaN	9188.8	20.00	0.980	27.67	28.35	9.15	7.86	
+MDC	NaN	NaN	NaN	NaN	NaN	104.45	NaN	9191.3	20.00	0.988	27.90	28.60	9.40	8.11	
+MDC	NaN	NaN	NaN	NaN	NaN	104.4	NaN	9193.8	20.00	0.973	27.46	28.14	8.94	7.65	
+MDC	NaN	NaN	NaN	NaN	NaN	104.35	NaN	9196.3	20.00	0.979	27.65	28.33	9.13	7.84	
+MDC	NaN	NaN	NaN	NaN	NaN	104.35	NaN	9196.3	20.00	0.976	27.57	28.25	9.05	7.76	
+MDC	NaN	NaN	NaN	NaN	NaN	104.3	NaN	9198.8	20.00	0.972	27.45	28.13	8.93	7.64	
+MDC	NaN	NaN	NaN	NaN	NaN	104.25	NaN	9201.3	20.00	0.986	27.86	28.55	9.35	8.06	
+MDC 	NaN	NaN	NaN	NaN	NaN	104.2	NaN	9203.8	20.00	0.967	27.30	27.97	8.77	7.48	
+MDC	NaN	NaN	NaN	NaN	NaN	104.15	NaN	9206.3	20.00	0.984	27.79	28.48	9.28	7.99	
+MDC 	NaN	NaN	NaN	NaN	NaN	104.1	NaN	9208.7	20.00	0.972	27.44	28.12	8.92	7.62	
+MDC	NaN	NaN	NaN	NaN	NaN	104.05	NaN	9211.2	20.00	0.981	27.70	28.39	9.19	7.89	
+MDC	NaN	NaN	NaN	NaN	NaN	104	NaN	9213.7	20.00	0.982	27.74	28.43	9.23	7.94	
+MDC	NaN	NaN	NaN	NaN	NaN	103.95	NaN	9216.2	20.00	0.986	27.85	28.54	9.34	8.05	
+MDC	NaN	NaN	NaN	NaN	NaN	103.9	NaN	9218.7	20.00	0.978	27.62	28.31	9.11	7.81	
+MDC	NaN	NaN	NaN	NaN	NaN	103.85	NaN	9221.2	20.00	0.974	27.49	28.17	8.97	7.68	
+MDC	NaN	NaN	NaN	NaN	NaN	103.8	NaN	9223.7	20.00	0.968	27.33	28.01	8.81	7.52	
+MDC	NaN	NaN	NaN	NaN	NaN	103.75	NaN	9226.2	20.00	0.973	27.47	28.15	8.95	7.65	
+MDC	NaN	NaN	NaN	NaN	NaN	103.7	NaN	9228.7	20.00	0.975	27.54	28.22	9.02	7.73	
+MDC	NaN	NaN	NaN	NaN	NaN	103.65	NaN	9231.2	20.00	0.978	27.61	28.30	9.10	7.80	
+MDC 	NaN	NaN	NaN	NaN	NaN	103.6	NaN	9233.7	20.00	0.966	27.27	27.95	8.75	7.45	
+MDC	NaN	NaN	NaN	NaN	NaN	103.55	NaN	9236.2	20.00	0.982	27.73	28.42	9.22	7.92	
+MDC	NaN	NaN	NaN	NaN	NaN	103.55	NaN	9236.2	20.00	0.983	27.78	28.47	9.27	7.97	
+MDC	NaN	NaN	NaN	NaN	NaN	103.5	NaN	9238.7	20.00	0.972	27.45	28.13	8.93	7.64	
+MDC	NaN	NaN	NaN	NaN	NaN	103	NaN	9263.6	20.00	0.978	27.62	28.30	9.10	7.80	
+MDC	NaN	NaN	NaN	NaN	NaN	101.5	NaN	9339.6	20.00	0.966	27.27	27.95	8.75	7.44	
+MDC	NaN	NaN	NaN	NaN	NaN	101	NaN	9365.6	20.00	0.980	27.66	28.35	9.15	7.83	
+MDC	NaN	NaN	NaN	NaN	NaN	100.5	NaN	9391.7	20.00	0.975	27.52	28.20	9.00	7.68	
+MDC	NaN	NaN	NaN	NaN	NaN	100	NaN	9417.7	20.00	0.977	27.59	28.27	9.07	7.75	
+MDC	NaN	NaN	NaN	NaN	NaN	99.5	NaN	9442.4	20.00	0.973	27.47	28.15	8.95	7.62	
+MDC	NaN	NaN	NaN	NaN	NaN	99	NaN	9466.6	20.00	0.921	25.94	26.57	7.37	6.04	
+MDC	NaN	NaN	NaN	NaN	NaN	98.5	NaN	9490.8	20.00	0.979	27.64	28.33	9.13	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	98	NaN	9515.0	20.00	0.981	27.71	28.40	9.20	7.86	
+MDC	NaN	NaN	NaN	NaN	NaN	97.5	NaN	9539.2	20.00	0.980	27.67	28.36	9.16	7.81	
+MDC	NaN	NaN	NaN	NaN	NaN	97	NaN	9563.3	20.00	0.956	26.96	27.63	8.43	7.08	
+MDC	NaN	NaN	NaN	NaN	NaN	96.5	NaN	9587.5	20.00	0.979	27.66	28.35	9.15	7.80	
+MDC	NaN	NaN	NaN	NaN	NaN	96	NaN	9611.7	20.00	0.984	27.79	28.49	9.29	7.93	
+MDC	NaN	NaN	NaN	NaN	NaN	95.5	NaN	9635.9	20.00	0.976	27.57	28.26	9.06	7.70	
+MDC	NaN	NaN	NaN	NaN	NaN	95.5	NaN	9635.9	20.00	0.976	27.57	28.25	9.05	7.69	
+MDC	NaN	NaN	NaN	NaN	NaN	95	NaN	9664.5	20.00	0.981	27.70	28.39	9.19	7.82	
+MDC	NaN	NaN	NaN	NaN	NaN	94.5	NaN	9697.0	20.00	0.980	27.67	28.36	9.16	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	94	NaN	9729.2	20.00	0.990	27.97	28.67	9.47	8.09	
+MDC	NaN	NaN	NaN	NaN	NaN	93.5	NaN	9760.8	20.00	0.973	27.47	28.16	8.96	7.58	
+MDC	NaN	NaN	NaN	NaN	NaN	93	NaN	9795.3	20.00	0.985	27.82	28.52	9.32	7.93	
+MDC	NaN	NaN	NaN	NaN	NaN	92.5	NaN	9841.7	20.00	0.957	27.00	27.67	8.47	7.07	
+MDC	NaN	NaN	NaN	NaN	NaN	92	NaN	9888.2	20.00	0.975	27.54	28.23	9.03	7.62	
+MDC	NaN	NaN	NaN	NaN	NaN	91.5	NaN	9926.5	20.00	0.980	27.68	28.36	9.16	7.76	
+MDC	NaN	NaN	NaN	NaN	NaN	91	NaN	9962.4	20.00	0.975	27.54	28.22	9.02	7.61	
+MDC	NaN	NaN	NaN	NaN	NaN	90.5	NaN	10003.0	20.00	0.972	27.45	28.13	8.93	7.51	
+MDC	NaN	NaN	NaN	NaN	NaN	90	NaN	10046.2	20.00	1.000	28.26	28.97	9.77	8.34	
+MDC	NaN	NaN	NaN	NaN	NaN	89.06	NaN	10117.3	20.00	0.981	27.72	28.41	9.21	7.77	
+MDC	NaN	NaN	NaN	NaN	NaN	87.93	NaN	10200.2	20.00	0.977	27.59	28.27	9.07	7.62	
+MDC	NaN	NaN	NaN	NaN	NaN	86.93	NaN	10273.6	20.00	0.970	27.37	28.05	8.85	7.39	
+MDC	NaN	NaN	NaN	NaN	NaN	86.11	NaN	10333.8	20.00	0.979	27.66	28.34	9.14	7.67	
+MDC	NaN	NaN	NaN	NaN	NaN	85.01	NaN	10414.6	20.00	0.984	27.78	28.47	9.27	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	83.91	NaN	10495.3	20.00	0.973	27.47	28.15	8.95	7.45	
+MDC	NaN	NaN	NaN	NaN	NaN	83.06	NaN	10549.0	20.00	0.984	27.81	28.50	9.30	7.79	
+MDC	NaN	NaN	NaN	NaN	NaN	82.06	NaN	10611.6	20.00	0.982	27.74	28.43	9.23	7.71	
+MDC	NaN	NaN	NaN	NaN	NaN	80.05	NaN	10737.3	20.00	1.000	28.26	28.97	9.77	8.23	
+MDC	NaN	NaN	NaN	NaN	NaN	78.86	NaN	10811.7	20.00	0.978	27.61	28.30	9.10	7.55	
+MDC	NaN	NaN	NaN	NaN	NaN	77.91	NaN	10869.5	20.00	0.983	27.77	28.46	9.26	7.70	
+MDC	NaN	NaN	NaN	NaN	NaN	76.99	NaN	10924.1	20.00	0.980	27.69	28.37	9.17	7.61	
+MDC	NaN	NaN	NaN	NaN	NaN	76.03	NaN	10981.0	20.00	0.981	27.72	28.40	9.20	7.63	
+MDC	NaN	NaN	NaN	NaN	NaN	75.44	NaN	11024.0	20.00	0.983	27.77	28.46	9.26	7.68	
+MDC	NaN	NaN	NaN	NaN	NaN	74.44	NaN	11094.9	20.00	0.978	27.63	28.32	9.12	7.52	
+MDC	NaN	NaN	NaN	NaN	NaN	73.42	NaN	11161.6	20.00	0.958	27.02	27.69	8.49	6.88	
+MDC	NaN	NaN	NaN	NaN	NaN	72.76	NaN	11205.6	20.00	0.970	27.38	28.06	8.86	7.25	
+MDC	NaN	NaN	NaN	NaN	NaN	71.66	NaN	11271.4	20.00	0.973	27.48	28.16	8.96	7.33	
+MDC	NaN	NaN	NaN	NaN	NaN	70.33	NaN	11339.1	20.00	0.968	27.33	28.00	8.80	7.17	
+MDC	NaN	NaN	NaN	NaN	NaN	69.44	NaN	11379.9	20.00	0.946	26.67	27.33	8.13	6.48	
+MDC	NaN	NaN	NaN	NaN	NaN	68.43	NaN	11426.1	20.00	0.982	27.73	28.42	9.22	7.57	
+MDC	NaN	NaN	NaN	NaN	NaN	67	NaN	11491.5	20.00	0.976	27.57	28.25	9.05	7.39	
+MDC	NaN	NaN	NaN	NaN	NaN	66	NaN	11537.3	20.00	0.951	26.81	27.47	8.27	6.60	
+MDC	NaN	NaN	NaN	NaN	NaN	65	NaN	11578.8	20.00	0.984	27.79	28.48	9.28	7.60	
+MDC	NaN	NaN	NaN	NaN	NaN	64	NaN	11616.0	20.00	0.975	27.54	28.22	9.02	7.34	
+MDC	NaN	NaN	NaN	NaN	NaN	63.95	NaN	11618.3	20.00	0.979	27.66	28.34	9.14	7.46	
+MDC	NaN	NaN	NaN	NaN	NaN	63.5	NaN	11638.1	20.00	0.974	27.50	28.18	8.98	7.30	
+MDC	NaN	NaN	NaN	NaN	NaN	63	NaN	11660.4	20.00	0.980	27.69	28.37	9.17	7.48	
+MDC	NaN	NaN	NaN	NaN	NaN	62.5	NaN	11684.5	20.00	0.986	27.85	28.55	9.35	7.65	
+MDC	NaN	NaN	NaN	NaN	NaN	62	NaN	11708.6	20.00	0.984	27.78	28.47	9.27	7.57	
+MDC	NaN	NaN	NaN	NaN	NaN	61.5	NaN	11732.5	20.00	0.985	27.81	28.51	9.31	7.60	
+MDC	NaN	NaN	NaN	NaN	NaN	61	NaN	11756.1	20.00	1.000	28.26	28.97	9.77	8.06	
+MDC	NaN	NaN	NaN	NaN	NaN	60.5	NaN	11779.6	20.00	0.978	27.62	28.31	9.11	7.40	
+MDC	NaN	NaN	NaN	NaN	NaN	60	NaN	11801.9	20.00	0.984	27.78	28.47	9.27	7.56	
+MDC	NaN	NaN	NaN	NaN	NaN	59.5	NaN	11819.7	20.00	0.983	27.77	28.46	9.26	7.54	
+MDC	NaN	NaN	NaN	NaN	NaN	59	NaN	11837.6	20.00	0.984	27.80	28.49	9.29	7.57	
+MDC	NaN	NaN	NaN	NaN	NaN	58.5	NaN	11855.4	20.00	0.971	27.41	28.09	8.89	7.17	
+MDC	NaN	NaN	NaN	NaN	NaN	58	NaN	11873.2	20.00	1.000	28.26	28.97	9.77	8.04	
+MDC	NaN	NaN	NaN	NaN	NaN	57	NaN	11908.9	20.00	0.975	27.52	28.20	9.00	7.27	
+MDC	NaN	NaN	NaN	NaN	NaN	56	NaN	11944.5	20.00	1.000	28.26	28.97	9.77	8.03	
+MDC	NaN	NaN	NaN	NaN	NaN	55	NaN	11975.4	20.00	0.981	27.71	28.40	9.20	7.45	
+MDC	NaN	NaN	NaN	NaN	NaN	54	NaN	12003.7	20.00	0.980	27.68	28.37	9.17	7.42	
+MDC	NaN	NaN	NaN	NaN	NaN	53	NaN	12033.2	20.00	1.000	28.26	28.97	9.77	8.02	
+MDC	NaN	NaN	NaN	NaN	NaN	52	NaN	12067.5	20.00	1.000	28.26	28.97	9.77	8.01	
+MDC	NaN	NaN	NaN	NaN	NaN	51	NaN	12103.2	20.00	0.988	27.93	28.62	9.42	7.66	
+MDC	NaN	NaN	NaN	NaN	NaN	51	NaN	12103.2	20.00	1.000	28.26	28.97	9.77	8.01	
+MDC	NaN	NaN	NaN	NaN	NaN	50	NaN	12139.1	20.00	1.000	28.26	28.97	9.77	8.00	
+MDC	NaN	NaN	NaN	NaN	NaN	49	NaN	12175.0	20.00	0.982	27.74	28.43	9.23	7.45	
+MDC	NaN	NaN	NaN	NaN	NaN	48	NaN	12211.0	20.00	0.983	27.77	28.46	9.26	7.47	
+MDC	NaN	NaN	NaN	NaN	NaN	47	NaN	12246.9	20.00	0.973	27.46	28.14	8.94	7.15	
+MDC	NaN	NaN	NaN	NaN	NaN	46	NaN	12282.8	20.00	0.987	27.88	28.57	9.37	7.58	
+MDC	NaN	NaN	NaN	NaN	NaN	45	NaN	12318.7	20.00	0.979	27.66	28.34	9.14	7.34	
+MDC	NaN	NaN	NaN	NaN	NaN	44	NaN	12354.6	20.00	1.000	28.26	28.97	9.77	7.96	
+MDC	NaN	NaN	NaN	NaN	NaN	43	NaN	12390.5	20.00	0.892	25.10	25.71	6.51	4.70	
+MDC	NaN	NaN	NaN	NaN	NaN	42	NaN	12426.4	20.00	0.983	27.75	28.44	9.24	7.42	
+MDC	NaN	NaN	NaN	NaN	NaN	41	NaN	12462.3	20.00	0.988	27.90	28.60	9.40	7.57	
+MDC	NaN	NaN	NaN	NaN	NaN	40	NaN	12498.2	20.00	0.989	27.94	28.63	9.43	7.60	
+MDC	NaN	NaN	NaN	NaN	NaN	39	NaN	12534.1	20.00	0.985	27.84	28.53	9.33	7.49	
+MDC	NaN	NaN	NaN	NaN	NaN	38	NaN	12570.0	20.00	0.985	27.83	28.52	9.32	7.48	
+MDC	NaN	NaN	NaN	NaN	NaN	37	NaN	12596.7	20.00	0.984	27.81	28.50	9.30	7.45	
+MDC	NaN	NaN	NaN	NaN	NaN	36	NaN	12623.3	20.00	0.974	27.49	28.17	8.97	7.11	
+MDC	NaN	NaN	NaN	NaN	NaN	35	NaN	12650.0	20.00	0.981	27.70	28.38	9.18	7.33	
+MDC	NaN	NaN	NaN	NaN	NaN	34	NaN	12676.7	20.00	0.979	27.65	28.34	9.14	7.27	
+MDC	NaN	NaN	NaN	NaN	NaN	33	NaN	12703.3	20.00	0.971	27.42	28.10	8.90	7.03	
+MDC	NaN	NaN	NaN	NaN	NaN	32	NaN	12730.0	20.00	0.963	27.17	27.85	8.65	6.77	
+MDC	NaN	NaN	NaN	NaN	NaN	31	NaN	12756.7	20.00	0.977	27.58	28.26	9.06	7.19	
+MDC	NaN	NaN	NaN	NaN	NaN	30	NaN	12783.3	20.00	0.968	27.31	27.99	8.79	6.91	
+MDC	NaN	NaN	NaN	NaN	NaN	29	NaN	12810.0	20.00	0.977	27.58	28.27	9.07	7.18	
+MDC	NaN	NaN	NaN	NaN	NaN	28	NaN	12836.7	20.00	0.973	27.46	28.14	8.94	7.05	
+MDC	NaN	NaN	NaN	NaN	NaN	27	NaN	12863.3	20.00	0.978	27.62	28.31	9.11	7.22	
+MDC	NaN	NaN	NaN	NaN	NaN	26	NaN	12890.0	20.00	0.932	26.27	26.91	7.71	5.82	
+MDC	NaN	NaN	NaN	NaN	NaN	25	NaN	12916.7	20.00	0.979	27.64	28.33	9.13	7.23	

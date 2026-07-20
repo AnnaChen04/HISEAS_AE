@@ -1,0 +1,155 @@
+# Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data.
+# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with '#' followed by a space
+# Data lines have no '#'
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/36513
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-recon-36513.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Climate Reconstructions
+#
+# Dataset_DOI: 10.25921/n8zs-6f90
+#
+# Science_Keywords: Sea Surface Temperature Reconstruction
+#---------------------------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp36.txt
+#   Data_Download_Description: NOAA Template File; SST Reconstruction Data
+#
+#---------------------------------------
+# Contribution_Date
+#   Date: 2022-05-31
+#---------------------------------------
+# File_Last_Modified_Date
+#   Date: 2025-05-19
+#---------------------------------------
+# Title
+#   Study_Name: Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene
+#---------------------------------------
+# Investigators
+#   Investigators: Brennan, Peter; Bhattacharya, Tripti; Feng, R.; Tierney, J. E.; Jorgensen, E.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#   Description: Alkenone-based SST reconstructions (unsaturation index) from sediment-derived organics from coastal California
+#         Provided Keywords: Pliocene, sea surface temperature, California margin
+#---------------------------------------
+# Publication
+#   Authors: Brennan, P. R.; Bhattacharya, T.; Feng, R.; Tierney, J. E.; Jorgensen, E.
+#   Published_Date_or_Year: 2022-07-01
+#   Published_Title: Patterns and mechanisms of northeast Pacific temperature response to Pliocene boundary conditions
+#   Journal_Name: Paleoceanography and Paleoclimatology
+#   Volume: 37
+#   Edition: 
+#   Issue: 7
+#   Pages: 
+#   Report_Number: e2021PA004370
+#   DOI: 10.1029/2021PA004370
+#   Online_Resource: 
+#   Full_Citation: 
+#   Abstract: Ocean-atmosphere dynamics in the north Pacific play an important role in the global climate system and influence hydroclimate in western North America. However, changes to this region’s mean climate under increased atmospheric greenhouse gas (GHG) concentrations are not well understood. Here we present new alkenone-based records of sea surface temperature (SST) from the northeast Pacific from the mid-Piacenzian warm period (MPWP; approximately 3.3 – 3.0 Ma), an interval considered to be an analogue for near-future climate under middle-of-the-road anthropogenic emissions. We compare these and other alkenone-based SST records from the north Pacific to fully-coupled climate model simulations to examine the impact of mid-Pliocene CO2 and other boundary conditions on regional climate dynamics and to explore factors governing model disagreement about regional temperature patterns. Model performance varies regionally, with CESM1.2 and CESM2 performing best in regions with greater warming like the California Margin, though these models underestimate the warming evidenced in our new proxy record and others from the region. Single forcing simulations reveal a strong influence for prescribed land surface changes and higher CO2 levels on coastal warming patterns along the California Margin in CESM2. Furthermore, differences in shortwave and longwave radiation and circulation between the models, likely related to changes in the atmospheric component of the model, may play a key role in the ability of models to capture regionally-varying patterns of Pliocene warmth. Regional patterns of temperature change inferred from geochemical records could therefore help to understand the impacts of different model parameterization schemes on regional climate patterns.
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: DGE-1449617, OCE-1903148, OCE-2029680, OCE-1903171, OCE-1903650,OCE-2103055
+#---------------------------------------
+# Site_Information
+#   Site_Name: Deep Sea Drilling Project Site 36
+#   Location: North Pacific
+#   Northernmost_Latitude: 40.59
+#   Southernmost_Latitude: 40.59
+#   Easternmost_Longitude: -130.07
+#   Westernmost_Longitude: -130.07
+#   Elevation_m: -3273
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: DSDP36-alkenones
+#   First_Year: 3649000
+#   Last_Year: 0
+#   Time_Unit: calendar year before present
+#   Core_Length_m: 
+#   Parameter_Keywords: biomarkers, geochemistry
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# age (ma)	age of biostratigraphic marker (Ma)
+# composite depth (cm)	composite depth of sample (cm)
+# age marker	biostratigraphic specimen
+# notes	Notes
+# 
+# age (ma)	composite depth (cm)	age marker	notes
+# 0.4	700	Loleta Ash Bed	From Sarna-Wojcicki, Morrison, Meyer, & Hillhouse, 1987
+# 1.9	3461	Globorotalia truncatulinoides	
+# 2	3611	Huckleberry Ridge	From Sarna-Wojcicki et al., 1987
+# 2.4	4525	Discoaster pentaradiatus	
+# 3.1	6315	Globorotalia tosaensis	
+# 3.7	8418	Globigerina nepenthes	
+#---------------------------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## depth_cm	depth,,,centimeter,,paleoceanography; Climate Reconstructions,,,N,
+## age_ma	age,,,million years ago,,paleoceanography; Climate Reconstructions,,,N,
+## Uk37	alkenone unsaturation index Uk37 prime,,,dimensionless,,paleoceanography,raw,gas chromatography - flame ionization detection,N,
+## Uk37_err	alkenone unsaturation index Uk37 prime,,unspecified margin of error,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,alkenone unsaturation index error based on repeat measurements of internal standard
+## sst_median	sea surface temperature,,,degree Celsius,annual,paleoceanography; Climate Reconstructions,,gas chromatography - flame ionization detection,N,median SST; calibrated SST with bayspline
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: -999
+depth_cm	age_ma	Uk37	Uk37_err	sst_median
+393	-999.000	0.363	0.005	-999.000
+737	0.42	0.397	0.005	10.115
+1177	0.66	0.321	0.005	7.869
+1723	0.96	0.306	0.005	7.424
+1768	0.99	0.322	0.005	7.889
+2076	1.16	0.398	0.005	10.136
+2514	1.40	0.352	0.005	8.777
+2998	1.66	0.439	0.005	11.356
+4066	2.19	0.446	0.005	11.572
+4393	2.32	0.449	0.005	11.664
+4524	2.37	0.441	0.005	11.426
+4882	2.52	0.436	0.005	11.264
+4907	2.53	0.448	0.005	11.614
+4939	2.54	0.355	0.005	8.870
+5149	2.63	0.436	0.005	11.283
+5368	2.71	0.478	0.005	12.522
+5612	2.81	0.412	0.005	10.556
+5692	2.85	0.431	0.005	11.134
+5753	2.87	0.436	0.005	11.257
+5813	2.90	0.426	0.005	10.956
+6095	3.01	0.397	0.005	10.112
+6291	3.09	0.491	0.005	12.896
+6372	3.12	0.505	0.005	13.321
+6432	3.13	0.508	0.005	13.407
+6523	3.16	0.507	0.005	13.384
+6583	3.18	0.504	0.005	13.284
+6692	3.21	0.526	0.005	13.909
+6978	3.29	0.507	0.005	13.372
+7423	3.42	0.513	0.005	13.545
+7488	3.43	0.519	0.005	13.726
+7646	3.48	0.535	0.005	14.206
+7728	3.50	0.519	0.005	13.720
+7788	3.52	0.525	0.005	13.907
+7938	3.56	0.514	0.005	13.565
+8023	3.59	0.542	0.005	14.421
+8188	3.63	0.542	0.005	14.413
+8238	3.65	0.544	0.005	14.468

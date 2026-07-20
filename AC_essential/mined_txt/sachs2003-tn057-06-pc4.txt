@@ -1,0 +1,368 @@
+# Cape Basin, South Atlantic SST Over the Past 160ky.
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/29452
+#      Description: NOAA Landing Page
+# Online_Resource: https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sachs2003/sachs2003-tn057-06-pc4.txt
+#      Description: NOAA location of the template
+#
+# Original_Source_URL: https://www.ncdc.noaa.gov/paleo-search/study/16464
+#      Description: Earlier posting which includes these biomarker measurements, on a different age model for a later publication (Anderson et al. 2014)
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: age control, biomarkers, geochemistry, lithology, oxygen isotopes, radiogenic isotope
+#---------------------------------------
+# Contribution_Date
+#    Date: 2020-04-17
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2020-04-17
+#---------------------------------------
+# Title
+#    Study_Name: Cape Basin, South Atlantic SST Over the Past 160ky.
+#---------------------------------------
+# Investigators
+#      Investigators: Sachs, Julian; Anderson, Robert
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Some of these data were submitted previously on different age models for later publications. The related studies can be found at https://www.ncdc.noaa.gov/paleo-search/study/16464 and https://www.ncdc.noaa.gov/paleo-search/study/2651
+#         Provided Keywords: alkenones, Cape Basin, drift deposit, quaternary, ice age
+#---------------------------------------
+# Publication
+# Authors: Sachs, J.P. and Anderson, R.F.
+# Published_Date_or_Year: 2003
+# Published_Title: Fidelity of alkenone paleotemperatures in southern Cape Basin sediment drifts
+# Journal_Name: Paleoceanography
+# Volume: 18
+# Edition: 
+# Issue: 4
+# Pages: 1082
+# Report_Number: 
+# DOI: 10.1029/2002PA000862
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Multiple geochemical analyses were performed in order to test the fidelity of alkenone paleotemperature reconstructions in southern Cape Basin sediment drifts. Sea surface temperatures (SSTs) derived from the alkenone unsaturation ratio, U37k', in two drift cores (TN057-21 and Ocean Drilling Program Site 1089) are nearly identical during the interval of overlapping analyses, MIS 4-5c. SSTs in a nearby nondrift core (TN057-6) covary with those in core TN057-21 throughout MIS 1-5c. While climatological SSTs overlying TN057-21 and TN057-6 are similar and consistent with reconstructed Holocene SSTs in the nondrift core, surface waters overlying TN057-21 are ~6°C colder than Holocene alkenone SSTs in the drift core. Temperatures remain ~6°C warmer in TN057-21 relative to TN057-6 during the ~100 kyr duration of the records. We hypothesize that alkenone-derived SSTs in TN057-21 are higher than climatological SSTs in the overlying surface water and those in TN057-6 as a result of the winnowing and focusing of sedimentary alkenones produced in warmer waters to the north. Climatological SSTs in the central and northern Cape Basin are 16°-20°C. A -1.5‰ offset of fine fraction d18O values relative to planktonic foraminifera in TN057-21 supports this hypothesis. Temporal changes in sediment focusing were evaluated directly using uranium series radioisotopes. While higher sediment focusing factors would be expected to result in higher alkenone-derived SSTs if sediment advection were the primary control on down-core changes in alkenone-derived SSTs, 230Th-derived focusing factors indicate no such correlation exists. We conclude that alkenone paleotemperature reconstructions from southern Cape Basin drifts reliably record regional SST variations in the Cape Basin.
+#---------------------------------------
+# Publication
+# Authors: Pahnke, L. and Sachs, J.P.
+# Published_Date_or_Year: 2006
+# Published_Title: Sea surface temperatures of southern midlatitudes 0-160 kyr B.P.
+# Journal_Name: Paleoceanography
+# Volume: 21
+# Edition: 
+# Issue: 
+# Pages: 
+# Report_Number: 
+# DOI: 10.1029/2005PA001191
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Late Quaternary climate fluctuated between extremes of glaciations, lasting ~90 kyr on average, and interglacial episodes, lasting ~10 kyr. Still largely unknown are the spatial and temporal evolution of these global climate states, with vigorous debate still underway on the mechanisms responsible for glacial inceptions and terminations. Though it is widely believed that the Southern Hemisphere oceans play a central role in global climate changes, few paleoclimate records exist from there. Here we present three new alkenone-derived SST records from the midlatitude Southern Hemisphere spanning the last 160 kyr, a full glacial-interglacial cycle. Our subtropical SST records from the last glacial period are characterized by (1) warming 47-23 kyr B.P., when high latitudes in both hemispheres cooled, and (2) milder temperatures during the penultimate glacial period than during the last glacial interval. These SST features are found to be of tropical- to subtropical-wide extent, implying increased thermal gradients at times of high-latitude ice sheet growth. This has implications for the vigor of atmospheric and upper ocean circulation and the transport of heat and moisture to the poles that may have been instrumental in the growth and maintenance of polar ice sheets during glacial periods.
+#---------------------------------------
+# Publication
+# Authors: Sachs, J. and Anderson, R.
+# Published_Date_or_Year: 2005
+# Published_Title: Increased productivity in the subantarctic ocean during Heinrich events
+# Journal_Name: Nature
+# Volume: 434
+# Edition: 
+# Issue: 
+# Pages: 1181-1121
+# Report_Number: 
+# DOI: 10.1038/nature03544
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Massive iceberg discharges from the Northern Hemisphere ice sheets, 'Heinrich events', coincided with the coldest periods of the last ice age1. There is widespread evidence for Heinrich events and their profound impact on the climate and circulation of the North Atlantic Ocean, but their influence beyond that region remains uncertain1. Here we use a combination of molecular fingerprints of algal productivity and radioisotope tracers of sedimentation to document eight periods of increased productivity in the subpolar Southern Ocean during the past 70,000 years that occurred within 1,000-2,000 years of a Northern Hemisphere Heinrich event. We discuss possible causes for such a link, including increased supply of iron from upwelling and increased stratification during the growing season, which imply an alteration of the global ocean circulation during Heinrich events. The mechanisms linking North Atlantic iceberg discharges with subantarctic productivity remain unclear at this point. We suggest that understanding how the Southern Ocean was altered during these extreme climate perturbations is critical to understanding the role of the ocean in climate change.
+#---------------------------------------
+# Publication
+# Authors: Julian P. Sachs, Robert F. Anderson, Scott J. Lehman
+# Published_Date_or_Year: 2001
+# Published_Title: Glacial Surface Temperatures of the Southeast Atlantic Ocean
+# Journal_Name: Science
+# Volume: 293
+# Edition: 
+# Issue: 
+# Pages: 2077-2079
+# Report_Number: 
+# DOI: 10.1126/science.1063584
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: A detailed record of sea surface temperature from sediments of the Cape Basin in the subtropical South Atlantic indicates a previously undocumented progression of marine climate change between 41 and 18 thousand years before the present (ky B.P.), during the last glacial period. Whereas marine records typically indicate a long-term cooling into the Last Glacial Maximum (around 21 ky B.P.) consistent with gradually increasing global ice volume, the Cape Basin record documents an interval of substantial temperate ocean warming from 41 to 25 ky B.P. The pattern is similar to that expected in response to changes in insolation owing to variations in Earth's tilt.
+#---------------------------------------
+# Publication
+# Authors: Anderson, R.F., S. Barker, M.Q. Fleisher, R. Gersonde, S.L. Goldstein, G. Kuhn, P.G. Mortyn, K. Pahnke, and J.P. Sachs
+# Published_Date_or_Year: 2014
+# Published_Title: Biological response to millennial variability of dust supply in the subantarctic South Atlantic Ocean
+# Journal_Name: Philosophical Transactions of The Royal Society A
+# Volume: 372
+# Edition: 
+# Issue: 
+# Pages: 20130054
+# Report_Number: 
+# DOI: 10.1098/rsta.2013.0054
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Fluxes of lithogenic material and fluxes of three palaeo-productivity proxies (organic carbon, biogenic opal and alkenones) over the past 100?000 years were determined using the 230Th-normalization method in three sediment cores from the Subantarctic South Atlantic Ocean. Features in the lithogenic flux record of each core correspond to similar features in the record of dust deposition in the EPICA Dome C ice core. Biogenic fluxes correlate with lithogenic fluxes in each sediment core. Our preferred interpretation is that South American dust, most probably from Patagonia, constitutes a major source of lithogenic material in Subantarctic South Atlantic sediments, and that past biological productivity in this region responded to variability in the supply of dust, probably due to biologically available iron carried by the dust. Greater nutrient supply as well as greater nutrient utilization (stimulated by dust) contributed to Subantarctic productivity during cold periods, in contrast to the region south of the Antarctic Polar Front (APF), where reduced nutrient supply during cold periods was the principal factor limiting productivity. The anti-phased patterns of productivity on opposite sides of the APF point to shifts in the physical supply of nutrients and to dust as cofactors regulating productivity in the Southern Ocean.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Jeptha H. and Emily V. Wade Foundation
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: The Henry L. and Grace Doherty Charitable Foundation
+#    Grant: Professorship
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: U.S. NOAA
+#    Grant: NA77RJ0453
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: MIT Undergraduate Research Program
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Ocean Drilling Program
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Gary Comer Science and Education Foundation
+#    Grant: 
+#---------------------------------------
+# Site_Information
+# Site_Name: TN057-06
+# Location: South Atlantic Ocean
+# Country: 
+# Northernmost_Latitude: -42.91
+# Southernmost_Latitude: -42.91
+# Easternmost_Longitude: 8.9
+# Westernmost_Longitude: 8.9
+# Elevation: -3571
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: TN057-06-PC4 Alkenone, Uk37 SST Sachs2003-2020
+#   First_Year: 100000
+#   Last_Year: 8000
+#   Time_Unit: cal yr BP
+#   Core_Length: 3.5
+#   Notes: Age of shallowest 4cm of core not modeled, here, most recent age taken from Anderson et al. 2014. Age model from Hodell et al. (2000, DOI: 10.1016/S0921-8181(99)00069-7) 18O stratigraphy. Alkenone SST resconstructions from TN057-6 as published in Sachs and Anderson 2003. Earlier posting of biomarker measurements, which were submitted on a different age model for a later publication (Anderson et al. 2014: https://www.ncdc.noaa.gov/paleo-search/study/16464)
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# Age model from Hodell et al. (2000, DOI: 10.1016/S0921-8181(99)00069-7) 18O stratigraphy.
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## age	age,,,calendar kiloyear before present,,paleoceanography,,,N,Modeled age based on Hodell et al. (2000. DOI: 10.1016/S0921-8181(99)00069-7) 18O stratigraphy.
+## depth_cm	depth,,,centimeter,,paleoceanography,,,N,Depth in core; center of 1cm interval.
+## Uk37	alkenone unsaturation index Uk37 prime,C37 alkenone,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,Alkenone unsaturation index.
+## SST	sea surface temperature,,,degree Celsius,,paleoceanography,,,N,Alkenone SST using Prahl et al. (1988) calibration.
+## mean_SST	sea surface temperature,,,degree Celsius,,paleoceanography,,,N,Average SST where multiple analyses were made at the same depth; listed with only one of the multiple records.
+## alkenone_C	C37 alkenone,dry sediment,,nanogram per gram,,paleoceanography,,gas chromatography - flame ionization detection,N,C37 alkenone concentration.
+## mean_alkenone_C	C37 alkenone,dry sediment,,nanogram per gram,,paleoceanography,,gas chromatography - flame ionization detection,N,Average C27 alkenone concentration where multiple analyses were made at the same depth; listed with only one of the multiple records.
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: -999
+age	depth_cm	Uk37	SST	mean_SST	alkenone_C	mean_alkenone_C	
+-999	0.5	0.4333	11.60	11.60	48.4	48.4	
+-999	2.5	0.4183	11.16	11.16	29.7	29.7	
+9.15	4.5	0.4252	11.36	11.36	21.2	21.2	
+9.35	6.5	0.4383	11.74	11.74	16.7	16.7	
+9.54	8.5	0.4940	13.38	13.38	18.0	18.0	
+9.74	10.5	0.3992	10.59	10.59	14.0	14.0	
+9.94	12.5	0.3294	8.54	8.54	-999	-999	
+10.14	14.5	0.4116	10.96	10.96	8.9	8.9	
+10.35	16.5	0.3966	10.52	10.52	11.1	11.1	
+10.56	18.5	0.4571	12.30	12.30	9.0	9.0	
+11.01	22.5	0.4103	10.92	10.92	15.6	15.6	
+11.23	24.5	0.4234	11.31	11.31	8.3	8.3	
+11.45	26.5	0.4264	11.40	11.40	9.6	9.6	
+11.68	28.5	0.4025	10.69	10.69	10.7	10.7	
+11.91	30.5	0.4001	10.62	10.62	9.7	9.7	
+12.16	32.5	0.4141	11.03	11.03	15.2	15.2	
+12.40	34.5	0.4494	12.07	12.07	12.0	12.0	
+12.65	36.5	0.4255	11.37	11.37	16.6	16.6	
+12.90	38.5	0.4248	11.35	11.35	12.1	12.1	
+13.15	40.5	0.4042	10.74	10.74	18.0	18.0	
+13.41	42.5	0.3678	9.67	9.67	15.9	15.9	
+13.69	44.5	0.3896	10.31	10.31	17.4	17.4	
+13.97	46.5	0.4157	11.08	11.08	12.1	12.1	
+14.25	48.5	0.3481	9.09	9.09	14.2	14.2	
+14.54	50.5	0.3282	8.51	8.51	19.2	19.2	
+14.82	52.5	0.3473	9.07	9.07	24.5	24.5	
+15.13	54.5	0.3433	8.95	9.50	10.4	23.3	
+15.13	54.5	0.3805	10.04	-999	36.3	-999	
+15.54	56.5	0.3678	9.67	9.91	80.3	82.1	
+15.54	56.5	0.3841	10.15	-999	84.0	-999	
+15.96	58.5	0.3558	9.32	9.38	128.7	131.4	
+15.96	58.5	0.3598	9.44	-999	134.0	-999	
+16.37	60.5	0.2142	5.15	5.39	204.3	210.8	
+16.37	60.5	0.2303	5.63	-999	217.3	-999	
+16.79	62.5	0.3299	8.56	8.56	383.4	383.4	
+17.20	64.5	0.3724	9.80	9.80	526.2	526.2	
+17.64	66.5	0.3656	9.60	9.60	606.5	606.5	
+18.11	68.5	0.3901	10.33	10.33	573.7	573.7	
+18.60	70.5	0.4021	10.68	10.68	519.8	519.8	
+19.10	72.5	0.4015	10.66	10.66	603.9	603.9	
+19.60	74.5	0.3881	10.27	10.27	523.1	523.1	
+20.10	76.5	0.4514	12.13	11.92	514.5	525.7	
+20.10	76.5	0.4374	11.72	-999	536.9	-999	
+20.61	78.5	0.3919	10.38	10.38	604.6	604.6	
+21.16	80.5	0.3832	10.12	10.12	596.0	596.0	
+21.74	82.5	0.4052	10.77	10.77	640.5	640.5	
+22.34	84.5	0.4003	10.63	10.63	623.9	623.9	
+22.93	86.5	0.3937	10.43	10.43	650.5	650.5	
+23.53	88.5	0.4062	10.80	10.80	646.4	646.4	
+24.13	90.5	0.4239	11.32	11.32	548.6	548.6	
+24.76	92.5	0.4237	11.31	11.31	622.7	622.7	
+25.46	94.5	0.4218	11.26	11.26	579.9	579.9	
+26.19	96.5	0.4168	11.11	11.11	616.4	616.4	
+26.93	98.5	0.4442	11.92	11.92	462.2	462.2	
+27.66	100.5	0.4432	11.89	11.89	509.3	509.3	
+28.40	102.5	0.4191	11.18	11.18	485.9	485.9	
+29.16	104.5	0.3591	9.42	9.42	441.0	441.0	
+29.95	106.5	0.3899	10.32	10.32	531.8	531.8	
+30.82	108.5	0.3781	9.97	9.97	556.9	556.9	
+31.69	110.5	0.3721	9.80	9.80	517.8	517.8	
+32.56	112.5	0.3580	9.38	9.38	420.4	420.4	
+33.43	114.5	0.4063	10.80	10.80	344.9	344.9	
+34.31	116.5	0.3726	9.81	9.81	302.9	302.9	
+35.22	118.5	0.3583	9.39	9.39	314.1	314.1	
+36.29	120.5	0.3647	9.58	9.37	-999	-999	
+36.29	120.5	0.3502	9.15	-999	374.9	374.9	
+37.36	122.5	0.3434	8.95	9.04	-999	-999	
+37.36	122.5	0.3492	9.12	-999	314.1	314.1	
+38.44	124.5	0.2808	7.11	7.11	416.0	416.0	
+39.51	126.5	0.3035	7.78	7.78	354.7	354.7	
+40.58	128.5	0.3120	8.03	8.53	232.9	244.7	
+40.58	128.5	0.3460	9.03	-999	256.5	-999	
+41.65	130.5	0.3144	8.10	8.10	250.4	250.4	
+42.61	132.5	0.2930	7.47	7.47	240.0	240.0	
+43.57	134.5	0.3040	7.80	7.80	242.3	242.3	
+44.52	136.5	0.3060	7.85	7.85	319.4	319.4	
+45.47	138.5	0.2637	6.61	6.61	378.5	378.5	
+46.42	140.5	0.2938	7.50	7.50	406.2	406.2	
+47.36	142.5	0.2810	7.12	7.12	418.1	418.1	
+48.03	144.5	0.2785	7.04	7.04	437.9	437.9	
+48.61	146.5	0.2852	7.24	7.24	513.5	513.5	
+49.12	148.5	0.2772	7.01	7.01	499.4	499.4	
+49.63	150.5	0.2630	6.59	6.59	505.3	505.3	
+50.65	154.5	0.2706	6.81	6.81	545.6	545.6	
+51.11	156.5	0.2620	6.56	6.56	441.0	441.0	
+51.53	158.5	0.2385	5.87	5.87	578.6	578.6	
+51.90	160.5	0.2414	5.95	5.95	531.8	531.8	
+52.28	162.5	0.2764	6.98	6.98	260.6	260.6	
+52.66	164.5	0.2784	7.04	7.04	263.2	263.2	
+53.03	166.5	0.2701	6.80	6.80	318.6	318.6	
+53.41	168.5	0.2717	6.85	6.85	267.0	267.0	
+53.78	170.5	0.2974	7.60	7.60	318.1	318.1	
+54.15	172.5	0.3074	7.89	7.89	467.7	467.7	
+54.51	174.5	0.2942	7.51	7.51	502.4	502.4	
+54.88	176.5	0.2633	6.60	6.60	733.1	733.1	
+55.25	178.5	0.2374	5.83	5.83	525.4	525.4	
+55.61	180.5	0.2386	5.87	5.87	463.8	463.8	
+55.97	182.5	0.2645	6.63	6.63	405.4	405.4	
+56.33	184.5	0.2625	6.57	6.57	367.2	367.2	
+56.69	186.5	0.2641	6.62	6.62	367.5	367.5	
+57.05	188.5	0.2559	6.38	6.38	318.3	318.3	
+57.40	190.5	0.3201	8.27	8.27	-999	-999	
+57.76	192.5	0.3419	8.91	8.91	151.5	151.5	
+58.10	194.5	0.3478	9.08	9.08	162.1	162.1	
+58.41	196.5	0.3617	9.49	9.49	149.2	149.2	
+58.71	198.5	0.3470	9.06	9.06	233.8	233.8	
+59.00	200.5	0.3705	9.75	9.75	203.7	203.7	
+59.29	202.5	0.3743	9.86	9.86	201.7	201.7	
+59.59	204.5	0.3671	9.65	9.65	172.2	172.2	
+59.89	206.5	0.3511	9.18	9.18	199.0	199.0	
+60.19	208.5	0.3551	9.30	9.30	171.9	171.9	
+60.52	210.5	0.3584	9.39	9.39	166.7	166.7	
+60.85	212.5	0.3588	9.40	9.40	150.0	150.0	
+61.18	214.5	0.3567	9.34	9.34	213.1	213.1	
+61.50	216.5	0.3692	9.71	9.71	204.9	204.9	
+61.83	218.5	0.3924	10.39	10.39	235.5	235.5	
+62.15	220.5	0.3974	10.54	10.54	259.5	259.5	
+62.45	222.5	0.4211	11.24	11.24	281.0	281.0	
+62.75	224.5	0.4361	11.68	11.68	291.5	291.5	
+63.06	226.5	0.4457	11.96	11.96	327.8	327.8	
+63.36	228.5	0.4405	11.81	11.81	355.0	355.0	
+63.66	230.5	0.4384	11.75	11.75	336.8	336.8	
+63.97	232.5	0.4316	11.55	11.55	376.0	376.0	
+64.41	234.5	0.4269	11.41	11.41	425.8	425.8	
+64.88	236.5	0.4189	11.17	11.17	557.6	557.6	
+65.35	238.5	0.4212	11.24	11.24	453.7	453.7	
+65.83	240.5	0.4032	10.71	10.71	482.2	482.2	
+66.30	242.5	0.4132	11.01	11.01	490.8	490.8	
+66.78	244.5	0.4013	10.66	10.66	571.2	571.2	
+67.34	246.5	0.3715	9.78	9.78	553.3	553.3	
+67.94	248.5	0.3765	9.93	9.93	572.5	572.5	
+68.56	250.5	0.3897	10.31	10.31	250.6	250.6	
+69.18	252.5	0.3792	10.01	10.01	442.2	442.2	
+69.80	254.5	0.3655	9.60	9.60	489.5	489.5	
+70.42	256.5	0.3677	9.67	9.67	358.1	358.1	
+71.02	258.5	0.3635	9.54	9.54	181.5	181.5	
+71.60	260.5	0.3721	9.80	9.80	157.4	157.4	
+72.17	262.5	0.3722	9.80	9.80	172.3	172.3	
+72.74	264.5	0.3835	10.13	10.13	197.8	197.8	
+73.31	266.5	0.3870	10.23	10.23	131.6	131.6	
+73.88	268.5	0.3819	10.08	10.08	222.2	222.2	
+74.41	270.5	0.3886	10.28	10.28	232.7	232.7	
+74.87	272.5	0.3869	10.23	10.23	238.2	238.2	
+75.21	274.5	0.3851	10.18	10.18	220.3	220.3	
+75.54	276.5	0.4119	10.97	10.97	106.7	106.7	
+75.88	278.5	0.4143	11.04	11.04	104.5	104.5	
+76.22	280.5	0.4138	11.02	11.02	119.1	119.1	
+76.56	282.5	0.4220	11.27	11.27	95.1	95.1	
+76.92	284.5	0.4058	10.79	10.79	123.0	123.0	
+77.31	286.5	0.4071	10.83	10.83	118.0	118.0	
+77.71	288.5	0.4153	11.07	11.07	79.6	79.6	
+78.10	290.5	0.4105	10.93	10.93	75.1	75.1	
+78.50	292.5	0.4186	11.17	11.17	78.1	78.1	
+78.90	294.5	0.3960	10.50	10.47	68.0	68.9	
+78.90	294.5	0.3938	10.44	-999	69.8	-999	
+79.30	296.5	0.4140	11.03	11.03	51.0	51.0	
+79.73	298.5	0.4204	11.22	11.22	42.1	42.1	
+80.17	300.5	0.4093	10.89	10.89	47.6	47.6	
+80.61	302.5	0.3921	10.39	10.37	85.2	85.2	
+80.61	302.5	0.3908	10.35	-999	85.2	-999	
+81.05	304.5	0.4258	11.38	11.43	39.8	40.1	
+81.05	304.5	0.4294	11.48	-999	40.4	-999	
+81.49	306.5	0.3912	10.36	10.24	42.2	49.8	
+81.49	306.5	0.3830	10.12	-999	57.4	-999	
+81.94	308.5	0.3947	10.46	10.58	50.3	48.8	
+81.94	308.5	0.4029	10.70	-999	47.3	-999	
+82.41	310.5	0.3739	9.85	9.85	57.4	57.4	
+82.91	312.5	0.3948	10.46	10.46	51.8	51.8	
+83.42	314.5	0.4736	12.78	12.70	84.3	86.7	
+83.42	314.5	0.4681	12.62	-999	89.0	-999	
+83.93	316.5	0.4060	10.80	10.80	62.0	62.0	
+84.43	318.5	0.4188	11.17	11.17	91.3	91.3	
+84.95	320.5	0.4283	11.45	11.45	92.8	92.8	
+85.50	322.5	0.4259	11.38	11.38	85.3	85.3	
+86.17	324.5	0.4344	11.63	11.63	99.8	99.8	
+86.87	326.5	0.4496	12.08	12.08	82.8	82.8	
+87.56	328.5	0.4281	11.45	11.45	64.7	64.7	
+88.26	330.5	0.4441	11.91	11.91	88.3	88.3	
+88.96	332.5	0.4145	11.04	11.04	71.2	71.2	
+89.66	334.5	0.3979	10.56	10.56	69.2	69.2	
+90.86	336.5	0.3741	9.86	9.86	76.8	76.8	
+92.20	338.5	0.3894	10.31	10.31	86.8	86.8	
+93.56	340.5	0.3721	9.80	9.80	100.0	100.0	
+94.91	342.5	0.3749	9.88	9.88	73.4	73.4	
+97.63	346.5	0.3905	10.34	10.34	45.7	45.7	
+98.75	348.5	0.4058	10.79	10.79	52.4	52.4	
+99.77	350.5	0.4012	10.65	10.65	49.3	49.3	

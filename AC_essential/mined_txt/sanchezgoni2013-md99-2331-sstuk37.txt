@@ -1,0 +1,219 @@
+# North Atlantic SST, isotope and Ice-Rafted Debris Data during the last interglacial and glacial
+#-----------------------------------------------------------------------
+#              World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                       NOAA Paleoclimatology Program 
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+#  Online_Resource: http://www.hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:14650 
+#  Online_Resource: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstuk37.txt
+#
+# Archive: Paleoceanography
+#
+#--------------------------------
+# Contribution_Date
+# Date: 2013-07-15
+#--------------------------------
+# Title: North Atlantic SST, Isotope and Ice-Rafted Debris Data during the last interglacial and glacial
+#--------------------------------
+# Investigators: Sanchez Goñi, M.F.
+#--------------------
+# Description and Notes: 
+# This dataset includes Ice Rafted Debris concentration in grains/gram of dry sediment, foraminifera and alkenone-derived Sea Surface Temperatures, and the percentages of Neogloboquadrina pachyderma left coiling for the period 46-141 ka.
+#
+#--------------------
+# Publication 
+#   Authors: Sanchez Goñi et al.
+#   Journal_Name: Nature Geosciences
+#   Published_Title: Increased air-sea thermal gradient during the last interglacial/glacial transition
+#   Published_Date_or_Year: 2013 
+#   Volume: 
+#   Pages: 
+#   DOI: 
+#   Abstract:
+#--------------------------------
+# Publication 
+#   Authors: Naughton, F., M.F. Sanchez Goñi, M. Kageyama, E. Bard, J. Duprat, E. Cortijo, S. Desprat, B. Malaize, C. Joli, F. Rostek, and J.L. Turon										
+#   Journal_Name: Earth and Planetary Sciences Letters
+#   Published_Title: Wet to dry climatic trend in north western Iberia within Heinrich events
+#   Published_Date_or_Year: 2009
+#   Volume: 284
+#   Pages: 329-342
+#   DOI: 10.1016/j.epsl.2009.05.001
+#   Abstract: The direct sea–land correlation applied to core MD99-2331 retrieved from the north-western Iberian margin shows a two-phase pattern within Heinrich events 4, 2 and 1 in the ocean and in the adjacent landmasses. Changes between wet/cold and dry/cool conditions in the Iberian Peninsula detected during these extreme events cannot be explained by a simple oceanographic mechanism related to changes in the strength of the Atlantic Meridional Overturning Circulation. Here we propose an additional atmospheric mechanism able to produce this scenario based on the comparison between the MD99-2331 record and other available palaeoclimate sequences from the North Atlantic region (18–75°N and 0–75°W). The climatic asymmetry observed between mid- and subtropical eastern North Atlantic latitudes (wet/dry) and the Blake Outer Ridge (dry/wet) during H4, H2 and H1 can be explained by changes in the position of the Atlantic jet-stream. During the first phase of H4, H2 and H1 the Atlantic jet-stream was located further south following the southward displacement of the oceanic thermal front as far south as 35°–37°N. On the contrary, during the second phase of H4, H2 and H1 the jet-stream was located further north following the northward displacement of this thermal front as far north as 42°N. From the atmospheric point of view, these two phases are reminiscent of the present-day negative and positive prevailing modes of the North Atlantic Oscillation (NAO), respectively, but high-resolution studies of additional North Atlantic key sites and climate simulations are needed to confirm the hypothesis of a NAO-like mechanism operating on millennial timescales.
+#--------------------------------
+# Publication 
+#   Authors: Sanchez-Goñi, M.F., A. Landais, I. Cacho, J. Duprat, and L. Rossignol				
+#   Journal_Name: Geochemistry, Geophysics, Geosystems
+#   Published_Title: Contrasting intrainterstadial climatic evolution between high and middle latitudes: A close-up of Greenland Interstadials 8 and 12
+#   Published_Date_or_Year: 2009
+#   Volume: 10
+#   Issue: 4
+#   Report_Number: Q04U04
+#   Pages: 
+#   DOI: 10.1029/2008GC002369
+#   Abstract: Three highly resolved pollen and sea surface temperature records from the Iberian margin (36–42°N) reveal the local evolution of vegetation and climate associated with the rapid climatic variability of marine isotope stage 3. The comparison of the climate at these midlatitudes with δD and d excess from Greenland ice cores shows that the north-south climatic gradient underwent strong variations during the long Greenland Interstadials (GIs) 8 and 12. After the Northern Hemispheric rapid warming at the Greenland Stadial (GS)-GI transition, the trend during the first part of the GI is a Greenland cooling and an Iberian warming. This increase of the North Atlantic climatic gradient led to moisture transportation to Greenland from midlatitudes (lightest d excess) and to a drying episode in Iberia. The subsequent temperature decrease in Greenland and Iberia associated with the precipitation increase in the latter region occurred when the major source of Greenland precipitation shifted to lower latitudes (d excess increase).
+#--------------------------------
+# Publication 
+#   Authors: Naughton, F., M.F. Sanchez Goñi, S. Desprata, J.-L. Turona, J. Duprata, B. Malaizéa, C. Jolia, E. Cortijo, T. Dragod, and M.C. Freitas													
+#   Journal_Name: Marine Micropaleontology
+#   Published_Title: Present-day and past (last 25 000 years) marine pollen signal off western Iberia
+#   Published_Date_or_Year: 2007
+#   Volume: 62
+#   Pages: 91-114
+#   DOI: 10.1016/j.marmicro.2006.07.006
+#   Abstract: The comparison between modern terrestrial and marine pollen signals in and off western Iberia shows that marine pollen assemblages give an integrated image of the regional vegetation colonising the adjacent continent. Present-day Mediterranean and Atlantic forest communities of Iberia are well discriminated by south and north marine pollen spectra, respectively. Results from Total Pollen Concentration together with recognized conceptual models of fine particle dynamics in the Iberian margin have allowed us to establish the present-day pattern of pollen dispersion in this region.The 25 000 year-long record of continental (pollen) and marine (δ18O of Globigerina bulloides, Ice-rafted detritus—IRD and Neogloboquadrina pachyderma s.) proxies, from the Galician margin composite core (MD99-2331 and MD03-2697), show that vegetation cover in north-western Iberia has responded contemporaneously to the climate variability of the North-Atlantic. The vegetation response to the well known North Atlantic Heinrich events 2 and 1 (H2 and H1) is however complex and characterised by two vegetation phases at low and mid-altitudes of north-western Iberia. The beginning of each Heinrich event is marked on land by an important pine forest reduction and the expansion of heathers which are synchronous with the heaviest planktic δ18O values and the maxima of N. pachyderma (s.) suggesting that these first phases were cold and wet. Pinus forest expansion characterising the second phase of each Heinrich event indicates a less cold episode associated, during H1, with an increase of dryness as suggested by the development of semi-desert associations. The comparison of our Galician margin multi-proxy record with several pollen sequences from in and off Iberia allows us to demonstrate that H1 event is the marine equivalent of the Oldest Dryas on the continent. The occurrence of temperate trees during the last glacial maximum (LGM) and the rapid expansion of deciduous Quercus during the Bölling-Allerød period in our Galician margin composite sequence show that not only the southern but also north-western Iberia was a refugium zone for deciduous trees during the last glacial period, especially at low and mid-altitude zones. Furthermore, the comparison between southern and northern marine and terrestrial sequences allows us to confirm that vegetation responded to the Bölling-Allerød warming, the Younger Dryas cold event and the Holocene more quickly in low and mid-altitudes of north-western Iberia and in the south than in the high altitude northern region most likely as the result of the higher density of refugia for temperate trees in these zones during the LGM.
+#--------------------------------
+# Publication 
+#   Authors: Sanchez Goñi, M.F., M.F. Loutre, M. Crucifix, O. Peyron, L. Santos, J. Duprat, B. Malaize, J.-L. Turon, and J.-P. Peypouquet
+#   Journal_Name: Earth and Planetary Science Letters
+#   Published_Title: Increasing vegetation and climate gradient in Western Europe over the Last Glacial Inception (122–110 ka): data-model comparison
+#   Published_Date_or_Year: 2005
+#   Volume: 231
+#   Issue: 1-2
+#   Pages: 111-130
+#   DOI: 10.1016/j.epsl.2004.12.010
+#   Abstract: High-resolution terrestrial (pollen) and marine (planktic and benthic isotopes, coarse fraction, and N. pachyderma (s)) analyses have been performed in the Marine Isotope Stage (MIS) 5 interval of IMAGES core MD99-2331 retrieved in the northwestern Iberian margin. This study shows the occurrence of a Zeifen Interstadial/Stadial succession on land and in the ocean during the first part of MIS 5e. In northwestern Iberia, the Eemian is marked from 126 to 122 ka by the development of deciduous Quercus forest at the same time as Mediterranean forest colonised southern Iberia, and deciduous Quercus-Corylus forest occupied northernmost European regions. From 121 to 115 ka Carpinus betulus forest developed in NW Iberia indicating a winter cooling by 2 °C on land and an increase in annual precipitation by 100–200 mm along with a Sea Surface Temperature (SST) decreasing trend off Iberia. A similar cooling has been documented at the same time in northern Germany (52° N) by the replacement of deciduous forest by coniferous (Abies-Picea) formations, implying a southward displacement of the deciduous tree line between ∼60° N and 50° N as early as 120 ka. The southward migration of the tree line between 72° N and 58° N simulated by the Earth Model of Intermediate Complexity MoBidiC from 122 and 120 ka and considered as a major process to initiate the last glaciation is, therefore, compatible with data. Between 115 and 110 ka, the substantial ice accumulation in northern high latitudes (MIS 5e/5d transition) was synchronous with successive drops, C26 and C25, in northeastern Atlantic SST. In northwestern Iberia Abies-Pinus trees developed at the expense of Quercus-Carpinus forest. A tundra-like environment occupied northern Germany, marking the end of the interglacial in northwestern Europe at 115 ka, and boreal forest likely colonised northeastern France. The first displacement of the vegetation belts at 121 ka was enhanced at 115 ka indicating an amplification of the vegetation and climate gradients in northeastern Atlantic and European borderlands probably related with the well-developed ice caps at that time. The comparison between the general trend in the estimated and simulated MoBidiC winter and summer temperatures for latitudes between 35 and 45° N, shows that both follow quite straightforwardly the precession signal although the simulated and reconstructed temperatures agree better in the South than North of 40° N. Annual precipitation is exhibiting opposite trend in the data and in the model. This contradiction is likely the fact that the zonal climate simulated by the model may not accurately represent the regional climate features, as reconstructed from the pollen.
+#--------------------------------
+# Funding_Agency: 
+#    Funding_Agency_Name:
+#    Grant:
+#--------------------------------
+# Site Information: 
+# Site_Name: MD99-2331
+# Location: North Atlantic Ocean
+#	Northernmost_Latitude:  42.15
+# 	Southernmost_Latitude:  42.15
+# 	Easternmost_Longitude: -9.68
+# 	Westernmost_Longitude: -9.68
+# 	Elevation: -2110
+#--------------------------------
+# Data Collection 
+# Collection_Name: MD99-2331-SG13 SST Uk'37
+# Oldest_Year: 141000
+# Most_Recent_Year: 46000
+# Time_Unit: cal yr BP
+# Core_Length:
+# Notes: This dataset includes alkenone-derived Sea Surface Temperatures for the period 46-141 ka.
+#--------------------------------
+# Chronology   
+#		MD99-2331		
+#	Control points	Depth (cm)	Age  ka b2k GICC05 (Wolff et al., 2010) for D-O; Sanchez Goñi & Harrison, 2010 for HS; Shackleton et al., 2000; Sanchez Goñi et al. 2012, Masson-Delmotte et al, 2010 PNAS and Waelbroeck per. com.	
+#	D-O 2		23.34	Wolff et al., 2010
+#	D-O 3		27.78	Wolff et al., 2010
+#	D-O 4	805	28.9	Wolff et al., 2010
+#	D-O 5	875	32.5	Wolff et al., 2010
+#	D-O 6	900	33.74	Wolff et al., 2010
+#	D-O 7	930	35.48	Wolff et al., 2010
+#	D-O 8	990	38.22	Wolff et al., 2010
+#	D-O 10	1060	41.46	Wolff et al., 2010
+#	D-O 11	1100	43.34	Wolff et al., 2010
+#	D-O 12	1150	46.86	Wolff et al., 2010
+#	Coiling ratio Globorotalia hirsuta (s) to (d)	1240	52.881	This work (age calculated for the coiling ratio in MD95-2042)
+#	D-O 14	1260	54.22	Wolff et al., 2010
+#	D-O 17	1345	59.44	Wolff et al., 2010
+#	Top Mélisey 2 (MIS 5a)	1625	82.9	Shackleton et al., 2000 (MIS 5a lightest value)
+#	Top Montaigu	1732	102.6	Sanchez Goñi et al., 2012
+#	Top St Germain 1a 	1742	105.1	Sanchez Goñi et al., 2012
+#	Top Mélisey 1	1765	108.8	Sanchez Goñi et al., 2012
+#	Top Eemian	1777	112	Sanchez Goñi et al., 2012
+#	Base Eemian	1877	129.2	Masson-Delmotte et al., 2010 & Waelbroeck, per.com.
+#	Onset HS 11 (MIS 6/5)	1915	135	Sanchez Goñi et al., 2012
+#	MIS 6.2	2070	141	Sanchez Goñi et al., 2012
+# 
+#--------------------------------
+# Variables    
+# 
+# Data variables follow (have no #)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+## depth_cm	depth,,,cm,,,,,N
+## age_calkaBP age,,,cal ka BP,,,,,N
+## SST-uk37	sea surface temperature,Uk'37,,degrees Celsius,,paleoceanography,,,N
+## alk.cont	alkenone content,,,ng/g,,paleoceanography,,,N
+# Data:
+depth_cm	age_calkaBP	SST-uk37	alk.cont
+1150	46.86	13.608	477.91
+1160	47.529	12.504	72.052
+1170	48.198	11.654	61.51
+1190	49.536	12.083	637.33
+1200	50.205	12.816	762.2
+1210	50.874	12.997	1010.4
+1220	51.543	13.518	965.19
+1230	52.212	13.361	1205.9
+1250	53.5505	13.481	731.48
+1260	54.22	13.404	414.44
+1270	54.83411765	12.819	194.08
+1280	55.44823529	13.618	439.55
+1290	56.06235294	13.339	393.39
+1300	56.67647059	13.465	923.25
+1310	57.29058824	14.225	927.89
+1320	57.90470588	15.256	1136.8
+1330	58.51882353	14.338	753.41
+1340	59.13294118	14.69	228.92
+1350	59.72666667	8.685	93.052
+1360	60.3	7.357	150.79
+1370	60.87333333	9.12	178.84
+1380	61.44666667	8.578	122.34
+1390	62.02	8.465	107.97
+1400	62.59333333	7.075	192.74
+1410	63.16666667	6.897	247.77
+1420	63.74	7.225	158.66
+1430	64.31333333	7.619	129.49
+1440	65.04277778	10.914	1173
+1450	65.92833333	11.594	900.79
+1460	66.81388889	8.684	299.02
+1470	67.69944444	10.414	328.31
+1480	68.585	10.921	687.53
+1490	69.47055556	11.681	1142.5
+1500	70.35611111	12.4	693.99
+1510	71.24166667	12.815	1672.1
+1520	72.12722222	13.977	666.14
+1530	73.04	14.799	290.26
+1540	73.98	15.462	238.56
+1550	74.92	18.684	661.44
+1560	75.86	18.692	564.26
+1570	76.88181818	17.276	620.94
+1580	77.98545455	17.341	1031.9
+1590	79.08909091	17.219	1669.6
+1600	80.19272727	17.956	1428.5
+1610	81.29636364	15.458	745.81
+1630	83.51111111	12.411	130.86
+1640	84.62222222	13.12	253.49
+1650	85.73333333	17.844	1050
+1660	86.84444444	19.285	624.77
+1670	88.53432836	18.684	719.74
+1680	90.80298507	19.439	657.63
+1690	93.07164179	19.381	844.21
+1700	95.34029851	17.912	943.38
+1710	97.60895522	17.342	712.47
+1720	99.87761194	16.864	1362.6
+1730	102.1462687	15.179	472.61
+1740	104.6	12.838	1052
+1750	106.3869565	17.16	2171.9
+1760	107.9956522	14.733	298.13
+1770	110.1333333	10.85	452.54
+1780	112.516	15.152	1128.7
+1790	114.236	21.938	2344.5
+1800	115.956	20.823	501.76
+1810	117.676	18.471	770.77
+1820	119.396	19.239	451.06
+1830	121.116	21.411	642.34
+1840	122.836	22.443	249.12
+1850	124.556	22.104	640.09
+1860	126.276	22.218	450.38
+1870	127.996	19.47	1465.7
+1880	129.6578947	15.053	366.46
+1890	131.1842105	17.409	350.13
+1900	132.7105263	20.405	432.17
+1910	134.2368421	12.173	502.65
+1920	135.1935484	11.906	497.9
+1930	135.5806452	11.996	569.96
+1940	135.9677419	11.236	640.48
+1950	136.3548387	10.962	259.86
+1960	136.7419355	13.721	293.75
+1970	137.1290323	13.654	179.76
+1980	137.516129	13.049	186.48
+1990	137.9032258	12.409	137.61
+2000	138.2903226	12.888	96.51

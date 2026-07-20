@@ -1,0 +1,74 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# u939-tab.txt
+# Complete Data
+# File Created: 17-Apr-2006
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Elisabeth L. Sikes
+# Core/Site:      U939
+# Latitude:       44.32.00S	( -44.53333)
+# Longitude:      179.30.00E	( 179.5)
+# Water Depth(m): 1300
+#
+# Publications:
+#   Sikes, E.L., W.R. Howard, H.L. Neil, and J.K. Volkman. 2002. Glacial-interglacial
+#     sea surface temperature changes across the subtropical front east of New Zealand
+#     based on alkenone unsaturation ratios and foraminiferal assemblages. Paleoceanography,
+#     17(2).
+#------------------
+#
+# Description & Notes:
+#   Chatham Rise Alkenone and Foraminiferal SST Estimates.
+#   Uk37 SST warm season calculated using Sikes and Volkman [1993] calibration 9Uk'37=
+#   0.0414T-0.156). Subsurface Uk37 SST calculated using Prahl and Wakeham [1998]
+#   (Uk'37 = 0.034T+0.039). One sigma =1.0°C Antarctic CRC/CSIRO Oceanography. Foraminiferal
+#   SST's determined with Modern Analog Technique (MAT) using Southern Ocean core-top
+#   set, Data 1997, one sigma = 2 °C Antarctic CRC.
+#
+# Variables:
+#             depth         Depth (cm)
+#             yrBP          radiocarbon years B.P. (Libby half-life; B.P. = 1950)
+#             sst-sub.uk37  Subsurface Sea Temperature from Uk'37
+#             sst-warm.uk37 Sea Surface Temperature from Uk'37 (warm season)
+#             uk37          Alkenone saturation index
+#
+# CORE: U939
+depth	yrBP 	sst-sub.uk37	sst-warm.uk37	uk37	
+1	1000	11.024	13.764	0.414	
+6	2379.7	10.997	13.741	0.413	
+11	3759.4	11.13	13.851	0.417	
+21	6518.8	10.831	13.605	0.407	
+26	7898.4	10.712	13.508	0.403	
+31	9278.1	10.576	13.396	0.399	
+36	11265.6	11.141	13.859	0.418	
+41	13060	11.065	13.797	0.415	
+46	13673.3	10.144	13.041	0.384	
+51	14440	8.948	12.059	0.343	
+56	15206.7	7.382	10.772	0.29	
+61	15973.3	6.824	10.314	0.271	
+71	17506.7	7.312	10.716	0.288	
+86	24110	7.894	11.194	0.307	
+96	29264.8	7.365	10.759	0.289	
+106	34419.6	6.811	10.303	0.271	
+116	39574.3	7.068	10.515	0.279	
+126	44729.1	7.376	10.768	0.29	
+136	49883.9	7.896	11.195	0.307	
+146	55038.7	8.829	11.961	0.339	
+156	60034.5	9.375	12.41	0.358	
+166	64659.7	8.65	11.814	0.333	
+176	69284.8	10.532	13.359	0.397	
+186	73910	9.151	12.225	0.35	
+196	80901.2	8.226	11.466	0.319	
+206	87892.5	10.33	13.194	0.39	
+216	94883.8	10.201	13.087	0.386	
+226	101875	11.548	14.194	0.432	
+236	108866.2	12.729	15.164	0.472	
+246	115857.5	14.268	16.427	0.524	
+266	129840	13.139	15.5	0.486	
+286	143822.5	8	11.28	0.311	
+306	157805	8.935	12.048	0.343	

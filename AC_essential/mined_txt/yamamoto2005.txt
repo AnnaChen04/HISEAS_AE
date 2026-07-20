@@ -1,0 +1,259 @@
+Northwestern Pacific 144KYr Alkenone Sea Surface Temperature Estimates
+-----------------------------------------------------------------------
+               World Data Center for Paleoclimatology, Boulder
+                                  and
+                     NOAA Paleoclimatology Program
+-----------------------------------------------------------------------
+NOTE: PLEASE CITE CONTRIBUTORS WHEN USING THIS DATA!!!!!
+
+
+NAME OF DATA SET:
+Northwestern Pacific 144KYr Alkenone Sea Surface Temperature Estimates
+ 
+LAST UPDATE: 10/2007 (Original receipt by WDC Paleo)
+CONTRIBUTOR: Masanobu Yamamoto, Hokkaido University
+IGBP PAGES/WDCA CONTRIBUTION SERIES NUMBER: 2007-099
+
+SUGGESTED DATA CITATION: Yamamoto, M., et al.  2007.
+Northwestern Pacific 144KYr Alkenone Sea Surface Temperature Estimates. 
+IGBP PAGES/World Data Center for Paleoclimatology 
+Data Contribution Series # 2007-099.
+NOAA/NCDC Paleoclimatology Program, Boulder CO, USA.
+
+
+ORIGINAL REFERENCE: Yamamoto, M., R. Suemune, and T. Oba. 2005.
+Equatorward shift of the subarctic boundary in the northwestern 
+Pacific during the last deglaciation. 
+Geophys. Res. Lett., Vol. 32, L05609, doi:10.1029/2004GL021903
+
+ABSTRACT:
+We have generated a high-resolution record of alkenone sea surface 
+temperature (SST) between 10–24 ka from Core MD01-2421 off central 
+Japan, in the northwestern Pacific. The cooling by 5°C from 21 ka 
+to 12.8 ka implies the equatorward shift of the subarctic boundary 
+in the northwestern Pacific by ~2.8° in latitude.  This shift was 
+a result of the stronger summer Okhotsk High. The Okhotsk High was 
+likely enhanced by the combined effects of El Nino-like conditions 
+in the tropical Pacific and the heating of the land surface of 
+northeastern Siberia.
+
+
+ADDITIONAL REFERENCES:
+Prahl, F.G., L.A. Muehlhausen, and D.L. Zahnle. 1988. 
+Further evaluation of long-chain alkenones as indicators 
+of paleoceanographic conditions. 
+Geochim. Cosmochim. Acta, 52, 2303-2310. 
+
+Oba, T., T. Irino, M. Yamamoto, M. Murayama, A. Takamura, and K. Aoki. 2006. 
+Paleoceanographic change off central Japan since the last 144,000 years 
+based on high-resolution oxygen and carbon isotope records. 
+Global and Planetary Change, 53: 5-20.	 
+
+Yamamoto, M., M. Yamamuro, and R. Tada. 2000. 
+Late Quaternary records of organic carbon, calcium carbonate and 
+biomarkers from Site 1016 off Point Conception, California margin.  
+ODP Scientific Results, 167, 183-194. 
+
+
+GEOGRAPHIC REGION: Northwestern Pacific
+PERIOD OF RECORD: 144 KYrBP - present
+
+FUNDING SOURCES: MEXT and Grants-in-Aid for Scientific Research
+of JSPS, Nos. 13304040 (T.O.) and 16340158 (M.Y.).
+
+
+
+DESCRIPTION: 
+The analysis of alkenones and the calculation of temperature 
+were conducted following the methods of Yamamoto et al. [2000] 
+and Prahl et al. [1988], respectively, with an analytical 
+accuracy of 0.24°C. 
+
+Please see Oba et al. (2006) for age-depth model.	   
+
+Core MD01-2421: 36°02'N, 141° 47'E  2224m depth.
+
+
+
+DATA:
+Column 1: Depth (cm)
+Column 2: Age (ka)
+Column 3: UK37' 
+Column 4: Temperature (deg C)
+
+  Depth       Age     UK37'     Temp.
+   1.19      0.24     0.671     18.60
+   5.94      0.29     0.629     17.36
+  74.55      0.96     0.661     18.29
+ 225.45      2.61     0.684     18.97
+ 375.74      4.51     0.687     19.06
+ 453.33      5.53     0.696     19.32
+ 523.94      6.48     0.701     19.47
+ 603.23      7.53     0.736     20.49
+ 674.53      9.09     0.697     19.35
+ 719.89     10.10     0.696     19.33
+ 729.99     10.32     0.717     19.93
+ 747.97     10.72     0.714     19.85
+ 750.50     10.78     0.715     19.88
+ 753.03     10.83     0.679     18.82
+ 755.56     10.89     0.661     18.29
+ 758.09     10.95     0.675     18.72
+ 760.61     11.00     0.655     18.12
+ 763.14     11.06     0.621     17.10
+ 765.69     11.12     0.611     16.84
+ 768.26     11.17     0.639     17.64
+ 770.84     11.23     0.649     17.95
+ 773.41     11.29     0.587     16.13
+ 775.96     11.34     0.604     16.61
+ 778.49     11.40     0.608     16.72
+ 781.01     11.46     0.577     15.81
+ 783.54     11.51     0.570     15.61
+ 786.05     11.57     0.578     15.86
+ 788.55     11.62     0.539     14.69
+ 791.05     11.68     0.563     15.41
+ 793.55     11.73     0.564     15.44
+ 796.05     11.79     0.582     15.98
+ 798.55     11.84     0.513     13.95
+ 801.05     11.90     0.555     15.17
+ 806.04     12.01     0.553     15.13
+ 813.46     12.33     0.491     13.29
+ 815.98     12.44     0.501     13.59
+ 821.08     12.66     0.529     14.42
+ 823.63     12.78     0.481     12.99
+ 828.65     13.00     0.530     14.43
+ 833.65     13.23     0.519     14.12
+ 838.73     13.47     0.556     15.20
+ 841.28     13.59     0.576     15.78
+ 843.83     13.71     0.580     15.91
+ 846.35     13.82     0.596     16.38
+ 848.85     13.94     0.576     15.80
+ 853.85     14.17     0.588     16.14
+ 858.74     14.40     0.585     16.07
+ 863.59     14.63     0.554     15.15
+ 868.59     14.86     0.543     14.81
+ 873.64     15.09     0.545     14.87
+ 878.61     15.32     0.551     15.06
+ 883.56     15.55     0.550     15.02
+ 893.64     16.02     0.582     15.96
+ 897.14     16.19     0.573     15.71
+ 902.09     16.42     0.536     14.63
+ 907.05     16.65     0.552     15.09
+ 912.05     16.88     0.531     14.46
+ 917.03     17.11     0.606     16.68
+ 921.93     17.34     0.531     14.46
+ 926.85     17.57     0.614     16.91
+ 934.35     17.92     0.612     16.84
+ 936.79     18.03     0.592     16.28
+ 941.54     18.25     0.555     15.17
+ 961.23     19.17     0.611     16.82
+ 970.96     19.62     0.623     17.16
+ 980.91     20.08     0.631     17.42
+ 990.83     20.54     0.632     17.43
+1000.81     21.01     0.656     18.13
+1005.84     21.21     0.645     17.82
+1020.75     21.75     0.573     15.70
+1030.69     22.11     0.618     17.04
+1052.94     22.91     0.638     17.63
+1072.99     23.64     0.621     17.12
+1093.09     24.37     0.665     18.41
+1123.21     25.45     0.672     18.60
+1203.33     28.35     0.648     17.92
+1213.35     28.90     0.679     18.82
+1233.45     30.79     0.690     19.15
+1253.25     32.65     0.665     18.42
+1273.25     34.53     0.652     18.04
+1293.09     36.39     0.661     18.30
+1312.95     37.81     0.658     18.21
+1332.95     38.57     0.664     18.39
+1353.25     39.35     0.648     17.90
+1363.25     39.73     0.638     17.63
+1382.86     40.47     0.608     16.74
+1402.43     41.22     0.622     17.13
+1421.85     41.95     0.616     16.96
+1441.38     42.70     0.635     17.53
+1461.08     43.41     0.615     16.94
+1480.80     43.92     0.627     17.29
+1508.44     44.64     0.612     16.86
+1518.33     44.89     0.657     18.17
+1538.25     45.41     0.601     16.52
+1558.46     45.93     0.608     16.74
+1578.44     46.45     0.600     16.49
+1598.25     46.96     0.609     16.78
+1618.36     47.49     0.635     17.54
+1638.54     48.01     0.655     18.12
+1654.15     48.41     0.624     17.20
+1664.33     48.68     0.672     18.62
+1684.34     49.19     0.670     18.57
+1704.15     49.71     0.655     18.12
+1724.15     50.23     0.671     18.59
+1744.15     50.74     0.665     18.40
+1763.99     51.26     0.644     17.79
+1783.69     51.82     0.671     18.59
+1802.55     52.43     0.647     17.89
+1812.43     52.75     0.669     18.52
+1832.09     53.38     0.684     18.98
+1851.95     54.02     0.700     19.44
+1871.76     54.66     0.697     19.34
+1889.29     55.23     0.696     19.32
+1909.09     55.86     0.682     18.93
+1928.86     56.50     0.669     18.52
+1950.42     57.20     0.654     18.09
+1960.45     57.52     0.673     18.65
+1980.25     58.16     0.641     17.69
+2000.13     58.80     0.662     18.32
+2019.33     60.08     0.646     17.86
+2031.71     61.05     0.656     18.16
+2087.75     65.29     0.695     19.28
+2100.23     65.61     0.646     17.86
+2169.65     67.37     0.677     18.76
+2210.23     68.40     0.681     18.89
+2250.09     69.41     0.648     17.93
+2319.41     71.17     0.645     17.83
+2384.16     72.82     0.674     18.67
+2453.71     74.32     0.670     18.57
+2534.99     75.57     0.680     18.85
+2564.69     76.02     0.704     19.55
+2604.18     76.63     0.714     19.86
+2684.65     77.86     0.735     20.46
+2784.65     80.35     0.696     19.31
+2794.82     81.51     0.700     19.43
+2814.96     83.81     0.723     20.10
+2834.80     85.54     0.659     18.25
+2844.76     85.97     0.705     19.59
+2904.85     88.57     0.691     19.17
+2925.14     89.44     0.753     21.01
+2945.06     90.31     0.749     20.90
+2984.55     91.44     0.732     20.38
+3050.25     92.74     0.727     20.24
+3130.82     94.41     0.729     20.29
+3200.93     96.18     0.735     20.48
+3280.62     98.20     0.743     20.71
+3350.16    101.02     0.750     20.91
+3386.76    103.67     0.753     21.01
+3424.26    106.58     0.739     20.60
+3434.14    107.47     0.699     19.42
+3493.79    111.63     0.706     19.62
+3533.80    113.11     0.739     20.59
+3573.78    114.58     0.711     19.76
+3583.78    114.95     0.717     19.94
+3624.06    116.43     0.647     17.88
+3643.99    117.17     0.657     18.18
+3684.06    117.81     0.730     20.33
+3723.98    118.36     0.770     21.51
+3754.18    118.78     0.791     22.12
+3794.55    119.34     0.817     22.87
+3852.13    120.14     0.802     22.44
+3922.85    121.12     0.805     22.53
+4001.94    122.21     0.793     22.18
+4051.86    123.41     0.792     22.16
+4114.58    125.54     0.779     21.77
+4151.68    126.80     0.693     19.23
+4181.78    127.83     0.656     18.15
+4221.79    129.19     0.647     17.88
+4261.61    130.54     0.649     17.93
+4301.66    131.89     0.635     17.52
+4371.31    135.21     0.616     16.97
+4451.51    139.77     0.618     17.02
+4522.15    143.78     0.628     17.34
+4527.53    144.09     0.640     17.68
+

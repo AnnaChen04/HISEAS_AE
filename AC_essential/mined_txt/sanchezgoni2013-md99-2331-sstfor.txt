@@ -1,0 +1,303 @@
+# North Atlantic SST, isotope and Ice-Rafted Debris Data during the last interglacial and glacial
+#-----------------------------------------------------------------------
+#              World Data Center for Paleoclimatology, Boulder 
+#                                  and 
+#                       NOAA Paleoclimatology Program 
+#-----------------------------------------------------------------------
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+#  Online_Resource: http://www.hurricane.ncdc.noaa.gov/pls/paleox/f?p=519:1:::::P1_STUDY_ID:14650 
+#  Online_Resource: ftp://ftp.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstfor.txt
+#
+# Archive: Paleoceanography
+#
+#--------------------------------
+# Contribution_Date
+# Date: 2013-07-15
+#--------------------------------
+# Title: North Atlantic SST, isotope and Ice-Rafted Debris Data during the last interglacial and glacial
+#--------------------------------
+# Investigators: Sanchez Goñi, M.F.
+#--------------------
+# Description and Notes: 
+# This dataset includes Ice Rafted Debris concentration in grains/gram of dry sediment, foraminifera and alkenone-derived Sea Surface Temperatures, and the percentages of Neogloboquadrina pachyderma left coiling for the period 46-141 ka.
+#
+# IRD, N. pachyderma\(s\), foraminifera-derived SST, alkenone-derived SST
+#--------------------
+# Publication 
+#   Authors: Sanchez Goñi et al.
+#   Journal_Name: Nature Geosciences
+#   Published_Title: Increased air-sea thermal gradient during the last interglacial/glacial transition
+#   Published_Date_or_Year: 2013 
+#   Volume: 
+#   Pages: 
+#   DOI: 
+#   Abstract:
+#--------------------------------
+# Publication 
+#   Authors: Naughton, F., M.F. Sanchez Goñi, M. Kageyama, E. Bard, J. Duprat, E. Cortijo, S. Desprat, B. Malaize, C. Joli, F. Rostek, and J.L. Turon										
+#   Journal_Name: Earth and Planetary Sciences Letters
+#   Published_Title: Wet to dry climatic trend in north western Iberia within Heinrich events
+#   Published_Date_or_Year: 2009
+#   Volume: 284
+#   Pages: 329-342
+#   DOI: 10.1016/j.epsl.2009.05.001
+#   Abstract: The direct sea–land correlation applied to core MD99-2331 retrieved from the north-western Iberian margin shows a two-phase pattern within Heinrich events 4, 2 and 1 in the ocean and in the adjacent landmasses. Changes between wet/cold and dry/cool conditions in the Iberian Peninsula detected during these extreme events cannot be explained by a simple oceanographic mechanism related to changes in the strength of the Atlantic Meridional Overturning Circulation. Here we propose an additional atmospheric mechanism able to produce this scenario based on the comparison between the MD99-2331 record and other available palaeoclimate sequences from the North Atlantic region (18–75°N and 0–75°W). The climatic asymmetry observed between mid- and subtropical eastern North Atlantic latitudes (wet/dry) and the Blake Outer Ridge (dry/wet) during H4, H2 and H1 can be explained by changes in the position of the Atlantic jet-stream. During the first phase of H4, H2 and H1 the Atlantic jet-stream was located further south following the southward displacement of the oceanic thermal front as far south as 35°–37°N. On the contrary, during the second phase of H4, H2 and H1 the jet-stream was located further north following the northward displacement of this thermal front as far north as 42°N. From the atmospheric point of view, these two phases are reminiscent of the present-day negative and positive prevailing modes of the North Atlantic Oscillation (NAO), respectively, but high-resolution studies of additional North Atlantic key sites and climate simulations are needed to confirm the hypothesis of a NAO-like mechanism operating on millennial timescales.
+#--------------------------------
+# Publication 
+#   Authors: Sanchez-Goñi, M.F., A. Landais, I. Cacho, J. Duprat, and L. Rossignol				
+#   Journal_Name: Geochemistry, Geophysics, Geosystems
+#   Published_Title: Contrasting intrainterstadial climatic evolution between high and middle latitudes: A close-up of Greenland Interstadials 8 and 12
+#   Published_Date_or_Year: 2009
+#   Volume: 10
+#   Issue: 4
+#   Report_Number: Q04U04
+#   Pages: 
+#   DOI: 10.1029/2008GC002369
+#   Abstract: Three highly resolved pollen and sea surface temperature records from the Iberian margin (36–42°N) reveal the local evolution of vegetation and climate associated with the rapid climatic variability of marine isotope stage 3. The comparison of the climate at these midlatitudes with δD and d excess from Greenland ice cores shows that the north-south climatic gradient underwent strong variations during the long Greenland Interstadials (GIs) 8 and 12. After the Northern Hemispheric rapid warming at the Greenland Stadial (GS)-GI transition, the trend during the first part of the GI is a Greenland cooling and an Iberian warming. This increase of the North Atlantic climatic gradient led to moisture transportation to Greenland from midlatitudes (lightest d excess) and to a drying episode in Iberia. The subsequent temperature decrease in Greenland and Iberia associated with the precipitation increase in the latter region occurred when the major source of Greenland precipitation shifted to lower latitudes (d excess increase).
+#--------------------------------
+# Publication 
+#   Authors: Naughton, F., M.F. Sanchez Goñi, S. Desprata, J.-L. Turona, J. Duprata, B. Malaizéa, C. Jolia, E. Cortijo, T. Dragod, and M.C. Freitas													
+#   Journal_Name: Marine Micropaleontology
+#   Published_Title: Present-day and past (last 25 000 years) marine pollen signal off western Iberia
+#   Published_Date_or_Year: 2007
+#   Volume: 62
+#   Pages: 91-114
+#   DOI: 10.1016/j.marmicro.2006.07.006
+#   Abstract: The comparison between modern terrestrial and marine pollen signals in and off western Iberia shows that marine pollen assemblages give an integrated image of the regional vegetation colonising the adjacent continent. Present-day Mediterranean and Atlantic forest communities of Iberia are well discriminated by south and north marine pollen spectra, respectively. Results from Total Pollen Concentration together with recognized conceptual models of fine particle dynamics in the Iberian margin have allowed us to establish the present-day pattern of pollen dispersion in this region.The 25 000 year-long record of continental (pollen) and marine (δ18O of Globigerina bulloides, Ice-rafted detritus—IRD and Neogloboquadrina pachyderma s.) proxies, from the Galician margin composite core (MD99-2331 and MD03-2697), show that vegetation cover in north-western Iberia has responded contemporaneously to the climate variability of the North-Atlantic. The vegetation response to the well known North Atlantic Heinrich events 2 and 1 (H2 and H1) is however complex and characterised by two vegetation phases at low and mid-altitudes of north-western Iberia. The beginning of each Heinrich event is marked on land by an important pine forest reduction and the expansion of heathers which are synchronous with the heaviest planktic δ18O values and the maxima of N. pachyderma (s.) suggesting that these first phases were cold and wet. Pinus forest expansion characterising the second phase of each Heinrich event indicates a less cold episode associated, during H1, with an increase of dryness as suggested by the development of semi-desert associations. The comparison of our Galician margin multi-proxy record with several pollen sequences from in and off Iberia allows us to demonstrate that H1 event is the marine equivalent of the Oldest Dryas on the continent. The occurrence of temperate trees during the last glacial maximum (LGM) and the rapid expansion of deciduous Quercus during the Bölling-Allerød period in our Galician margin composite sequence show that not only the southern but also north-western Iberia was a refugium zone for deciduous trees during the last glacial period, especially at low and mid-altitude zones. Furthermore, the comparison between southern and northern marine and terrestrial sequences allows us to confirm that vegetation responded to the Bölling-Allerød warming, the Younger Dryas cold event and the Holocene more quickly in low and mid-altitudes of north-western Iberia and in the south than in the high altitude northern region most likely as the result of the higher density of refugia for temperate trees in these zones during the LGM.
+#--------------------------------
+# Publication 
+#   Authors: Sanchez Goñi, M.F., M.F. Loutre, M. Crucifix, O. Peyron, L. Santos, J. Duprat, B. Malaize, J.-L. Turon, and J.-P. Peypouquet
+#   Journal_Name: Earth and Planetary Science Letters
+#   Published_Title: Increasing vegetation and climate gradient in Western Europe over the Last Glacial Inception (122–110 ka): data-model comparison
+#   Published_Date_or_Year: 2005
+#   Volume: 231
+#   Issue: 1-2
+#   Pages: 111-130
+#   DOI: 10.1016/j.epsl.2004.12.010
+#   Abstract: High-resolution terrestrial (pollen) and marine (planktic and benthic isotopes, coarse fraction, and N. pachyderma (s)) analyses have been performed in the Marine Isotope Stage (MIS) 5 interval of IMAGES core MD99-2331 retrieved in the northwestern Iberian margin. This study shows the occurrence of a Zeifen Interstadial/Stadial succession on land and in the ocean during the first part of MIS 5e. In northwestern Iberia, the Eemian is marked from 126 to 122 ka by the development of deciduous Quercus forest at the same time as Mediterranean forest colonised southern Iberia, and deciduous Quercus-Corylus forest occupied northernmost European regions. From 121 to 115 ka Carpinus betulus forest developed in NW Iberia indicating a winter cooling by 2 °C on land and an increase in annual precipitation by 100–200 mm along with a Sea Surface Temperature (SST) decreasing trend off Iberia. A similar cooling has been documented at the same time in northern Germany (52° N) by the replacement of deciduous forest by coniferous (Abies-Picea) formations, implying a southward displacement of the deciduous tree line between ∼60° N and 50° N as early as 120 ka. The southward migration of the tree line between 72° N and 58° N simulated by the Earth Model of Intermediate Complexity MoBidiC from 122 and 120 ka and considered as a major process to initiate the last glaciation is, therefore, compatible with data. Between 115 and 110 ka, the substantial ice accumulation in northern high latitudes (MIS 5e/5d transition) was synchronous with successive drops, C26 and C25, in northeastern Atlantic SST. In northwestern Iberia Abies-Pinus trees developed at the expense of Quercus-Carpinus forest. A tundra-like environment occupied northern Germany, marking the end of the interglacial in northwestern Europe at 115 ka, and boreal forest likely colonised northeastern France. The first displacement of the vegetation belts at 121 ka was enhanced at 115 ka indicating an amplification of the vegetation and climate gradients in northeastern Atlantic and European borderlands probably related with the well-developed ice caps at that time. The comparison between the general trend in the estimated and simulated MoBidiC winter and summer temperatures for latitudes between 35 and 45° N, shows that both follow quite straightforwardly the precession signal although the simulated and reconstructed temperatures agree better in the South than North of 40° N. Annual precipitation is exhibiting opposite trend in the data and in the model. This contradiction is likely the fact that the zonal climate simulated by the model may not accurately represent the regional climate features, as reconstructed from the pollen.
+#--------------------------------
+# Funding_Agency: 
+#    Funding_Agency_Name:
+#    Grant:
+#--------------------------------
+# Site Information: 
+# Site_Name: MD99-2331
+# Location: North Atlantic Ocean
+#	Northernmost_Latitude:  42.15
+# 	Southernmost_Latitude:  42.15
+# 	Easternmost_Longitude: -9.68
+# 	Westernmost_Longitude: -9.68
+# 	Elevation: -2110
+#--------------------------------
+# Data Collection 
+# Collection_Name: MD99-2331-SG13 SST Foram
+# Oldest_Year: 46000
+# Most_Recent_Year: 141000
+# Time_Unit: cal yr BP
+# Core_Length:
+# Notes: This dataset includes foraminifera derived Sea Surface Temperatures for the period 46-141 ka.
+#--------------------------------
+# Chronology   
+#		MD99-2331		
+#	Control points	Depth (cm)	Age  ka b2k GICC05 (Wolff et al., 2010) for D-O; Sanchez Goñi & Harrison, 2010 for HS; Shackleton et al., 2000; Sanchez Goñi et al. 2012, Masson-Delmotte et al, 2010 PNAS and Waelbroeck per. com.	
+#	D-O 2		23.34	Wolff et al., 2010
+#	D-O 3		27.78	Wolff et al., 2010
+#	D-O 4	805	28.9	Wolff et al., 2010
+#	D-O 5	875	32.5	Wolff et al., 2010
+#	D-O 6	900	33.74	Wolff et al., 2010
+#	D-O 7	930	35.48	Wolff et al., 2010
+#	D-O 8	990	38.22	Wolff et al., 2010
+#	D-O 10	1060	41.46	Wolff et al., 2010
+#	D-O 11	1100	43.34	Wolff et al., 2010
+#	D-O 12	1150	46.86	Wolff et al., 2010
+#	Coiling ratio Globorotalia hirsuta (s) to (d)	1240	52.881	This work (age calculated for the coiling ratio in MD95-2042)
+#	D-O 14	1260	54.22	Wolff et al., 2010
+#	D-O 17	1345	59.44	Wolff et al., 2010
+#	Top Mélisey 2 (MIS 5a)	1625	82.9	Shackleton et al., 2000 (MIS 5a lightest value)
+#	Top Montaigu	1732	102.6	Sanchez Goñi et al., 2012
+#	Top St Germain 1a 	1742	105.1	Sanchez Goñi et al., 2012
+#	Top Mélisey 1	1765	108.8	Sanchez Goñi et al., 2012
+#	Top Eemian	1777	112	Sanchez Goñi et al., 2012
+#	Base Eemian	1877	129.2	Masson-Delmotte et al., 2010 & Waelbroeck, per.com.
+#	Onset HS 11 (MIS 6/5)	1915	135	Sanchez Goñi et al., 2012
+#	MIS 6.2	2070	141	Sanchez Goñi et al., 2012
+# 
+#--------------------------------
+# Variables    
+# 
+# Data variables follow (have no #)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data) 
+## depth_cm	depth,,,cm,,,,,N
+## age_calkaBP age,,,cal ka BP,,,,,N
+## SST.for-JAS	sea surface temperature,,,degrees Celsius,Jul-Sep,paleoceanography,from foraminifera,,N
+## SST.for-JAS-i	sea surface temperature,,,degrees Celsius,Jul-Sep,paleoceanography,from foraminifera,JAS-i,N
+## SST.for-JAS-s	sea surface temperature,,,degrees Celsius,Jul-Sep,paleoceanography,from foraminifera,JAS-s,N
+# Data:
+depth_cm	Age_calkaBP	SST.for-JAS	SST.for-JAS-i	SST.for-JAS-s
+1150	46.86	17.33252005	15.35	20.08
+1155	47.1945	9.565519175	8.67	9.949
+1160	47.529	9.71689955	8.67	9.949
+1165	47.8635	8.015206208	7.035	8.992
+1170	48.198	9.285413121	7.035	9.949
+1175	48.5325	8.179103939	7.242	11.249
+1180	48.867	6.900450412	4.578	7.953
+1185	49.2015	7.471880184	6.473	8.045
+1190	49.536	7.91746797	7.093	9.541
+1195	49.8705	15.96563201	13.633	17.624
+1200	50.205	15.6746018	15.327	15.898
+1205	50.5395	15.30583823	13.531	15.929
+1210	50.874	18.53493014	15.35	20.208
+1215	51.2085	20.15690409	19.547	20.523
+1220	51.543	15.42654587	14.293	16.03
+1225	51.8775	14.55649047	12.512	15.898
+1230	52.212	13.75339278	11.584	15.898
+1235	52.5465	14.82437343	12.038	18.29
+1240	52.881	15.97217316	12.038	18.488
+1245	53.21575	13.85743889	11.194	15.702
+1250	53.5505	15.01862104	13.531	16.415
+1255	53.88525	9.734091181	7.035	10.889
+1260	54.22	10.65668137	9.343	11.114
+1265	54.52705882	9.391518698	7.218	10.838
+1270	54.83411765	9.900759024	7.218	11.514
+1275	55.14117647	13.62567925	10.265	19.414
+1280	55.44823529	9.351718603	7.035	11.114
+1290	56.06235294	15.69788306	9.332	19.25
+1300	56.67647059	16.19690227	15.35	16.882
+1310	57.29058824	17.0208318	11.514	20.056
+1320	57.90470588	14.95020928	9.926	20.056
+1330	58.51882353	10.46340959	7.218	17.468
+1340	59.13294118	9.90065392	9.332	11.114
+1350	59.72666667	5.756014466	2.179	7.953
+1360	60.3	4.166190422	2.179	7.174
+1370	60.87333333	6.674952475	2.179	7.953
+1380	61.44666667	4.662729452	2.179	7.553
+1390	62.02	3.852533407	1.717	5.548
+1395	62.30666667	4.192046744	2.179	5.998
+1400	62.59333333	7.656653797	6.473	8.045
+1405	62.88	4.238068934	2.179	5.937
+1410	63.16666667	7.416805389	4.578	8.045
+1415	63.45333333	4.116817656	0.889	6.666
+1420	63.74	6.347421695	2.179	8.045
+1425	64.02666667	4.944227477	2.179	7.953
+1430	64.31333333	6.901502159	2.179	8.045
+1435	64.6	7.517042093	7.035	8.992
+1440	65.04277778	9.169081167	7.093	17.091
+1445	65.48555556	8.598056111	7.093	9.541
+1450	65.92833333	9.458909077	7.093	12.21
+1455	66.37111111	7.712403137	7.035	11.114
+1460	66.81388889	9.50865909	7.093	12.21
+1465	67.25666667	9.609514053	9.332	9.949
+1470	67.69944444	8.594903772	7.093	9.541
+1475	68.14222222	10.04957701	7.093	17.468
+1480	68.585	8.638446955	7.218	9.541
+1485	69.02777778	8.002393019	7.093	9.541
+1490	69.47055556	14.62428128	12.201	17.091
+1495	69.91333333	15.72164009	11.731	17.468
+1500	70.35611111	14.81640614	12.201	17.091
+1510	71.24166667	17.41100439	14.088	19.739
+1520	72.12722222	15.51668991	12.201	18.199
+1530	73.04	17.54340149	13.633	20.08
+1540	73.98	9.805068615	9.332	11.114
+1550	74.92	17.6694745	15.327	20.08
+1560	75.86	15.66398474	13.683	17.091
+1565	76.33	15.11	13.633	16.415
+1570	76.88181818	16.09440975	15.327	17.091
+1575	77.43363636	15.79	15.419	16.182
+1580	77.98545455	15.31496329	13.683	17.091
+1585	78.53727273	16.16	13.623	17.624
+1590	79.08909091	15.90565028	13.683	17.091
+1595	79.64090909	15.55862248	12.7	17.624
+1600	80.19272727	15.54386097	12.985	17.624
+1605	80.74454545	15.1429747	13.683	16.415
+1610	81.29636364	14.94025199	11.731	17.091
+1615	81.84818182	11.9430623	7.093	19.873
+1620	82.4	10.41258309	7.093	19.873
+1630	83.51111111	9.800803663	9.359	9.949
+1640	84.62222222	9.303307228	7.035	11.114
+1650	85.73333333	17.71345171	15.327	20.08
+1660	86.84444444	15.76447877	13.683	17.091
+1670	88.53432836	15.23986371	13.398	17.091
+1680	90.80298507	15.24371867	13.683	15.898
+1690	93.07164179	15.368845	13.683	16.182
+1700	95.34029851	15.33960037	13.683	17.091
+1705	96.47462687	15.31942772	13.683	15.929
+1710	97.60895522	15.57018034	15.327	15.898
+1715	98.74328358	16.08306664	15.35	17.128
+1720	99.87761194	15.73921736	13.623	17.624
+1725	101.0119403	15.60870298	15.327	15.988
+1730	102.1462687	17.18048087	15.988	17.624
+1735	103.35	16.40160535	15.327	17.546
+1740	104.6	17.50357513	13.623	20.08
+1745	105.5826087	16.82862296	15.988	17.828
+1750	106.3869565	18.63773267	15.35	21.731
+1755	107.1913043	15.60651274	15.327	16.142
+1760	107.9956522	16.86232943	13.623	20.08
+1765	108.8	18.21404379	9.359	21.046
+1770	110.1333333	16.43983867	12.201	21.046
+1775	111.4666667	11.90471346	11.287	14.695
+1780	112.516	14.04063463	11.515	17.091
+1785	113.376	12.40505266	11.194	15.702
+1790	114.236	15.18809195	13.771	17.091
+1795	115.096	15.54612234	15.327	15.934
+1800	115.956	17.50593203	16.295	18.701
+1805	116.816	17.43187496	15.419	21.657
+1810	117.676	18.80648114	15.988	21.657
+1815	118.536	17.78412169	16.295	18.701
+1820	119.396	17.90160203	16.295	18.701
+1825	120.256	18.7045307	17.645	21.657
+1830	121.116	18.34791358	17.091	20.673
+1835	121.976	17.42711041	14.088	18.701
+1840	122.836	18.28794813	17.091	20.673
+1845	123.696	17.7383333	16.295	18.701
+1850	124.556	19.74909891	16.882	21.731
+1852	124.9	19.06358913	17.228	21.731
+1855	125.416	19.88181719	17.228	22.021
+1857	125.76	17.61759664	17.228	18.764
+1860	126.276	19.36223237	17.228	21.731
+1862	126.62	18.53015487	17.228	21.657
+1864	126.964	18.41425181	17.228	20.08
+1865	127.136	16.04811095	12.985	18.764
+1867	127.48	16.62433478	12.985	18.701
+1870	127.996	18.13881339	17.171	20.08
+1875	128.856	17.65057415	16.295	18.701
+1880	129.6578947	19.33791026	17.468	20.199
+1882	129.9631579	17.40785689	13.633	21.046
+1885	130.4210526	18.53318305	16.882	21.731
+1887	130.7263158	17.8585622	17.228	18.764
+1890	131.1842105	14.97317159	7.218	20.08
+1892	131.4894737	18.73102444	13.623	20.08
+1895	131.9473684	19.68235325	16.882	22.021
+1900	132.7105263	19.33521697	17.228	21.731
+1905	133.4736842	19.17674971	16.882	21.046
+1910	134.2368421	11.19995385	10.265	11.708
+1915	135	7.961731278	7.035	9.769
+1916	135.0387097	7.512400188	7.035	10.769
+1920	135.1935484	7.382231746	7.035	10.889
+1922	135.2709677	7.505022528	7.035	10.889
+1925	135.3870968	7.417133645	7.035	7.896
+1927	135.4645161	7.191600176	7.035	8.992
+1930	135.5806452	7.402354554	7.035	7.896
+1932	135.6580645	7.555620971	7.242	8.045
+1935	135.7741935	4.843761981	2.179	7.953
+1940	135.9677419	4.044345308	2.179	7.174
+1945	136.1612903	4.290421492	0.889	6.972
+1950	136.3548387	4.340656308	0.889	6.666
+1955	136.5483871	5.06102822	2.179	7.953
+1960	136.7419355	7.67713935	6.473	8.045
+1962	136.8193548	7.456598422	6.473	8.045
+1965	136.9354839	7.590928574	7.242	8.045
+1970	137.1290323	6.018985347	2.179	8.045
+1975	137.3225806	3.95322525	1.717	5.548
+1980	137.516129	6.625028784	2.179	8.045
+1985	137.7096774	7.394880616	6.473	8.045
+1990	137.9032258	6.048207837	2.179	7.953
+1995	138.0967742	6.55951349	2.179	8.045
+2000	138.2903226	7.437545064	6.473	8.045
+2005	138.483871	7.463627614	7.242	8.045
+2030	139.4516129	9.715546806	9.359	9.949
+2040	139.8387097	7.380344343	7.035	8.992
+2050	140.2258065	7.611525077	7.035	8.992
+2060	140.6129032	10.85000006	10.56	11.114
+

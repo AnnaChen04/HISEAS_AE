@@ -1,0 +1,90 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# dsdp594w-tab.txt
+# Complete Data
+# File Created: 18-Jan-2005
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Philip P.E. Weaver
+# Core/Site:      DSDP594
+# Latitude:       45.31.25S	( -45.52361)
+# Longitude:      174.56.53W	( -174.9481)
+# Water Depth(m): 1204
+#
+# Publications:
+#   Weaver, P.P.E., L. Carter, and H.L. Neil. 1998. Response of surface water masses
+#     and circulation to late Quaternary climate change east of New Zealand. Paleoceanography
+#     13(1):70-83.
+#------------------
+#
+# Description & Notes:
+#   Late Quaternary SW Pacific Foraminifer Data.
+#   
+#
+# Variables:
+#             depth         Depth (cm)
+#             yrBP          radiocarbon years B.P. (Libby half-life; B.P. = 1950)
+#             commun        Communality
+#             forams-b      Benthic Foraminifers (Count)
+#             foramsfrag    Foraminifers Fragments
+#             frag%         Fragments percent
+#             g.aequi       Globigerinella aequilateralis (Count)
+#             g.bull        Globigerina bulloides (Count)
+#             g.calid       Globigerina calida (Count)
+#             g.cavern      Globorotalia cavernula (Count)
+#             g.congl       Globigerinoides conglobatus (Count)
+#             g.crass       Globorotalia crassaformis (Count)
+#             g.crsula      Globorotalia crassula (Count)
+#             g.digit       Globigerina digitata (Count)
+#             g.falco       Globigerina falconensis (Count)
+#             g.glut        Globigerinita glutinata (Count)
+#             g.hirsu       Globorotalia hirsuta (Count)
+#             g.infla       Globorotalia inflata (Count)
+#             g.menar       Globorotalia menardii (Count)
+#             g.quinq       Globigerina quinquiloba (Count)
+#             g.rub-p       Globigerinoides ruber (pink) (Count)
+#             g.rub-w       Globigerinoides ruber (white) (Count)
+#             g.rubes       Globigerina rubescens (Count)
+#             g.sac-ns      Globigerinoides sacculifer (no sac) (Count)
+#             g.sac-ws      Globigerinoides sacculifer (with sac) (Count)
+#             g.scit        Globorotalia scitula (Count)
+#             g.tenn        Globigerinoides tenellus (Count)
+#             g.trc-l       Globorotalia truncatulinoides (left coiling) (Count)
+#             g.trc-r       Globorotalia truncatulinoides (right coiling) (Count)
+#             g.tumi        Globorotalia tumida (Count)
+#             gyrmar        Gyre margin foraminifer assemblage
+#             n.duter       Neogloboquadrina dutertrei (Count)
+#             n.pachy-l     Neogloboquadrina pachyderma (left coiling) (Count)
+#             n.pachy-r     Neogloboquadrina pachyderma (right coiling) (Count)
+#             o.univer      Orbulina universa (Count)
+#             otherfor      Unidentified planktonic foraminifers (Count)
+#             p.obliq       Pulleniatina obliquiloculata (Count)
+#             pd            Globigerina pachyderma x Globoquadrina dutertrei intergrade (Count)
+#             plank         Planktonic foraminifers (Count)
+#             polar         Polar foraminifer assemblage
+#             s.dehisc      Sphaeroidinella dehiscens (Count)
+#             sst-aug       Sea Surface Temperature (C, August)
+#             sst-feb       Sea Surface Temperature (C, February)
+#             subpolar      Subpolar foraminifer assemblage
+#             trans         Transitional foraminifer assemblage
+#             trop/sub      Tropical/Subtropical foraminifer assemblage
+#             upwell        Upwelling foraminifer assemblage
+#
+# CORE: DSDP594
+depth	yrBP 	commun	forams-b	foramsfrag	frag%	g.aequi	g.bull	g.calid	g.cavern	g.congl	g.crass	g.crsula	g.digit	g.falco	g.glut	g.hirsu	g.infla	g.menar	g.quinq	g.rub-p	g.rub-w	g.rubes	g.sac-ns	g.sac-ws	g.scit	g.tenn	g.trc-l	g.trc-r	g.tumi	gyrmar	n.duter	n.pachy-l	n.pachy-r	o.univer	otherfor	p.obliq	pd	plank	polar	s.dehisc	sst-aug	sst-feb	subpolar	trans	trop/sub	upwell	notes
+26	5000	0.893	19	132	3.83	0	153	1	0	0	0	0	3	0	34	0	43	0	53	0	0	0	0	0	3	0	24	0	0	0.052	0	27	65	1	2	0	5	414	0.233	0	7.357	11.836	-0.778	0.264	0.001	0.401	1,1 26
+54	7154	0.867	24	105	2.5	0	184	0	0	0	0	0	2	0	43	1	69	0	80	0	0	0	0	0	5	0	36	1	0	0.064	0	32	46	4	2	0	6	511	0.239	0	7.921	12.601	-0.706	0.315	0.004	0.455	1,1 54
+73	8615	0.865	26	95	2.65	0	164	0	0	0	0	0	4	0	28	0	39	0	67	0	3	0	0	0	1	0	35	1	0	0.051	0	21	64	5	0	0	5	437	0.202	0	7.621	12.205	-0.762	0.236	0.01	0.429	1,1 73
+83	9385	0.881	9	62	1.71	0	214	0	0	0	0	0	3	2	20	0	43	0	48	0	0	0	0	0	4	0	33	0	0	0.066	0	14	56	5	0	0	4	446	0.148	0	7.721	12.046	-0.735	0.225	-0.016	0.512	1,1 83
+98	10538	0.877	17	52	1.15	0	280	1	0	0	0	0	2	0	21	0	51	0	67	0	1	0	0	0	4	0	35	0	0	0.066	0	19	69	0	0	0	9	559	0.155	0	7.465	11.816	-0.737	0.205	-0.018	0.513	1,1 98
+118	12077	0.889	6	72	2.04	0	192	0	0	0	0	0	0	0	21	0	28	0	72	0	0	0	0	0	0	0	16	0	0	0.059	0	44	51	0	0	0	8	432	0.3	0	5.65	10.073	-0.74	0.156	-0.017	0.473	1,1 118
+138	13615	0.868	12	65	1.59	0	246	0	0	0	0	0	0	0	34	0	43	0	95	0	1	0	0	0	0	0	9	0	0	0.068	0	31	44	0	0	0	1	504	0.218	0	6.721	11.329	-0.717	0.16	-0.009	0.525	1,1 138
+163	15538	0.967	35	40	1.22	0	60	0	0	0	0	0	0	0	34	0	21	0	55	0	0	0	0	0	2	0	25	0	0	0.011	0	202	4	0	0	0	3	406	0.941	0	4.89	8.25	-0.219	0.093	0.011	0.155	1,2 13
+208	19000	0.992	150	30	1.15	0	31	0	0	0	0	0	0	0	12	0	9	0	43	0	0	0	0	0	0	0	1	2	0	0	0	219	5	0	0	0	0	322	0.99	0	2.944	7.113	-0.094	0.034	-0.007	0.05	1,2 58
+226	19489	0.975	208	30	1.14	0	24	0	0	0	0	0	0	0	4	0	10	0	60	0	0	0	0	0	3	0	3	0	0	-0.004	0	208	13	0	0	0	0	325	0.981	0	2.824	6.816	-0.098	0.041	-0.013	0.024	1,2 76
+259	20387	0.997	149	50	1.51	0	47	0	0	0	0	0	0	0	12	0	7	0	42	0	0	0	0	0	0	0	3	1	0	0.001	0	289	8	0	0	0	0	409	0.992	0	2.776	6.949	-0.098	0.025	-0.01	0.061	1,2 109
+271	20713	0.983	113	55	2.23	0	26	0	0	0	0	0	0	0	2	0	1	0	55	0	0	0	0	0	0	0	0	0	0	-0.005	0	208	10	0	0	0	0	302	0.986	0	2.516	6.862	-0.093	0.001	-0.015	0.035	1,2 121

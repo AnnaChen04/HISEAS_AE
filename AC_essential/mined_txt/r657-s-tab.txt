@@ -1,0 +1,59 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# r657-s-tab.txt
+# Complete Data
+# File Created: 17-Apr-2006
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Elisabeth L. Sikes
+# Core/Site:      R657
+# Latitude:       42.32.00S	( -42.53333)
+# Longitude:      178.29.30W	( -178.4917)
+# Water Depth(m): 1408
+#
+# Publications:
+#   Sikes, E.L., W.R. Howard, H.L. Neil, and J.K. Volkman. 2002. Glacial-interglacial
+#     sea surface temperature changes across the subtropical front east of New Zealand
+#     based on alkenone unsaturation ratios and foraminiferal assemblages. Paleoceanography,
+#     17(2).
+#------------------
+#
+# Description & Notes:
+#   Chatham Rise Alkenone and Foraminiferal SST Estimates.
+#   Uk37 SST warm season calculated using Sikes and Volkman [1993] calibration 9Uk'37=
+#   0.0414T-0.156). Subsurface Uk37 SST calculated using Prahl and Wakeham [1998]
+#   (Uk'37 = 0.034T+0.039). One sigma =1.0°C Antarctic CRC/CSIRO Oceanography. Foraminiferal
+#   SST's determined with Modern Analog Technique (MAT) using Southern Ocean core-top
+#   set, Data 1997, one sigma = 2 °C Antarctic CRC.
+#
+# Variables:
+#             depth         Depth (cm)
+#             yrBP          radiocarbon years B.P. (Libby half-life; B.P. = 1950)
+#             Dsqchord      Squared-chord distance
+#             sst-cold.mat  Sea Surface Temperature, modern analog technique (cold season)
+#             sst-sub.uk37  Subsurface Sea Temperature from Uk'37
+#             sst-warm.mat  Sea Surface Temperature, modern analog technique (warm season)
+#             sst-warm.uk37 Sea Surface Temperature from Uk'37 (warm season)
+#             uk37          Alkenone saturation index
+#
+# CORE: R657
+depth	yrBP 	Dsqchord	sst-cold.mat	sst-sub.uk37	sst-warm.mat	sst-warm.uk37	uk37	
+1	1000	0.016	13.34	18.572	18.13	19.963	0.67	
+11	4451.7	0.009	15.6	15.243	20.16	17.229	0.557	
+21	8903.3	0.01	12.96	14.137	18.14	16.32	0.52	
+31	14355	0.013	10.68	12.843	15.46	15.258	0.476	
+41	16271.7	-999	-999	11.357	-999	14.037	0.425	
+51	18188.3	0.032	8.15	8.95	13.89	13.52	0.343	
+61	20105	-999	-999	11.709	-999	14.326	0.437	
+71	22021.7	0.015	8.96	12.54	13.65	15.009	0.465	
+81	25855	-999	-999	12.955	-999	15.349	0.479	
+91	31605	-999	-999	12.785	-999	15.21	0.474	
+101	39271.7	-999	-999	11.933	-999	14.51	0.445	
+111	48855	-999	-999	12.63	-999	15.082	0.468	
+121	60355	-999	-999	12.669	-999	15.115	0.47	
+130	64428.7	0.024	8.38	-999	14.57	-999	-999	
+150	83057.3	0.014	10.06	-999	15.93	-999	-999	

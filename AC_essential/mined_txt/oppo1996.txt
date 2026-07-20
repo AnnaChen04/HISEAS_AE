@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Index of /pub/data/paleo/contributions_by_author/oppo1996/</title>
+</head>
+<body>
+<h1>Index of /pub/data/paleo/contributions_by_author/oppo1996/</h1>
+<table><tbody>
+<tr>
+<th>Name</th>
+<th>Last modified</th>
+<th>Size</th>
+<th>Description</th>
+</tr>
+<tr><th colspan="4"><hr></th></tr>
+<tr>
+<td><a href="..">Parent Directory</a></td>
+<td> </td>
+<td align="right">-</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-14jpc_iso_wue.txt">ew9302-14jpc_iso_wue.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">319</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-15jpc_wue_iso.txt">ew9302-15jpc_wue_iso.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">191</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-16jpc_wue_iso.txt">ew9302-16jpc_wue_iso.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">157</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-8jpc_faunal_no_p-d.txt">ew9302-8jpc_faunal_no_p-d.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">7925</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-8jpc_faunal_w_p-d.txt">ew9302-8jpc_faunal_w_p-d.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">5202</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-8jpc_np-r_iso.txt">ew9302-8jpc_np-r_iso.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">1568</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-8jpc_simple_census.txt">ew9302-8jpc_simple_census.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">4904</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-8jpc_sst_word.txt">ew9302-8jpc_sst_word.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">4137</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-8jpc_wue_iso.txt">ew9302-8jpc_wue_iso.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">1977</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="ew9302-9jpc_wue_iso.txt">ew9302-9jpc_wue_iso.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">625</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="jpc08_mst.txt">jpc08_mst.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">49122</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="jpc09_mst.txt">jpc09_mst.txt</a></td>
+<td align="right">1996-10-31 13:04</td>
+<td align="right">46264</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="jpc12_mst.txt">jpc12_mst.txt</a></td>
+<td align="right">1996-10-31 13:05</td>
+<td align="right">60140</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="jpc14_mst.txt">jpc14_mst.txt</a></td>
+<td align="right">1996-10-31 13:05</td>
+<td align="right">64865</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="jpc15_mst.txt">jpc15_mst.txt</a></td>
+<td align="right">1996-10-31 13:05</td>
+<td align="right">41518</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="jpc16_mst.txt">jpc16_mst.txt</a></td>
+<td align="right">1996-10-31 13:05</td>
+<td align="right">56847</td>
+<td> </td>
+</tr>
+<tr>
+<td><a href="readme_oppo1996.txt">readme_oppo1996.txt</a></td>
+<td align="right">1998-06-11 16:48</td>
+<td align="right">2050</td>
+<td> </td>
+</tr>
+<tr><th colspan="4"><hr></th></tr>
+</tbody></table>
+<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&amp;subagency=NOAA"></script>
+<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=DOC&subagency=NOAA"></script></body>
+</html>

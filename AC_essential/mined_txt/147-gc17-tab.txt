@@ -1,0 +1,117 @@
+# NOAA Paleoclimatology Program - Paleocean Site Data
+# 147-gc17-tab.txt
+# Complete Data
+# File Created: 02-Feb-2010
+#
+#*********************************************************************************
+# Please cite the contributor and the original publications when using these data
+#*********************************************************************************
+#
+# Missing Values indicated by '-999'
+#
+# PI:             Elisabeth L. Sikes
+# Core/Site:      RS147-GC017
+# Latitude:       47.45.00S	( -47.75)
+# Longitude:      145.49.00E	( 145.8167)
+# Water Depth(m): 3300
+#
+# Publications:
+#   Sikes, E.L., W.R. Howard, C.R. Samson, T.S. Mahan, L.G. Robertson, and J.K. Volkman.
+#     2009. Southern Ocean seasonal temperature and Subtropical Front movement on the
+#     South Tasman Rise in the late Quaternary.  Paleoceanography, 24, PA2201.
+#------------------
+#
+# Description & Notes:
+#   South Tasman Rise Late Quaternary SST Reconstructions
+#   Conventional radiocarbon ages for GC07 were converted to calendar ages using
+#   the marine CALIB 5.0 program. Radiocarbon ages older than 20 ka were calibrated
+#   to calendar ages using an oceanic 14C reservoir correction of 350 years [Druffel
+#   and Griffin, 1999] and a polynomial fit [Bard et al., 1998]. MIS3-5 d18O tuned
+#   to Lieseki and Raymo 2005 / Marinson et al 1987. In GC07 the SST-MAT warm season
+#   errors range from 2.0°-4.0°C for warm-season estimates, larger than the 1°-1.5°C
+#   generally associated with modern analog estimates, in the deglaciation [Samson,
+#   1998]. This is ascribed to the fact that GC07 lies in a zone of frontal movement
+#   where SST changes rapidly over small distances. SSTs from Uk'37 have an error
+#   of +/- 1.5 degC.
+#
+# Variables:
+#             depth         Depth (cm)
+#             calyrBP       calendar years B.P. (B.P. = 1950)
+#             carb%         Calcium Carbonate percent
+#             sst-warm.uk37.s             sea surface temperature, warm season, from Uk'37, degC, (Sikes and Volkman '93 equation)
+#             uk37          Alkenone saturation index
+#             sst-MAT.w     sea surface temperature- warm season, modern analog technique, degC
+#
+# CORE: RS147-GC017
+depth	calyrBP 	carb%	sst-warm.uk37.s	uk37	sst-MAT.w	notes
+1.5	1000	89.4	13	0.383	-999	top
+4	2380	88.7	-999	-999	-999	
+6.5	3760	91.4	13.6	0.406	-999	
+9	5140	91.5	-999	-999	11	
+11.5	6530	91.2	13.8	0.414	-999	
+14	7910	90.4	-999	-999	12.7	
+16.5	9290	90.7	-999	-999	-999	
+19	10670	89	-999	-999	11	
+21.5	12050	88.8	15.4	0.483	-999	
+24	13430	88.2	-999	-999	11.7	
+26.5	14810	90.3	14.2	0.432	-999	
+29	16190	87.9	-999	-999	-999	stage 2.0
+31.5	17450	84.3	12.6	0.368	10.7	
+34	18710	84	-999	-999	9.5	
+36.5	19960	83.3	11.8	0.331	-999	
+39	20590	81.5	-999	-999	-999	14C
+41.5	21220	82.9	11.5	0.32	-999	
+44	21850	82.6	-999	-999	-999	
+46.5	22470	85.2	11.8	0.332	-999	
+49	23100	85.1	-999	-999	-999	
+51.5	24110	85.2	-999	-999	-999	stage3.0
+54	27090	86.4	-999	-999	-999	
+56.5	30070	88.8	-999	-999	-999	
+59	33050	88.5	-999	-999	-999	
+61.5	36040	88.2	-999	-999	-999	
+64	39020	88.6	-999	-999	-999	
+66.5	42000	88.8	-999	-999	-999	
+69	44980	89.6	-999	-999	-999	
+71.5	47960	89.3	-999	-999	-999	
+74	50940	87.1	-999	-999	-999	
+76.5	53920	86.6	-999	-999	-999	
+79	57500	87.2	-999	-999	-999	stage 4.0
+81.5	58870	88.1	-999	-999	-999	
+84	60230	87.3	-999	-999	-999	
+86.5	61600	88.6	-999	-999	-999	
+89	62970	87.4	-999	-999	-999	
+91.5	64330	86.2	-999	-999	-999	
+94	65700	85	-999	-999	-999	
+96.5	67070	84	-999	-999	-999	
+99	68430	85.2	-999	-999	-999	
+101.5	69800	88.5	-999	-999	-999	
+104	71170	88.4	-999	-999	-999	
+106.5	72530	88.5	-999	-999	-999	
+109	73900	89.7	-999	-999	-999	stage 5.0
+111.5	75150	89	-999	-999	-999	
+114	76400	92.4	-999	-999	-999	
+116.5	77650	91.6	-999	-999	-999	
+119	78890	92.6	-999	-999	-999	
+121.5	80140	91.3	-999	-999	-999	
+124	81390	93.2	-999	-999	-999	
+126.5	82640	94.4	-999	-999	-999	
+129	83890	90.8	-999	-999	-999	
+131.5	85140	92.7	-999	-999	-999	
+139	88880	91.1	-999	-999	-999	
+141.5	90130	92.7	-999	-999	-999	
+149	93880	91.2	-999	-999	-999	
+151.5	95130	92.6	-999	-999	-999	
+159	98870	88.8	-999	-999	-999	
+161.5	100120	92.1	-999	-999	-999	
+169	103870	89.6	-999	-999	-999	
+171.5	105120	92.6	-999	-999	-999	
+179	108860	88.7	-999	-999	-999	
+181.5	110110	91.7	-999	-999	-999	
+189	113860	94	-999	-999	-999	
+191.5	115110	93.6	-999	-999	-999	
+199	118850	91.2	-999	-999	-999	
+201	119850	94.1	-999	-999	-999	
+209.5	124100	89.9	-999	-999	-999	
+211.5	125100	89.8	-999	-999	-999	
+219	129500	89.6	-999	-999	-999	
+221.5	130970	90.3	-999	-999	-999	stage 6.0

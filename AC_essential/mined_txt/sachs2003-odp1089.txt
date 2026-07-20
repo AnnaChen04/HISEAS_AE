@@ -1,0 +1,292 @@
+# Cape Basin, South Atlantic SST Over the Past 160ky
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/29452
+#      Description: NOAA Landing Page
+# Online_Resource: https://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/sachs2003/sachs2003-odp1089.txt
+#      Description: NOAA location of the template
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: age control, biomarkers, geochemistry, lithology, oxygen isotopes, radiogenic isotope
+#---------------------------------------
+# Contribution_Date
+#    Date: 2020-04-17
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2020-04-17
+#---------------------------------------
+# Title
+#    Study_Name: Cape Basin, South Atlantic SST Over the Past 160ky
+#---------------------------------------
+# Investigators
+#      Investigators: Sachs, Julian; Anderson, Robert
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Some of these data were submitted previously on different age models for later publications. The related studies can be found at https://www.ncdc.noaa.gov/paleo-search/study/16464 and https://www.ncdc.noaa.gov/paleo-search/study/2651
+#         Provided Keywords: alkenones, Cape Basin, drift deposit, quaternary, ice age
+#---------------------------------------
+# Publication
+# Authors: Sachs, J.P. and Anderson, R.F.
+# Published_Date_or_Year: 2003
+# Published_Title: Fidelity of alkenone paleotemperatures in southern Cape Basin sediment drifts
+# Journal_Name: Paleoceanography
+# Volume: 18
+# Edition: 
+# Issue: 4
+# Pages: 1082
+# Report_Number: 
+# DOI: 10.1029/2002PA000862
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Multiple geochemical analyses were performed in order to test the fidelity of alkenone paleotemperature reconstructions in southern Cape Basin sediment drifts. Sea surface temperatures (SSTs) derived from the alkenone unsaturation ratio, U37k', in two drift cores (TN057-21 and Ocean Drilling Program Site 1089) are nearly identical during the interval of overlapping analyses, MIS 4-5c. SSTs in a nearby nondrift core (TN057-6) covary with those in core TN057-21 throughout MIS 1-5c. While climatological SSTs overlying TN057-21 and TN057-6 are similar and consistent with reconstructed Holocene SSTs in the nondrift core, surface waters overlying TN057-21 are ~6°C colder than Holocene alkenone SSTs in the drift core. Temperatures remain ~6°C warmer in TN057-21 relative to TN057-6 during the ~100 kyr duration of the records. We hypothesize that alkenone-derived SSTs in TN057-21 are higher than climatological SSTs in the overlying surface water and those in TN057-6 as a result of the winnowing and focusing of sedimentary alkenones produced in warmer waters to the north. Climatological SSTs in the central and northern Cape Basin are 16°–20°C. A −1.5‰ offset of fine fraction d18O values relative to planktonic foraminifera in TN057-21 supports this hypothesis. Temporal changes in sediment focusing were evaluated directly using uranium series radioisotopes. While higher sediment focusing factors would be expected to result in higher alkenone-derived SSTs if sediment advection were the primary control on down-core changes in alkenone-derived SSTs, 230Th-derived focusing factors indicate no such correlation exists. We conclude that alkenone paleotemperature reconstructions from southern Cape Basin drifts reliably record regional SST variations in the Cape Basin.
+#---------------------------------------
+# Publication
+# Authors: Pahnke, L. and Sachs, J.P.
+# Published_Date_or_Year: 2006
+# Published_Title: Sea surface temperatures of southern midlatitudes 0-160 kyr B.P.
+# Journal_Name: Paleoceanography
+# Volume: 21
+# Edition: 
+# Issue: 
+# Pages: 
+# Report_Number: 
+# DOI: 10.1029/2005PA001191
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Late Quaternary climate fluctuated between extremes of glaciations, lasting ~90 kyr on average, and interglacial episodes, lasting ~10 kyr. Still largely unknown are the spatial and temporal evolution of these global climate states, with vigorous debate still underway on the mechanisms responsible for glacial inceptions and terminations. Though it is widely believed that the Southern Hemisphere oceans play a central role in global climate changes, few paleoclimate records exist from there. Here we present three new alkenone-derived SST records from the midlatitude Southern Hemisphere spanning the last 160 kyr, a full glacial-interglacial cycle. Our subtropical SST records from the last glacial period are characterized by (1) warming 47-23 kyr B.P., when high latitudes in both hemispheres cooled, and (2) milder temperatures during the penultimate glacial period than during the last glacial interval. These SST features are found to be of tropical- to subtropical-wide extent, implying increased thermal gradients at times of high-latitude ice sheet growth. This has implications for the vigor of atmospheric and upper ocean circulation and the transport of heat and moisture to the poles that may have been instrumental in the growth and maintenance of polar ice sheets during glacial periods.
+#---------------------------------------
+# Publication
+# Authors: Sachs, J. and Anderson, R.
+# Published_Date_or_Year: 2005
+# Published_Title: Increased productivity in the subantarctic ocean during Heinrich events
+# Journal_Name: Nature
+# Volume: 434
+# Edition: 
+# Issue: 
+# Pages: 1181-1121
+# Report_Number: 
+# DOI: doi.org/10.1038/nature03544
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Massive iceberg discharges from the Northern Hemisphere ice sheets, 'Heinrich events', coincided with the coldest periods of the last ice age1. There is widespread evidence for Heinrich events and their profound impact on the climate and circulation of the North Atlantic Ocean, but their influence beyond that region remains uncertain1. Here we use a combination of molecular fingerprints of algal productivity and radioisotope tracers of sedimentation to document eight periods of increased productivity in the subpolar Southern Ocean during the past 70,000 years that occurred within 1,000-2,000 years of a Northern Hemisphere Heinrich event. We discuss possible causes for such a link, including increased supply of iron from upwelling and increased stratification during the growing season, which imply an alteration of the global ocean circulation during Heinrich events. The mechanisms linking North Atlantic iceberg discharges with subantarctic productivity remain unclear at this point. We suggest that understanding how the Southern Ocean was altered during these extreme climate perturbations is critical to understanding the role of the ocean in climate change.
+#---------------------------------------
+# Publication
+# Authors: Julian P. Sachs, Robert F. Anderson, Scott J. Lehman
+# Published_Date_or_Year: 2001
+# Published_Title: Glacial Surface Temperatures of the Southeast Atlantic Ocean
+# Journal_Name: Science
+# Volume: 293
+# Edition: 
+# Issue: 
+# Pages: 2077-2079
+# Report_Number: 
+# DOI: doi.org/10.1126/science.1063584
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: A detailed record of sea surface temperature from sediments of the Cape Basin in the subtropical South Atlantic indicates a previously undocumented progression of marine climate change between 41 and 18 thousand years before the present (ky B.P.), during the last glacial period. Whereas marine records typically indicate a long-term cooling into the Last Glacial Maximum (around 21 ky B.P.) consistent with gradually increasing global ice volume, the Cape Basin record documents an interval of substantial temperate ocean warming from 41 to 25 ky B.P. The pattern is similar to that expected in response to changes in insolation owing to variations in Earth's tilt.
+#---------------------------------------
+# Publication
+# Authors: Anderson, R.F., S. Barker, M.Q. Fleisher, R. Gersonde, S.L. Goldstein, G. Kuhn, P.G. Mortyn, K. Pahnke, and J.P. Sachs
+# Published_Date_or_Year: 2014
+# Published_Title: Biological response to millennial variability of dust supply in the subantarctic South Atlantic Ocean
+# Journal_Name: Philosophical Transactions of The Royal Society A
+# Volume: 372
+# Edition: 
+# Issue: 
+# Pages: 20130054
+# Report_Number: 
+# DOI: 10.1098/rsta.2013.0054
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: Fluxes of lithogenic material and fluxes of three palaeo-productivity proxies (organic carbon, biogenic opal and alkenones) over the past 100?000 years were determined using the 230Th-normalization method in three sediment cores from the Subantarctic South Atlantic Ocean. Features in the lithogenic flux record of each core correspond to similar features in the record of dust deposition in the EPICA Dome C ice core. Biogenic fluxes correlate with lithogenic fluxes in each sediment core. Our preferred interpretation is that South American dust, most probably from Patagonia, constitutes a major source of lithogenic material in Subantarctic South Atlantic sediments, and that past biological productivity in this region responded to variability in the supply of dust, probably due to biologically available iron carried by the dust. Greater nutrient supply as well as greater nutrient utilization (stimulated by dust) contributed to Subantarctic productivity during cold periods, in contrast to the region south of the Antarctic Polar Front (APF), where reduced nutrient supply during cold periods was the principal factor limiting productivity. The anti-phased patterns of productivity on opposite sides of the APF point to shifts in the physical supply of nutrients and to dust as cofactors regulating productivity in the Southern Ocean.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Jeptha H. and Emily V. Wade Foundation
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: The Henry L. and Grace Doherty Charitable Foundation
+#    Grant: Professorship
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: US NOAA
+#    Grant: NA77RJ0453
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: MIT Undergraduate Research Program
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Ocean Drilling Program
+#    Grant: 
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Gary Comer Science and Education Foundation
+#    Grant:
+#---------------------------------------
+# Site_Information
+# Site_Name: ODP 1089
+# Location: South Atlantic Ocean
+# Country: Cape Basin Drift
+# Northernmost_Latitude: -40.9363
+# Southernmost_Latitude: -40.9363
+# Easternmost_Longitude: 9.894
+# Westernmost_Longitude: 9.894
+# Elevation: -4621
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: ODP-1089 Uk37 SST Sachs2003
+#   First_Year: 160000
+#   Last_Year: 78000
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: This data was submitted April 2020; not included in original contribution. Age model from D.A. Hodell et al. (2003) Data report: Oxygen isotope stratigraphy of ODP Leg 177 Sites 1088, 1089, 1090, 1093, and 1094. In Gersonde, R., Hodell, D.A., and Blum, P. (Eds.), Proc. ODP, Sci. Results, 177, 1-26.
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# Age model from D.A. Hodell et al. (2003) Data report: Oxygen isotope stratigraphy of ODP Leg 177 Sites 1088, 1089, 1090, 1093, and 1094. In Gersonde, R., Hodell, D.A., and Blum, P. (Eds.), Proc. ODP, Sci. Results, 177, 1-26.
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## depth_cm	depth at sample start,,,centimeter,,paleoceanography,,,N,Composite depth below seafloor; top of 1cm interval.
+## age	age,,,calendar kiloyear before present,,paleoceanography,,,N,Modeled age based on Hodell et al. (2003. doi: 10.2973/odp.proc.sr.177.120.2003) 18O stratigraphy.
+## Uk37	alkenone unsaturation index Uk37 prime,C37 alkenone,,dimensionless (SI system),,paleoceanography,,gas chromatography - flame ionization detection,N,Alkenone unsaturation index.
+## SST	sea surface temperature,,,degree Celsius,,paleoceanography,,,N,Alkenone SST using Prahl et al. (1988) calibration.
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: -999
+depth_cm	age	Uk37	SST
+1399	78.77	0.6715	18.60	
+1407	79.25	0.6754	18.72	
+1417	79.85	0.6877	19.08	
+1427	80.45	0.7093	19.71	
+1437	81.06	0.7094	19.72	
+1447	81.91	0.6498	17.96	
+1457	82.85	0.6542	18.10	
+1467	83.79	0.6490	17.94	
+1477	84.73	0.6416	17.72	
+1487	85.67	0.6571	18.18	
+1497	86.61	0.6513	18.01	
+1507	87.56	0.6685	18.51	
+1517	88.50	0.6596	18.25	
+1527	89.44	0.6768	18.76	
+1537	90.41	0.6627	18.34	
+1547	91.40	0.6485	17.93	
+1557	92.39	0.6728	18.64	
+1567	93.39	0.6902	19.15	
+1577	94.38	0.7013	19.48	
+1587	95.37	0.7026	19.52	
+1597	96.37	0.7157	19.90	
+1607	97.36	0.7305	20.34	
+1617	98.35	0.7217	20.08	
+1627	99.32	0.7281	20.27	
+1637	100.26	0.6838	18.97	
+1647	101.19	0.7087	19.70	
+1657	102.13	0.7070	19.65	
+1667	103.06	0.7109	19.76	
+1677	104.00	0.7007	19.46	
+1687	104.85	0.7054	19.60	
+1697	105.52	0.6828	18.93	
+1707	106.11	0.6876	19.08	
+1717	106.66	0.6952	19.30	
+1727	107.18	0.6906	19.17	
+1737	107.70	0.7044	19.57	
+1747	108.22	0.6916	19.19	
+1753	108.54	0.6822	18.92	
+1761	108.96	0.6784	18.80	
+1771	109.51	0.6912	19.18	
+1781	110.07	0.7033	19.54	
+1789	110.51	0.6950	19.30	
+1791	110.63	0.6986	19.40	
+1800	111.16	0.6572	18.18	
+1810	111.76	0.6851	19.00	
+1820	112.38	0.6883	19.10	
+1830	113.01	0.7047	19.58	
+1840	113.67	0.6671	18.47	
+1850	114.35	0.7044	19.57	
+1859	114.98	0.6926	19.22	
+1870	115.78	0.7263	20.22	
+1880	116.52	0.7567	21.11	
+1890	117.28	0.7799	21.79	
+1900	118.03	0.7764	21.69	
+1910	118.73	0.7902	22.09	
+1920	119.15	0.7812	21.83	
+1930	119.35	0.7871	22.00	
+1940	119.56	0.7913	22.13	
+1950	119.87	0.7982	22.33	
+1960	120.44	0.7988	22.35	
+1970	121.55	0.7936	22.19	
+1980	122.81	0.7895	22.07	
+1989	123.72	0.8062	22.56	
+2000	124.47	0.8078	22.61	
+2010	125.12	0.8579	24.09	
+2020	125.81	0.8273	23.18	
+2030	126.52	0.7966	22.28	
+2040	127.22	0.7325	20.40	
+2050	127.93	0.7660	21.38	
+2060	128.64	0.7455	20.78	
+2070	129.35	0.7273	20.24	
+2079	129.99	0.7045	19.57	
+2089	130.70	0.6908	19.17	
+2099	131.40	0.6646	18.40	
+2109	132.09	0.6003	16.51	
+2119	132.77	0.6277	17.31	
+2129	133.45	0.6164	16.98	
+2139	134.13	0.5876	16.13	
+2149	134.81	0.6025	16.57	
+2159	135.49	0.6108	16.82	
+2169	136.17	0.6271	17.30	
+2179	136.85	0.6300	17.38	
+2189	137.53	0.6316	17.43	
+2199	138.21	0.6207	17.11	
+2209	138.90	0.6173	17.01	
+2219	139.58	0.6187	17.05	
+2229	140.27	0.5825	15.98	
+2239	140.95	0.5957	16.37	
+2249	141.64	0.5937	16.31	
+2259	142.33	0.5924	16.28	
+2269	143.01	0.5862	16.10	
+2279	143.70	0.5992	16.48	
+2299	145.06	0.5986	16.46	
+2309	145.74	0.5853	16.07	
+2319	146.42	0.5896	16.19	
+2329	147.10	0.5815	15.96	
+2339	147.78	0.5697	15.61	
+2349	148.46	0.5754	15.78	
+2359	149.14	0.5729	15.70	
+2369	149.82	0.5714	15.66	
+2379	150.49	0.5645	15.45	
+2389	151.14	0.5711	15.65	
+2399	151.78	0.5806	15.93	
+2409	152.43	0.5778	15.85	
+2419	153.08	0.5692	15.59	
+2429	153.73	0.5654	15.48	
+2439	154.38	0.5723	15.68	
+2449	155.03	0.5574	15.25	
+2459	155.68	0.5761	15.80	
+2469	156.33	0.6040	16.62	
+2479	156.96	0.6169	17.00	
+2489	157.59	0.6016	16.55	
+2499	158.22	0.5727	15.70	
+2509	158.86	0.5930	16.29	
+2519	159.49	0.6076	16.72	
+2523	159.75	0.5988	16.46	
+2525	159.87	0.6194	17.07	
+2527	160.00	0.6258	17.26	

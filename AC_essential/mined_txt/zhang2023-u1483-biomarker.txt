@@ -1,0 +1,263 @@
+# Site U1483 (Timor Sea) Terrigenous Input and Productivity Data over the last 2 Myrs
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data.
+# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with '#' followed by a space
+# Data lines have no '#'
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/38441
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-ocean-38441.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Paleoceanography
+#
+# Dataset_DOI: 10.25921/dz26-9c85
+#
+# Science_Keywords: precipitation (terrigenous input), productivity, the Indonesian Throughflow (ITF) dynamics, monsoon, SST, tropics, warm pool
+#---------------------------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/zhang2023/zhang2023-u1483-biomarker.txt
+#   Data_Download_Description: NOAA Template File; U1483 Biomarkers Data
+#
+#---------------------------------------
+# Contribution_Date
+#   Date: 2023-08-21
+#---------------------------------------
+# File_Last_Modified_Date
+#   Date: 2023-11-22
+#---------------------------------------
+# Title
+#   Study_Name: Site U1483 (Timor Sea) Terrigenous Input and Productivity Data over the last 2 Myrs
+#---------------------------------------
+# Investigators
+#   Investigators: Zhang, Y. (https://orcid.org/0000-0001-9078-7123); Andrade, T. (https://orcid.org/0009-0003-3040-1702); Ravelo, A.C. (https://orcid.org/0000-0003-3929-677X); Gong, L. (https://orcid.org/0000-0001-5963-994X); Holbourn, A. (https://orcid.org/0000-0002-3167-0862); Connock, G. (https://orcid.org/0000-0002-7111-7551); Liu, X.L. (https://orcid.org/0000-0002-0218-3029); Aiello, I.W. (https://orcid.org/0000-0001-9794-6852)
+#---------------------------------------
+# Description_Notes_and_Keywords
+#   Description: This data set includes multi-proxy geological records from Site U1483 over the last 2 Myrs, including orbital-resolved records from ~ 2000 to 1300 ka.
+#         Provided Keywords: precipitation (terrigenous input), productivity, the Indonesian Throughflow (ITF) dynamics, monsoon, SST, tropics, warm pool
+#---------------------------------------
+# Publication
+#   Authors: Zhang, Y., Andrade, T., Ravelo, A. C., Gong, L., Holbourn, A., Connock, G., Liu, X., and Aiello, I. W. 
+#   Published_Date_or_Year: 2023-10-01
+#   Published_Title: Aridification of northwest Australia and nutrient decline in the Timor Sea during the 40 kyr world 
+#   Journal_Name: Paleoceanography and Paleoclimatology
+#   Volume: 38
+#   Edition: 
+#   Issue: 10
+#   Pages: 
+#   Report_Number: e2023PA004683
+#   DOI: 10.1029/2023PA004683
+#   Online_Resource: 
+#   Full_Citation: 
+#   Abstract: Studying tropical hydroclimate and productivity change in the past is critical for understanding global climate dynamics. Northwest Australia is an ideal location for investigating Australian monsoon dynamics, the variability of the Indonesian Throughflow (ITF), and their impact on past productivity and warm pool evolution, which remain poorly understood during the 40 kyr world in the mid-early Pleistocene.  In this study, we present multi-proxy records from International Ocean Discovery Program (IODP) Site U1483 in the Timor Sea spanning the last 2000 ka, including orbitally-resolved records from the 40 kyr world between 2000 and 1300 ka. Our results suggest that northwest Australia underwent a step of increased aridification and that productivity in the Timor Sea declined during the transition from ~ 1700 to ~ 1400 ka. We attribute this aridification to the reduced moisture supply to this region caused by the ITF restriction and warm pool contraction. We ascribe the declined productivity to a decrease in the nutrient supply of the Pacific source water associated with global nutrient redistribution. At orbital timescale, multiple mechanisms, including sea level changes, monsoon, and the Intertropical Convergence Zone (ITCZ) dynamics, and variations in the ITF and Walker circulation could control variations of productivity and terrigenous input in the Timor Sea during the 40 kyr world. Our bulk nitrogen and benthic carbon isotope records suggest a strong coupling to biogeochemical changes in the Pacific during this period. This research contributes to a better understanding of tropical hydroclimate and productivity changes during the 40 kyr world. 
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: American Chemical Society
+#   Grant: 61090-ND8
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: United States Science Support Program 1736686
+#---------------------------------------
+# Site_Information
+#   Site_Name: IODP U1483 
+#   Location: Indian Ocean
+#   Northernmost_Latitude: -13.837333
+#   Southernmost_Latitude: -13.837333
+#   Easternmost_Longitude: 121.804167
+#   Westernmost_Longitude: 121.804167
+#   Elevation_m: -1733
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: U1483 biomarkers Zhang2023
+#   First_Year: 1955450
+#   Last_Year: 1455820
+#   Time_Unit: calendar year before present
+#   Core_Length_m: 199
+#   Parameter_Keywords: biomarkers
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+# 
+# Depth (r-mcd)	Age (ka)	SedRate (m/ka)	Tie point description	
+# 0	0	0.115523466	Benthic d18O (Zhang et al., 2020)	
+# 1.28	11.08	0.123130035	Benthic d18O (Zhang et al., 2020)	
+# 3.42	28.46	0.080050399	Benthic d18O (Zhang et al., 2020)	
+# 5.326	52.27	0.121256039	Benthic d18O (Zhang et al., 2020)	
+# 7.836	72.97	0.081831466	Benthic d18O (Zhang et al., 2020)	
+# 9.516	93.5	0.07463795	Benthic d18O (Zhang et al., 2020)	
+# 11.526	120.43	0.112795793	Benthic d18O (Zhang et al., 2020)	
+# 12.813	131.84	0.087516383	Benthic d18O (Zhang et al., 2020)	
+# 15.484	162.36	0.118421053	Benthic d18O (Zhang et al., 2020)	
+# 16.384	169.96	0.101694915	Benthic d18O (Zhang et al., 2020)	
+# 17.404	179.99	0.093527231	Benthic d18O (Zhang et al., 2020)	
+# 20.684	215.06	0.088205128	Benthic d18O (Zhang et al., 2020)	
+# 21.544	224.81	0.11372549	Benthic d18O (Zhang et al., 2020)	
+# 22.936	237.05	0.098360656	Benthic d18O (Zhang et al., 2020)	
+# 25.756	265.72	0.138032221	Benthic d18O (Zhang et al., 2020)	
+# 28.155	283.1	0.123680241	Benthic d18O (Zhang et al., 2020)	
+# 29.795	296.36	0.094006037	Benthic d18O (Zhang et al., 2020)	
+# 31.975	319.55	0.094218415	Benthic d18O (Zhang et al., 2020)	
+# 32.855	328.89	0.100764882	Benthic d18O (Zhang et al., 2020)	
+# 35.885	358.96	0.086736021	Benthic d18O (Zhang et al., 2020)	
+# 37.219	374.34	0.120645161	Benthic d18O (Zhang et al., 2020)	
+# 39.089	389.84	0.105494505	Benthic d18O (Zhang et al., 2020)	
+# 41.009	408.04	0.065076336	Benthic d18O (Zhang et al., 2020)	
+# 42.032	423.76	0.085456476	Benthic d18O (Gong et al., 2023)	
+# 42.837	433.18	0.1112398	Benthic d18O (Gong et al., 2023)	
+# 47.063	471.17	0.101779359	Benthic d18O (Gong et al., 2023)	
+# 49.065	490.84	0.065225307	Benthic d18O (Gong et al., 2023)	
+# 50.498	512.81	0.129015084	Benthic d18O (Gong et al., 2023)	
+# 51.952	524.08	0.089504132	Benthic d18O (Gong et al., 2023)	
+# 53.035	536.18	0.075540327	Benthic d18O (Gong et al., 2023)	
+# 54.468	555.15	0.106546727	Benthic d18O (Gong et al., 2023)	
+# 56.6	575.16	0.086958998	Benthic d18O (Gong et al., 2023)	
+# 59.654	610.28	0.070622568	Benthic d18O (Gong et al., 2023)	
+# 61.106	630.84	0.088966993	Benthic d18O (Gong et al., 2023)	
+# 66.928	696.28	0.101489758	Benthic d18O (Gong et al., 2023)	
+# 69.108	717.76	0.093911826	Benthic d18O (Gong et al., 2023)	
+# 70.45	732.05	0.092635379	Benthic d18O (Gong et al., 2023)	
+# 71.733	745.9	0.110351201	Benthic d18O (Gong et al., 2023)	
+# 73.524	762.13	0.075211268	Benthic d18O (Gong et al., 2023)	
+# 74.859	779.88	0.096848739	Benthic d18O (Gong et al., 2023)	
+# 76.242	794.16	0.12617801	Benthic d18O (Gong et al., 2023)	
+# 77.206	801.8	0.102430134	Benthic d18O (Gong et al., 2023)	
+# 78.892	818.26	0.059513904	Benthic d18O (Gong et al., 2023)	
+# 81.61	863.93	0.089585097	Benthic d18O (Gong et al., 2023)	
+# 82.668	875.74	0.094750811	Benthic d18O (Gong et al., 2023)	
+# 85.881	909.65	0.055546218	Benthic d18O (Gong et al., 2023)	
+# 86.542	921.55	0.10330033	Benthic d18O (Gong et al., 2023)	
+# 89.672	951.85	0.085517799	Benthic d18O (Gong et al., 2023)	
+# 90.729	964.21	0.094201861	Benthic d18O (Gong et al., 2023)	
+# 92.045	978.18	0.074837027	Benthic d18O (Gong et al., 2023)	
+# 92.619	985.85	0.10099278	Benthic d18O (Gong et al., 2023)	
+# 93.738	996.93	0.077147016	Benthic d18O (Gong et al., 2023)	
+# 94.268	1003.8	0.071416667	Benthic d18O (Gong et al., 2023)	
+# 95.125	1015.8	0.104477612	Benthic d18O (Gong et al., 2023)	
+# 95.825	1022.5	0.111568627	Benthic d18O (Gong et al., 2023)	
+# 97.532	1037.8	0.078011696	Benthic d18O (Gong et al., 2023)	
+# 100.2	1072	0.088888889	Benthic d18O (Gong et al., 2023)	
+# 102.52	1098.1	0.087878788	Benthic d18O (Gong et al., 2023)	
+# 103.39	1108	0.094326241	Benthic d18O (Gong et al., 2023)	
+# 104.72	1122.1	0.078995434	Benthic d18O (Gong et al., 2023)	
+# 108.18	1165.9	0.109502262	Benthic d18O (Gong et al., 2023)	
+# 110.6	1188	0.111926606	Benthic d18O (Gong et al., 2023)	
+# 111.82	1198.9	0.107692308	Benthic d18O (Gong et al., 2023)	
+# 113.78	1217.1	0.099563319	Benthic d18O (Gong et al., 2023)	
+# 116.06	1240	0.165060241	Benthic d18O (Gong et al., 2023)	
+# 117.43	1248.3	0.081355932	Benthic d18O (Gong et al., 2023)	
+# 118.39	1260.1	0.079	Benthic d18O (Gong et al., 2023)	
+# 119.97	1280.1	0.095973154	Benthic d18O (Gong et al., 2023)	
+# 122.83	1309.9	0.099322799	Benthic d18O (Gong et al., 2023)	
+# 127.23	1354.2	0.1	Benthic d18O (Gong et al., 2023)	
+# 129.05	1372.4	0.090874525	Benthic d18O (Gong et al., 2023)	
+# 131.44	1398.7	0.093382353	Benthic d18O (Gong et al., 2023)	
+# 132.71	1412.3	0.124418605	Benthic d18O (Gong et al., 2023)	
+# 135.92	1438.1	0.096907216	Benthic d18O (Gong et al., 2023)	
+# 136.86	1447.8	0.092222222	Benthic d18O (Gong et al., 2023)	
+# 137.69	1456.8	0.131182796	Benthic d18O (Gong et al., 2023)	
+# 140.13	1475.4	0.088709677	Benthic d18O (Gong et al., 2023)	
+# 141.23	1487.8	0.062650602	Benthic d18O (Gong et al., 2023)	
+# 141.75	1496.1	0.099159664	Benthic d18O (Gong et al., 2023)	
+# 144.11	1519.9	0.098026316	Benthic d18O (Gong et al., 2023)	
+# 145.6	1535.1	0.152046784	Benthic d18O (Gong et al., 2023)	
+# 148.2	1552.2	0.0984375	Benthic d18O (Gong et al., 2023)	
+# 149.46	1565	0.134285714	Benthic d18O (Gong et al., 2023)	
+# 150.87	1575.5	0.167521368	Benthic d18O (Gong et al., 2023)	
+# 152.83	1587.2	0.136601307	Benthic d18O (Gong et al., 2023)	
+# 154.92	1602.5	0.110583942	Benthic d18O (this study)	
+# 157.95	1629.9	0.129338843	Benthic d18O (this study)	
+# 161.08	1654.1	0.168720379	Benthic d18O (this study)	
+# 164.64	1675.2	0.141891892	Benthic d18O (this study)	
+# 165.69	1682.6	0.130666667	Benthic d18O (this study)	
+# 167.65	1697.6	0.118222222	Benthic d18O (this study)	
+# 170.31	1720.1	0.135433071	Benthic d18O (this study)	
+# 173.75	1745.5	0.140540541	Benthic d18O (this study)	
+# 175.83	1760.3	0.081300813	Benthic d18O (this study)	
+# 176.83	1772.6	0.139719626	Benthic d18O (this study)	
+# 179.82	1794	0.074842767	Benthic d18O (this study)	
+# 181.01	1809.9	0.114356436	Benthic d18O (this study)	
+# 183.32	1830.1	0.07944664	Benthic d18O (this study)	
+# 185.33	1855.4	0.083333333	Benthic d18O (this study)	
+# 185.93	1862.6	0.06416185	Benthic d18O (this study)	
+# 188.15	1897.2	0.112903226	Benthic d18O (this study)	
+# 188.5	1900.3	0.12745098	Benthic d18O (this study)	
+# 189.15	1905.4	0.131828979	Benthic d18O (this study)	
+# 194.7	1947.5	0.101538462	Log (Mn/S) tuned to LR04 (this study)	
+# 198	1980	0.0848	Log (Mn/S) tuned to LR04 (this study)	
+# 200.12	2005	0.1065	Log (Mn/S) tuned to LR04 (this study)	
+# 202.25	2025	0.132666667	Log (Mn/S) tuned to LR04 (this study)	
+# 206.23	2055	0.132666667	Log (Mn/S) tuned to LR04 (this study)	
+# Citation	NaN  NaN	NaN	
+# 1. Zhang, P., Xu, J., Holbourn, A., Kuhnt, W., Beil, S., Li, T., Xiong, Z., Dang, H., Yan, H., Pei, R., Ran, Y., & Wu, H. (2020). Indo-Pacific Hydroclimate in Response to Changes of the Intertropical Convergence Zone: Discrepancy on Precession and Obliquity Bands Over the Last 410 kyr. Journal of Geophysical Research: Atmospheres, 125(14). https://doi.org/10.1029/2019JD032125	NaN  NaN	NaN	
+# 2. Gong, L., Holbourn, A., Kuhnt, W., Opdyke, B., Zhang, Y., Ravelo, A. C., Zhang, P., Xu, J., Matsuzaki, K., Aiello, I., Beil, S., & Andersen, N. (2023). Middle Pleistocene re-organization of Australian Monsoon. Nature Communications, 14(1), 2002. https://doi.org/10.1038/s41467-023-37639-x	NaN  NaN	NaN	
+# 
+#---------------------------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## Age_ka	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## SampleID	sample identification,,,,,paleoceanography,,,C,
+## C37	C37 alkenone,,,nanogram per gram,,paleoceanography,,,N,unit (ng/g sed)
+## UK'37	alkenone unsaturation index,,,dimensionless,,paleoceanography,,,N,use reverse phase liquid chromatography quadrupole time-of-flight mass spectrometry method with electrospray ionization (RPLC-ESI-qTOF-MS)
+## TEX86	tetraether index of 86 carbon atoms,,,dimensionless,,paleoceanography,,,N,use reverse phase liquid chromatography quadrupole time-of-flight mass spectrometry method with electrospray ionization (RPLC-ESI-qTOF-MS)
+## TEX86H	tetraether index of 86 carbon atoms,,,dimensionless,,paleoceanography,,,N,use reverse phase liquid chromatography quadrupole time-of-flight mass spectrometry method with electrospray ionization (RPLC-ESI-qTOF-MS)
+## UK'37_SST_Prahl	sea surface temperature,alkenone unsaturation index,,degree Celsius,,paleoceanography,,,N,use Prahl & Wakeham (1987) calibration
+## UK'37_SST_Muller	sea surface temperature,alkenone unsaturation index,,degree Celsius,,paleoceanography,,,N,use Müller et al. (1998) calibration
+## Tex86_SST12	sea surface temperature,glycerol dialkyl glycerol tetraether index,,degree Celsius,,paleoceanography,,,N,use Schouten et al. (2002) calibration
+## Tex86_SST16	sea surface temperature,glycerol dialkyl glycerol tetraether index,,degree Celsius,,paleoceanography,,,N,use Kim et al. (2010) calibration
+## SSTdiff_Uk37-Tex86	sea surface temperature,,,degree Celsius,,paleoceanography,,,N,temperature difference between two proxies using SST based on Prahl & Wakeham (1987) calibration minus SST based on Schouten et al. (2002) calibration
+## BIT-index	branched and isoprenoid tetraether index,,,dimensionless,,paleoceanography,,,N,calculated following Hopmans et al. (2004)
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: N/A
+Age_ka	SampleID	C37	UK'37	TEX86	TEX86H	UK'37_SST_Prahl	UK'37_SST_Muller	Tex86_SST12	Tex86_SST16	SSTdiff_Uk37-Tex86	BIT-index	
+1455.82	1483A_14H-4W_130-131	955.8	0.96	0.67	-0.18	28.20	29.05	26.59	26.49	1.61	0.11	
+1460.61	1483A_14H-5W_48-50	779.2	0.91	0.66	-0.18	26.77	27.57	26.33	26.29	0.43	0.10	
+1465.19	1483A_14H-5W_108-110	677.1	0.96	0.67	-0.17	28.06	28.91	26.84	26.70	1.22	0.11	
+1469.76	1483A_14H-6W_24-26	461.0	0.99	0.72	-0.14	29.13	30.01	29.73	28.89	-0.60	0.11	
+1474.18	1483C_15H-2W_16-18	377.1	0.99	0.72	-0.14	29.14	30.02	29.51	28.73	-0.37	0.14	
+1483.74	1483C_15H-2W_106-108	361.2	0.99	0.70	-0.15	29.02	29.89	28.74	28.16	0.27	0.13	
+1487.12	1483C_15H-2W_136-138	364.5	0.99	0.73	-0.14	29.13	30.01	30.13	29.18	-1.00	0.15	
+1491.63	1483C_15H-3W_22-24	1140.3	0.99	0.69	-0.16	29.03	29.91	28.12	27.68	0.91	0.14	
+1496.30	1483C_15H-3W_52-54	728.1	0.97	0.67	-0.17	28.46	29.32	26.98	26.80	1.49	0.13	
+1580.04	1483A_15H-7W_17-19	1764.5	0.95	0.67	-0.17	28.00	28.84	26.81	26.67	1.19	0.13	
+1583.62	1483B_16H-4W_83-85	619.6	0.97	0.70	-0.16	28.57	29.44	28.51	27.98	0.07	0.16	
+1585.41	1483B_16H-4W_113-115	473.3	0.98	0.70	-0.15	28.77	29.64	28.58	28.04	0.19	0.17	
+1593.79	1483B_16H-5W_85-87	533.9	0.94	0.67	-0.17	27.60	28.43	26.82	26.68	0.78	0.14	
+1600.32	1483B_16H-6W_28-30	595.1	0.99	0.72	-0.14	29.04	29.91	29.76	28.91	-0.73	0.15	
+1610.53	1483A_16H-2W_78-80	659.4	0.94	0.67	-0.17	27.63	28.47	27.06	26.86	0.58	0.15	
+1627.09	1483A_16H-3W_112-114	449.6	0.96	0.67	-0.17	28.24	29.09	27.00	26.82	1.23	0.16	
+1636.88	1483A_16H-4W_92-94	347.0	0.98	0.73	-0.14	28.66	29.53	29.99	29.08	-1.33	0.13	
+1641.63	1483A_16H-5W_12-14	623.3	0.95	0.70	-0.16	27.84	28.68	28.46	27.94	-0.62	0.12	
+1646.20	1483A_16H-5W_72-74	780.2	0.84	0.67	-0.18	24.76	25.50	26.62	26.52	-1.87	0.11	
+1648.50	1483A_16H-5W_102-104	1064.8	0.77	0.66	-0.18	22.62	23.30	26.50	26.42	-3.88	0.09	
+1655.20	1483A_16H-6W_52-54	2004.7	0.87	0.66	-0.18	25.50	26.27	26.07	26.08	-0.57	0.13	
+1690.00	1483B_17H-6W_136-138	508.4	0.99	0.70	-0.16	28.96	29.83	28.52	27.99	0.44	0.14	
+1717.30	1483B_18H-1W_108-110	337.8	0.99	0.72	-0.14	29.05	29.93	29.54	28.75	-0.49	0.14	
+1739.88	1483B_18H-3W_122-124	762.7	0.99	0.71	-0.15	29.05	29.93	29.27	28.55	-0.22	0.15	
+1774.99	1483B_18H-6W_98-100	557.3	0.97	0.68	-0.17	28.61	29.48	27.44	27.16	1.17	0.17	
+1807.24	1483A_18H-5W_22-24	716.1	0.94	0.66	-0.18	27.50	28.33	26.42	26.36	1.08	0.16	
+1829.29	1483A_18H-6W_122-124	440.0	0.99	0.72	-0.14	29.17	30.05	29.92	29.03	-0.75	0.18	
+1867.28	1483C_19H-3W_132-134	1355.3	0.94	0.65	-0.19	27.62	28.45	25.78	25.85	1.84	0.14	
+1908.13	1483A_19H-4W_34-36	443.1	0.98	0.68	-0.17	28.66	29.52	27.63	27.31	1.02	0.17	
+1935.44	1483B_20H-2W_117-119	488.5	0.98	0.69	-0.16	28.75	29.61	27.93	27.54	0.82	0.17	
+1966.31	1483B_20H-5W_37-39	929.5	0.98	0.69	-0.16	28.86	29.73	28.02	27.61	0.83	0.16	
+1995.45	1483B_20H-7W_16-18	552.3	0.98	0.69	-0.16	28.77	29.64	27.98	27.58	0.79	0.18	

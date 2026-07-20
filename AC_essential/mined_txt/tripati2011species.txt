@@ -1,0 +1,262 @@
+# Atmospheric CO2 20 Million Year Foraminiferal B/Ca Reconstruction
+#-----------------------------------------------------------------------
+#                World Data Center for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data.
+# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed.
+#
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/16154
+#
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/tripati2011/tripati2011species.txt
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Archive: Paleoceanography
+#--------------------
+# Contribution_Date
+#	Date: 2014-03-09
+#--------------------
+# Title
+#	Study_Name: Atmospheric CO2 20 Million Year Foraminiferal B/Ca Reconstruction
+#--------------------
+# Investigators
+#       Investigators: Tripati, A.K.; Roberts, C.D.; Eagle, R.A.; Li, G.
+#--------------------
+# Description_and_Notes
+#	Description: Paleoatmospheric CO2 concentrations estimated from the boron/calcium ratio of planktonic foraminifera.
+#       Samples from Deep Sea Drilling Project Site 588 and Ocean Drilling Program Site 806 were used to reconstruct pCO2
+#       values from the Miocene through Holocene (~20 to 0 Ma). Average, maximum, and minimum pCO2 estimates are calculated
+#       for each time.
+#--------------------
+# Publication
+#       Authors: Aradhna K. Tripati, Christopher D. Roberts, Robert A. Eagle, Gaojun Li
+#       Published_Date_or_Year: 2011-05-15
+#       Published_Title: A 20 million year record of planktic foraminiferal B/Ca ratios: Systematics and uncertainties in pCO2 reconstructions
+#       Journal_Name: Geochimica et Cosmochimica Acta
+#       Volume: 75
+#       Edition:
+#       Issue: 10
+#       Pages: 2582-2610
+#       DOI: 10.1016/j.gca.2011.01.018
+#       Online_Resource: http://www.sciencedirect.com/science/article/pii/S0016703711000263
+#       Full_Citation:
+#       Abstract: We use new and published data representing a 20 million long record to discuss the systematics of interpreting planktic foraminiferal B/Ca ratios. B/Ca-based reconstructions of seawater carbonate chemistry and atmospheric pCO2 assume that the incorporation of boron into foraminiferal tests can be empirically described by an apparent partition coefficient, KD=(B/CaCaCO3)/(BOH4-/HCO3- seawater) (Hemming and Hanson, 1992). It has also been proposed that there is a species-specific relationship between KD and temperature (Yu et al., 2007). As we discuss, although these relationships may be robust, there remain significant uncertainties over the controls on boron incorporation into foraminifera. It is difficult to be certain that the empirically defined correlation between temperature and KD is not simply a result of covariance of temperature and other hydrographic variables in the ocean, including carbonate system parameters. There is also some evidence that KD may be affected by solution [HCO3-]/[CO32-] ratios (i.e., pH), or by [CO32-]. In addition, the theoretical basis for the definition of KD and for a temperature control on KD is of debate. We also discuss the sensitivity of pCO2 reconstructions to different KD-temperature calibrations and seawater B/Ca. If a KD-temperature calibration is estimated using ice core pCO2 values between 0 and 200 ka, B/Ca ratios can be used to reasonably approximate atmospheric pCO2 between 200 and 800 ka; however, the absolute values of pCO2 calculated are sensitive to the choice of KD-temperature relationship. For older time periods, the absolute values of pCO2 are also dependent on the evolution of seawater B concentrations. However, we find that over the last 20 Ma, reconstructed changes in declining pCO2 across the Mid-Pleistocene Transition, Pliocene glacial intensification, and the Middle Miocene Climate Transition are supported by the B/Ca record even if a constant coretop KD is used, or different KD-temperature calibrations and models of seawater B evolution are applied to the data. The inferred influence of temperature on KD from coretop data therefore cannot itself explain the structure of a published pCO2 reconstruction (Tripati et al., 2009). We conclude the raw B/Ca data supports a coupling between pCO2 and climate over the past 20 Ma. Finally, we explore possible implications of B/Ca-based pCO2 estimates for the interpretation of other marine pCO2 proxies.
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: National Environmental Research Council (UK)
+#       Grant:
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: University of California - Los Angeles (USA)
+#       Grant:
+#------------------
+# Funding_Agency
+#       Funding_Agency_Name: Magdalene College (UK)
+#       Grant:
+#------------------
+# Site_Information
+#       Site_Name: DSDP588
+#       Location: Ocean>Pacific Ocean>South Pacific Ocean
+#	Country:
+#	Northernmost_Latitude: -26.1117
+# 	Southernmost_Latitude: -26.1117
+# 	Easternmost_Longitude: 161.2267
+# 	Westernmost_Longitude: 161.2267
+# 	Elevation: -1533 m
+#------------------
+# Site_Information
+#       Site_Name: ODP806
+#       Location: Ocean>Pacific Ocean>North Pacific Ocean
+#	Country:
+#	Northernmost_Latitude: 0.3187
+# 	Southernmost_Latitude: 0.3187
+# 	Easternmost_Longitude: 159.361
+# 	Westernmost_Longitude: 159.361
+# 	Elevation: -2521 m
+#------------------
+# Data_Collection
+#	Collection_Name: Tripati2011species
+#	Earliest_Year: 20000000
+#	Most_Recent_Year: 0
+#	Time_Unit: Cal. Year BP
+#	Core_Length: m
+#	Notes:
+#------------------
+# Chronology:
+#
+#
+#----------------
+# Variables
+#
+# Data variables follow (have no #)
+# Data line variables format:  Variables list, one per line, shortname-tab-longname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## age_calMaBP	Age, , , millions of years before present, , , , ,N
+## notes-Species	Notes Species, , , , , , , ,C
+## BOH4-HCO3sw	Seawater borate/bicarbonate, , , mol/mol, , , , ,N
+## temp	Temperature, , , deg C, , , , ,N
+## sal	Salinity, , , PSU, , , , ,N
+#----------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing Values:
+# Comparison of reconstruction for different species measured from same sample
+age_calMaBP	notes-Species	BOH4-HCO3sw	temp	sal
+0.006	G. ruber	0.08864	29	34.5
+0.006	G. sacculifer	0.07988	29	34.5
+0.014	G. ruber	0.09731	27.1	36.8
+0.014	G. sacculifer	0.10045	27	36.8
+0.028	G. ruber	0.10054	26.4	35.2
+0.028	G. sacculifer	0.10086	26.8	35.4
+0.037	G. ruber	0.10244	26.8	35.5
+0.037	G. sacculifer	0.09482	27.3	35.7
+0.052	G. ruber	0.09676	27.1	36.2
+0.052	G. sacculifer	0.10086	27.1	36.2
+0.09	G. ruber	0.08885	27.7	34.9
+0.09	G. sacculifer	0.09145	27.6	36.5
+0.091	G. ruber	0.08319	28	35
+0.091	G. sacculifer	0.0862	27.9	36.7
+0.106	G. ruber	0.0837	29.7	36.1
+0.106	G. sacculifer	0.08505	29.3	35.6
+0.111	G. ruber	0.08017	29.7	36.2
+0.111	G. sacculifer	0.09042	29.7	36.7
+0.128	G. ruber	0.08995	27.5	34.8
+0.128	G. sacculifer	0.0907	27.5	38.2
+0.146	G. ruber	0.09463	26.5	35.7
+0.146	G. sacculifer	0.09676	26.8	37.4
+0.164	G. ruber	0.09519	26.5	35.9
+0.164	G. sacculifer	0.09589	26.6	36
+0.198	G. ruber	0.09639	28.5	35.7
+0.198	G. sacculifer	0.08919	27.5	36.8
+0.244	G. ruber	0.10096	26.8	36.2
+0.244	G. sacculifer	0.09105	27.6	36.7
+0.247	G. ruber	0.11043	27.4	36.4
+0.247	G. sacculifer	0.09662	27.4	37
+0.253	G. ruber	0.08822	27.9	36.1
+0.253	G. sacculifer	0.08615	28.2	36.3
+0.255	G. ruber	0.1146	27	36.1
+0.255	G. sacculifer	0.09099	27.8	37
+0.297	G. ruber	0.09283	27.7	34.7
+0.297	G. sacculifer	0.08537	27.9	34.9
+0.316	G. ruber	0.08733	29.5	36.5
+0.316	G. sacculifer	0.08123	29.7	36.6
+0.36	G. ruber	0.1021	26.5	35.8
+0.36	G. sacculifer	0.09309	27.5	36.8
+0.367	G. ruber	0.09526	25.9	34.4
+0.367	G. sacculifer	0.08476	27.7	35.5
+0.379	G. ruber	0.08791	26.7	36.1
+0.379	G. sacculifer	0.09375	27.4	36.4
+0.426	G. ruber	0.09516	26.1	37.1
+0.426	G. sacculifer	0.09149	27.3	38.8
+0.529	G. ruber	0.08412	28.1	36
+0.529	G. sacculifer	0.09086	28.5	37.3
+0.541	G. ruber	0.08997	26.9	35.7
+0.541	G. sacculifer	0.09055	27.7	38
+0.588	G. ruber	0.08463	28	35.9
+0.588	G. sacculifer	0.09687	27.5	37.3
+0.636	G. ruber	0.09616	26.8	36.8
+0.636	G. sacculifer	0.09852	27.7	38.1
+0.72	G. ruber	0.08788	26.8	36.2
+0.72	G. sacculifer	0.09891	27.6	38
+0.728	G. ruber	0.08849	26.7	35.9
+0.728	G. sacculifer	0.0946	27.2	37.9
+0.904	G. ruber	0.09145	26.4	36
+0.904	G. sacculifer	0.11664	26.8	37.7
+1.012	G. ruber	0.08693	26.5	34.9
+1.012	G. sacculifer	0.09611	27.8	37.1
+1.158	G. ruber	0.08551	28.1	36.2
+1.158	G. sacculifer	0.08748	29	38
+1.283	G. ruber	0.08334	27.9	35.5
+1.283	G. sacculifer	0.08969	28.1	36.7
+1.295	G. ruber	0.08591	27	35.9
+1.295	G. sacculifer	0.09215	27.9	37
+1.364	G. ruber	0.08181	27	35.3
+1.364	G. sacculifer	0.09042	28.1	36
+1.401	G. ruber	0.07125	29.3	37.9
+1.401	G. sacculifer	0.08075	30	38
+1.426	G. ruber	0.0842	28.2	37
+1.426	G. sacculifer	0.09078	28.5	37.3
+1.43	G. ruber	0.0996	27.9	36.7
+1.43	G. sacculifer	0.08363	28.9	37.6
+1.574	G. ruber	0.09277	27.1	36.8
+1.574	G. sacculifer	0.09852	27.2	36.9
+1.665	G. ruber	0.0837	26.9	36.6
+1.665	G. sacculifer	0.09322	26.1	35.6
+1.67	G. ruber	0.08584	27.2	36.4
+1.67	G. sacculifer	0.09334	26.4	35.8
+1.79	G. ruber	0.08775	27.7	37.5
+1.79	G. sacculifer	0.0861	27.5	36.8
+1.8	G. ruber	0.0836	27.4	37.4
+1.8	G. sacculifer	0.08612	27.1	36.5
+2.017	G. ruber	0.08402	28.4	37.4
+2.017	G. sacculifer	0.07912	27.7	36.3
+2.055	G. ruber	0.09092	27.1	36.5
+2.055	G. sacculifer	0.08456	26.5	35.8
+2.161	G. ruber	0.09444	26.9	36.2
+2.161	G. sacculifer	0.09611	27.3	36.3
+2.192	G. ruber	0.10059	26.7	35.9
+2.192	G. sacculifer	0.09648	25.8	35.3
+2.199	G. ruber	0.09016	27.7	36.7
+2.199	G. sacculifer	0.08247	27.1	35.7
+2.218	G. ruber	0.09475	27.5	37.4
+2.218	G. sacculifer	0.09279	26.3	35.5
+2.234	G. ruber	0.08534	28	36.5
+2.234	G. sacculifer	0.09848	27.8	36.4
+2.252	G. ruber	0.08167	27.7	36.9
+2.252	G. sacculifer	0.08336	26.9	36.5
+2.256	G. ruber	0.08752	27.7	35.8
+2.256	G. sacculifer	0.09374	28	36
+2.26	G. ruber	0.08276	28	36.4
+2.26	G. sacculifer	0.10223	27.6	36.4
+2.264	G. ruber	0.08902	28.1	35.1
+2.264	G. sacculifer	0.08976	28	36.9
+2.269	G. ruber	0.08881	27.7	36.7
+2.269	G. sacculifer	0.09953	26.4	36
+2.284	G. ruber	0.08812	27.6	35.8
+2.284	G. sacculifer	0.09861	27.7	37.1
+2.291	G. ruber	0.08961	27.6	37.1
+2.291	G. sacculifer	0.09983	28.2	37
+2.3	G. ruber	0.09369	27.3	36.4
+2.3	G. sacculifer	0.09229	27.6	36.6
+2.317	G. ruber	0.08401	28.2	36.9
+2.317	G. sacculifer	0.08193	27.3	36.4
+2.322	G. ruber	0.09649	27.9	36.6
+2.322	G. sacculifer	0.08493	27.5	36.4
+2.346	G. ruber	0.08533	28	37.4
+2.346	G. sacculifer	0.08477	27.2	36.9
+2.351	G. ruber	0.09899	26	37
+2.351	G. sacculifer	0.09609	26.3	37.2
+2.358	G. ruber	0.08602	26.8	37.9
+2.358	G. sacculifer	0.09673	26.5	37.8
+2.373	G. ruber	0.0972	26.7	37
+2.373	G. sacculifer	0.09057	26.9	37
+2.38	G. ruber	0.0864	27.6	36.7
+2.38	G. sacculifer	0.09749	27	36.3
+2.381	G. ruber	0.08235	28	36.9
+2.381	G. sacculifer	0.10557	27	36.3
+2.504	G. ruber	0.09208	27.7	36.5
+2.504	G. sacculifer	0.11108	27.2	36.2
+2.674	G. ruber	0.09099	27.6	35.9
+2.674	G. sacculifer	0.10119	27.3	35.7
+2.746	G. ruber	0.09707	27.6	36.3
+2.746	G. sacculifer	0.10939	27	36
+2.857	G. ruber	0.08898	27.2	35.8
+2.857	G. sacculifer	0.13083	27.9	36.2
+3.008	G. ruber	0.09515	27.8	36.4
+3.008	G. sacculifer	0.10209	28	36.5
+3.034	G. ruber	0.0899	27.9	36.4
+3.034	G. sacculifer	0.09367	28.3	36.7
+3.194	G. ruber	0.09265	27.8	37.7
+3.194	G. sacculifer	0.0912	28.3	37.9
+3.266	G. ruber	0.10192	27.8	36.4
+3.266	G. sacculifer	0.09809	28.1	36.5
+3.327	G. ruber	0.09093	27.9	36.6
+3.327	G. sacculifer	0.09784	28	36.6
+3.406	G. ruber	0.09021	28	36.6
+3.406	G. sacculifer	0.08014	28	36.1
+3.447	G. ruber	0.08391	27.7	36.2
+3.447	G. sacculifer	0.08097	28.3	36.5

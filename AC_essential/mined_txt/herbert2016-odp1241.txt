@@ -1,0 +1,195 @@
+# Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 3.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, online resource and date accessed when using this data.
+# If there is no publication information, please cite Investigator, title, online resource and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/25390
+#      Description: NOAA Landing Page
+# Online_Resource: http://www1.ncdc.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1241.txt
+#      Description: NOAA location of the template
+#
+# Archive: Paleoceanography
+#
+# Dataset_DOI:
+#
+# Parameter_Keywords: biomarkers
+#---------------------------------------
+# Contribution_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# File_Last_Modified_Date
+#    Date: 2018-10-10
+#---------------------------------------
+# Title
+#    Study_Name: Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data
+#---------------------------------------
+# Investigators
+#      Investigators: Herbert, T.D.; Lawrence, K.T.; Tzanova, A.; Peterson, L.C.; Caballero-Gill, R.; Kelly, C.S.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#        Description: Note: age models for Sites 907 and 982 refined following publication of Herbert et al., 2016 NGS
+#         Provided Keywords: Global ocean cooling, mid-Miocene to Present
+#---------------------------------------
+# Publication
+# Authors: Herbert, T.D., K.T. Lawrence, A. Tzanova, L.C. Peterson, R. Caballero-Gill, and C.S. Kelly
+# Published_Date_or_Year: 2016
+# Published_Title: Late Miocene Global Cooling and the Rise of Modern Ecosystems
+# Journal_Name: Nature Geoscience
+# Volume: 9
+# Edition: 
+# Issue: 
+# Pages: 843-847
+# Report_Number: 
+# DOI: 10.1038/ngeo2813
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: During the late Miocene epoch, about seven million years ago, large areas of the continents experienced drying, enhanced seasonality, and a restructuring of terrestrial plant and animal communities. These changes are seen throughout the subtropics, but have typically been attributed to regional tectonic forcing. Here we present a set of globally distributed sea surface temperature records spanning the past 12 million years based on the alkenone unsaturation method. We find that a sustained late Miocene cooling occurred synchronously in both hemispheres, and culminated with ocean temperatures dipping to near-modern values between about 7 and 5.4 million years ago. The period of maximum cooling coincides with evidence for transient glaciations in the Northern Hemisphere and with a steepening of the pole-to-equator temperature gradient, as well. We thus infer that late Miocene aridity and terrestrial ecosystem changes occurred in a global context of increasing meridional temperature gradients. We conclude that a global forcing mechanism, such as the previously hypothesized decline in atmospheric CO2 levels between eight and six million years ago, is required to explain the late Miocene changes in temperature, climate and ecosystems. 
+#---------------------------------------
+# Publication
+# Authors: Seki, O., D.N. Schmidt, S. Schouten, E.C. Hopmans, J.S. Sinninghe Damsté, and R.D. Pancost
+# Published_Date_or_Year: 2012
+# Published_Title: Paleoceanographic changes in the Eastern Equatorial Pacific over the last 10 Myr
+# Journal_Name: Paleoceanography
+# Volume: 27
+# Edition: 
+# Issue: 
+# Pages: 
+# Report_Number: 
+# DOI: 10.1029/2011PA002158
+# Online_Resource: 
+# Full_Citation: 
+# Abstract: To examine the Late Neogene evolution of tropical Pacific oceanography, we determined multiple geochemical proxy records for temperature (U37K′ and TEX86H indices) and primary productivity (algal biomarkers and diol indices) in sediments recovered at ODP Site 1241 in the East Equatorial Pacific (EEP) spanning a record of the last 10 Myr. The TEX86H temperatures are lower than those recorded by U37K′indices, exhibiting large fluctuations and suggesting strong warming during the Mid Pliocene Warm Period (MPWP; 4.5–3.2 Ma) and significantly colder temperature during the Late Miocene cooling period (7–5 Ma) and after the Middle Pliocene Warm Period (MPWP). Such variations could reflect changes in the EEP thermocline temperatures, but we suggest that they instead reflect changes in the depth of export production of glycerol dialkyl glycerol tetraether lipids in response to changes in the upper ocean structure. A combination of temperature records, inferred to represent different and likely varying depths in the water column, as well as algal biomarker records for export production and ecosystem structure, suggest that both productivity and inference upwelling were reduced in the EEP during warmer periods, such as the MPWP and prior to 7 Ma. In contrast, stronger upwelling conditions and associated increased productivity likely prevailed from 7 to 5 Ma and for the past 3 Myr, both corresponding to globally cool intervals. A further increase in EEP productivity occurred at ca 1.8 Ma, coincident with the development of the E‐W Pacific SST gradient. These results confirm previous work that protracted El Niño–like conditions prevailed during warmer intervals of the Pliocene before ultimately descending into the current climate state.
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: National Science Foundation Ocean Sciences
+#    Grant:  1459280, 1545859
+#---------------------------------------
+# Funding_Agency
+#    Funding_Agency_Name: Evolving Earth Foundation
+#    Grant: 
+#---------------------------------------
+# Site_Information
+# Site_Name: ODP 1241
+# Location: Eastern Pacific Ocean
+# Country: 
+# Northernmost_Latitude: 5.842833
+# Southernmost_Latitude: 5.842833
+# Easternmost_Longitude: -86.444667
+# Westernmost_Longitude: -86.444667
+# Elevation: -2027
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: ODP1241-2016alkenones Herbert
+#   First_Year: 9535300
+#   Last_Year: 5900
+#   Time_Unit: cal yr BP
+#   Core_Length: 
+#   Notes: chronology follows Seki et al., 2012
+#---------------------------------------
+# Chronology_Information 
+# Chronology: 
+#---------------------------------------
+# Variables
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-longname components (9 components: what, material, error, units, seasonality, archive, detail, method, C or N for Character or Numeric data)
+## sitename	sample identification,,,,,paleoceanography,,,C,Site
+## Hole	notes,,,,,paleoceanography,,,C,hole name
+## core	notes,,,,,paleoceanography,,,C,core
+## section	notes,,,,,paleoceanography,,,C,section
+## cm_top	depth at sample end,,,centimeter,,paleoceanography,,,N,
+## cm_base	depth at sample start,,,centimeter,,paleoceanography,,,N,
+## depth_mbsf	depth,,,meter,,paleoceanography,,,N,shipboard meters below sea floor
+## depth_mcd	depth,,,meter,,paleoceanography,,,N,composite depth 
+## age_kaBP	age,,,calendar kiloyear before present,,paleoceanography,,,N,
+## age_uncert_ka	age,,90% confidence interval margin of error,calendar kiloyear before present,,paleoceanography,,,N,
+## Uk'37	alkenone unsaturation index,sediment,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,GC-FID
+## SST_P	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following F.G. Prahl et al., 1988; estimated
+## SST_M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,,,N,SST calibration following P.J. Muller et al. 1998; estimated
+## SST_anom-M	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; Muller calibration
+## SST_anom_back	sea surface temperature,alkenone unsaturation index,,degree Celsius,,climate reconstructions,anomalized,,N,SST anomaly relative to modern; backtraced for paleolatitude/longitude
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: NaN
+sitename	Hole	core	section	cm_top	cm_base	depth_mbsf	depth_mcd	age_kaBP	age_uncert_ka	Uk'37	SST_P	SST_M	SST_anom-M	SST_anom_back	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	5.9	NaN	0.881	24.76	25.35	-2.05	-2.34	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	93.7	NaN	0.948	26.74	27.40	0.00	-0.29	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	182.8	NaN	0.945	26.65	27.31	-0.09	-0.37	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	229.8	NaN	0.940	26.50	27.15	-0.25	-0.53	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	386.8	NaN	0.919	25.90	26.53	-0.87	-1.13	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	464.4	NaN	0.912	25.67	26.30	-1.10	-1.36	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	596.9	NaN	0.949	26.76	27.42	0.02	-0.22	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	690.5	NaN	0.955	26.93	27.60	0.20	-0.04	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	751.5	NaN	0.901	25.36	25.97	-1.43	-1.66	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	818.2	NaN	0.900	25.33	25.94	-1.46	-1.68	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1024.0	NaN	0.932	26.27	26.92	-0.48	-0.68	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1087.3	NaN	0.915	25.77	26.40	-1.00	-1.19	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1175.2	NaN	0.952	26.86	27.52	0.12	-0.06	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1283.0	NaN	0.954	26.92	27.59	0.19	0.02	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1393.5	NaN	0.966	27.26	27.93	0.53	0.38	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1504.1	NaN	0.965	27.23	27.90	0.50	0.36	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1576.8	NaN	0.960	27.08	27.75	0.35	0.22	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1716.4	NaN	0.937	26.42	27.07	-0.33	-0.44	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1825.1	NaN	0.950	26.80	27.46	0.06	-0.03	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1973.1	NaN	0.957	27.00	27.67	0.27	0.19	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	1995.0	NaN	0.936	26.39	27.03	-0.37	-0.44	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2088.8	NaN	0.970	27.39	28.07	0.67	0.61	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2199.0	NaN	0.962	27.14	27.81	0.41	0.38	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2272.9	NaN	0.964	27.22	27.89	0.49	0.46	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2369.0	NaN	0.955	26.95	27.61	0.21	0.20	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2420.0	NaN	0.969	27.35	28.03	0.63	0.62	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2559.8	NaN	0.954	26.92	27.59	0.19	0.20	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2657.3	NaN	0.972	27.45	28.13	0.73	0.76	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2844.0	NaN	0.973	27.48	28.17	0.77	0.83	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	2916.4	NaN	0.947	26.70	27.35	-0.05	0.03	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3060.8	NaN	0.968	27.33	28.01	0.61	0.71	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3203.0	NaN	0.974	27.51	28.19	0.79	0.92	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3247.8	NaN	0.968	27.32	28.00	0.60	0.73	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3370.0	NaN	0.952	26.86	27.53	0.13	0.28	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3502.9	NaN	0.956	26.96	27.63	0.23	0.40	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3589.0	NaN	0.954	26.92	27.58	0.18	0.37	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3710.8	NaN	0.972	27.46	28.14	0.74	0.95	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3783.0	NaN	0.980	27.69	28.37	0.97	1.20	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	3922.8	NaN	0.979	27.65	28.33	0.93	1.19	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4042.0	NaN	0.971	27.43	28.11	0.71	0.98	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4130.1	NaN	0.967	27.29	27.97	0.57	0.86	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4208.0	NaN	0.980	27.67	28.36	0.96	1.27	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4285.7	NaN	0.970	27.37	28.05	0.65	0.97	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4374.0	NaN	0.983	27.78	28.47	1.07	1.41	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4490.8	NaN	0.965	27.24	27.92	0.52	0.88	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4644.8	NaN	0.975	27.53	28.21	0.81	1.21	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	4834.1	NaN	0.978	27.60	28.29	0.89	1.33	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	5088.2	NaN	0.967	27.29	27.97	0.57	1.07	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	5203.0	NaN	0.966	27.28	27.95	0.55	1.07	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	5297.8	NaN	0.972	27.45	28.13	0.73	1.28	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	5498.8	NaN	0.968	27.31	27.99	0.59	1.18	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	5683.8	NaN	0.959	27.05	27.72	0.32	0.96	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	5929.1	NaN	0.951	26.82	27.49	0.09	0.79	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	6070.0	NaN	0.949	26.78	27.44	0.04	0.78	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	6291.4	NaN	0.952	26.85	27.51	0.11	0.92	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	6506.2	NaN	0.960	27.08	27.74	0.34	1.22	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	6690.3	NaN	0.969	27.36	28.04	0.64	1.57	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	6868.1	NaN	0.949	26.78	27.44	0.04	1.02	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	7144.7	NaN	0.952	26.86	27.52	0.12	1.20	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	7273.6	NaN	0.972	27.43	28.11	0.71	1.83	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	7487.4	NaN	0.964	27.21	27.88	0.48	1.68	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	7695.4	NaN	0.960	27.09	27.75	0.35	1.63	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	7937.0	NaN	0.971	27.42	28.10	0.70	2.06	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	8096.2	NaN	0.963	27.17	27.84	0.44	1.87	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	8305.1	NaN	0.981	27.71	28.40	1.00	2.51	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	8564.0	NaN	0.980	27.67	28.36	0.96	2.57	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	8758.5	NaN	0.969	27.35	28.03	0.63	2.33	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	8966.2	NaN	0.980	27.67	28.36	0.96	2.75	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	9153.4	NaN	0.974	27.49	28.17	0.77	2.65	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	9341.3	NaN	0.982	27.75	28.44	1.04	3.00	
+1241	NaN	NaN	NaN	NaN	NaN	NaN	NaN	9535.3	NaN	0.971	27.41	28.09	0.69	2.75	

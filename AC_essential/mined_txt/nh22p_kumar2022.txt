@@ -1,0 +1,274 @@
+# Eastern Pacific Alkenone Sea Surface Temperature Reconstruction over the past 144,000 years
+#-----------------------------------------------------------------------
+#               World Data Service for Paleoclimatology, Boulder
+#                                   and
+#                      NOAA Paleoclimatology Program
+#-----------------------------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data.
+# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with '#' followed by a space
+# Data lines have no '#'
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/36293
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-recon-36293.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Climate Reconstructions
+#
+# Dataset_DOI: 10.25921/56hd-3096
+#
+# Science_Keywords: 
+#---------------------------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/kumar2022/nh22p_kumar2022.txt
+#   Data_Download_Description: NOAA Template File; SST Reconstruction Data
+#
+#---------------------------------------
+# Contribution_Date
+#   Date: 2022-04-19
+#---------------------------------------
+# File_Last_Modified_Date
+#   Date: 2025-05-19
+#---------------------------------------
+# Title
+#   Study_Name: Eastern Pacific Alkenone Sea Surface Temperature Reconstruction over the past 144,000 years
+#---------------------------------------
+# Investigators
+#   Investigators: Meegan Kumar, Dervla; Tierney, Jessica E.; Bhattacharya, Tripti; Zhu, Jiang; Murray, James W.
+#---------------------------------------
+# Description_Notes_and_Keywords
+#   Description: 
+#---------------------------------------
+# Publication
+#   Authors: Meegan Kumar, Dervla; Tierney, Jessica E.; Bhattacharya, Tripti; Zhu, Jiang; Murray, James W.
+#   Published_Date_or_Year: 2022-05-28
+#   Published_Title: Glacial warming in the Eastern Pacific Warm Pool
+#   Journal_Name: Geophysical Research Letters
+#   Volume: 49
+#   Edition: 
+#   Issue: 10
+#   Pages: 
+#   Report_Number: e2022GL098830
+#   DOI: 10.1029/2022GL098830
+#   Online_Resource: 
+#   Full_Citation: 
+#   Abstract: The Eastern Pacific Warm Pool (EPWP) modulates global climate through its connection with tropical Pacific circulation, but sparse paleoceanographic data from this region limits our understanding of its role in past climate variability. We present a 144 kyr alkenone-sea surface temperature (SST) reconstruction from core NH22P, located in the northern EPWP, that shows local warming occurred during periods of global cooling. Climate model simulations of the Last Glacial Maximum indicate that both ice sheet and greenhouse gas forcing slowed wind speeds over the EPWP, which attenuated glacial cooling of local SST via the wind-evaporation-SST feedback. Spectral analysis further suggests precessional pacing of the warming spikes. Vernal equinox insolation could explain this pacing as direct shortwave heating during boreal spring would have contributed to the early seasonal intensification of the EPWP. This work provides crucial constraints on tropical Pacific glacial climate variability and highlights the unique response of the EPWP to global climate forcings.
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: US National Science Foundation
+#   Grant: OCE-1651034, AGS-160230
+#---------------------------------------
+# Funding_Agency
+#   Funding_Agency_Name: Heising-Simons Foundation
+#   Grant: #2016-015
+#---------------------------------------
+# Site_Information
+#   Site_Name: NH22P
+#   Location: Eastern Pacific
+#   Northernmost_Latitude: 
+#   Southernmost_Latitude: 22.52
+#   Easternmost_Longitude: 22.52
+#   Westernmost_Longitude: -106.52
+#   Elevation_m: -106.52
+#---------------------------------------
+# Data_Collection
+#   Collection_Name: NH22P_Kumar2022
+#   First_Year: 144467
+#   Last_Year: 2430
+#   Time_Unit: cal yr BP
+#   Core_Length_m: 7.01
+#   Parameter_Keywords: sea surface temperature
+#   Notes: 
+#---------------------------------------
+# Chronology_Information 
+#   Chronology: Radiocarbon
+#   Chronology_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/templates/noaa-wds-paleo-14c-terms.csv
+#     Chronology_Download_Description: Radiocarbon terms and definitions.
+#   Chronology_Notes:
+#   Rejection_Rationale:
+#   Reservoir_Method:
+#   Calibration_Method:
+#   Age_Model_Method:
+#   Missing_Values: 
+#   Chronology_Table:
+# lab_code	depth_cm	material_dated	age_14C_BP1950	age_14C_1s_yr	date_type	delta_R_yr	delta_R_uncert_yr	age_calib_BP1950	age_calib_neg1s_BP1950	age_calib_pos1s_BP1950	calib_curve
+# C1_GP98	2	organic carbon	3105	51	14C AMS	215	18				Marine20
+# C2_GP98	32	organic carbon	6787	65	14C AMS	215	18				Marine20
+# C3_GP98	47	organic carbon	10361	68	14C AMS	215	18				Marine20
+# C4_GP98	71	organic carbon	13246	84	14C AMS	215	18				Marine20
+# C5_GP98	91	organic carbon	16803	167	14C AMS	215	18				Marine20
+# C6_GP98	151	organic carbon	21152	185	14C AMS	215	18				Marine20
+# T1_DMK18	336	benthic d18O			tie point			56000	54000	58000	correlation to Lisiecki et al. 2005
+# T2_DMK18	401	benthic d18O			tie point			75000	73000	77000	correlation to Lisiecki et al. 2005
+# T3_DMK18	476	benthic d18O			tie point			87000	85000	89000	correlation to Lisiecki et al. 2005
+# T4_DMK18	521	benthic d18O			tie point			109000	107000	111000	correlation to Lisiecki et al. 2005
+# T5_DMK18	546	benthic d18O			tie point			123000	121000	125000	correlation to Lisiecki et al. 2005
+# T6_DMK18	586	benthic d18O			tie point			130000	128000	132000	correlation to Lisiecki et al. 2005
+# T7_DMK18	606	benthic d18O			tie point			135000	133000	137000	correlation to Lisiecki et al. 2005
+#---------------------------------------
+# Variables
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by "##" in columns one and two.
+# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## depth_cm	depth,,,centimeter,,Climate Reconstructions; paleoceanography,,,N,
+## age	age,,,calendar year before present,,Climate Reconstructions; paleoceanography,,,N,Median age
+## C37_2	C37:2 alkenone,,,nanogram per gram,,paleoceanography,,gas chromatography - flame ionization detection,N,
+## C37_3	C37:3 alkenone,,,nanogram per gram,,paleoceanography,,gas chromatography - flame ionization detection,N,
+## UK_37	alkenone unsaturation index Uk37 prime,,,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,
+## sst	sea surface temperature,alkenone unsaturation index,,degree Celsius,annual,Climate Reconstructions; paleoceanography,,Bayesian inference;regression analysis,N,BAYSPLINE calibration
+## sst_1sig_lo	sea surface temperature,alkenone unsaturation index,one standard deviation lower bound,degree Celsius,annual,Climate Reconstructions; paleoceanography,,Bayesian inference;regression analysis,N,BAYSPLINE calibration
+## sst_1sig_hi	sea surface temperature,alkenone unsaturation index,one standard deviation upper bound,degree Celsius,annual,Climate Reconstructions; paleoceanography,,Bayesian inference;regression analysis,N,BAYSPLINE calibration
+#------------------------
+# Data:
+# Data lines follow (have no #)
+# Data line format - tab-delimited text, variable short name as header
+# Missing_Values: -999
+depth_cm	age	C37_2	C37_3	UK_37	sst	sst_1sig_lo	sst_1sig_hi
+3.5	2430	10252.0	2232.3	0.821	22.86	19.97	26.36
+10.5	3453	9876.2	2044.0	0.829	23.15	20.21	26.80
+18.5	4697	9361.3	1910.6	0.831	23.21	20.30	26.89
+24.5	5628	9195.1	1847.8	0.833	23.27	20.32	27.08
+31.5	6588	10384.9	1939.0	0.843	23.60	20.63	27.69
+35.5	7624	9729.1	1964.0	0.832	23.24	20.31	26.94
+38.5	8442	9718.3	2003.7	0.829	23.13	20.22	26.77
+43.5	9867	9154.6	1814.1	0.835	23.34	20.38	27.22
+45.5	10391	10130.1	1993.8	0.836	23.38	20.45	27.28
+50.5	11296	9356.3	1923.8	0.829	23.12	20.19	26.81
+56.5	12225	14550.2	2933.4	0.832	23.24	20.30	27.05
+63.5	13361	9693.1	1950.0	0.833	23.27	20.33	27.07
+75.5	15420	13744.8	1923.9	0.877	24.90	21.74	30.49
+78.5	16095	19159.7	2428.3	0.888	25.36	22.11	31.63
+86.5	17980	21717.7	2046.1	0.914	26.63	23.04	33.90
+89.5	18498	25643.0	2490.2	0.911	26.47	22.87	33.49
+94.5	19145	28851.2	3008.2	0.906	26.23	22.75	33.24
+101.5	19727	27841.9	2867.5	0.907	26.29	22.77	33.24
+106.5	20164	20549.5	2012.5	0.911	26.49	22.93	33.52
+112.5	20717	17553.1	2379.1	0.881	25.10	21.88	30.97
+117.5	21162	16421.8	2204.5	0.882	25.16	21.97	31.17
+121.5	21526	11489.2	1398.0	0.892	25.57	22.28	31.89
+128.5	22143	11829.7	1398.0	0.894	25.68	22.38	32.34
+132.5	22512	10212.6	1087.9	0.904	26.15	22.67	33.02
+138.5	23047	12929.9	1041.6	0.925	27.21	23.40	34.87
+141.5	23321	12853.9	1089.9	0.922	27.05	23.29	34.30
+151.5	24186	6054.3	580.2	0.913	26.60	22.96	33.80
+157.5	25146	4238.3	710.8	0.856	24.09	21.07	28.73
+161.5	25889	3991.9	753.5	0.841	23.53	20.61	27.63
+173.5	28121	6198.0	1390.3	0.817	22.75	19.86	26.29
+177.5	28865	6776.4	1521.8	0.817	22.76	19.84	26.23
+181.5	29644	6206.6	1387.6	0.817	22.76	19.86	26.18
+189.5	31163	5487.6	1217.1	0.818	22.78	19.88	26.19
+196.5	32468	3406.8	717.3	0.826	23.04	20.13	26.66
+200.5	33194	6302.3	1353.4	0.823	22.93	20.03	26.49
+206.5	34326	5068.0	1224.0	0.805	22.34	19.46	25.56
+211.5	35271	5883.5	1343.4	0.814	22.65	19.72	26.08
+223.5	37544	8084.3	1771.5	0.820	22.84	19.95	26.40
+227.5	38283	7681.0	1638.7	0.824	22.97	20.07	26.56
+234.5	39601	9967.9	1891.3	0.841	23.57	20.61	27.57
+237.5	40178	10265.9	1885.1	0.845	23.69	20.74	27.89
+244.5	41507	10345.5	2105.9	0.831	23.20	20.26	26.95
+249.5	42467	9149.8	1823.5	0.834	23.31	20.36	27.17
+255.5	43591	7962.0	1726.9	0.822	22.89	19.97	26.42
+258.5	44141	8551.1	1888.5	0.819	22.81	19.88	26.32
+263.5	45077	8274.3	1745.5	0.826	23.05	20.14	26.70
+266.5	45622	7824.0	1722.6	0.820	22.83	19.93	26.26
+272.5	46738	9315.0	2004.3	0.823	22.95	20.02	26.56
+276.5	47512	9915.1	2098.8	0.825	23.00	20.11	26.59
+283.5	48805	10637.0	2434.0	0.814	22.63	19.72	26.02
+287.5	49540	11488.1	2698.6	0.810	22.51	19.59	25.82
+294.5	50884	10948.8	2232.5	0.831	23.19	20.24	26.87
+297.5	51446	10393.4	2237.8	0.823	22.94	20.04	26.49
+304.5	52759	12314.0	2433.5	0.835	23.33	20.41	27.12
+308.5	53496	16356.0	3171.9	0.838	23.45	20.50	27.40
+314.5	54607	7446.6	1461.2	0.836	23.39	20.45	27.25
+318.5	55356	9700.2	1755.9	0.847	23.78	20.82	28.00
+326.5	56837	14381.5	2827.5	0.836	23.37	20.44	27.29
+331.5	57739	12077.0	2397.2	0.834	23.31	20.39	27.08
+337.5	58925	13228.3	2298.3	0.852	23.94	20.95	28.32
+346.5	61137	16889.3	3279.4	0.837	23.40	20.48	27.25
+349.5	61831	16950.3	2487.6	0.872	24.72	21.57	30.09
+352.5	62591	22583.6	3570.1	0.863	24.36	21.31	29.40
+357.5	63839	12165.5	1687.9	0.878	24.96	21.81	30.60
+367.5	66327	19948.1	2376.8	0.894	25.68	22.34	32.07
+374.5	68053	8276.3	1323.0	0.862	24.34	21.28	29.25
+378.5	69089	6184.1	1757.3	0.779	21.52	18.64	24.55
+382.5	70118	4920.8	1386.2	0.780	21.56	18.70	24.52
+386.5	71099	7215.7	1780.9	0.802	22.24	19.37	25.41
+390.5	72081	5605.0	1643.1	0.773	21.35	18.52	24.34
+393.5	72810	4674.2	1342.6	0.777	21.47	18.65	24.46
+398.5	73989	6160.4	1642.9	0.789	21.85	18.97	24.90
+403.5	75212	5200.7	1363.0	0.792	21.95	19.08	25.09
+407.5	76118	6829.6	1875.3	0.785	21.72	18.86	24.77
+410.5	76823	6414.9	1776.8	0.783	21.66	18.82	24.72
+416.5	78188	6722.5	1726.6	0.796	22.05	19.19	25.25
+420.5	79065	8092.1	2021.7	0.800	22.19	19.27	25.39
+424.5	79973	6276.0	1653.5	0.791	21.91	19.08	25.00
+429.5	81139	8655.3	2000.9	0.812	22.58	19.67	25.89
+433.5	82037	8066.2	1809.9	0.817	22.73	19.86	26.16
+437.5	82962	4581.4	1141.9	0.800	22.20	19.34	25.36
+442.5	84114	8281.6	1799.3	0.822	22.89	19.99	26.43
+446.5	85038	7043.3	1435.3	0.831	23.21	20.25	26.95
+450.5	85939	7021.9	1513.9	0.823	22.94	20.03	26.50
+455.5	87070	7338.6	1485.9	0.832	23.23	20.33	27.05
+458.5	87772	7625.5	1568.4	0.829	23.15	20.22	26.86
+463.5	88869	6616.8	1417.1	0.824	22.95	20.03	26.49
+467.5	89787	5882.8	1218.6	0.828	23.11	20.21	26.71
+472.5	90968	6183.1	1372.4	0.818	22.76	19.87	26.23
+476.5	91993	7587.6	1771.8	0.811	22.54	19.68	25.88
+478.5	92702	11604.4	2641.3	0.815	22.66	19.74	26.16
+482.5	94244	3470.6	811.1	0.811	22.54	19.64	25.89
+484.5	95042	6138.8	1488.6	0.805	22.33	19.49	25.58
+487.5	96196	7804.3	1845.6	0.809	22.49	19.58	25.82
+489.5	96982	7156.5	1739.0	0.805	22.36	19.47	25.62
+492.5	98105	9021.0	2031.9	0.816	22.70	19.83	26.12
+494.5	98936	7361.8	1777.5	0.806	22.37	19.50	25.67
+497.5	100132	9739.7	2310.8	0.808	22.44	19.58	25.79
+502.5	102097	10058.3	2427.6	0.806	22.37	19.49	25.61
+505.5	103293	8140.0	1819.1	0.817	22.75	19.82	26.20
+508.5	104449	9385.3	2182.7	0.811	22.54	19.68	25.91
+510.5	105242	6236.0	1519.7	0.804	22.34	19.46	25.61
+513.5	106367	8525.7	2174.5	0.797	22.07	19.22	25.29
+516.5	107540	8787.0	1791.0	0.831	23.20	20.30	26.89
+520.5	109067	5973.5	1011.4	0.855	24.06	21.06	28.58
+523.5	110261	5659.4	819.3	0.874	24.81	21.67	30.33
+525.5	111032	5678.1	848.8	0.870	24.63	21.55	30.01
+529.5	112627	5576.9	799.8	0.875	24.86	21.71	30.46
+531.5	113438	5063.9	766.4	0.869	24.61	21.50	29.98
+533.5	114281	5365.5	868.0	0.861	24.29	21.24	29.15
+535.5	115140	5041.5	874.5	0.852	23.95	20.90	28.41
+539.5	116787	4251.5	817.8	0.839	23.46	20.55	27.36
+543.5	118411	3955.2	776.0	0.836	23.37	20.45	27.18
+546.5	119569	3751.9	801.7	0.824	22.96	20.10	26.51
+561.5	123259	3923.0	789.8	0.832	23.23	20.28	27.03
+565.5	124280	3322.4	755.2	0.815	22.66	19.80	26.04
+569.5	125279	2515.7	652.7	0.794	21.99	19.15	25.16
+575.5	126780	3074.7	861.7	0.781	21.58	18.74	24.61
+578.5	127503	3287.7	937.8	0.778	21.49	18.64	24.49
+580.5	127985	3580.1	1088.1	0.767	21.18	18.35	24.10
+582.5	128463	3086.9	1009.1	0.754	20.76	17.94	23.71
+585.5	129173	3282.0	1093.1	0.750	20.64	17.83	23.59
+587.5	129660	3617.0	1119.1	0.764	21.08	18.21	24.01
+590.5	130333	3500.3	1161.0	0.751	20.68	17.84	23.58
+594.5	131230	3391.9	1138.5	0.749	20.61	17.75	23.51
+600.5	132521	3386.9	1226.2	0.734	20.16	17.30	23.00
+603.5	133158	3843.9	1349.6	0.740	20.35	17.50	23.24
+607.5	133999	4054.2	1409.4	0.742	20.39	17.54	23.27
+610.5	134589	4174.4	1338.7	0.757	20.86	18.03	23.77
+615.5	135558	4709.9	1429.4	0.767	21.16	18.31	24.10
+620.5	136542	4604.2	1450.0	0.760	20.95	18.11	23.87
+624.5	137329	2716.3	713.5	0.792	21.94	19.08	25.02
+630.5	138522	5664.4	1694.0	0.770	21.24	18.39	24.20
+634.5	139295	6245.7	1767.7	0.779	21.53	18.68	24.52
+640.5	140475	4540.7	1322.7	0.774	21.40	18.53	24.38
+646.5	141680	5050.9	1449.6	0.777	21.49	18.64	24.46
+650.5	142466	4767.5	1347.8	0.780	21.56	18.69	24.62
+654.5	143261	5546.9	1524.1	0.784	21.69	18.85	24.79
+660.5	144467	4701.4	1398.4	0.771	21.27	18.45	24.30
