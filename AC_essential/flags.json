@@ -3,31 +3,36 @@
   "core": "TSP-2MC",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/ikehara2000/",
   "reason": "HTML directory index, not a data file",
-  "study": "Ikehara et al 2000 Southern Ocean Biomarker Flux Data Set"
+  "study": "Ikehara et al 2000 Southern Ocean Biomarker Flux Data Set",
+  "parser": "parser2"
  },
  {
   "core": "ODP 925B",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/phytoplankton_zhang_2013.txt",
   "reason": "Could not locate a numeric data table",
-  "study": "Paleo-pCO2 Database Atlantic ODP925 40 Million Year Alkenone and CO2 Data"
+  "study": "Paleo-pCO2 Database Atlantic ODP925 40 Million Year Alkenone and CO2 Data",
+  "parser": "parser2"
  },
  {
   "core": "ODP 806B",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/b_ca_tripati_2009.txt",
   "reason": "Could not locate a numeric data table",
-  "study": "Paleo-pCO2 Database Western Pacific 20 Million Year B/Ca and CO2 Data"
+  "study": "Paleo-pCO2 Database Western Pacific 20 Million Year B/Ca and CO2 Data",
+  "parser": "parser2"
  },
  {
   "core": "ODP 588",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/b_ca_tripati_2009.txt",
   "reason": "Could not locate a numeric data table",
-  "study": "Paleo-pCO2 Database Western Pacific 20 Million Year B/Ca and CO2 Data"
+  "study": "Paleo-pCO2 Database Western Pacific 20 Million Year B/Ca and CO2 Data",
+  "parser": "parser2"
  },
  {
   "core": "ODP 999A",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/boron_isotopes_chalk_2017.txt",
   "reason": "Could not locate a numeric data table",
-  "study": "Paleo-pCO2 Database ODP999 1.2 Million Year Boron Isotope and CO2 Data"
+  "study": "Paleo-pCO2 Database ODP999 1.2 Million Year Boron Isotope and CO2 Data",
+  "parser": "parser2"
  },
  {
   "core": "Central Equatorial Pacific",
@@ -90,6 +95,12 @@
   "study": "Prahl et al. 2006 SE Pacific Alkenone Calibration Data"
  },
  {
+  "core": "MD06-3018",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/russon2010/russon2010.txt",
+  "reason": "Same core ID as HOFFMAN \"MD06-3018\" but coordinates fall in a DIFFERENT 1x1 deg cell (166.1494,-23.0031) - grid dedup alone missed it; moved to chronology file",
+  "study": "Coral Sea MD06-3018 1543KYr Mg/Ca SST Reconstruction"
+ },
+ {
   "core": "RC13-110",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r13-110p-tab.txt",
   "reason": "Same core ID as MINED \"RC13-110\" but coordinates fall in a DIFFERENT 1x1 deg cell (-96.0,0.0) - grid dedup alone missed it; moved to chronology file",
@@ -120,6 +131,12 @@
   "study": "Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years"
  },
  {
+  "core": "ODP 806B",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/medina-elizalde2005/medina-elizalde2005.txt",
+  "reason": "Additional source file for same core+proxy (MgCa, 11 pts) not used; richer file kept instead",
+  "study": "Medina-Elizalde and Lea 2005 Tropical Pacific ODP806B Pleistocene Mg/Ca Data and SST Estimates"
+ },
+ {
   "core": "ODP 982",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp982-l-tab.txt",
   "reason": "Additional source file for same core+proxy (UK37, 5 pts) not used; richer file kept instead",
@@ -127,9 +144,9 @@
  },
  {
   "core": "ODP 1172A",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2006/nuernberg2006.txt",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2004b/nuernberg2004b.txt",
   "reason": "Additional source file for same core+proxy (MgCa, 5 pts) not used; richer file kept instead",
-  "study": "N\u00fcrnberg and Groeneveld 2006 Tasman Sea ODP1172A d18O, Mg/Ca, and SST Reconstruction"
+  "study": "N\u00fcrnberg et al. 2004 Tasmanian Gateway ODP Leg 189 Sediment Data and SST Reconstructions"
  },
  {
   "core": "ODP 806B",
@@ -154,6 +171,12 @@
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2013/dyez2013-noaa.txt",
   "reason": "Additional source file for same core+proxy (MgCa, 8 pts) not used; richer file kept instead",
   "study": "Western Pacific Warm Pool ODP871 500 KYr Foraminiferal d18O and Mg/Ca SST"
+ },
+ {
+  "core": "IODP U1446",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2021/clemens2021-u1446-d18Osw-noaa.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (MgCa) not written",
+  "study": "Bay of Bengal, Northeast Indian Margin Stable Isotope, Biomarker and SST Reconstructions since the Mid-Pleistocene"
  },
  {
   "core": "LPAZ-21P",
@@ -228,10 +251,28 @@
   "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
  },
  {
+  "core": "ODP 722",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/huang2007/huang2007biomarker.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (UK37) not written",
+  "study": "Arabian Sea ODP722 11ma Leaf Wax Stable Isotope Data"
+ },
+ {
+  "core": "TR163-19",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lea2004/lea2004.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (MgCa) not written",
+  "study": "Lea 2004 Eastern Tropical Pacific Foraminiferal Mg/Ca and SST Reconstruction"
+ },
+ {
   "core": "TR163-22",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lea2006/lea2006.txt",
   "reason": "Chronology-file duplicate for same core+proxy (MgCa) not written",
   "study": "Lea et al. 2006 Gal\u00e1pagos TR163-22 d18O and Mg/Ca Data and SST Reconstruction"
+ },
+ {
+  "core": "ODP 722",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2010/herbert2010.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (UK37) not written",
+  "study": "Plio-Pleistocene Tropical Alkenone SST Reconstructions"
  },
  {
   "core": "ODP 999A",
@@ -240,29 +281,46 @@
   "study": "Caribbean Foraminiferal Mg/Ca, d18OCalcite, and Paleosalinity"
  },
  {
+  "core": "ODP 1146",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2008/clemens2008.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (UK37) not written",
+  "study": "Clemens et al. 2008 Plio-Pleistocene East Asian Monsoon Proxy Data"
+ },
+ {
+  "core": "ODP 1146",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/thomas2014/thomas2014.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (TEX86) not written",
+  "study": "South China Sea 350KYr Leaf Wax Deuterium and SST Data"
+ },
+ {
+  "core": "ODP 1145",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp1145-tab.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (MgCa) not written",
+  "study": "South China Sea d18O and Mg/Ca Data and SST Reconstruction"
+ },
+ {
   "core": "RC11-120",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/rc11120m-tab.txt",
   "reason": "Chronology-file duplicate for same core+proxy (MgCa) not written",
   "study": "Subantarctic sea surface temperatures and salinity change"
  },
  {
-  "core": "DSDP 588",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/tripati2011/tripati2011species.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
-  "study": "Atmospheric CO2 20 Million Year Foraminiferal B/Ca Reconstruction",
-  "tab": "DSDP 588"
- },
- {
-  "core": "DSDP 588",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/tripati2011/tripati2011species.txt",
-  "reason": "SPARSE: only 2 entries within 115-140 ka",
-  "study": "Atmospheric CO2 20 Million Year Foraminiferal B/Ca Reconstruction",
-  "tab": "DSDP 588"
+  "core": "MD01-2421",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/yamamoto2005/yamamoto2005.txt",
+  "reason": "Chronology-file duplicate for same core+proxy (UK37) not written",
+  "study": "Yamamoto et al. 2005 Northwestern Pacific 144KYr Alkenone SST Estimates"
  },
  {
   "core": "ODP 1094",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/hayes2014/hayes2014.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Depth converted to cm (m->cm) from column \"depth_m\"",
+  "study": "Deep South Atlantic SST Reconstruction and Uranium and d13C Data during the Last Interglacial Period",
+  "tab": "ODP 1094"
+ },
+ {
+  "core": "ODP 1094",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/hayes2014/hayes2014.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Deep South Atlantic SST Reconstruction and Uranium and d13C Data during the Last Interglacial Period",
   "tab": "ODP 1094"
  },
@@ -276,195 +334,102 @@
  {
   "core": "KX97322-4",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/zhang2021/zhang2021.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Equatorial Pacific 360,000 Year Mg/Ca, d18O, and SST/SSS Reconstructions",
   "tab": "KX97322-4"
  },
  {
   "core": "ODP 806B",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp806b-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Equatorial Pacific sea surface temperatures during the late Quaternary",
   "tab": "ODP 806B"
  },
  {
   "core": "RC09-166",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/tierney2017b/tierney2017b.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Gulf of Aden 200,000 Year Stable Isotope and Alkenone SST Data",
   "tab": "RC09-166"
  },
  {
   "core": "IODP U1485",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/bova2020/bova2020-u1485-sst.txt",
-  "reason": "Interval-average product (not per-sample ages) - NOT added to spreadsheet",
+  "reason": "Tab is marked \"manually edited\" in column Y and was preserved verbatim; the pipeline did NOT regenerate it",
   "study": "Holocene and Last Interglacial Regional SST Stacks and Western Pacific Mg/Ca SST Data"
  },
  {
   "core": "MD85668",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m85668eb-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years",
   "tab": "MD85668"
  },
  {
   "core": "MD90963",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md90963-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years",
   "tab": "MD90963"
  },
  {
   "core": "MD85674",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md85674-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years",
   "tab": "MD85674"
  },
  {
   "core": "TY93-929/P",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/t93929-p-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years",
   "tab": "TY93-929-P"
  },
  {
   "core": "IODP U1482",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/tran2025/tran2025-u1482-bio-sst.txt",
-  "reason": "Source has 2 alternative UK37 calibrations (sst_uk_med, sst_tex_med); used \"sst_uk_med\"",
-  "study": "Indian Ocean near Northwest Australia Biomarker, Geochemistry and SST Data over the last 640 Kyr",
-  "tab": "IODP U1482"
+  "reason": "Tab is marked \"manually edited\" in column Y and was preserved verbatim; the pipeline did NOT regenerate it",
+  "study": "Indian Ocean near Northwest Australia Biomarker, Geochemistry and SST Data over the last 640 Kyr"
  },
  {
   "core": "IODP U1482",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/tran2025/tran2025-u1482-bio-sst.txt",
-  "reason": "Uncertainty from paired bounds \"sst_uk_low\"/\"sst_uk_high\"",
-  "study": "Indian Ocean near Northwest Australia Biomarker, Geochemistry and SST Data over the last 640 Kyr",
-  "tab": "IODP U1482"
+  "reason": "Tab is marked \"manually edited\" in column Y and was preserved verbatim; the pipeline did NOT regenerate it",
+  "study": "Indian Ocean near Northwest Australia Biomarker, Geochemistry and SST Data over the last 640 Kyr"
  },
  {
   "core": "MD98-2152",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/windler2019/windler2019.txt",
-  "reason": "Uncertainty from paired bounds \"sst_uk_5\"/\"sst_uk_95\"",
+  "reason": "Credible-interval triplet: central \"sst_uk_med\" used as SST; bounds sst_uk_5, sst_uk_95 rescaled from 90% CI to 2sd",
   "study": "Indo-Pacific Warm Pool 450,000 Year Alkenone Temperature Reconstructions",
   "tab": "MD98-2152"
  },
  {
-  "core": "ODP 1021",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1021.txt",
-  "reason": "Source has 2 alternative UK37 calibrations (SST_P, SST_M); used \"SST_P\"",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1021"
- },
- {
-  "core": "ODP 1021",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1021.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1021"
- },
- {
-  "core": "ODP 1021",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1021.txt",
-  "reason": "SPARSE: only 1 entries within 115-140 ka",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1021"
- },
- {
-  "core": "ODP 1088",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1088.txt",
-  "reason": "Source has 2 alternative UK37 calibrations (SST_P, SST_M); used \"SST_P\"",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1088"
- },
- {
-  "core": "ODP 1088",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1088.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1088"
- },
- {
-  "core": "ODP 1088",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1088.txt",
-  "reason": "SPARSE: only 1 entries within 115-140 ka",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1088"
- },
- {
   "core": "ODP 982",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp982.txt",
-  "reason": "Source has 2 alternative UK37 calibrations (SST_P, SST_M); used \"SST_P\"",
+  "reason": "Alternative SST column(s) present (SST_M); used \"SST_P\"",
   "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
   "tab": "ODP 982"
  },
  {
   "core": "ODP 982",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp982.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
   "tab": "ODP 982"
  },
  {
-  "core": "ODP 1208",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1208.txt",
-  "reason": "Source has 2 alternative UK37 calibrations (SST_P, SST_M); used \"SST_P\"",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1208"
- },
- {
-  "core": "ODP 1208",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1208.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1208"
- },
- {
-  "core": "ODP 1208",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1208.txt",
-  "reason": "SPARSE: only 1 entries within 115-140 ka",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1208"
- },
- {
-  "core": "ODP 1010",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1010.txt",
-  "reason": "Source has 2 alternative UK37 calibrations (SST_P, SST_M); used \"SST_P\"",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1010"
- },
- {
-  "core": "ODP 1010",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1010.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1010"
- },
- {
-  "core": "ODP 1010",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1010.txt",
-  "reason": "SPARSE: only 1 entries within 115-140 ka",
-  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
-  "tab": "ODP 1010"
- },
- {
   "core": "Q200",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/q200-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
+  "reason": "Seasonal columns \"sst-aug\"/\"sst-feb\" averaged to annual mean",
   "study": "Late Quaternary SW Pacific Foraminifer Data",
   "tab": "Q200"
  },
  {
   "core": "Q200",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/q200-tab.txt",
-  "reason": "Source has 2 alternative Foram calibrations (sst-aug, sst-feb); used \"sst-aug\"",
-  "study": "Late Quaternary SW Pacific Foraminifer Data",
-  "tab": "Q200"
- },
- {
-  "core": "Q200",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/q200-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Late Quaternary SW Pacific Foraminifer Data",
   "tab": "Q200"
  },
@@ -478,21 +443,14 @@
  {
   "core": "R657",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r657-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
+  "reason": "Seasonal columns \"sst-aug\"/\"sst-feb\" averaged to annual mean",
   "study": "Late Quaternary SW Pacific Foraminifer Data",
   "tab": "R657"
  },
  {
   "core": "R657",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r657-tab.txt",
-  "reason": "Source has 2 alternative Foram calibrations (sst-aug, sst-feb); used \"sst-aug\"",
-  "study": "Late Quaternary SW Pacific Foraminifer Data",
-  "tab": "R657"
- },
- {
-  "core": "R657",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r657-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Late Quaternary SW Pacific Foraminifer Data",
   "tab": "R657"
  },
@@ -506,21 +464,14 @@
  {
   "core": "U938",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/u938-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
+  "reason": "Seasonal columns \"sst-aug\"/\"sst-feb\" averaged to annual mean",
   "study": "Late Quaternary SW Pacific Foraminifer Data",
   "tab": "U938"
  },
  {
   "core": "U938",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/u938-tab.txt",
-  "reason": "Source has 2 alternative Foram calibrations (sst-aug, sst-feb); used \"sst-aug\"",
-  "study": "Late Quaternary SW Pacific Foraminifer Data",
-  "tab": "U938"
- },
- {
-  "core": "U938",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/u938-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Late Quaternary SW Pacific Foraminifer Data",
   "tab": "U938"
  },
@@ -534,63 +485,112 @@
  {
   "core": "MD99-2331",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstuk37.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "North Atlantic SST, Foraminifera, Isotope and Ice-Rafted Debris Data during the last interglacial and glacial",
   "tab": "MD99-2331_UK37"
  },
  {
   "core": "MD99-2331",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstfor.txt",
-  "reason": "Source has 3 alternative Foram calibrations (SST.for-JAS, SST.for-JAS-i, SST.for-JAS-s); used \"SST.for-JAS\"",
+  "reason": "SUMMER/SEASONAL SIGNAL CORE - only \"SST.for-JAS\" (warm/summer) available",
   "study": "North Atlantic SST, Foraminifera, Isotope and Ice-Rafted Debris Data during the last interglacial and glacial",
   "tab": "MD99-2331_Foram"
  },
  {
   "core": "MD99-2331",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstfor.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Alternative SST column(s) present (SST.for-JAS-i, SST.for-JAS-s); used \"SST.for-JAS\"",
+  "study": "North Atlantic SST, Foraminifera, Isotope and Ice-Rafted Debris Data during the last interglacial and glacial",
+  "tab": "MD99-2331_Foram"
+ },
+ {
+  "core": "MD99-2331",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sanchezgoni2013/sanchezgoni2013-md99-2331-sstfor.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "North Atlantic SST, Foraminifera, Isotope and Ice-Rafted Debris Data during the last interglacial and glacial",
   "tab": "MD99-2331_Foram"
  },
  {
   "core": "ODP 1172A",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2004b/nuernberg2004b.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
-  "study": "N\u00fcrnberg et al. 2004 Tasmanian Gateway ODP Leg 189 Sediment Data and SST Reconstructions",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2006/nuernberg2006.txt",
+  "reason": "Depth converted to cm (m->cm) from column \"Depth [mbsf]\"",
+  "study": "N\u00fcrnberg and Groeneveld 2006 Tasman Sea ODP1172A d18O, Mg/Ca, and SST Reconstruction",
+  "tab": "ODP 1172A"
+ },
+ {
+  "core": "ODP 1172A",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2006/nuernberg2006.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "N\u00fcrnberg and Groeneveld 2006 Tasman Sea ODP1172A d18O, Mg/Ca, and SST Reconstruction",
   "tab": "ODP 1172A"
  },
  {
   "core": "ODP 1170A",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2004b/nuernberg2004b.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Depth converted to cm (m->cm) from column \"Depth [mbsf]\"",
+  "study": "N\u00fcrnberg et al. 2004 Tasmanian Gateway ODP Leg 189 Sediment Data and SST Reconstructions",
+  "tab": "ODP 1170A"
+ },
+ {
+  "core": "ODP 1170A",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2004b/nuernberg2004b.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "N\u00fcrnberg et al. 2004 Tasmanian Gateway ODP Leg 189 Sediment Data and SST Reconstructions",
   "tab": "ODP 1170A"
  },
  {
   "core": "ODP 1168A",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2004b/nuernberg2004b.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Depth converted to cm (m->cm) from column \"Depth [mbsf]\"",
   "study": "N\u00fcrnberg et al. 2004 Tasmanian Gateway ODP Leg 189 Sediment Data and SST Reconstructions",
   "tab": "ODP 1168A"
  },
  {
+  "core": "ODP 1168A",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/nuernberg2004b/nuernberg2004b.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "N\u00fcrnberg et al. 2004 Tasmanian Gateway ODP Leg 189 Sediment Data and SST Reconstructions",
+  "tab": "ODP 1168A"
+ },
+ {
+  "core": "MD01-2412",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/by_contributor/harada2006/harada2006.txt",
+  "reason": "Depth converted to cm (m->cm (by magnitude)) from column \"Depth\"",
+  "study": "Okhotsk Sea MD01-2412 Alkenone Data and SST Reconstruction",
+  "tab": "MD01-2412"
+ },
+ {
+  "core": "MD01-2412",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/by_contributor/harada2006/harada2006.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "Okhotsk Sea MD01-2412 Alkenone Data and SST Reconstruction",
+  "tab": "MD01-2412"
+ },
+ {
+  "core": "MD01-2412",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/by_contributor/harada2006/harada2006.txt",
+  "reason": "SPARSE: only 3 entries within 115-140 ka",
+  "study": "Okhotsk Sea MD01-2412 Alkenone Data and SST Reconstruction",
+  "tab": "MD01-2412"
+ },
+ {
   "core": "ODP 1125",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/peterson2019/peterson2019-odp1125-sst.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Depth converted to cm (m->cm) from column \"MCD\"",
+  "study": "Oxygen isotope and sea surface temperature records from Site 1125 in the southwest Pacific, 0.13-2.8 Ma",
+  "tab": "ODP 1125"
+ },
+ {
+  "core": "ODP 1125",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/peterson2019/peterson2019-odp1125-sst.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Oxygen isotope and sea surface temperature records from Site 1125 in the southwest Pacific, 0.13-2.8 Ma",
   "tab": "ODP 1125"
  },
  {
   "core": "ODP 847",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp847-tab.txt",
-  "reason": "Source has 2 alternative MgCa calibrations (sst-mg/ca, sst-mg/ca.adj); used \"sst-mg/ca\"",
-  "study": "Plio-Pleistocene Seawater Mg/Ca Variability Data and SST Reconstruction",
-  "tab": "ODP 847"
- },
- {
-  "core": "ODP 847",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/odp847-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Plio-Pleistocene Seawater Mg/Ca Variability Data and SST Reconstruction",
   "tab": "ODP 847"
  },
@@ -604,35 +604,35 @@
  {
   "core": "GeoB10083",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/gb10083-tab.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "SIDE NOTE (AC 2026-07-21): sst_err is a constant 0.3 degC and is not defined in the source variable list, so its sd multiple is not stated anywhere in the file. It has been read as 1sd and doubled to a 2sd range of +/-0.6 degC. Worth confirming against Mohtadi et al. if these three cores end up carrying weight in the reconstruction.",
   "study": "South Atlantic circulation during the late Quaternary",
   "tab": "GeoB10083"
  },
  {
   "core": "GeoB10163",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/gb10163-tab.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "SIDE NOTE (AC 2026-07-21): sst_err is a constant 0.3 degC and is not defined in the source variable list, so its sd multiple is not stated anywhere in the file. It has been read as 1sd and doubled to a 2sd range of +/-0.6 degC. Worth confirming against Mohtadi et al. if these three cores end up carrying weight in the reconstruction.",
   "study": "South Atlantic circulation during the late Quaternary",
   "tab": "GeoB10163"
  },
  {
   "core": "GeoB10285",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/gb10285-tab.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "SIDE NOTE (AC 2026-07-21): sst_err is a constant 0.3 degC and is not defined in the source variable list, so its sd multiple is not stated anywhere in the file. It has been read as 1sd and doubled to a 2sd range of +/-0.6 degC. Worth confirming against Mohtadi et al. if these three cores end up carrying weight in the reconstruction.",
   "study": "South Atlantic circulation during the late Quaternary",
   "tab": "GeoB10285"
  },
  {
   "core": "PS1778-5",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/ps1778-5-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
+  "reason": "SUMMER/SEASONAL SIGNAL CORE - only \"sst-aug\" (warm/summer) available",
   "study": "South Atlantic sea surface temperatures during the late Quaternary",
   "tab": "PS1778-5"
  },
  {
   "core": "PS1778-5",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/ps1778-5-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "South Atlantic sea surface temperatures during the late Quaternary",
   "tab": "PS1778-5"
  },
@@ -644,23 +644,23 @@
   "tab": "PS1778-5"
  },
  {
-  "core": "PS1778-5",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/ps1778-5-tab.txt",
-  "tab": "PS1778-5",
-  "reason": "Proxy 'UNKNOWN' is outside Hoffman's six proxy types",
-  "study": "South Atlantic sea surface temperatures during the late Quaternary"
+  "core": "ODP 1144",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/wei2007/wei2007.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "South China Sea ODP1144 260KYr Mg/Ca SST",
+  "tab": "ODP 1144"
  },
  {
   "core": "RS147-GC14",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc14-tab.txt",
-  "reason": "Source has 2 alternative UK37 calibrations (sst-warm.uk37.s, sst-MAT.w); used \"sst-warm.uk37.s\"",
+  "reason": "SUMMER/SEASONAL SIGNAL CORE - only \"sst-warm.uk37.s\" (warm/summer) available",
   "study": "South Tasman Rise Late Quaternary SST Reconstructions",
   "tab": "RS147-GC14"
  },
  {
   "core": "RS147-GC14",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc14-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Alternative SST column(s) present (sst-MAT.w); used \"sst-warm.uk37.s\"",
   "study": "South Tasman Rise Late Quaternary SST Reconstructions",
   "tab": "RS147-GC14"
  },
@@ -674,21 +674,7 @@
  {
   "core": "E45-29",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e45-29-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E45-29"
- },
- {
-  "core": "E45-29",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e45-29-tab.txt",
-  "reason": "Source has 2 alternative Radiolaria calibrations (sst-aug, sst-feb); used \"sst-aug\"",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E45-29"
- },
- {
-  "core": "E45-29",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e45-29-tab.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "Seasonal columns \"sst-aug\"/\"sst-feb\" averaged to annual mean",
   "study": "Southern Indian Ocean circulation during the late Quaternary",
   "tab": "E45-29"
  },
@@ -702,21 +688,7 @@
  {
   "core": "E49-17",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-17-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E49-17"
- },
- {
-  "core": "E49-17",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-17-tab.txt",
-  "reason": "Source has 2 alternative Radiolaria calibrations (sst-aug, sst-feb); used \"sst-aug\"",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E49-17"
- },
- {
-  "core": "E49-17",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-17-tab.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "Seasonal columns \"sst-aug\"/\"sst-feb\" averaged to annual mean",
   "study": "Southern Indian Ocean circulation during the late Quaternary",
   "tab": "E49-17"
  },
@@ -730,21 +702,7 @@
  {
   "core": "E49-18",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-18-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E49-18"
- },
- {
-  "core": "E49-18",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-18-tab.txt",
-  "reason": "Source has 2 alternative Radiolaria calibrations (sst-aug, sst-feb); used \"sst-aug\"",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E49-18"
- },
- {
-  "core": "E49-18",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-18-tab.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "Seasonal columns \"sst-aug\"/\"sst-feb\" averaged to annual mean",
   "study": "Southern Indian Ocean circulation during the late Quaternary",
   "tab": "E49-18"
  },
@@ -758,21 +716,7 @@
  {
   "core": "E49-21",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-21-tab.txt",
-  "reason": "Seasonal SST column \"sst-aug\" (not an annual mean)",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E49-21"
- },
- {
-  "core": "E49-21",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-21-tab.txt",
-  "reason": "Source has 2 alternative Radiolaria calibrations (sst-aug, sst-feb); used \"sst-aug\"",
-  "study": "Southern Indian Ocean circulation during the late Quaternary",
-  "tab": "E49-21"
- },
- {
-  "core": "E49-21",
-  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-21-tab.txt",
-  "reason": "Reported 1sd DOUBLED to 2sd",
+  "reason": "Seasonal columns \"sst-aug\"/\"sst-feb\" averaged to annual mean",
   "study": "Southern Indian Ocean circulation during the late Quaternary",
   "tab": "E49-21"
  },
@@ -786,14 +730,21 @@
  {
   "core": "RC12-225",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r12-225r-tab.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Southern Ocean G. bulloides Cd/Ca, Mg/Ca, and d18O",
   "tab": "RC12-225"
  },
  {
   "core": "DSDP 593",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/mcclymont2016/mcclymont2016-dsdp593.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Depth converted to cm (m->cm) from column \"depth_mbsf\"",
+  "study": "Southwest Pacific Isotope, Chemistry and Alkenone Data: Surface and Intermediate Water Temperature Reconstructions over the last 3.5 Ma",
+  "tab": "DSDP 593"
+ },
+ {
+  "core": "DSDP 593",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/mcclymont2016/mcclymont2016-dsdp593.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Southwest Pacific Isotope, Chemistry and Alkenone Data: Surface and Intermediate Water Temperature Reconstructions over the last 3.5 Ma",
   "tab": "DSDP 593"
  },
@@ -807,22 +758,97 @@
  {
   "core": "ODP 882",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/martinez-garcia2010/martinez-garcia2010.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
   "study": "Subantarctic Atlantic and Subarctic Pacific 3.6 Ma Alkenone SST Reconstructions",
   "tab": "ODP 882"
  },
  {
   "core": "VM19-193",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/windler2022/vm19-193_windler2022.txt",
-  "reason": "Uncertainty from paired bounds \"sst_uk_low\"/\"sst_uk_high\"",
+  "reason": "Credible-interval triplet: central \"sst_uk_med\" used as SST; bounds sst_uk_low, sst_uk_high rescaled from 90% CI to 2sd",
   "study": "VM19-193, Indian Ocean, 250,000 year long biomarker reconstructions",
   "tab": "VM19-193"
  },
  {
   "core": "ODP 871",
   "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2014-grl/dyez2014-grl.txt",
-  "reason": "No uncertainty column in source; SST -2sd/+2sd left blank",
+  "reason": "Depth converted to cm (m->cm) from column \"depth_m\"",
   "study": "Western Pacific Warm Pool Oxygen Isotope and Mg/Ca Data and SST Reconstruction during the Pleistocene",
   "tab": "ODP 871"
+ },
+ {
+  "core": "ODP 871",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2014-grl/dyez2014-grl.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "Western Pacific Warm Pool Oxygen Isotope and Mg/Ca Data and SST Reconstruction during the Pleistocene",
+  "tab": "ODP 871"
+ },
+ {
+  "core": "MD97-2140",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/degaridel-thoron2005/degaridel-thoron2005.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "de Garidel-Thoron et al. 2005 Western Pacific Warm Pool Pleistocene paired d18O-Mg/Ca and SST Reconstruction",
+  "tab": "MD97-2140"
+ },
+ {
+  "core": "TSP-2PC",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/ikehara2000/",
+  "reason": "Columns hand-mapped (section 6.3): depth cm, age ka, UK37 index, SST degC",
+  "study": "Ikehara et al 2000 Southern Ocean Biomarker Flux Data Set",
+  "tab": "TSP-2PC"
+ },
+ {
+  "core": "TSP-2PC",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/ikehara2000/",
+  "reason": "CORE ID CONFLICT: NCEI files this study under site \"TSP-2MC\", but the data table is titled \"TSP-2PC\"; AC confirmed TSP-2PC",
+  "study": "Ikehara et al 2000 Southern Ocean Biomarker Flux Data Set",
+  "tab": "TSP-2PC"
+ },
+ {
+  "core": "TSP-2PC",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/ikehara2000/",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "Ikehara et al 2000 Southern Ocean Biomarker Flux Data Set",
+  "tab": "TSP-2PC"
+ },
+ {
+  "core": "ODP 967",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-med.txt",
+  "reason": "Extracted from the multi-site stack herbert2016-med.txt by sitename == \"967\"; the file's other 15 sitenames are Mediterranean land sections and ODP 964, none with samples in 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
+  "tab": "ODP 967"
+ },
+ {
+  "core": "ODP 967",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-med.txt",
+  "reason": "Coordinates taken from the ODP 967 site record, NOT from the file's NCEI metadata, which gives a single land coordinate (43.62N 13.59E, \"Central/Southern Italy\") for the whole stack",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
+  "tab": "ODP 967"
+ },
+ {
+  "core": "ODP 967",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-med.txt",
+  "reason": "Alternative calibration SST_M (Muller et al. 1998) available; SST_P used",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
+  "tab": "ODP 967"
+ },
+ {
+  "core": "ODP 967",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-med.txt",
+  "reason": "No SST uncertainty column in source; -2sd/+2sd blank",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data",
+  "tab": "ODP 967"
+ },
+ {
+  "core": "RC13-110",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r13-110p-tab.txt",
+  "reason": "Chronology-file tab dropped: AC confirmed the version already in SST_Data_Mining.xlsx is the correct one",
+  "study": "Eastern Equatorial Pacific Radiolaria Data"
+ },
+ {
+  "core": "NH22P",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/kumar2022/nh22p_kumar2022.txt",
+  "reason": "Chronology-file tab dropped: AC confirmed the version already in SST_Data_Mining.xlsx is the correct one",
+  "study": "Eastern Pacific Alkenone Sea Surface Temperature Reconstruction over the past 144,000 years"
  }
 ]

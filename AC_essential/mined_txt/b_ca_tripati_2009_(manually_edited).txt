@@ -1,0 +1,117 @@
+# Paleo-pCO2 Database Western Pacific 20 Million Year B/Ca and CO2 Data 												
+#----------------------------------------------------------------------- 												
+"#                World Data Service for Paleoclimatology, Boulder "												
+#                                  and 												
+#                     NOAA Paleoclimatology Program 												
+#             National Centers for Environmental Information (NCEI)												
+#----------------------------------------------------------------------- 												
+# Template Version 3.0												
+# Encoding: UTF-8												
+"# NOTE: Please cite Publication, and Online_Resource and date accessed when using these data. "												
+"# If there is no publication information, please cite Investigators, Title, and Online_Resource and date accessed. "												
+#												
+# Online_Resource: https://www.ncdc.noaa.gov/paleo/study/24350												
+#       Description: NOAA Landing Page												
+# Online_Resource: https://www1.ncdc.noaa.gov/pub/data/paleo/climate_forcing/trace_gases/Paleo-pCO2/B_Ca_Tripati_2009.txt												
+#       Description: NOAA location of the template												
+#												
+# Original_Source_URL:  												
+#       Description:												
+# 												
+# Description/Documentation lines begin with #												
+# Data lines have no #												
+#												
+# Archive: Climate Forcing												
+#												
+# Dataset DOI: 												
+#												
+# Parameter_Keywords: carbon dioxide												
+#--------------------												
+# Contribution_Date												
+#	Date: 2018-06-06											
+#--------------------												
+# File_Last_Modified_Date												
+#	Date: 2020-02-25											
+#--------------------												
+# Title												
+#	Study_Name: Paleo-pCO2 Database Western Pacific 20 Million Year B/Ca and CO2 Data  											
+#--------------------												
+# Investigators												
+#	"Investigators: Tripati, A.K.; Roberts, C.D.; Eagle, R.A. "											
+#--------------------												
+# Description_Notes_and_Keywords												
+#	Description: Paleo-CO2 derived from boron/calcium measurements on planktonic foraminifera samples from 2 Ocean Drilling Program cores 											
+#	"collected in the western Pacific, contributed to the Paleo-pCO2 Database. "											
+#	File updated February 2020 - new Paleo-pCO2 Database format											
+#												
+#--------------------												
+# Publication 												
+#	"Authors: Aradhna K. Tripati, Christopher D. Roberts, Robert A. Eagle"											
+#	Published_Date_or_Year: 2009-12-04											
+#	Published_Title: Coupling of CO2 and Ice Sheet Stability Over Major Climate Transitions of the Last 20 Million Years											
+#	Journal_Name: Science											
+#	Volume: 326											
+#	Edition: 											
+#	Issue: 5958											
+#	Pages: 1394-1397											
+#	Report_Number: 											
+#	DOI: 10.1126/science.1178296 											
+#	Online_Resource: http://science.sciencemag.org/content/326/5958/1394											
+#	Full_Citation: 											
+#	"Abstract: The carbon dioxide (CO2) content of the atmosphere has varied cyclically between ~180 and ~280 parts per million by volume over the past 800,000 years, closely coupled with temperature and sea level. For earlier periods in Earth's history, the partial pressure of CO2 (pCO2) is much less certain, and the relation between pCO2 and climate remains poorly constrained. We use boron/calcium ratios in foraminifera to estimate pCO2 during major climate transitions of the past 20 million years. During the Middle Miocene, when temperatures were ~3 to 6C warmer and sea level was 25 to 40 meters higher than at present, pCO2 appears to have been similar to modern levels. Decreases in pCO2 were apparently synchronous with major episodes of glacial expansion during the Middle Miocene (~14 to 10 million years ago) and Late Pliocene (~3.3 to 2.4 million years ago)."											
+#------------------												
+# Funding_Agency 												
+#	Funding_Agency_Name: National Environmental Research Council 											
+#	"Grant: NE/D009049/1, NER/S/A/2006/14070"											
+#------------------												
+# Site_Information 												
+#	Site_Name: ODP806											
+#	Location: Ocean>Pacific Ocean>Western Pacific Ocean											
+#	Country: 											
+#	Northernmost_Latitude: 0.31972222											
+# 	Southernmost_Latitude: 0.31972222											
+# 	Easternmost_Longitude: 159.368888											
+# 	Westernmost_Longitude: 159.368888											
+# 	Elevation:  m											
+#------------------												
+# Site_Information 												
+#	Site_Name: ODP588											
+#	Location: Ocean>Pacific Ocean>Western Pacific Ocean											
+#	Country: 											
+#	Northernmost_Latitude: -26.10194444											
+# 	Southernmost_Latitude: -26.10194444											
+# 	Easternmost_Longitude: 161.21833333											
+# 	Westernmost_Longitude: 161.21833333											
+# 	Elevation:  m											
+#------------------												
+# Data_Collection   												
+#	Collection_Name: Tripati2009B-Ca											
+#	Earliest_Year: 19060000											
+#	Most_Recent_Year: 6183											
+#	Time_Unit: Cal. Year BP											
+#	Core_Length: 											
+#	Notes: 											
+#------------------												
+# Chronology_Information												
+#	Chronology: 											
+# 												
+#----------------												
+# Variables 												
+#												
+"# Data variables follow are preceded by ""##"" in columns one and two."												
+"# Data line variables format:  one per line, shortname-tab-variable components (what, material, error, units, seasonality, data type,detail, method, C or N for Character or Numeric data, free text) "												
+#												
+#												
+#----------------												
+# Data:												
+# Data lines follow (have no #)												
+"# Data line format - tab-delimited text, variable short name as header"												
+# Missing Values:  												
+												
+Age (ka)	"reference to age model, if different from primary reference of data set"	Age (ka)	"reference to age model, if different from primary reference of data set"	foraminifer species analyzed	foraminifer size class (µm)	number of foraminifera shells per sample 	"B/Ca (µmol/mol, average of replicates)"	temperature (°C)	2s temperature pos (°C)	2s temperature neg (°C)	"Mg/Ca  (mmol/mol, average of replicates)"	temperature calibration equation
+106	Medina-Elizalde and Lea (2005)	125	LR04	G. ruber white	250-300	50-60	117.1	29.7	1	1	4.6	SST=LN((Mg/Ca)/0.32)/0.09
+106	Medina-Elizalde and Lea (2005)	125	LR04	G. sacculifer	300-355	50-60	76.3	29.28	1	1	4.2	SST=LN((Mg/Ca)/0.3)/0.09
+111	Medina-Elizalde and Lea (2005)	133	LR04	G. ruber white	250-300	50-60	112.1	29.7	1	1	4.6	SST=LN((Mg/Ca)/0.32)/0.09
+111	Medina-Elizalde and Lea (2005)	133	LR04	G. sacculifer	300-355	50-60	83.6	29.73	1	1	4.4	SST=LN((Mg/Ca)/0.3)/0.09
+128	Medina-Elizalde and Lea (2005)	161	LR04	G. ruber white	250-300	50-60	109.3	27.5	1	1	3.8	SST=LN((Mg/Ca)/0.32)/0.09
+128	Medina-Elizalde and Lea (2005)	161	LR04	G. sacculifer	300-355	50-60	72.1	27.46	1	1	3.6	SST=LN((Mg/Ca)/0.3)/0.09

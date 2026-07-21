@@ -1,124 +1,124 @@
-# Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene
-#-----------------------------------------------------------------------
-#               World Data Service for Paleoclimatology, Boulder
-#                                   and
-#                      NOAA Paleoclimatology Program
-#-----------------------------------------------------------------------
-# Template Version 4.0
-# Encoding: UTF-8
-# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data.
-# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
-#
-# Description/Documentation lines begin with '#' followed by a space
-# Data lines have no '#'
-#
-# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/36513
-#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
-#
-# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-recon-36513.json
-#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
-#
-# Data_Type: Climate Reconstructions
-#
-# Dataset_DOI: 10.25921/n8zs-6f90
-#
-# Science_Keywords: Sea Surface Temperature Reconstruction
-#---------------------------------------
-# Resource_Links
-#
-# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp475.txt
-#   Data_Download_Description: NOAA Template File; SST Reconstruction Data
-#
-#---------------------------------------
-# Contribution_Date
-#   Date: 2022-05-31
-#---------------------------------------
-# File_Last_Modified_Date
-#   Date: 2025-05-19
-#---------------------------------------
-# Title
-#   Study_Name: Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene
-#---------------------------------------
-# Investigators
-#   Investigators: Brennan, Peter; Bhattacharya, Tripti; Feng, R.; Tierney, J. E.; Jorgensen, E.
-#---------------------------------------
-# Description_Notes_and_Keywords
-#   Description: Alkenone-based SST reconstructions (unsaturation index) from sediment-derived organics from coastal California
-#         Provided Keywords: Pliocene, sea surface temperature, California margin
-#---------------------------------------
-# Publication
-#   Authors: Brennan, P. R.; Bhattacharya, T.; Feng, R.; Tierney, J. E.; Jorgensen, E.
-#   Published_Date_or_Year: 2022-07-01
-#   Published_Title: Patterns and mechanisms of northeast Pacific temperature response to Pliocene boundary conditions
-#   Journal_Name: Paleoceanography and Paleoclimatology
-#   Volume: 37
-#   Edition: 
-#   Issue: 7
-#   Pages: 
-#   Report_Number: e2021PA004370
-#   DOI: 10.1029/2021PA004370
-#   Online_Resource: 
-#   Full_Citation: 
-#   Abstract: Ocean-atmosphere dynamics in the north Pacific play an important role in the global climate system and influence hydroclimate in western North America. However, changes to this region’s mean climate under increased atmospheric greenhouse gas (GHG) concentrations are not well understood. Here we present new alkenone-based records of sea surface temperature (SST) from the northeast Pacific from the mid-Piacenzian warm period (MPWP; approximately 3.3 – 3.0 Ma), an interval considered to be an analogue for near-future climate under middle-of-the-road anthropogenic emissions. We compare these and other alkenone-based SST records from the north Pacific to fully-coupled climate model simulations to examine the impact of mid-Pliocene CO2 and other boundary conditions on regional climate dynamics and to explore factors governing model disagreement about regional temperature patterns. Model performance varies regionally, with CESM1.2 and CESM2 performing best in regions with greater warming like the California Margin, though these models underestimate the warming evidenced in our new proxy record and others from the region. Single forcing simulations reveal a strong influence for prescribed land surface changes and higher CO2 levels on coastal warming patterns along the California Margin in CESM2. Furthermore, differences in shortwave and longwave radiation and circulation between the models, likely related to changes in the atmospheric component of the model, may play a key role in the ability of models to capture regionally-varying patterns of Pliocene warmth. Regional patterns of temperature change inferred from geochemical records could therefore help to understand the impacts of different model parameterization schemes on regional climate patterns.
-#---------------------------------------
-# Funding_Agency
-#   Funding_Agency_Name: US National Science Foundation
-#   Grant: DGE-1449617, OCE-1903148, OCE-2029680, OCE-1903171, OCE-1903650,OCE-2103055
-#---------------------------------------
-# Site_Information
-#   Site_Name: Deep Sea Drilling Project Site 475
-#   Location: North Pacific
-#   Northernmost_Latitude: 23.03
-#   Southernmost_Latitude: 23.03
-#   Easternmost_Longitude: -109.03
-#   Westernmost_Longitude: -109.03
-#   Elevation_m: -2631
-#---------------------------------------
-# Data_Collection
-#   Collection_Name: DSDP475-alkenones
-#   First_Year: 3880000
-#   Last_Year: 0
-#   Time_Unit: calendar year before present
-#   Core_Length_m: 
-#   Parameter_Keywords: biomarkers, geochemistry
-#   Notes: 
-#---------------------------------------
-# Chronology_Information 
-# Chronology: 
-# age (ma)	age of biostratigraphic marker (Ma)
-# composite depth (cm)	composite depth of sample (cm)
-# age marker	biostratigraphic specimen
-# notes	Notes
-# 
-# age (ma)	composite depth (cm)	age marker	notes
-# 0.4	1436	Axoprunum angelinum, LAD	
-# 0.48	1793	Pseudoemiliana lacunosa, LAD	
-# 0.8-1.0	3291	Mesocena quadrangula, T	
-# 1.45	5403	Change in radiolarian abundance	
-# 1.8-1.9	6321	Discoaster brouweri, LAD	
-# 2.3-2.4	6811	Discoaster pentaradiatus, LAD	
-# 2.4-2.5	7621	Discoaster surculus, LAD	
-# 2.5-2.6	9481	Discoaster tamalis, Stichocorys pereegrina, LAD	
-# 3.2	13031	Reticulofenestra psuedoumbilica LAD, Didymocyrtis avita (Panartatus avita) LAD	
-# 4.6	13327	Ceratolithus rugosus, LAD	
-#---------------------------------------
-# Variables
-# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
-#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
-#
-# Data variables follow that are preceded by "##" in columns one and two.
-# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
-#
-## depth_cm	depth,,,centimeter,,paleoceanography; Climate Reconstructions,,,N,
-## age_ma	age,,,million years ago,,paleoceanography; Climate Reconstructions,,,N,
-## Uk37	alkenone unsaturation index Uk37 prime,,,dimensionless,,paleoceanography,raw,gas chromatography - flame ionization detection,N,
-## Uk37_err	alkenone unsaturation index Uk37 prime,,unspecified margin of error,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,alkenone unsaturation index error based on repeat measurements of internal standard
-## sst_median	sea surface temperature,,,degree Celsius,annual,paleoceanography; Climate Reconstructions,,gas chromatography - flame ionization detection,N,median SST; calibrated SST with bayspline
-#------------------------
-# Data:
-# Data lines follow (have no #)
-# Data line format - tab-delimited text, variable short name as header
-# Missing_Values: -999
+# Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene				
+#-----------------------------------------------------------------------				
+"#               World Data Service for Paleoclimatology, Boulder"				
+#                                   and				
+#                      NOAA Paleoclimatology Program				
+#-----------------------------------------------------------------------				
+# Template Version 4.0				
+# Encoding: UTF-8				
+"# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data."				
+"# If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed."				
+#				
+# Description/Documentation lines begin with '#' followed by a space				
+# Data lines have no '#'				
+#				
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/36513				
+"#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata."				
+#				
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-recon-36513.json				
+"#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata."				
+#				
+# Data_Type: Climate Reconstructions				
+#				
+# Dataset_DOI: 10.25921/n8zs-6f90				
+#				
+# Science_Keywords: Sea Surface Temperature Reconstruction				
+#---------------------------------------				
+# Resource_Links				
+#				
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp475.txt				
+#   Data_Download_Description: NOAA Template File; SST Reconstruction Data				
+#				
+#---------------------------------------				
+# Contribution_Date				
+#   Date: 2022-05-31				
+#---------------------------------------				
+# File_Last_Modified_Date				
+#   Date: 2025-05-19				
+#---------------------------------------				
+# Title				
+#   Study_Name: Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene				
+#---------------------------------------				
+# Investigators				
+"#   Investigators: Brennan, Peter; Bhattacharya, Tripti; Feng, R.; Tierney, J. E.; Jorgensen, E."				
+#---------------------------------------				
+# Description_Notes_and_Keywords				
+#   Description: Alkenone-based SST reconstructions (unsaturation index) from sediment-derived organics from coastal California				
+"#         Provided Keywords: Pliocene, sea surface temperature, California margin"				
+#---------------------------------------				
+# Publication				
+"#   Authors: Brennan, P. R.; Bhattacharya, T.; Feng, R.; Tierney, J. E.; Jorgensen, E."				
+#   Published_Date_or_Year: 2022-07-01				
+#   Published_Title: Patterns and mechanisms of northeast Pacific temperature response to Pliocene boundary conditions				
+#   Journal_Name: Paleoceanography and Paleoclimatology				
+#   Volume: 37				
+#   Edition: 				
+#   Issue: 7				
+#   Pages: 				
+#   Report_Number: e2021PA004370				
+#   DOI: 10.1029/2021PA004370				
+#   Online_Resource: 				
+#   Full_Citation: 				
+"#   Abstract: Ocean-atmosphere dynamics in the north Pacific play an important role in the global climate system and influence hydroclimate in western North America. However, changes to this region’s mean climate under increased atmospheric greenhouse gas (GHG) concentrations are not well understood. Here we present new alkenone-based records of sea surface temperature (SST) from the northeast Pacific from the mid-Piacenzian warm period (MPWP; approximately 3.3 – 3.0 Ma), an interval considered to be an analogue for near-future climate under middle-of-the-road anthropogenic emissions. We compare these and other alkenone-based SST records from the north Pacific to fully-coupled climate model simulations to examine the impact of mid-Pliocene CO2 and other boundary conditions on regional climate dynamics and to explore factors governing model disagreement about regional temperature patterns. Model performance varies regionally, with CESM1.2 and CESM2 performing best in regions with greater warming like the California Margin, though these models underestimate the warming evidenced in our new proxy record and others from the region. Single forcing simulations reveal a strong influence for prescribed land surface changes and higher CO2 levels on coastal warming patterns along the California Margin in CESM2. Furthermore, differences in shortwave and longwave radiation and circulation between the models, likely related to changes in the atmospheric component of the model, may play a key role in the ability of models to capture regionally-varying patterns of Pliocene warmth. Regional patterns of temperature change inferred from geochemical records could therefore help to understand the impacts of different model parameterization schemes on regional climate patterns."				
+#---------------------------------------				
+# Funding_Agency				
+#   Funding_Agency_Name: US National Science Foundation				
+"#   Grant: DGE-1449617, OCE-1903148, OCE-2029680, OCE-1903171, OCE-1903650,OCE-2103055"				
+#---------------------------------------				
+# Site_Information				
+#   Site_Name: Deep Sea Drilling Project Site 475				
+#   Location: North Pacific				
+#   Northernmost_Latitude: 23.03				
+#   Southernmost_Latitude: 23.03				
+#   Easternmost_Longitude: -109.03				
+#   Westernmost_Longitude: -109.03				
+#   Elevation_m: -2631				
+#---------------------------------------				
+# Data_Collection				
+#   Collection_Name: DSDP475-alkenones				
+#   First_Year: 3880000				
+#   Last_Year: 0				
+#   Time_Unit: calendar year before present				
+#   Core_Length_m: 				
+"#   Parameter_Keywords: biomarkers, geochemistry"				
+#   Notes: 				
+#---------------------------------------				
+# Chronology_Information 				
+# Chronology: 				
+# age (ma)	age of biostratigraphic marker (Ma)			
+# composite depth (cm)	composite depth of sample (cm)			
+# age marker	biostratigraphic specimen			
+# notes	Notes			
+# 				
+# age (ma)	composite depth (cm)	age marker	notes	
+# 0.4	1436	"Axoprunum angelinum, LAD"		
+# 0.48	1793	"Pseudoemiliana lacunosa, LAD"		
+# 0.8-1.0	3291	"Mesocena quadrangula, T"		
+# 1.45	5403	Change in radiolarian abundance		
+# 1.8-1.9	6321	"Discoaster brouweri, LAD"		
+# 2.3-2.4	6811	"Discoaster pentaradiatus, LAD"		
+# 2.4-2.5	7621	"Discoaster surculus, LAD"		
+# 2.5-2.6	9481	"Discoaster tamalis, Stichocorys pereegrina, LAD"		
+# 3.2	13031	"Reticulofenestra psuedoumbilica LAD, Didymocyrtis avita (Panartatus avita) LAD"		
+# 4.6	13327	"Ceratolithus rugosus, LAD"		
+#---------------------------------------				
+# Variables				
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf				
+"#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format."				
+#				
+"# Data variables follow that are preceded by ""##"" in columns one and two."				
+"# Variables list, one per line, shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)"				
+#				
+## depth_cm	"depth,,,centimeter,,paleoceanography; Climate Reconstructions,,,N,"			
+## age_ma	"age,,,million years ago,,paleoceanography; Climate Reconstructions,,,N,"			
+## Uk37	"alkenone unsaturation index Uk37 prime,,,dimensionless,,paleoceanography,raw,gas chromatography - flame ionization detection,N,"			
+## Uk37_err	"alkenone unsaturation index Uk37 prime,,unspecified margin of error,dimensionless,,paleoceanography,,gas chromatography - flame ionization detection,N,alkenone unsaturation index error based on repeat measurements of internal standard"			
+## sst_median	"sea surface temperature,,,degree Celsius,annual,paleoceanography; Climate Reconstructions,,gas chromatography - flame ionization detection,N,median SST; calibrated SST with bayspline"			
+#------------------------				
+# Data:				
+# Data lines follow (have no #)				
+"# Data line format - tab-delimited text, variable short name as header"				
+# Missing_Values: -999				
 depth_cm	age_ma	Uk37	Uk37_err	sst_median
 48	0	0.769208771	0.005	21.31360723
 111	0.01143695	0.8343838	0.005	23.30649719

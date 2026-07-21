@@ -1,44 +1,44 @@
-# NOAA Paleoclimatology Program - Paleocean Site Data
-# odp1014a-tab.txt
-# Complete Data
-# File Created: 09-Dec-2011
-#
-#*********************************************************************************
-# Please cite the contributor and the original publications when using these data
-#*********************************************************************************
-#
-# Missing Values indicated by '-999'
-#
-# PI:             Masanobu Yamamoto
-# Core/Site:      ODP1014A
-# Latitude:       32.48.00N	( 32.8)
-# Longitude:      118.54.00W	( -118.9)
-# Water Depth(m): 1165
-#
-# Publications:
-#   Yamamoto, M., M. Yamamuro, and Y. Tanaka. 2007. The California current system
-#     during the last 136,000 years:response of the North Pacific High to precessional
-#     forcing.Quaternary Science Reviews, Vol. 26, pp. 405–414.
-#   Yamamoto, M., M. Yamamuro, and R. Tada. 2000. Late Quaternary records of organic
-#     carbon, calcium carbonate and biomarkers from Site 1016 off Point Conception,
-#     California margin.  ODP Scientific Results, 167, 183-194.
-#------------------
-#
-# Description & Notes:
-#   California Current 136KYr Alkenone Sea Surface Temperature Estimates 
-#   Alkenones and alkenoates were analyzed following the method of Yamamoto et al.
-#   (2000). UK'37 was calculated from the concentrations of di- and tri-unsaturated
-#   C37 alken-2-ones [C37MK] using the method of Prahl et al., (1988).
-#
-# Variables:
-#             depth         Depth (cm)
-#             calyrBP       calendar years B.P. (B.P. = 1950)
-#             corrdptcm     Corrected depth (cm)
-#             d15N          delta N15 (per mil)
-#             sst-uk37      Sea Surface Temperature from Uk'37 (C)
-#             uk37          Alkenone saturation index
-#
-# CORE: ODP1014A
+# NOAA Paleoclimatology Program - Paleocean Site Data						
+# odp1014a-tab.txt						
+# Complete Data						
+# File Created: 09-Dec-2011						
+#						
+#*********************************************************************************						
+# Please cite the contributor and the original publications when using these data						
+#*********************************************************************************						
+#						
+# Missing Values indicated by '-999'						
+#						
+# PI:             Masanobu Yamamoto						
+# Core/Site:      ODP1014A						
+# Latitude:       32.48.00N	-32.8					
+# Longitude:      118.54.00W	( -118.9)					
+# Water Depth(m): 1165						
+#						
+# Publications:						
+"#   Yamamoto, M., M. Yamamuro, and Y. Tanaka. 2007. The California current system"						
+"#     during the last 136,000 years:response of the North Pacific High to precessional"						
+"#     forcing.Quaternary Science Reviews, Vol. 26, pp. 405–414."						
+"#   Yamamoto, M., M. Yamamuro, and R. Tada. 2000. Late Quaternary records of organic"						
+"#     carbon, calcium carbonate and biomarkers from Site 1016 off Point Conception,"						
+"#     California margin.  ODP Scientific Results, 167, 183-194."						
+#------------------						
+#						
+# Description & Notes:						
+#   California Current 136KYr Alkenone Sea Surface Temperature Estimates 						
+#   Alkenones and alkenoates were analyzed following the method of Yamamoto et al.						
+#   (2000). UK'37 was calculated from the concentrations of di- and tri-unsaturated						
+"#   C37 alken-2-ones [C37MK] using the method of Prahl et al., (1988)."						
+#						
+# Variables:						
+#             depth         Depth (cm)						
+#             calyrBP       calendar years B.P. (B.P. = 1950)						
+#             corrdptcm     Corrected depth (cm)						
+#             d15N          delta N15 (per mil)						
+#             sst-uk37      Sea Surface Temperature from Uk'37 (C)						
+#             uk37          Alkenone saturation index						
+#						
+# CORE: ODP1014A						
 depth	calyrBP 	corrdptcm	d15N	sst-uk37	uk37	notes
 0.05	870	0.05	7.887	15.805	0.576	1 H 1 5 - 7
 0.25	2297	0.25	7.723	15.797	0.576	1 H 1 25 - 27

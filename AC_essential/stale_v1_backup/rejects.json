@@ -1,0 +1,398 @@
+[
+ {
+  "core": "ODP 806B",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/tripati2011/tripati2011replicate.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Atmospheric CO2 20 Million Year Foraminiferal B/Ca Reconstruction"
+ },
+ {
+  "core": "TN057-21",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sachs2003/sachs2003-tn057-21-pc2.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Cape Basin, South Atlantic SST Over the Past 160ky"
+ },
+ {
+  "core": "VM28-22",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/vm28-122-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Caribbean Foraminiferal Mg/Ca, d18OCalcite, and Paleosalinity"
+ },
+ {
+  "core": "R657",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/r657-s-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Chatham Rise Alkenone and Foraminiferal SST Estimates"
+ },
+ {
+  "core": "W268",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/w268-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Chatham Rise Alkenone and Foraminiferal SST Estimates"
+ },
+ {
+  "core": "U938",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/u938-s-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Chatham Rise Alkenone and Foraminiferal SST Estimates"
+ },
+ {
+  "core": "MD06-3018",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/russon2010/russon2010.txt",
+  "reason": "No SST column found in data table",
+  "study": "Coral Sea MD06-3018 1543KYr Mg/Ca SST Reconstruction"
+ },
+ {
+  "core": "ME0005A-43JC",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dubois2014/dubois2014-43jc-sst.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Eastern Equatorial Pacific 100Kyr Benthic d18O and SST Data"
+ },
+ {
+  "core": "ME0005A-27JC",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dubois2014/dubois2014-27jc-sst.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Eastern Equatorial Pacific 100Kyr Benthic d18O and SST Data"
+ },
+ {
+  "core": "ODP 668B",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/hoenisch2009/hoenisch2009.txt",
+  "reason": "No SST column found in data table",
+  "study": "H\u00f6nisch et al. 2009 Pleistocene ODP 668B Isotope and PCO2 Data"
+ },
+ {
+  "core": "MD79257",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/md79257-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years"
+ },
+ {
+  "core": "MD79257",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/syntrace/t21data/md79257-sytr-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Indian Ocean Sea Surface Temperature Reconstruction for last 150,000 years"
+ },
+ {
+  "core": "ODP 1241",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1241.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "ODP 1338",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1338.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "DSDP 594",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-dsdp594.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "ODP 907",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp907.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "ODP 1085",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1085.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "ODP 887",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp887.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "ODP 850",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp850.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "ODP 1125",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2016/herbert2016-odp1125.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Miocene to Present Global Ocean Alkenone and SST Reconstruction Data"
+ },
+ {
+  "core": "DSDP 594",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/dsdp594w-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Quaternary SW Pacific Foraminifer Data"
+ },
+ {
+  "core": "Q585",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/q585-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Quaternary SW Pacific Foraminifer Data"
+ },
+ {
+  "core": "S794",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/s794-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Late Quaternary SW Pacific Foraminifer Data"
+ },
+ {
+  "core": "ODP 806B",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/medina-elizalde2005/medina-elizalde2005.txt",
+  "reason": "No SST column found in data table",
+  "study": "Medina-Elizalde and Lea 2005 Tropical Pacific ODP806B Pleistocene Mg/Ca Data and SST Estimates"
+ },
+ {
+  "core": "MD01-2412",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/by_contributor/harada2006/harada2006.txt",
+  "reason": "No SST column found in data table",
+  "study": "Okhotsk Sea MD01-2412 Alkenone Data and SST Reconstruction"
+ },
+ {
+  "core": "Deep Sea Drilling Project Site 36",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp36.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene"
+ },
+ {
+  "core": "Deep Sea Drilling Project Site 475",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/reconstructions/brennan2022/brennan2022_dsdp475.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Sea Surface Temperature Reconstructions in the North Pacific during the Mid-Pliocene"
+ },
+ {
+  "core": "ODP 1144",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/wei2007/wei2007.txt",
+  "reason": "No SST column found in data table",
+  "study": "South China Sea ODP1144 260KYr Mg/Ca SST"
+ },
+ {
+  "core": "RS147-GC017",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc17-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "South Tasman Rise Late Quaternary SST Reconstructions"
+ },
+ {
+  "core": "RS147-GC31",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc31-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "South Tasman Rise Late Quaternary SST Reconstructions"
+ },
+ {
+  "core": "E49-23",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e49-23-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Southern Indian Ocean circulation during the late Quaternary"
+ },
+ {
+  "core": "E11-2",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/e11-2m-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Subantarctic sea surface temperatures and salinity change"
+ },
+ {
+  "core": "MD97-2141",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/m972141r-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Sulu Sea Core MD97-2141 Oxygen Isotope and Mg/Ca Data"
+ },
+ {
+  "core": "ODP 806",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/white2020-pp/white2020-806-mgca-sst.txt",
+  "reason": "No SST column found in data table",
+  "study": "West Pacific Warm Pool B/Ca, Mg/Ca Data and Sea Surface Temperature Reconstructions since the Pliocene"
+ },
+ {
+  "core": "ODP 806",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/ford2019/ford2019-odp806.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Western Equatorial Pacific Sea Surface and Subsurface Temperature and Mg/Ca Data over the last 4 million years"
+ },
+ {
+  "core": "ODP 806",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/pacific/liu2022/liu2022-odp806-mgca.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Western Pacific Warm Pool Sea Surface Temperature Reconstruction and Biomarker and Geochemistry Data for the past 10 million years"
+ },
+ {
+  "core": "IODP U1488",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/pacific/liu2022/liu2022-u1488-alkenone.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Western Pacific Warm Pool Sea Surface Temperature Reconstruction and Biomarker and Geochemistry Data for the past 10 million years"
+ },
+ {
+  "core": "IODP U1488",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/pacific/liu2022/liu2022-u1488-tex86.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Western Pacific Warm Pool Sea Surface Temperature Reconstruction and Biomarker and Geochemistry Data for the past 10 million years"
+ },
+ {
+  "core": "MD97-2140",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/degaridel-thoron2005/degaridel-thoron2005.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "de Garidel-Thoron et al. 2005 Western Pacific Warm Pool Pleistocene paired d18O-Mg/Ca and SST Reconstruction"
+ },
+ {
+  "core": "ODP 722",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/huang2007/huang2007biomarker.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Arabian Sea ODP722 11ma Leaf Wax Stable Isotope Data"
+ },
+ {
+  "core": "IODP U1446",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2021/clemens2021-u1446-d18Osw-noaa.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Bay of Bengal, Northeast Indian Margin Stable Isotope, Biomarker and SST Reconstructions since the Mid-Pleistocene"
+ },
+ {
+  "core": "IODP U1446",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2021/clemens2021-u1446-tex86hsst-noaa.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Bay of Bengal, Northeast Indian Margin Stable Isotope, Biomarker and SST Reconstructions since the Mid-Pleistocene"
+ },
+ {
+  "core": "ODP 1018",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lyle2010/lyle2010.txt",
+  "reason": "No SST column found in data table",
+  "study": "California Margin ODP1018 600KYr Multiproxy Data"
+ },
+ {
+  "core": "TN057-06",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/sachs2003/sachs2003-tn057-06-pc4.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Cape Basin, South Atlantic SST Over the Past 160ky"
+ },
+ {
+  "core": "ODP 1146",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2008/clemens2008.txt",
+  "reason": "No SST column found in data table",
+  "study": "Clemens et al. 2008 Plio-Pleistocene East Asian Monsoon Proxy Data"
+ },
+ {
+  "core": "SO136-111",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/crosta2004/crosta2004.txt",
+  "reason": "No SST column found in data table",
+  "study": "Crosta et al. 2004 Southern Ocean Diatom SST-Sea Ice Recons"
+ },
+ {
+  "core": "ME0005A-24JC",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dubois2014/dubois2014-24jc-sst.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Eastern Equatorial Pacific 100Kyr Benthic d18O and SST Data"
+ },
+ {
+  "core": "ODP 1239",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/dyez2016/dyez2016-sst-e10.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Eastern Equatorial Pacific SST Reconstrucition covering the last 1.5 Million Years"
+ },
+ {
+  "core": "ODP 1012",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2001/odp1012.txt",
+  "reason": "No SST column found in data table",
+  "study": "Herbert et al 2001 California Current Collapse Reconstruction"
+ },
+ {
+  "core": "ODP 846",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lawrence2006/lawrence2006.txt",
+  "reason": "No SST column found in data table",
+  "study": "Lawrence et al. 2006 Eastern Equatorial Pacific 5MMYr Alkenone SST Reconstruction"
+ },
+ {
+  "core": "TR163-19",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/lea2004/lea2004.txt",
+  "reason": "No SST column found in data table",
+  "study": "Lea 2004 Eastern Tropical Pacific Foraminiferal Mg/Ca and SST Reconstruction"
+ },
+ {
+  "core": "MD01-2421",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/oba2006/oba2006.txt",
+  "reason": "No SST column found in data table",
+  "study": "Oba et al. 2006 NW Pacific MD01-2421 Glacial/Interglacial d18O and SST Reconstruction"
+ },
+ {
+  "core": "ODP 1145",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/oppo2005/oppo2005.txt",
+  "reason": "No SST column found in data table",
+  "study": "Oppo and Sun 2005 South China Sea d18O and Mg/Ca Data and SST Reconstruction"
+ },
+ {
+  "core": "ODP 980",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/oppo2006/oppo2006.txt",
+  "reason": "No SST column found in data table",
+  "study": "Oppo et al. 2006 North Atlantic ODP980 MIS5 Sediment Data"
+ },
+ {
+  "core": "ODP 846B/D",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2010/herbert2010.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Plio-Pleistocene Tropical Alkenone SST Reconstructions"
+ },
+ {
+  "core": "ODP 662",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2010/herbert2010.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Plio-Pleistocene Tropical Alkenone SST Reconstructions"
+ },
+ {
+  "core": "ODP 722",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2010/herbert2010.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Plio-Pleistocene Tropical Alkenone SST Reconstructions"
+ },
+ {
+  "core": "IODP 1146",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/herbert2010/herbert2010.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Plio-Pleistocene Tropical Alkenone SST Reconstructions"
+ },
+ {
+  "core": "IODP U1483",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/indian_ocean/zhang2023/zhang2023-u1483-biomarker.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Site U1483 (Timor Sea) Terrigenous Input and Productivity Data over the last 2 Myrs"
+ },
+ {
+  "core": "RS147-GC07",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/paleocean/sediment_files/complete/147-gc07-tab.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "South Tasman Rise Late Quaternary SST Reconstructions"
+ },
+ {
+  "core": "ODP 1090",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/martinez-garcia2009/martinez-garcia2009.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Subantarctic Atlantic 1.1Ma Dust, Iron and Productivity Reconstructions"
+ },
+ {
+  "core": "PS2489-2",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/martinez-garcia2009/martinez-garcia2009.txt",
+  "reason": "SST column(s) found but no values inside 115-140 ka",
+  "study": "Subantarctic Atlantic 1.1Ma Dust, Iron and Productivity Reconstructions"
+ },
+ {
+  "core": "MD01-2421",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/yamamoto2005/yamamoto2005.txt",
+  "reason": "No SST column found in data table",
+  "study": "Yamamoto et al. 2005 Northwestern Pacific 144KYr Alkenone SST Estimates"
+ },
+ {
+  "core": "ODP 1014A",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/yamamoto2007/yamamoto2007.txt",
+  "reason": "No SST column found in data table",
+  "study": "Yamamoto et al. 2007 California Current 136KYr Alkenone SST Estimates"
+ },
+ {
+  "core": "ODP 1016C",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/yamamoto2007/yamamoto2007.txt",
+  "reason": "No SST column found in data table",
+  "study": "Yamamoto et al. 2007 California Current 136KYr Alkenone SST Estimates"
+ },
+ {
+  "core": "Lingtai",
+  "url": "https://www.ncei.noaa.gov/pub/data/paleo/contributions_by_author/clemens2008/clemens2008.txt",
+  "reason": "Not marine: locationName=Continent>Asia>Eastern Asia>China",
+  "study": "Clemens et al. 2008 Plio-Pleistocene East Asian Monsoon Proxy Data"
+ }
+]

@@ -1,14 +1,31 @@
 #!/usr/bin/env python3
-"""Assemble the five data-mining deliverables. Run after build_mining_outputs.py exists."""
+"""Assemble the five data-mining deliverables.
+
+Extraction goes through extract2.route (special_formats -> manual_specs -> parser2).
+build_mining_outputs is retained ONLY for its static helpers (HEADERS, grab,
+elevation); its v1 extract() is no longer called anywhere.
+"""
 import json, os, sys, re, shutil
 from collections import defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_mining_outputs as B
+import extract2 as X
+import sheet_lib as SL
 import openpyxl
 from openpyxl.utils import get_column_letter
 
 BASE = B.BASE
 S = json.load(open(os.path.join(BASE, 'screened.json')))
+
+# Layout + per-core amendment helpers live in sheet_lib so patch_tabs.py can
+# regenerate a single tab identically without re-running the whole pipeline.
+HEADERS_EXT, COL_SEASON, COL_DUPE = SL.HEADERS_EXT, SL.COL_SEASON, SL.COL_DUPE
+apply_fixes, write_series, season_label = SL.apply_fixes, SL.write_series, SL.season_label
+
+# Col AA (27), added by AC 2026-07-21. Row 2 only: 'aug-feb averaged' for cores
+# whose annual SST is the mean of paired August/February columns, 'summer signal'
+# for cores where only a warm-season column exists. Per-timestep seasonal values
+# are deliberately NOT carried into the sheet.
 
 def local(u):
     n = u.rstrip('/').split('/')[-1]
@@ -30,21 +47,105 @@ def safe_tab(name, used):
 flags, rejects, jerry_rows = [], [], []
 harvest = defaultdict(list)   # bucket -> list of (meta, series, hdr)
 
+import special_formats as _SPmod
+import decisions as D
+_SPECIAL_FILES = set(_SPmod.SPECIAL) | set(_SPmod.SPECIAL_REJECT)
+
+
 for bucket in ('acc', 'chrono'):
     for r in S[bucket]:
         p = local(r['url'])
+        # section 6.3 files are routed once, explicitly, further down - skip here
+        # so they are not harvested twice under two different buckets
+        if os.path.basename(p) in _SPECIAL_FILES:
+            continue
+        why = D.excluded(r['site'])
+        if why:
+            rejects.append(dict(core=r['site'], url=r['url'], reason=why,
+                                study=r.get('study_name', ''), parser='AC-decision'))
+            continue
         if not os.path.exists(p):
             rejects.append(dict(core=r['site'], url=r['url'], reason='Download missing on disk'))
             continue
-        out, err = B.extract(p, r)
+        _fx = D.fix_for(r['site'])
+        if _fx.get('sst_col'):
+            r = dict(r, _force_sst_col=_fx['sst_col'])
+        out, err = X.route(p, r)
         if err:
             tgt = flags if 'HTML' in err or 'Could not locate' in err else rejects
             tgt.append(dict(core=r['site'], url=r['url'], reason=err,
-                            study=r.get('study_name', '')))
+                            study=r.get('study_name', ''), parser=X.parser_used(p)))
             continue
-        hdr = B.header_text(B.read_lines(p))
+        hdr = X.header_text(X.read_lines(p))
         for ser in out:
-            harvest[bucket].append((r, ser, hdr))
+            ser.setdefault('parser', X.parser_used(p))
+            apply_fixes(r, ser)
+            # a stack file (herbert2016) yields one series per constituent core
+            if ser.get('core_override'):
+                r2 = dict(r)
+                r2['site'] = ser['core_override']
+                if ser.get('lon') is not None:
+                    r2['lon'], r2['lat'] = ser['lon'], ser['lat']
+                harvest[bucket].append((r2, ser, hdr))
+            else:
+                harvest[bucket].append((r, ser, hdr))
+
+# ---- section 6.3 special-format files -------------------------------------
+# These are NOT all in the acc/chrono buckets - herbert2016-med.txt and
+# herbert2016-odp883_884.txt were screened into 'flag', and the hand-edited
+# tripati .xlsx has no NCEI url at all. Route them explicitly so a screening
+# bucket cannot silently drop a file section 6.3 names.
+import special_formats as SP
+
+_meta_by_file = {}
+_meta_by_stem = {}
+for _b in ('acc', 'chrono', 'jerry', 'flag', 'rej'):
+    for _it in S.get(_b, []):
+        _r = _it[0] if isinstance(_it, list) else _it
+        _meta_by_file.setdefault(os.path.basename(local(_r['url'])), _r)
+        # Some screened rows point at a DIRECTORY url (e.g. .../ikehara2000/),
+        # so their basename is the study stem, not the data filename. Keep a
+        # stem index so 'ikehara2000-tsp-2mc.txt' can still find its metadata -
+        # without it the core is written with no coordinates.
+        _meta_by_stem.setdefault(os.path.splitext(_r['url'].rstrip('/').split('/')[-1])[0], _r)
+
+
+def meta_for(fn):
+    if fn in _meta_by_file:
+        return _meta_by_file[fn]
+    for _stem, _r in _meta_by_stem.items():
+        if _stem and fn.lower().startswith(_stem.lower()):
+            return _r
+    return None
+
+_special_handled = set()
+for _fn in list(SP.SPECIAL) + list(SP.SPECIAL_REJECT):
+    if _fn in _special_handled:
+        continue
+    _special_handled.add(_fn)
+    _p = os.path.join(B.TXT, _fn)
+    _m = dict(meta_for(_fn) or
+              dict(site=os.path.splitext(_fn)[0], lon=None, lat=None, elev=None,
+                   url=_fn, cite='', study_name='', proxy=''))
+    if not os.path.exists(_p):
+        rejects.append(dict(core=_m['site'], url=_m['url'],
+                            reason=f'Section 6.3 file {_fn} not found on disk'))
+        continue
+    _out, _err = SP.extract_special(_p, _m)
+    if _err:
+        rejects.append(dict(core=_m['site'], url=_m['url'], reason=_err,
+                            study=_m.get('study_name', ''), parser='special'))
+        continue
+    _hdr = X.header_text(X.read_lines(_p)) if _fn.lower().endswith(('.txt', '.csv', '.tsv')) else ''
+    for _ser in _out:
+        _ser.setdefault('parser', 'special')
+        _r2 = dict(_m)
+        if _ser.get('core_override'):
+            _r2['site'] = _ser['core_override']
+        for _k in ('lon', 'lat', 'elev'):
+            if _ser.get(_k) is not None:
+                _r2[_k] = _ser[_k]
+        harvest['acc'].append((_r2, _ser, _hdr))
 
 for r in S['jerry']:
     jerry_rows.append(r)
@@ -88,34 +189,42 @@ def collapse(items):
     return list(best.values()), dropped
 
 # ------------------------------------------------------------------ sheet writer
-def write_series(ws, meta, ser, hdr):
-    for c, h in enumerate(B.HEADERS, 1):
-        ws.cell(row=1, column=c, value=h)
-    core = re.sub(r'_(UK37|MgCa|TEX86|Foram|Diatom|Radiolaria|Cocc)$', '', str(meta['site']), flags=re.I)
-    ws.cell(row=2, column=1, value=core)
-    ws.cell(row=2, column=2, value=meta['lon'])
-    ws.cell(row=2, column=3, value=meta['lat'])
-    ws.cell(row=2, column=4, value=ser['proxy'])
-    ws.cell(row=2, column=22, value=(meta.get('cite') or '')[:1500])
-    ws.cell(row=2, column=23, value=meta['url'])
-    ws.cell(row=2, column=24, value=B.grab(hdr, ['chronolog', 'age model', 'age control', 'stratigraph', 'tie point', 'tuned']))
-    ws.cell(row=2, column=25, value=B.grab(hdr, ['method', 'calibration', 'calculated', 'analy', 'proxy value', 'variables']))
-    ws.cell(row=2, column=26, value=B.elevation(meta, hdr))
-    for k, rec in enumerate(ser['recs']):
-        r = 2 + k
-        ws.cell(row=r, column=12, value=None)
-        ws.cell(row=r, column=13, value=rec['bd18o'])
-        ws.cell(row=r, column=14, value=rec['depth'])
-        ws.cell(row=r, column=15, value=rec['pval'])
-        ws.cell(row=r, column=16, value=rec['sst'])   # P  (== T, no interpolation)
-        ws.cell(row=r, column=18, value=rec['age'])   # R
-        ws.cell(row=r, column=19, value=rec['lo'])    # S
-        ws.cell(row=r, column=20, value=rec['sst'])   # T
-        ws.cell(row=r, column=21, value=rec['hi'])    # U
 
 # ------------------------------------------------------------------ 1. main workbook
 MAIN = os.path.join(BASE, 'SST_Data_Mining_corrected_2026-07-20.xlsx')
+# IDEMPOTENCE. .bak_corrected.xlsx is Anna's 24 tabs (+ TEMPLATE, Sample) with the
+# 20 corrections of corrections_log.json applied and NO mined tabs. Rebuilding from
+# it every run means re-running this script replaces the mined tabs rather than
+# appending a second copy of them. SST_Data_Mining.xlsx is never opened for writing.
+BASEBOOK = os.path.join(BASE, '.bak_corrected.xlsx')
+if not os.path.exists(BASEBOOK):
+    raise SystemExit('.bak_corrected.xlsx missing - cannot rebuild the main workbook safely')
+
+# PRESERVE AC'S HAND EDITS. Rebuilding from .bak_corrected.xlsx would otherwise
+# silently discard any tab Anna has fixed by hand since the last run - it did
+# exactly that to her IODP U1482 and IODP U1485 corrections on 2026-07-21. Any
+# tab whose Method column (Y) says "manually edited" is copied across verbatim
+# and is NOT regenerated. Mark a tab that way and the pipeline will leave it alone.
+MANUAL_MARK = re.compile(r'manual(ly)?\s*edit', re.I)
+_preserved = {}
+if os.path.exists(MAIN):
+    _prev = openpyxl.load_workbook(MAIN)
+    for _t in _prev.sheetnames:
+        _y = _prev[_t].cell(row=2, column=25).value
+        if _y and MANUAL_MARK.search(str(_y)):
+            _preserved[_t] = [[c.value for c in row] for row in _prev[_t].iter_rows()]
+    _prev.close()
+    if _preserved:
+        shutil.copyfile(MAIN, os.path.join(BASE, '.bak_before_rebuild.xlsx'))
+
+shutil.copyfile(BASEBOOK, MAIN)
 wb = openpyxl.load_workbook(MAIN)
+
+# core IDs held by a preserved tab, so the harvest does not write a rival copy
+_preserved_ids = set()
+for _t, _grid in _preserved.items():
+    if len(_grid) > 1 and _grid[1]:
+        _preserved_ids.add(re.sub(r'[^a-z0-9]', '', str(_grid[1][0]).lower()))
 used = {s.lower() for s in wb.sheetnames}
 existing = set(wb.sheetnames)
 
@@ -148,9 +257,20 @@ for meta, ser, hdr in dropped2:
 
 n_added = 0
 for meta, ser, hdr in harvest['acc']:
-    if INTERVAL.search(meta.get('study_name', '')):
+    # The INTERVAL screen matches on study TITLE, which over-fires: IODP U1485's
+    # study is titled "...Regional SST Stacks and Western Pacific Mg/Ca SST", but
+    # the file we use is the per-sample Mg/Ca record, not the stack. AC confirmed
+    # U1485 is not an interval-average product, so an explicit decision entry
+    # overrides the title screen.
+    if INTERVAL.search(meta.get('study_name', '')) and not D.fix_for(meta['site']):
         flags.append(dict(core=meta['site'], url=meta['url'],
                           reason='Interval-average product (not per-sample ages) - NOT added to spreadsheet',
+                          study=meta.get('study_name', '')))
+        continue
+    if re.sub(r'[^a-z0-9]', '', str(meta['site']).lower()) in _preserved_ids:
+        flags.append(dict(core=meta['site'], url=meta['url'],
+                          reason='Tab is marked "manually edited" in column Y and was preserved '
+                                 'verbatim; the pipeline did NOT regenerate it',
                           study=meta.get('study_name', '')))
         continue
     nm = str(meta['site'])
@@ -166,18 +286,34 @@ for meta, ser, hdr in harvest['acc']:
         flags.append(dict(core=meta['site'], url=meta['url'], tab=ws.title,
                           reason=f"Proxy '{ser['proxy'] or 'UNKNOWN'}' is outside Hoffman's six proxy types",
                           study=meta.get('study_name', '')))
+for _t, _grid in _preserved.items():
+    _ws = wb[_t] if _t in wb.sheetnames else wb.create_sheet(safe_tab(_t, used))
+    for _ri, _row in enumerate(_grid, 1):
+        for _ci, _v in enumerate(_row, 1):
+            _ws.cell(row=_ri, column=_ci, value=_v)
+
 wb.save(MAIN)
-print(f'[1] main workbook: +{n_added} tabs  (total {len(wb.sheetnames)}), originals preserved={len(existing & set(wb.sheetnames))}/{len(existing)}')
+print(f'[1] main workbook: +{n_added} tabs  (total {len(wb.sheetnames)}), '
+      f'originals preserved={len(existing & set(wb.sheetnames))}/{len(existing)}, '
+      f'hand-edited tabs preserved={len(_preserved)} {sorted(_preserved) if _preserved else ""}')
 
 # ------------------------------------------------------------------ 2. same core, different chronology
 wb2 = openpyxl.Workbook(); wb2.remove(wb2.active); used2 = set()
 n2 = 0
 for meta, ser, hdr in harvest['chrono']:
+    # AC confirmed the versions of these already in her own spreadsheet are correct,
+    # so the chronology duplicates are not written out (handoff section 6).
+    if D.norm(meta['site']) in D.DROP_FROM_CHRONO:
+        flags.append(dict(core=meta['site'], url=meta['url'],
+                          reason='Chronology-file tab dropped: AC confirmed the version already '
+                                 'in SST_Data_Mining.xlsx is the correct one',
+                          study=meta.get('study_name', '')))
+        continue
     nm = f"{meta['site']}_{ser['proxy']}" if ser['proxy'] else str(meta['site'])
     ws = wb2.create_sheet(safe_tab(nm, used2))
     write_series(ws, meta, ser, hdr)
-    ws.cell(row=1, column=27, value='Matches existing core (1x1 deg)')
-    ws.cell(row=2, column=27, value='; '.join(f'{a}:{b}' for a, b in meta.get('dupe', [])))
+    ws.cell(row=1, column=COL_DUPE, value='Matches existing core (1x1 deg)')
+    ws.cell(row=2, column=COL_DUPE, value='; '.join(f'{a}:{b}' for a, b in meta.get('dupe', [])))
     n2 += 1
 if not n2:
     wb2.create_sheet('EMPTY')
@@ -190,7 +326,7 @@ n3 = 0
 for r in jerry_rows:
     p = local(r['url'])
     ws = wb3.create_sheet(safe_tab(str(r['site']), used3))
-    for c, h in enumerate(B.HEADERS, 1):
+    for c, h in enumerate(HEADERS_EXT, 1):
         ws.cell(row=1, column=c, value=h)
     ws.cell(row=2, column=1, value=r['site'])
     ws.cell(row=2, column=2, value=r['lon'])
@@ -217,6 +353,43 @@ for r in jerry_rows:
                 ws.cell(row=2 + k, column=20, value=sv)
                 k += 1
     n3 += 1
+
+# --- section 6.3 Ruddiman fossil-plankton set + section 6.4 dense-depth cores -
+import jerry_extra as JE
+
+HDR_WARM = COL_SEASON + 1          # AB
+HDR_COLD = COL_SEASON + 2          # AC
+
+def write_depth_core(c, src_label):
+    ws = wb3.create_sheet(safe_tab(c['core'], used3))
+    for col, h in enumerate(HEADERS_EXT, 1):
+        ws.cell(row=1, column=col, value=h)
+    ws.cell(row=1, column=HDR_WARM, value='SSTwarm')
+    ws.cell(row=1, column=HDR_COLD, value='SSTcold')
+    ws.cell(row=2, column=1, value=c['core'])
+    ws.cell(row=2, column=2, value=c['lon'])
+    ws.cell(row=2, column=3, value=c['lat'])
+    ws.cell(row=2, column=4, value=c['proxy'])
+    ws.cell(row=2, column=23, value=src_label)
+    ws.cell(row=2, column=25, value=(c['method'] or '')[:2000])
+    ws.cell(row=2, column=26, value=c['elev'])
+    ws.cell(row=2, column=COL_SEASON, value=c.get('season'))
+    for k, rr in enumerate(c['rows']):
+        r = 2 + k
+        ws.cell(row=r, column=14, value=rr['depth'])
+        ws.cell(row=r, column=16, value=rr['sst'])
+        ws.cell(row=r, column=20, value=rr['sst'])
+        ws.cell(row=r, column=HDR_WARM, value=rr.get('warm'))
+        ws.cell(row=r, column=HDR_COLD, value=rr.get('cold'))
+    return ws
+
+for c in JE.ruddiman_cores():
+    write_depth_core(c, c['src'])
+    n3 += 1
+for c in JE.dense_depth_cores(_meta_by_file):
+    write_depth_core(c, c['src'])
+    n3 += 1
+
 if not n3:
     wb3.create_sheet('EMPTY')
 wb3.save(os.path.join(BASE, 'SST_Depth_Only_For_Jerry.xlsx'))

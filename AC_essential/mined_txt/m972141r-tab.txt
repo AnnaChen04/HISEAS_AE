@@ -1,50 +1,50 @@
-# NOAA Paleoclimatology Program - Paleocean Site Data
-# m972141r-tab.txt
-# Complete Data
-# File Created: 18-Jan-2005
-#
-#*********************************************************************************
-# Please cite the contributor and the original publications when using these data
-#*********************************************************************************
-#
-# Missing Values indicated by '-999'
-#
-# PI:             Yair Rosenthal
-# Core/Site:      MD97-2141
-# Latitude:       8.47.00N	( 8.78333)
-# Longitude:      121.17.00E	( 121.2833)
-# Water Depth(m): 3633
-#
-# Publications:
-#   Rosenthal, Y., D.W. Oppo, and B.K. Linsley. 2003. The amplitude and phasing of
-#     climate change during the last deglaciation in the Sulu Sea, western equatorial
-#     Pacific. Geophysical Research Letters 30(8)1428.
-#   Oppo, D.W., B.K. Linsley, Y. Rosenthal, S. Dannenmann, and L. Beaufort. 2003.
-#     Orbital and suborbital climate variability in the Sulu Sea, western tropical
-#     Pacific. Geochemistry, Geophysics, Geosystems 4(1):1003.
-#   Dannenmann, S., B.K. Linsley, D.W. Oppo, Y. Rosenthal, and L. Beaufort. 2003.
-#     East Asian monsoon forcing of suborbital variability in the Sulu Sea during marine
-#     isotope stage 3: Link to northern hemisphere climate. Geochemistry, Geophysics,
-#     Geosystems 4(1):1001.
-#------------------
-#
-# Description & Notes:
-#   Sulu Sea Core MD97-2141 Oxygen Isotope and Mg/Ca Data.
-#   Depth is corrected for voids. REFERENCE FOR Age Model: Garidel-Thoron, T. de.,
-#   L. Beaufort, B. K. Linsley, and S. Dannenmann. 2001. High frequency dynamics
-#   of the East Asian Monsoon during the last 200,000 years, Paleoceanography, 16,
-#   491–502.
-#
-# Variables:
-#             depth         Depth (cm)
-#             calyrBP       calendar years B.P. (B.P. = 1950)
-#             d18Og.rub-w212-250          delta O18 PDB (Globigerinoides ruber (white) 212-250 micron)
-#             dep.nvoid     Depth not corrected for voids
-#             d18Owater     delta O18 PDB (water)
-#             Mg/Ca-g.rub-w   Magnesium/Calcium ratio (Globigerinoides ruber, white)
-#             sst-mg/ca     Sea surface temperature from Mg/Ca (C)
-#
-# CORE: MD97-2141
+# NOAA Paleoclimatology Program - Paleocean Site Data							
+# m972141r-tab.txt							
+# Complete Data							
+# File Created: 18-Jan-2005							
+#							
+#*********************************************************************************							
+# Please cite the contributor and the original publications when using these data							
+#*********************************************************************************							
+#							
+# Missing Values indicated by '-999'							
+#							
+# PI:             Yair Rosenthal							
+# Core/Site:      MD97-2141							
+# Latitude:       8.47.00N	-8.78333						
+# Longitude:      121.17.00E	-121.2833						
+# Water Depth(m): 3633							
+#							
+# Publications:							
+"#   Rosenthal, Y., D.W. Oppo, and B.K. Linsley. 2003. The amplitude and phasing of"							
+"#     climate change during the last deglaciation in the Sulu Sea, western equatorial"							
+#     Pacific. Geophysical Research Letters 30(8)1428.							
+"#   Oppo, D.W., B.K. Linsley, Y. Rosenthal, S. Dannenmann, and L. Beaufort. 2003."							
+"#     Orbital and suborbital climate variability in the Sulu Sea, western tropical"							
+"#     Pacific. Geochemistry, Geophysics, Geosystems 4(1):1003."							
+"#   Dannenmann, S., B.K. Linsley, D.W. Oppo, Y. Rosenthal, and L. Beaufort. 2003."							
+#     East Asian monsoon forcing of suborbital variability in the Sulu Sea during marine							
+"#     isotope stage 3: Link to northern hemisphere climate. Geochemistry, Geophysics,"							
+#     Geosystems 4(1):1001.							
+#------------------							
+#							
+# Description & Notes:							
+#   Sulu Sea Core MD97-2141 Oxygen Isotope and Mg/Ca Data.							
+"#   Depth is corrected for voids. REFERENCE FOR Age Model: Garidel-Thoron, T. de.,"							
+"#   L. Beaufort, B. K. Linsley, and S. Dannenmann. 2001. High frequency dynamics"							
+"#   of the East Asian Monsoon during the last 200,000 years, Paleoceanography, 16,"							
+#   491–502.							
+#							
+# Variables:							
+#             depth         Depth (cm)							
+#             calyrBP       calendar years B.P. (B.P. = 1950)							
+#             d18Og.rub-w212-250          delta O18 PDB (Globigerinoides ruber (white) 212-250 micron)							
+#             dep.nvoid     Depth not corrected for voids							
+#             d18Owater     delta O18 PDB (water)							
+"#             Mg/Ca-g.rub-w   Magnesium/Calcium ratio (Globigerinoides ruber, white)"							
+#             sst-mg/ca     Sea surface temperature from Mg/Ca (C)							
+#							
+# CORE: MD97-2141							
 depth	calyrBP 	d18Og.rub-w212-250	dep.nvoid	d18Owater	Mg/Ca-g.rub-w	sst-mg/ca	notes
 0	4286	-2.531	0	-999	-999	-999	
 1	4334.286	-2.462	1	0.396	4.346	28.92	
